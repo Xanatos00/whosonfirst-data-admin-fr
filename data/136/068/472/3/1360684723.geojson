@@ -9,7 +9,7 @@
     "geom:bbox":"-1.7134375,46.6632615,-1.7134375,46.6632615",
     "geom:latitude":46.663261,
     "geom:longitude":-1.713437,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.663261,
     "lbl:longitude":-1.713437,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684723,
-    "wof:lastmodified":1539986861,
+    "wof:lastmodified":1603247093,
     "wof:name":"La R\u00e9veill\u00e8re",
     "wof:parent_id":404352669,
     "wof:placetype":"neighbourhood",

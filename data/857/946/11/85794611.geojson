@@ -9,11 +9,11 @@
     "geom:bbox":"7.769224,48.541894,7.769224,48.541894",
     "geom:latitude":48.541894,
     "geom:longitude":7.769224,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:latitude":48.54127,
     "gn:longitude":7.76785,
+    "gn:population":0,
     "iso:country":"FR",
     "lbl:latitude":48.541894,
     "lbl:longitude":7.769224,
@@ -103,10 +103,7 @@
         }
     ],
     "wof:id":85794611,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322791,
+    "wof:lastmodified":1603246953,
     "wof:name":"Neuhof",
     "wof:parent_id":101751113,
     "wof:placetype":"neighbourhood",

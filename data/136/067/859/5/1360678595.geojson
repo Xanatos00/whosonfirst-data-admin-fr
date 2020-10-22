@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404409701,
         404228049,
+        404409701,
+        85633147,
         1108826385,
         136253037,
         102066347
@@ -68,6 +68,11 @@
         404409701
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ee9b1f02ec91ebd049d1714b932ea2f9",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678595,
-    "wof:lastmodified":1539928907,
+    "wof:lastmodified":1603247204,
     "wof:name":"Clermont-D'Excideuil",
     "wof:parent_id":102066347,
     "wof:placetype":"locality",

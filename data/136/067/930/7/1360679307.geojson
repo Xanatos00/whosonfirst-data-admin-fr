@@ -143,6 +143,11 @@
         404416423
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"220628b6188e2f362682e44323316708",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360679307,
-    "wof:lastmodified":1564125932,
+    "wof:lastmodified":1603247176,
     "wof:name":"Riaucourt",
     "wof:parent_id":102065443,
     "wof:placetype":"locality",

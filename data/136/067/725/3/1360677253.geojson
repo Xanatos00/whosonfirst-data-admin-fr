@@ -155,6 +155,11 @@
         404394803
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e5cff3a701b6a6ee04abdb4d0f35612d",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360677253,
-    "wof:lastmodified":1564126296,
+    "wof:lastmodified":1603247225,
     "wof:name":"Valdieu-Lutran",
     "wof:parent_id":102065055,
     "wof:placetype":"locality",

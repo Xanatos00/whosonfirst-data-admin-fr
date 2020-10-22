@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404408365,
         404228073,
+        404408365,
+        85633147,
         1108826387,
         136253037,
         102066545
@@ -68,6 +68,11 @@
         404408365
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8ca8532451f24a956fe1b037a701035d",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678449,
-    "wof:lastmodified":1539928904,
+    "wof:lastmodified":1603247202,
     "wof:name":"Balaruc-Le-Vieux",
     "wof:parent_id":102066545,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"7.028846,47.92773,7.028846,47.92773",
     "geom:latitude":47.92773,
     "geom:longitude":7.028846,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.92773,
     "lbl:longitude":7.028846,
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1360686507,
-    "wof:lastmodified":1563279744,
+    "wof:lastmodified":1603247067,
     "wof:name":"Le Markstein",
     "wof:parent_id":404361545,
     "wof:placetype":"neighbourhood",

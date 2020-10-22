@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404424211,
         404227915,
+        404424211,
+        85633147,
         1108826391,
         136253037,
         102065313
@@ -68,6 +68,11 @@
         404424211
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"52956fa2d11c61a1135b3573dcf04248",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360680001,
-    "wof:lastmodified":1539928931,
+    "wof:lastmodified":1603247059,
     "wof:name":"Chazelles-Sur-Albe",
     "wof:parent_id":102065313,
     "wof:placetype":"locality",

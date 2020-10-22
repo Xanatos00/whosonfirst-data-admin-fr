@@ -110,6 +110,11 @@
         404392359
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3f7786ffba8dc90e14b24a4d939572d3",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360677011,
-    "wof:lastmodified":1564125869,
+    "wof:lastmodified":1603247167,
     "wof:name":"Caro",
     "wof:parent_id":102070517,
     "wof:placetype":"locality",

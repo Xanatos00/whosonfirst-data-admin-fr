@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404387075,
         404227669,
+        404387075,
+        85633147,
         1108826389,
         136253037,
         102070509
@@ -63,6 +63,10 @@
         404387075
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6c30bb9b4cbce959a7b4fea1f880ad2b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676437,
-    "wof:lastmodified":1539928869,
+    "wof:lastmodified":1603247186,
     "wof:name":"Saint-Paul-D'Izeaux",
     "wof:parent_id":102070509,
     "wof:placetype":"locality",

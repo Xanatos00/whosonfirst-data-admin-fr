@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683503,
         102191581,
-        85633147,
-        404428567,
         404227993,
+        404428567,
+        85633147,
         1108826395,
         136253037,
         102065143
@@ -63,6 +63,10 @@
         404428567
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"657da56d519208a097e8892403773e06",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680437,
-    "wof:lastmodified":1539928938,
+    "wof:lastmodified":1603247096,
     "wof:name":"Anneot",
     "wof:parent_id":102065143,
     "wof:placetype":"locality",

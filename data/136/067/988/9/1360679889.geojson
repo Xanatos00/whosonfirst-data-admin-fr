@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404422953,
         404228049,
+        404422953,
+        85633147,
         1108826385,
         136253037,
         102071075
@@ -63,6 +63,10 @@
         404422953
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a8a50679bc5c9f622efde3a9b2113d1f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679889,
-    "wof:lastmodified":1539928929,
+    "wof:lastmodified":1603247324,
     "wof:name":"La Boissiere-D'Ans",
     "wof:parent_id":102071075,
     "wof:placetype":"locality",

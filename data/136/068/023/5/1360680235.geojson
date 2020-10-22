@@ -149,6 +149,11 @@
         404426685
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8e11ae3c48454116179dfe4ddd22d439",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360680235,
-    "wof:lastmodified":1564125378,
+    "wof:lastmodified":1603247043,
     "wof:name":"Hertzing",
     "wof:parent_id":102069055,
     "wof:placetype":"locality",

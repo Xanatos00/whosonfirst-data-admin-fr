@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404421383,
         404227867,
+        404421383,
+        85633147,
         1108826387,
         136253037,
         102065691
@@ -63,6 +63,10 @@
         404421383
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0ec518c6558c02b8022beabb40f63632",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679737,
-    "wof:lastmodified":1539928926,
+    "wof:lastmodified":1603247313,
     "wof:name":"Ceran",
     "wof:parent_id":102065691,
     "wof:placetype":"locality",

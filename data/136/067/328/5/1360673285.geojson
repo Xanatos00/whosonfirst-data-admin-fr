@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404355295,
         404227655,
+        404355295,
+        85633147,
         1108826387,
         136253037,
         102069619
@@ -63,6 +63,10 @@
         404355295
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"953116fb7e41f2cb04812c420ce195e1",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673285,
-    "wof:lastmodified":1539928800,
+    "wof:lastmodified":1603247317,
     "wof:name":"Cazaux-D'Angles",
     "wof:parent_id":102069619,
     "wof:placetype":"locality",

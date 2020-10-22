@@ -62,6 +62,10 @@
         404359765
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c33a7374ce19d8388c0bf2ef92e277ff",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673725,
-    "wof:lastmodified":1539928819,
+    "wof:lastmodified":1603247325,
     "wof:name":"Buxieres-D'Aillac",
     "wof:parent_id":102064549,
     "wof:placetype":"locality",

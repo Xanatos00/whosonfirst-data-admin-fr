@@ -9,7 +9,7 @@
     "geom:bbox":"-1.263792,45.873905,-1.263792,45.873905",
     "geom:latitude":45.873905,
     "geom:longitude":-1.263792,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":45.873905,
     "lbl:longitude":-1.263792,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686739,
-    "wof:lastmodified":1539986887,
+    "wof:lastmodified":1603247052,
     "wof:name":"Vert-Bois",
     "wof:parent_id":404347877,
     "wof:placetype":"neighbourhood",

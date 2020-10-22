@@ -9,7 +9,7 @@
     "geom:bbox":"5.573023,43.322595,5.573023,43.322595",
     "geom:latitude":43.322595,
     "geom:longitude":5.573023,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.322595,
     "lbl:longitude":5.573023,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683773,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247069,
     "wof:name":"Napollon",
     "wof:parent_id":1159322057,
     "wof:placetype":"neighbourhood",

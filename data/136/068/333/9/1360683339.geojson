@@ -9,7 +9,7 @@
     "geom:bbox":"4.622384,45.819513,4.622384,45.819513",
     "geom:latitude":45.819513,
     "geom:longitude":4.622384,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.819513,
     "lbl:longitude":4.622384,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683339,
-    "wof:lastmodified":1539986842,
+    "wof:lastmodified":1603247086,
     "wof:name":"Couvent",
     "wof:parent_id":404370885,
     "wof:placetype":"neighbourhood",

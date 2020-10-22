@@ -137,6 +137,11 @@
         404369081
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"57316769b76d31da5a2089864089c4bb",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360674705,
-    "wof:lastmodified":1564126075,
+    "wof:lastmodified":1603247195,
     "wof:name":"Raslay",
     "wof:parent_id":102069307,
     "wof:placetype":"locality",

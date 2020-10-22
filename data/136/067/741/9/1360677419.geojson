@@ -131,6 +131,10 @@
         404396843
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"297398942915b62ae4770400dfb35383",
     "wof:hierarchy":[
         {
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":1360677419,
-    "wof:lastmodified":1564126434,
+    "wof:lastmodified":1603247245,
     "wof:name":"Montigny",
     "wof:parent_id":102066325,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683223,
         102191581,
-        85633147,
-        404405687,
         404227991,
+        404405687,
+        85633147,
         1108826391,
         136253037,
         102067663
@@ -63,6 +63,10 @@
         404405687
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"21042b73adeb9ebb73bb7ab290e298be",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678213,
-    "wof:lastmodified":1539928900,
+    "wof:lastmodified":1603247197,
     "wof:name":"Freville",
     "wof:parent_id":102067663,
     "wof:placetype":"locality",

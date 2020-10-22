@@ -9,7 +9,7 @@
     "geom:bbox":"-2.680664,47.493058,-2.680664,47.493058",
     "geom:latitude":47.493058,
     "geom:longitude":-2.680664,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.493058,
     "lbl:longitude":-2.680664,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684925,
-    "wof:lastmodified":1539986863,
+    "wof:lastmodified":1603247110,
     "wof:name":"La Gr\u00e9e-Pinvins",
     "wof:parent_id":404408881,
     "wof:placetype":"neighbourhood",

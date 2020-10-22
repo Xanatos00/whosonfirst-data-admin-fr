@@ -116,6 +116,11 @@
         404424803
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4f8999482e4b1a318258be023ab85732",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360680051,
-    "wof:lastmodified":1564125680,
+    "wof:lastmodified":1603247109,
     "wof:name":"Condes",
     "wof:parent_id":102064551,
     "wof:placetype":"locality",

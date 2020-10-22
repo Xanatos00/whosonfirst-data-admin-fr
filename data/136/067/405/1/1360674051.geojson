@@ -149,6 +149,10 @@
         404362415
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"47f613147f01d70a2ade14c5ffff7c5c",
     "wof:hierarchy":[
         {
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":1360674051,
-    "wof:lastmodified":1564126774,
+    "wof:lastmodified":1603247291,
     "wof:name":"Saint-Bihy",
     "wof:parent_id":102071159,
     "wof:placetype":"locality",

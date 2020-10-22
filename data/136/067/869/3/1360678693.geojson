@@ -142,6 +142,11 @@
         404410357
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"240ded996245edf49dcc04b2af6f372a",
     "wof:hierarchy":[
         {
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":1360678693,
-    "wof:lastmodified":1564126224,
+    "wof:lastmodified":1603247216,
     "wof:name":"Beauche",
     "wof:parent_id":102065163,
     "wof:placetype":"locality",

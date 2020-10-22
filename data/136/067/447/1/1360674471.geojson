@@ -62,6 +62,10 @@
         404366493
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"182df76aa6bf609f020af108951cfbda",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674471,
-    "wof:lastmodified":1539928835,
+    "wof:lastmodified":1603247184,
     "wof:name":"Sant'Andrea-Di-Bozio",
     "wof:parent_id":102071677,
     "wof:placetype":"locality",

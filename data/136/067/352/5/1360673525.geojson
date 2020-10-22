@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404357755,
         404227825,
+        404357755,
+        85633147,
         1108826393,
         136253037,
         102068951
@@ -63,6 +63,10 @@
         404357755
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"163b2df4e1560e460f52f7c87181e72d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673525,
-    "wof:lastmodified":1539928813,
+    "wof:lastmodified":1603247178,
     "wof:name":"Bernieres-D'Ailly",
     "wof:parent_id":102068951,
     "wof:placetype":"locality",

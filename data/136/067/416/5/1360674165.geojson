@@ -92,6 +92,11 @@
         404363861
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"90e748f1c7466b7f09825e4d720693d1",
     "wof:hierarchy":[
         {
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":1360674165,
-    "wof:lastmodified":1564126678,
+    "wof:lastmodified":1603247279,
     "wof:name":"Klang",
     "wof:parent_id":102068321,
     "wof:placetype":"locality",

@@ -105,6 +105,10 @@
         404374703
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"612b3997d963493e8fce9466a6847743",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360675241,
-    "wof:lastmodified":1564127023,
+    "wof:lastmodified":1603247324,
     "wof:name":"Bonnac",
     "wof:parent_id":102065745,
     "wof:placetype":"locality",

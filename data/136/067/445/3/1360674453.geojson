@@ -140,6 +140,11 @@
         404366233
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f037b29e726507cdf0567f646f2a271a",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360674453,
-    "wof:lastmodified":1564126726,
+    "wof:lastmodified":1603247285,
     "wof:name":"Ars",
     "wof:parent_id":102068527,
     "wof:placetype":"locality",

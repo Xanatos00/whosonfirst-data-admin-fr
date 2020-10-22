@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404349995,
         404227621,
+        404349995,
+        85633147,
         1108826385,
         136253037,
         102067563
@@ -63,6 +63,10 @@
         404349995
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3d878b83888a3aadd6066dba900dc9cb",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672771,
-    "wof:lastmodified":1539928787,
+    "wof:lastmodified":1603247270,
     "wof:name":"Saint-Martin-D'Ary",
     "wof:parent_id":102067563,
     "wof:placetype":"locality",

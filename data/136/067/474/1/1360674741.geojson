@@ -143,6 +143,11 @@
         404369715
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"da61a1ab7edcac53fd4eb30384ec0a1e",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360674741,
-    "wof:lastmodified":1564126708,
+    "wof:lastmodified":1603247283,
     "wof:name":"Hainvillers",
     "wof:parent_id":102070043,
     "wof:placetype":"locality",

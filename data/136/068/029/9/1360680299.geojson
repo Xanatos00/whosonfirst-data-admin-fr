@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404427117,
         404228051,
+        404427117,
+        85633147,
         1108826395,
         136253037,
         102067115
@@ -63,6 +63,10 @@
         404427117
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"afacdeab369c910024e70953146c31c9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680299,
-    "wof:lastmodified":1539928936,
+    "wof:lastmodified":1603247093,
     "wof:name":"Renedale",
     "wof:parent_id":102067115,
     "wof:placetype":"locality",

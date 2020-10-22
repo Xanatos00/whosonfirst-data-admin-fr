@@ -102,6 +102,10 @@
         404379415
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"46262bfbdbfbd55d1df0da8806f870b7",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360675731,
-    "wof:lastmodified":1564126432,
+    "wof:lastmodified":1603247245,
     "wof:name":"Saint-Vivien",
     "wof:parent_id":102071173,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683445,
         102191581,
-        85633147,
-        404375349,
         404227715,
+        404375349,
+        85633147,
         1108826399,
         136253037,
         102071353
@@ -63,6 +63,10 @@
         404375349
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"53deaf9321a5f130a073a9a202d41fb1",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675309,
-    "wof:lastmodified":1539928850,
+    "wof:lastmodified":1603247248,
     "wof:name":"Quievelon",
     "wof:parent_id":102071353,
     "wof:placetype":"locality",

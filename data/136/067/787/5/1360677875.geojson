@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683193,
         102191581,
-        85633147,
-        404402343,
         404227605,
+        404402343,
+        85633147,
         1108826391,
         136253037,
         102064631
@@ -63,6 +63,10 @@
         404402343
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ad06f7b3c17c34384ae750ff445e0c50",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677875,
-    "wof:lastmodified":1539928894,
+    "wof:lastmodified":1603247318,
     "wof:name":"Montier-En-L'Isle",
     "wof:parent_id":102064631,
     "wof:placetype":"locality",

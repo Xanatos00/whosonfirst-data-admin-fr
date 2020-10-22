@@ -135,6 +135,10 @@
         404366329
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b4144add07638fd1a577c7e796face6b",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360674457,
-    "wof:lastmodified":1564126725,
+    "wof:lastmodified":1603247285,
     "wof:name":"Taussac",
     "wof:parent_id":102067801,
     "wof:placetype":"locality",

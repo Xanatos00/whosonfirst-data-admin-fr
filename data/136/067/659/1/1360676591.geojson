@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683255,
         102191581,
-        85633147,
-        404388781,
         404227723,
+        404388781,
+        85633147,
         1108826399,
         136253037,
         102071243
@@ -68,6 +68,11 @@
         404388781
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"37564eb3419027c1b0cdb9de0088f263",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360676591,
-    "wof:lastmodified":1539928872,
+    "wof:lastmodified":1603247220,
     "wof:name":"Wavrans-Sur-Ternoise",
     "wof:parent_id":102071243,
     "wof:placetype":"locality",

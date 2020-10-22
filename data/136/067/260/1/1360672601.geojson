@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683261,
         102191581,
-        85633147,
-        404348113,
         404227911,
+        404348113,
+        85633147,
         1108826391,
         136253037,
         102064921
@@ -68,6 +68,11 @@
         404348113
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eaaff1283bd2bc42fc8df02fdbbce4e5",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672601,
-    "wof:lastmodified":1539928783,
+    "wof:lastmodified":1603247215,
     "wof:name":"Parnoy-En-Bassigny",
     "wof:parent_id":102064921,
     "wof:placetype":"locality",

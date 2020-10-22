@@ -9,7 +9,7 @@
     "geom:bbox":"5.638818,46.690222,5.638818,46.690222",
     "geom:latitude":46.690222,
     "geom:longitude":5.638818,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.690222,
     "lbl:longitude":5.638818,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682141,
-    "wof:lastmodified":1539986826,
+    "wof:lastmodified":1603247099,
     "wof:name":"Sermu",
     "wof:parent_id":404389419,
     "wof:placetype":"neighbourhood",

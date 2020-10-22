@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404404507,
         404227657,
+        404404507,
+        85633147,
         1108826385,
         136253037,
         102071303
@@ -63,6 +63,10 @@
         404404507
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b87ea3f4a9e7a24f0207019328f441df",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678089,
-    "wof:lastmodified":1539928898,
+    "wof:lastmodified":1603247296,
     "wof:name":"Generac",
     "wof:parent_id":102071303,
     "wof:placetype":"locality",

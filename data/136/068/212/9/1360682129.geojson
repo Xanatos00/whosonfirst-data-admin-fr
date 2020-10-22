@@ -9,7 +9,7 @@
     "geom:bbox":"5.207502,43.573837,5.207502,43.573837",
     "geom:latitude":43.573837,
     "geom:longitude":5.207502,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.573837,
     "lbl:longitude":5.207502,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360682129,
-    "wof:lastmodified":1539986826,
+    "wof:lastmodified":1603247090,
     "wof:name":"Val-de-sibourg",
     "wof:parent_id":404371873,
     "wof:placetype":"neighbourhood",

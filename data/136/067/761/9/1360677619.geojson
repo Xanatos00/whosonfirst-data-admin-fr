@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683377,
         102191581,
-        85633147,
-        404399225,
         404227889,
+        404399225,
+        85633147,
         1108826389,
         136253037,
         102069139
@@ -63,6 +63,10 @@
         404399225
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"16b8d4888afbadbabdf68b1529c0eb7a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677619,
-    "wof:lastmodified":1539928890,
+    "wof:lastmodified":1603247265,
     "wof:name":"Saint-Julien-D'Oddes",
     "wof:parent_id":102069139,
     "wof:placetype":"locality",

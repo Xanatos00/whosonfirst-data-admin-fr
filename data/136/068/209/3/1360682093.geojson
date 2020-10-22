@@ -9,7 +9,7 @@
     "geom:bbox":"-0.224273,42.79773,-0.224273,42.79773",
     "geom:latitude":42.79773,
     "geom:longitude":-0.224273,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.79773,
     "lbl:longitude":-0.224273,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1360682093,
-    "wof:lastmodified":1539986826,
+    "wof:lastmodified":1603247101,
     "wof:name":"Balneario de Panticosa",
     "wof:parent_id":404336749,
     "wof:placetype":"neighbourhood",

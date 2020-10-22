@@ -116,6 +116,11 @@
         404398613
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dc9ae8b19c2f35a27e0af6c4dd84e3a6",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360677557,
-    "wof:lastmodified":1564125855,
+    "wof:lastmodified":1603247165,
     "wof:name":"Lasse",
     "wof:parent_id":102070243,
     "wof:placetype":"locality",

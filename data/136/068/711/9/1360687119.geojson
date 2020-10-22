@@ -9,7 +9,7 @@
     "geom:bbox":"6.1483845,49.326959,6.1483845,49.326959",
     "geom:latitude":49.326959,
     "geom:longitude":6.148384,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.326959,
     "lbl:longitude":6.148384,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687119,
-    "wof:lastmodified":1539986892,
+    "wof:lastmodified":1603247120,
     "wof:name":"Maison Neuve",
     "wof:parent_id":404348545,
     "wof:placetype":"neighbourhood",

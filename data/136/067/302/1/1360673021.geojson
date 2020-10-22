@@ -173,6 +173,11 @@
         404352667
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"887d5be55fa0fb285583d50a58e46261",
     "wof:hierarchy":[
         {
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":1360673021,
-    "wof:lastmodified":1564126590,
+    "wof:lastmodified":1603247267,
     "wof:name":"Gannat",
     "wof:parent_id":102066333,
     "wof:placetype":"locality",

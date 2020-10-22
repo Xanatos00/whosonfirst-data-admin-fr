@@ -122,6 +122,11 @@
         404427793
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a90a11b653203a8692801e8b07a78c64",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360680373,
-    "wof:lastmodified":1564125480,
+    "wof:lastmodified":1603247065,
     "wof:name":"Fons",
     "wof:parent_id":102065921,
     "wof:placetype":"locality",

@@ -149,6 +149,11 @@
         404390913
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c789b57c8a07bb7af90279bbf65e6790",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360676827,
-    "wof:lastmodified":1564126636,
+    "wof:lastmodified":1603247273,
     "wof:name":"Romeyer",
     "wof:parent_id":102065825,
     "wof:placetype":"locality",

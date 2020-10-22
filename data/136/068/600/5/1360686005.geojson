@@ -9,7 +9,7 @@
     "geom:bbox":"3.921132,43.6039985,3.921132,43.6039985",
     "geom:latitude":43.603999,
     "geom:longitude":3.921132,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.603999,
     "lbl:longitude":3.921132,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686005,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247110,
     "wof:name":"Vaugui\u00e8res-le-Haut",
     "wof:parent_id":1159322059,
     "wof:placetype":"neighbourhood",

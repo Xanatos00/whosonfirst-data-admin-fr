@@ -9,7 +9,7 @@
     "geom:bbox":"5.877685,46.614621,5.877685,46.614621",
     "geom:latitude":46.614621,
     "geom:longitude":5.877685,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.614621,
     "lbl:longitude":5.877685,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684393,
-    "wof:lastmodified":1539986856,
+    "wof:lastmodified":1603247056,
     "wof:name":"Ilay",
     "wof:parent_id":404389497,
     "wof:placetype":"neighbourhood",

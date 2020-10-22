@@ -9,7 +9,7 @@
     "geom:bbox":"1.746482,44.4671745,1.746482,44.4671745",
     "geom:latitude":44.467174,
     "geom:longitude":1.746482,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.467174,
     "lbl:longitude":1.746482,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683713,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247073,
     "wof:name":"Latoulzanie",
     "wof:parent_id":404383501,
     "wof:placetype":"neighbourhood",

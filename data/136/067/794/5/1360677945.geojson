@@ -111,6 +111,10 @@
         404402917
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e8f2d33e4493c56d4c02f3c3dec2df14",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360677945,
-    "wof:lastmodified":1564126490,
+    "wof:lastmodified":1603247253,
     "wof:name":"Vabres",
     "wof:parent_id":102067879,
     "wof:placetype":"locality",

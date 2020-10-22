@@ -306,13 +306,13 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683315,
         102191581,
         85633147,
-        102067925,
         404368319,
         404228167,
         404227445,
-        85683315
+        102067925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -346,10 +346,7 @@
         }
     ],
     "wof:id":101850245,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163110,
+    "wof:lastmodified":1603247668,
     "wof:name":"Saint-Julien",
     "wof:parent_id":404368319,
     "wof:placetype":"locality",

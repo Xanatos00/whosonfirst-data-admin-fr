@@ -114,6 +114,10 @@
         404351977
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4e1a1d333705248bd5cbddfee1377ccb",
     "wof:hierarchy":[
         {
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1360672957,
-    "wof:lastmodified":1564126174,
+    "wof:lastmodified":1603247209,
     "wof:name":"Saint-Cyprien",
     "wof:parent_id":102068169,
     "wof:placetype":"locality",

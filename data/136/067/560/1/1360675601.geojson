@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404378273,
         404228055,
+        404378273,
+        85633147,
         1108826393,
         136253037,
         102070571
@@ -63,6 +63,10 @@
         404378273
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"10dfae38edfb003eead11a5bb29d3702",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675601,
-    "wof:lastmodified":1539928855,
+    "wof:lastmodified":1603247163,
     "wof:name":"Gournay-Le-Guerin",
     "wof:parent_id":102070571,
     "wof:placetype":"locality",

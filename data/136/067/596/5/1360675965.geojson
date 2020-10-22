@@ -145,6 +145,11 @@
         404381671
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7b3cef457c000ce0e033f231b5988484",
     "wof:hierarchy":[
         {
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1360675965,
-    "wof:lastmodified":1564126559,
+    "wof:lastmodified":1603247263,
     "wof:name":"Soulangis",
     "wof:parent_id":102064249,
     "wof:placetype":"locality",

@@ -144,6 +144,10 @@
         404426263
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2e965817f8a42774f0c984cf78c8c6e1",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360680205,
-    "wof:lastmodified":1564125585,
+    "wof:lastmodified":1603247090,
     "wof:name":"Perceneige",
     "wof:parent_id":102070051,
     "wof:placetype":"locality",

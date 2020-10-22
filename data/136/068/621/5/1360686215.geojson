@@ -9,7 +9,7 @@
     "geom:bbox":"0.477046,42.78759,0.477046,42.78759",
     "geom:latitude":42.78759,
     "geom:longitude":0.477046,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.78759,
     "lbl:longitude":0.477046,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686215,
-    "wof:lastmodified":1539986880,
+    "wof:lastmodified":1603247048,
     "wof:name":"Peyragudes les Agudes",
     "wof:parent_id":404371627,
     "wof:placetype":"neighbourhood",

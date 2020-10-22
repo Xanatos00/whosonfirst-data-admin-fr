@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404384689,
         404227641,
+        404384689,
+        85633147,
         1108826393,
         136253037,
         102066791
@@ -63,6 +63,10 @@
         404384689
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2f5d5d695e7c3493f8c3761b2797686b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676227,
-    "wof:lastmodified":1539928866,
+    "wof:lastmodified":1603247272,
     "wof:name":"Bois-Jerome-Saint-Ouen",
     "wof:parent_id":102066791,
     "wof:placetype":"locality",

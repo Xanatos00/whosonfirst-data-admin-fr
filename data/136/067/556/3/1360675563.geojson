@@ -111,6 +111,11 @@
         404377877
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3bc8e4d521ed0e292ab2d6ef06a5a21d",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360675563,
-    "wof:lastmodified":1564125831,
+    "wof:lastmodified":1603247161,
     "wof:name":"Guilly",
     "wof:parent_id":102069993,
     "wof:placetype":"locality",

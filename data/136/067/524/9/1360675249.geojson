@@ -127,6 +127,11 @@
         404374825
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fed0cf1313821b2143acea4c000568c7",
     "wof:hierarchy":[
         {
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":1360675249,
-    "wof:lastmodified":1564127022,
+    "wof:lastmodified":1603247324,
     "wof:name":"Gourdon",
     "wof:parent_id":102064433,
     "wof:placetype":"locality",

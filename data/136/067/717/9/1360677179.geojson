@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683297,
         102191581,
-        85633147,
-        404394135,
         404227919,
+        404394135,
+        85633147,
         1108826391,
         136253037,
         102067059
@@ -68,6 +68,11 @@
         404394135
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eaa55468dfcfce33a20c4ae231464dfe",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677179,
-    "wof:lastmodified":1539928882,
+    "wof:lastmodified":1603247314,
     "wof:name":"Courcelles-En-Barrois",
     "wof:parent_id":102067059,
     "wof:placetype":"locality",

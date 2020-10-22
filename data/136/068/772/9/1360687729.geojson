@@ -9,7 +9,7 @@
     "geom:bbox":"0.098855,42.729613,0.098855,42.729613",
     "geom:latitude":42.729613,
     "geom:longitude":0.098855,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.729613,
     "lbl:longitude":0.098855,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687729,
-    "wof:lastmodified":1539986900,
+    "wof:lastmodified":1603247115,
     "wof:name":"H\u00e9as",
     "wof:parent_id":404365429,
     "wof:placetype":"neighbourhood",

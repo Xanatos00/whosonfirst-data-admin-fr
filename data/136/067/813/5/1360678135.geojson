@@ -134,6 +134,11 @@
         404405049
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b06b532978a75862186f81ef169a38a8",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360678135,
-    "wof:lastmodified":1564126713,
+    "wof:lastmodified":1603247284,
     "wof:name":"Houquetot",
     "wof:parent_id":102068787,
     "wof:placetype":"locality",

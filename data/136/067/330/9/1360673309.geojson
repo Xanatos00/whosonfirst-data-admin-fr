@@ -162,6 +162,10 @@
         404355533
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"07223b43881e84135b3aa01fec3e8219",
     "wof:hierarchy":[
         {
@@ -177,7 +181,7 @@
         }
     ],
     "wof:id":1360673309,
-    "wof:lastmodified":1564125907,
+    "wof:lastmodified":1603247172,
     "wof:name":"Ribeauville",
     "wof:parent_id":102068137,
     "wof:placetype":"locality",

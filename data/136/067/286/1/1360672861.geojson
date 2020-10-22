@@ -62,6 +62,10 @@
         404350899
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"910274d58048f07e768d22f876844136",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360672861,
-    "wof:lastmodified":1539928789,
+    "wof:lastmodified":1603247201,
     "wof:name":"Saint-Martin-Des-Champs",
     "wof:parent_id":102066373,
     "wof:placetype":"locality",

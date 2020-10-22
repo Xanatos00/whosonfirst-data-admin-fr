@@ -9,7 +9,7 @@
     "geom:bbox":"6.84454281082,45.5047906007,7.0053570521,45.6549331317",
     "geom:latitude":45.584501,
     "geom:longitude":6.941399,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.588335,
     "lbl:longitude":6.883277,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1126047747,
-    "wof:lastmodified":1582325806,
+    "wof:lastmodified":1603248769,
     "wof:name":"Ste.-Foy-Tarentaise",
     "wof:parent_id":404353477,
     "wof:placetype":"locality",

@@ -62,6 +62,10 @@
         404405485
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"68dfe1b25b24b6e786cd64d74b9b4292",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360678183,
-    "wof:lastmodified":1539928899,
+    "wof:lastmodified":1603247183,
     "wof:name":"Ferce",
     "wof:parent_id":102070375,
     "wof:placetype":"locality",

@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683523,
         102191581,
-        85633147,
-        404362691,
         404227851,
+        404362691,
+        85633147,
         1108826389,
         136253037,
         102069337
@@ -77,6 +77,11 @@
         404362691
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c6eccfd0dea6e1834eefa65db101e7a4",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360674075,
-    "wof:lastmodified":1539928827,
+    "wof:lastmodified":1603247217,
     "wof:name":"Izon-La-Bruisse",
     "wof:parent_id":102069337,
     "wof:placetype":"locality",

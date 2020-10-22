@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683223,
         102191581,
-        85633147,
-        404358259,
         404228179,
+        404358259,
+        85633147,
         1108826391,
         136253037,
         102069211
@@ -68,6 +68,11 @@
         404358259
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"23633c30d892814e15dd783bb684447c",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673585,
-    "wof:lastmodified":1539928815,
+    "wof:lastmodified":1603247260,
     "wof:name":"Ban-De-Sapt",
     "wof:parent_id":102069211,
     "wof:placetype":"locality",

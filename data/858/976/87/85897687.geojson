@@ -9,7 +9,6 @@
     "geom:bbox":"-1.599263,47.198755,-1.599263,47.198755",
     "geom:latitude":47.198755,
     "geom:longitude":-1.599263,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":47.198755,
     "lbl:longitude":-1.599263,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85897687,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322804,
+    "wof:lastmodified":1603246972,
     "wof:name":"Bellevue-Chantenay-Sainte-Anne",
     "wof:parent_id":101749589,
     "wof:placetype":"neighbourhood",

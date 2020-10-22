@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404395293,
         404228275,
+        404395293,
+        85633147,
         1108826385,
         136253037,
         102071165
@@ -63,6 +63,10 @@
         404395293
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dd31c377b6488cf07de915be9ac33193",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677283,
-    "wof:lastmodified":1539928884,
+    "wof:lastmodified":1603247316,
     "wof:name":"Saint-Avit-De-Soulege",
     "wof:parent_id":102071165,
     "wof:placetype":"locality",

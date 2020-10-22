@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404391503,
         404227751,
+        404391503,
+        85633147,
         1108826393,
         136253037,
         102070383
@@ -63,6 +63,10 @@
         404391503
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"125f7d1457df2c46fd9f829de865ffb5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676903,
-    "wof:lastmodified":1539928877,
+    "wof:lastmodified":1603247289,
     "wof:name":"Saint-Pierre-Des-Jonquieres",
     "wof:parent_id":102070383,
     "wof:placetype":"locality",

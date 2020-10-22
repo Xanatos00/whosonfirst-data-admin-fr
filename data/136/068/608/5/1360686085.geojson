@@ -9,7 +9,7 @@
     "geom:bbox":"-2.6056355,48.550932,-2.6056355,48.550932",
     "geom:latitude":48.550932,
     "geom:longitude":-2.605635,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.550932,
     "lbl:longitude":-2.605635,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686085,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247105,
     "wof:name":"Jospinet",
     "wof:parent_id":404354283,
     "wof:placetype":"neighbourhood",

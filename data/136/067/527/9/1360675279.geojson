@@ -138,6 +138,10 @@
         404375093
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4b4baa58036d1c2a0c748cc3e788beec",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360675279,
-    "wof:lastmodified":1564126363,
+    "wof:lastmodified":1603247235,
     "wof:name":"Vielle-Saint-Girons",
     "wof:parent_id":102064657,
     "wof:placetype":"locality",

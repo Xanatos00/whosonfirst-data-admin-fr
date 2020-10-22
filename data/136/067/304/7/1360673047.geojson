@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683377,
         102191581,
-        85633147,
-        404352989,
         404227889,
+        404352989,
+        85633147,
         1108826389,
         136253037,
         102069833
@@ -63,6 +63,10 @@
         404352989
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"18b5b796ed033c4bde791bd4a4d9dad6",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673047,
-    "wof:lastmodified":1539928793,
+    "wof:lastmodified":1603247253,
     "wof:name":"Saint-Marcel-D'Urfe",
     "wof:parent_id":102069833,
     "wof:placetype":"locality",

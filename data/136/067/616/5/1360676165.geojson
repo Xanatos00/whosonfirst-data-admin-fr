@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404383737,
         404227599,
+        404383737,
+        85633147,
         1108826389,
         136253037,
         102067171
@@ -63,6 +63,10 @@
         404383737
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b31e2476265c307059b9c08a9801ccd0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676165,
-    "wof:lastmodified":1539928865,
+    "wof:lastmodified":1603247202,
     "wof:name":"Laval-D'Aurelle",
     "wof:parent_id":102067171,
     "wof:placetype":"locality",

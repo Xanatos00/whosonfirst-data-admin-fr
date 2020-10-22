@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683223,
         102191581,
-        85633147,
-        404397181,
         404227779,
+        404397181,
+        85633147,
         1108826391,
         136253037,
         102066279
@@ -63,6 +63,10 @@
         404397181
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"49fa006f4fab91b55b6df171deb7ed04",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677455,
-    "wof:lastmodified":1539928886,
+    "wof:lastmodified":1603247322,
     "wof:name":"Madonne-Et-Lamerey",
     "wof:parent_id":102066279,
     "wof:placetype":"locality",

@@ -62,6 +62,10 @@
         404425919
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2c6737cec0d9b7dcd63661dde56604eb",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360680169,
-    "wof:lastmodified":1539928934,
+    "wof:lastmodified":1603247092,
     "wof:name":"Chateauvieux",
     "wof:parent_id":102068573,
     "wof:placetype":"locality",

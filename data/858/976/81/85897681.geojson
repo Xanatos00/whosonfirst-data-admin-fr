@@ -9,7 +9,6 @@
     "geom:bbox":"-0.579642,44.85315,-0.579642,44.85315",
     "geom:latitude":44.85315,
     "geom:longitude":-0.579642,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":44.85315,
     "lbl:longitude":-0.579642,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85897681,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322804,
+    "wof:lastmodified":1603246972,
     "wof:name":"Grand Parc-Paul Doumer",
     "wof:parent_id":101748979,
     "wof:placetype":"neighbourhood",

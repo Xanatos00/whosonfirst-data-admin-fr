@@ -9,7 +9,7 @@
     "geom:bbox":"-61.322937,16.242364,-61.322937,16.242364",
     "geom:latitude":16.242364,
     "geom:longitude":-61.322937,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":16.242364,
     "lbl:longitude":-61.322937,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1360684649,
-    "wof:lastmodified":1539986860,
+    "wof:lastmodified":1603247059,
     "wof:name":"Poirier",
     "wof:parent_id":85671209,
     "wof:placetype":"neighbourhood",

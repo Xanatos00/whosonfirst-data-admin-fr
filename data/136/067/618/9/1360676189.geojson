@@ -116,6 +116,11 @@
         404384057
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d5931390f41d5cfe525acb31014d6399",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360676189,
-    "wof:lastmodified":1564126097,
+    "wof:lastmodified":1603247198,
     "wof:name":"Bernac",
     "wof:parent_id":102066451,
     "wof:placetype":"locality",

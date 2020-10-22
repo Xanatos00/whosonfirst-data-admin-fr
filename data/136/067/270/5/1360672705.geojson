@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683359,
         102191581,
-        85633147,
-        404349461,
         404227925,
+        404349461,
+        85633147,
         1108826395,
         136253037,
         102066513
@@ -63,6 +63,10 @@
         404349461
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9eb64f74c4821fdafb58f2c4ef70f3b9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672705,
-    "wof:lastmodified":1539928786,
+    "wof:lastmodified":1603247268,
     "wof:name":"Marigny-L'Eglise",
     "wof:parent_id":102066513,
     "wof:placetype":"locality",

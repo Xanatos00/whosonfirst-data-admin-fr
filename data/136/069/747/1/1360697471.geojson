@@ -9,7 +9,7 @@
     "geom:bbox":"0.154129583667,45.658788545,0.180362155679,45.6883230025",
     "geom:latitude":45.673096,
     "geom:longitude":0.167627,
-    "geonames:id":"3004078,3004079",
+    "gn:id":"3004078,3004079",
     "gn:population":6218,
     "iso:country":"FR",
     "lbl:latitude":45.677992,
@@ -336,7 +336,7 @@
         }
     ],
     "wof:id":1360697471,
-    "wof:lastmodified":1563280617,
+    "wof:lastmodified":1603247139,
     "wof:name":"Le Gond",
     "wof:parent_id":404384871,
     "wof:placetype":"neighbourhood",

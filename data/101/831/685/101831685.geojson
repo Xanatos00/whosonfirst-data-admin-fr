@@ -9,9 +9,8 @@
     "geom:bbox":"4.00152374409,43.710155009,4.0498369742,43.7485056253",
     "geom:latitude":43.730304,
     "geom:longitude":4.02175,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1573,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":1573,
     "iso:country":"FR",
     "lbl:latitude":43.728861,
@@ -369,10 +368,7 @@
         }
     ],
     "wof:id":101831685,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323688,
+    "wof:lastmodified":1603248065,
     "wof:name":"Beaulieu",
     "wof:parent_id":404385045,
     "wof:placetype":"locality",

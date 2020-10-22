@@ -9,7 +9,6 @@
     "geom:bbox":"-1.586692,47.216316,-1.586692,47.216316",
     "geom:latitude":47.216316,
     "geom:longitude":-1.586692,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":47.216316,
     "lbl:longitude":-1.586692,
@@ -106,10 +105,7 @@
         }
     ],
     "wof:id":85897689,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322803,
+    "wof:lastmodified":1603246972,
     "wof:name":"Dervallieres-Zola",
     "wof:parent_id":101749589,
     "wof:placetype":"neighbourhood",

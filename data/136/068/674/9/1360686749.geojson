@@ -9,7 +9,7 @@
     "geom:bbox":"3.259506,43.237387,3.259506,43.237387",
     "geom:latitude":43.237387,
     "geom:longitude":3.259506,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.237387,
     "lbl:longitude":3.259506,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686749,
-    "wof:lastmodified":1539986887,
+    "wof:lastmodified":1603247051,
     "wof:name":"La Yole",
     "wof:parent_id":404351671,
     "wof:placetype":"neighbourhood",

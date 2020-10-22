@@ -139,6 +139,11 @@
         404355965
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fa92c23f14971290cfaba553cc3adc7f",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360673351,
-    "wof:lastmodified":1564126507,
+    "wof:lastmodified":1603247255,
     "wof:name":"Bailly-Romainvilliers",
     "wof:parent_id":102071293,
     "wof:placetype":"locality",

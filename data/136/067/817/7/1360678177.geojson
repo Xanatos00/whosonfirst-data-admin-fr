@@ -142,6 +142,11 @@
         404405389
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"02ec800387ea5ca3f09389bec44663df",
     "wof:hierarchy":[
         {
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":1360678177,
-    "wof:lastmodified":1564126077,
+    "wof:lastmodified":1603247195,
     "wof:name":"La Chapelle-Moutils",
     "wof:parent_id":102066373,
     "wof:placetype":"locality",

@@ -9,7 +9,6 @@
     "geom:bbox":"-1.557612,47.213827,-1.557612,47.213827",
     "geom:latitude":47.213827,
     "geom:longitude":-1.557612,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":47.213827,
     "lbl:longitude":-1.557612,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85897695,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322803,
+    "wof:lastmodified":1603246972,
     "wof:name":"Centre-ville",
     "wof:parent_id":101749589,
     "wof:placetype":"neighbourhood",

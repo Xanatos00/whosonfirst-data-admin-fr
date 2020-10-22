@@ -9,7 +9,7 @@
     "geom:bbox":"3.100891,44.109774,3.100891,44.109774",
     "geom:latitude":44.109774,
     "geom:longitude":3.100891,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.109774,
     "lbl:longitude":3.100891,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684771,
-    "wof:lastmodified":1539986861,
+    "wof:lastmodified":1603247049,
     "wof:name":"Cureplats",
     "wof:parent_id":404348401,
     "wof:placetype":"neighbourhood",

@@ -146,6 +146,11 @@
         404394073
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2de8ab8388deb5a54f462ea68219030a",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360677169,
-    "wof:lastmodified":1564127024,
+    "wof:lastmodified":1603247324,
     "wof:name":"Villate",
     "wof:parent_id":102071625,
     "wof:placetype":"locality",

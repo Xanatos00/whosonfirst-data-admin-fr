@@ -9,7 +9,7 @@
     "geom:bbox":"-2.96209505018,47.6228155433,-2.91412043913,47.6534623426",
     "geom:latitude":47.636945,
     "geom:longitude":-2.939408,
-    "geonames:id":"3005202,3031652",
+    "gn:id":"3005202,3031652",
     "gn:population":1994,
     "iso:country":"FR",
     "lbl:latitude":47.63895,
@@ -465,7 +465,7 @@
         }
     ],
     "wof:id":101763577,
-    "wof:lastmodified":1582323007,
+    "wof:lastmodified":1603247348,
     "wof:name":"Bono",
     "wof:parent_id":404369331,
     "wof:placetype":"locality",

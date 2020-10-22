@@ -107,6 +107,11 @@
         404406167
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d87b394f9e113ed938ef42fbeebebcf3",
     "wof:hierarchy":[
         {
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":1360678251,
-    "wof:lastmodified":1564126720,
+    "wof:lastmodified":1603247285,
     "wof:name":"Savennes",
     "wof:parent_id":102065547,
     "wof:placetype":"locality",

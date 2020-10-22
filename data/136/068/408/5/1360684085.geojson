@@ -9,7 +9,7 @@
     "geom:bbox":"-2.141325,47.9942535,-2.141325,47.9942535",
     "geom:latitude":47.994253,
     "geom:longitude":-2.141325,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.994253,
     "lbl:longitude":-2.141325,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684085,
-    "wof:lastmodified":1539986852,
+    "wof:lastmodified":1603247057,
     "wof:name":"Les Forges-de-Paimpont",
     "wof:parent_id":404355395,
     "wof:placetype":"neighbourhood",

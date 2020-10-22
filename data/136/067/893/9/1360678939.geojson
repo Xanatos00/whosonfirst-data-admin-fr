@@ -118,6 +118,11 @@
         404412537
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d9f76c9fb256f0c11ff95d67bdd03d36",
     "wof:hierarchy":[
         {
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":1360678939,
-    "wof:lastmodified":1564126248,
+    "wof:lastmodified":1603247219,
     "wof:name":"Chezelles",
     "wof:parent_id":102066031,
     "wof:placetype":"locality",

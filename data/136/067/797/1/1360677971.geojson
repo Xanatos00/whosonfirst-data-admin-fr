@@ -143,6 +143,11 @@
         404403217
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ccb3ac75dea1051113015f660a49b743",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360677971,
-    "wof:lastmodified":1564125817,
+    "wof:lastmodified":1603247159,
     "wof:name":"Louversey",
     "wof:parent_id":102066353,
     "wof:placetype":"locality",

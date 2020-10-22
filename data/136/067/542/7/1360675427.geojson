@@ -119,6 +119,10 @@
         404376423
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"57aa592823271310c234661373fc2c49",
     "wof:hierarchy":[
         {
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":1360675427,
-    "wof:lastmodified":1564126415,
+    "wof:lastmodified":1603247242,
     "wof:name":"Saint-Aubin",
     "wof:parent_id":102066769,
     "wof:placetype":"locality",

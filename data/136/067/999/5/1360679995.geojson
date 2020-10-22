@@ -128,6 +128,11 @@
         404424141
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4e213e1514d17dc13bbb35a9fa764408",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360679995,
-    "wof:lastmodified":1564125972,
+    "wof:lastmodified":1603247181,
     "wof:name":"Fontcouverte",
     "wof:parent_id":102067873,
     "wof:placetype":"locality",

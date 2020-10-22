@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683289,
         102191581,
-        85633147,
-        404410071,
         404228247,
+        404410071,
+        85633147,
         1108826399,
         136253037,
         102069051
@@ -63,6 +63,10 @@
         404410071
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1e3ff7b3b68bd5a8d4dfdd2f5acd5b41",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678643,
-    "wof:lastmodified":1539928907,
+    "wof:lastmodified":1603247304,
     "wof:name":"Rosieres",
     "wof:parent_id":102069051,
     "wof:placetype":"locality",

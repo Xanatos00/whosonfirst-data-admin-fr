@@ -128,6 +128,11 @@
         404408575
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d5d400f1c944904161d0c255fe8db02d",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360678467,
-    "wof:lastmodified":1564126605,
+    "wof:lastmodified":1603247269,
     "wof:name":"Fleix",
     "wof:parent_id":102064951,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683335,
         102191581,
-        85633147,
-        404356549,
         404227815,
+        404356549,
+        85633147,
         1108826387,
         136253037,
         102066477
@@ -63,6 +63,10 @@
         404356549
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"920ea15433f5a38cd9f77bce128612bc",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673399,
-    "wof:lastmodified":1539928806,
+    "wof:lastmodified":1603247177,
     "wof:name":"Saint-Martin-D'Oydes",
     "wof:parent_id":102066477,
     "wof:placetype":"locality",

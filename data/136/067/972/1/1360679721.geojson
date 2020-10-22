@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404421301,
         404227641,
+        404421301,
+        85633147,
         1108826393,
         136253037,
         102071175
@@ -68,6 +68,11 @@
         404421301
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6f8cf3844dcf131db82028e426bdba60",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679721,
-    "wof:lastmodified":1539928926,
+    "wof:lastmodified":1603247327,
     "wof:name":"Heudreville-Sur-Eure",
     "wof:parent_id":102071175,
     "wof:placetype":"locality",

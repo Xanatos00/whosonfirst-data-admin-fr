@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404370191,
         404228069,
+        404370191,
+        85633147,
         1108826387,
         136253037,
         102067899
@@ -63,6 +63,10 @@
         404370191
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1c8167de7a75f0dba7b894450c702613",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674781,
-    "wof:lastmodified":1539928841,
+    "wof:lastmodified":1603247185,
     "wof:name":"Idrac-Respailles",
     "wof:parent_id":102067899,
     "wof:placetype":"locality",

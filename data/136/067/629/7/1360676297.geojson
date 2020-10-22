@@ -105,6 +105,10 @@
         404385027
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2935d1b2f84c92089ab6754c3c3e5153",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360676297,
-    "wof:lastmodified":1564126118,
+    "wof:lastmodified":1603247201,
     "wof:name":"Saint-Lary",
     "wof:parent_id":102066233,
     "wof:placetype":"locality",

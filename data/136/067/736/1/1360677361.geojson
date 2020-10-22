@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404396155,
         404228049,
+        404396155,
+        85633147,
         1108826385,
         136253037,
         102069539
@@ -63,6 +63,10 @@
         404396155
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2e6c21a15701910ed081e7936d37cc4a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677361,
-    "wof:lastmodified":1539928885,
+    "wof:lastmodified":1603247178,
     "wof:name":"Saint-Pardoux-De-Drone",
     "wof:parent_id":102069539,
     "wof:placetype":"locality",

@@ -111,6 +111,10 @@
         404357279
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5c23143bd20d187c8cca2bd2a0baa042",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360673481,
-    "wof:lastmodified":1564126312,
+    "wof:lastmodified":1603247228,
     "wof:name":"Saint-Firmin",
     "wof:parent_id":102068281,
     "wof:placetype":"locality",

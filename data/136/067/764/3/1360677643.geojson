@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404399491,
         404227751,
+        404399491,
+        85633147,
         1108826393,
         136253037,
         102067593
@@ -77,6 +77,11 @@
         404399491
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e34de3d0c0d3cf8115b66edc8b5d6f51",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360677643,
-    "wof:lastmodified":1539928890,
+    "wof:lastmodified":1603247161,
     "wof:name":"Avesnes-En-Val",
     "wof:parent_id":102067593,
     "wof:placetype":"locality",

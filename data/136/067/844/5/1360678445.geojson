@@ -158,6 +158,11 @@
         404408341
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"173cf26ffa08a6c6755c833f0810b124",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360678445,
-    "wof:lastmodified":1564126131,
+    "wof:lastmodified":1603247202,
     "wof:name":"Castet",
     "wof:parent_id":102064929,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404368163,
         404228045,
+        404368163,
+        85633147,
         1108826395,
         136253037,
         102068259
@@ -63,6 +63,10 @@
         404368163
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dfbfeee41df383693af9cdf338e3edf6",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674629,
-    "wof:lastmodified":1539928838,
+    "wof:lastmodified":1603247223,
     "wof:name":"Champ-D'Oiseau",
     "wof:parent_id":102068259,
     "wof:placetype":"locality",

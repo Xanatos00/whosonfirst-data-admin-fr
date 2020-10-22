@@ -9,7 +9,7 @@
     "geom:bbox":"-3.47228,47.709992,-3.47228,47.709992",
     "geom:latitude":47.709992,
     "geom:longitude":-3.47228,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.709992,
     "lbl:longitude":-3.47228,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683707,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247070,
     "wof:name":"Le Cour\u00e9gant",
     "wof:parent_id":404400673,
     "wof:placetype":"neighbourhood",

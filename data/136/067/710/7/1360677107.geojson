@@ -149,6 +149,11 @@
         404393371
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e3913471e6110316100abe6b17eefca1",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360677107,
-    "wof:lastmodified":1564126966,
+    "wof:lastmodified":1603247317,
     "wof:name":"Anla",
     "wof:parent_id":102067069,
     "wof:placetype":"locality",

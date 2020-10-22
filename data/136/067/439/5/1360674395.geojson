@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404365711,
         404228049,
+        404365711,
+        85633147,
         1108826385,
         136253037,
         102069003
@@ -63,6 +63,10 @@
         404365711
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"06f56537504bda1be7dc63444c9f9708",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674395,
-    "wof:lastmodified":1539928833,
+    "wof:lastmodified":1603247206,
     "wof:name":"Saint-Jean-D'Ataux",
     "wof:parent_id":102069003,
     "wof:placetype":"locality",

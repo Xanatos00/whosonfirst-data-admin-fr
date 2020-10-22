@@ -9,7 +9,7 @@
     "geom:bbox":"6.231822,45.799426,6.231822,45.799426",
     "geom:latitude":45.799426,
     "geom:longitude":6.231822,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.799426,
     "lbl:longitude":6.231822,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686503,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247067,
     "wof:name":"Gli\u00e8res",
     "wof:parent_id":404368253,
     "wof:placetype":"neighbourhood",

@@ -304,13 +304,13 @@
     "wd:wordcount":144,
     "wof:belongsto":[
         102191581,
-        85633147,
-        102064747,
-        136253037,
-        404374429,
-        101886279,
         404227915,
+        404374429,
+        85633147,
         1108826391,
+        101886279,
+        136253037,
+        102064747,
         85683343
     ],
     "wof:breaches":[],
@@ -338,10 +338,7 @@
         }
     ],
     "wof:id":1360695701,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163122,
+    "wof:lastmodified":1603247158,
     "wof:name":"Lachapelle",
     "wof:parent_id":404374429,
     "wof:placetype":"neighbourhood",

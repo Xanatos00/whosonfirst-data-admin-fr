@@ -148,6 +148,11 @@
         404350957
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"84968de3d720b263e7d1dc34ebac4025",
     "wof:hierarchy":[
         {
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1360672863,
-    "wof:lastmodified":1564126122,
+    "wof:lastmodified":1603247201,
     "wof:name":"Rezza",
     "wof:parent_id":102071593,
     "wof:placetype":"locality",

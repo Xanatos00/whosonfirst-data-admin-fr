@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404428065,
         404228157,
+        404428065,
+        85633147,
         1108826393,
         136253037,
         102071679
@@ -68,6 +68,11 @@
         404428065
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d1ec774f653b7407960567ad46798871",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360680397,
-    "wof:lastmodified":1539928938,
+    "wof:lastmodified":1603247066,
     "wof:name":"Auzouville-L'Esneval",
     "wof:parent_id":102071679,
     "wof:placetype":"locality",

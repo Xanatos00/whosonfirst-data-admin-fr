@@ -9,7 +9,7 @@
     "geom:bbox":"1.365137,44.488815,1.365137,44.488815",
     "geom:latitude":44.488815,
     "geom:longitude":1.365137,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.488815,
     "lbl:longitude":1.365137,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685981,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247086,
     "wof:name":"Le Mas de Larroque",
     "wof:parent_id":404387371,
     "wof:placetype":"neighbourhood",

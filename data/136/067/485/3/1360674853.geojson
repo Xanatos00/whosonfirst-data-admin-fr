@@ -149,6 +149,11 @@
         404370843
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"67ed6ee8813a39a2ca2e573f2b184a89",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360674853,
-    "wof:lastmodified":1564126008,
+    "wof:lastmodified":1603247186,
     "wof:name":"Dourbies",
     "wof:parent_id":102070435,
     "wof:placetype":"locality",

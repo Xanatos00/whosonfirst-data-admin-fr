@@ -139,6 +139,11 @@
         404394115
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ce5eac5c23437e4db9281bef2222d0f1",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360677185,
-    "wof:lastmodified":1564127048,
+    "wof:lastmodified":1603247327,
     "wof:name":"Barcy",
     "wof:parent_id":102067413,
     "wof:placetype":"locality",

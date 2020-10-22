@@ -9,7 +9,7 @@
     "geom:bbox":"5.710144,43.14734,5.710144,43.14734",
     "geom:latitude":43.14734,
     "geom:longitude":5.710144,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.14734,
     "lbl:longitude":5.710144,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684203,
-    "wof:lastmodified":1539986854,
+    "wof:lastmodified":1603247095,
     "wof:name":"Le Port D'alon",
     "wof:parent_id":404351365,
     "wof:placetype":"neighbourhood",

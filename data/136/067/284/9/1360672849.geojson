@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683485,
         102191581,
-        85633147,
-        404350729,
         404227819,
+        404350729,
+        85633147,
         1108826387,
         136253037,
         102066293
@@ -68,6 +68,11 @@
         404350729
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c59b2ce34711990b0fdd33625d4e49ef",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672849,
-    "wof:lastmodified":1539928789,
+    "wof:lastmodified":1603247269,
     "wof:name":"Sonnac-Sur-L'Hers",
     "wof:parent_id":102066293,
     "wof:placetype":"locality",

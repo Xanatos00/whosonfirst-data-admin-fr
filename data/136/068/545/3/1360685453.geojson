@@ -9,7 +9,7 @@
     "geom:bbox":"6.029262,46.486958,6.029262,46.486958",
     "geom:latitude":46.486958,
     "geom:longitude":6.029262,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.486958,
     "lbl:longitude":6.029262,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685453,
-    "wof:lastmodified":1539986870,
+    "wof:lastmodified":1603247075,
     "wof:name":"Les Rivi\u00e9res",
     "wof:parent_id":404363293,
     "wof:placetype":"neighbourhood",

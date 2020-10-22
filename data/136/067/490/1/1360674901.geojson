@@ -145,6 +145,11 @@
         404371447
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"66a31fcf9209ce3780c203977324505e",
     "wof:hierarchy":[
         {
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1360674901,
-    "wof:lastmodified":1564126189,
+    "wof:lastmodified":1603247211,
     "wof:name":"Casevecchie",
     "wof:parent_id":102071765,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683247,
         102191581,
-        85633147,
-        404418551,
         404227799,
+        404418551,
+        85633147,
         1108826399,
         136253037,
         102066839
@@ -63,6 +63,10 @@
         404418551
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dffd746a916e24289eeac8980baf7de5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679489,
-    "wof:lastmodified":1539928922,
+    "wof:lastmodified":1603247224,
     "wof:name":"Saint-Nicolas-Aux-Bois",
     "wof:parent_id":102066839,
     "wof:placetype":"locality",

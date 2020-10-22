@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683301,
         102191581,
-        85633147,
-        404424743,
         404227821,
+        404424743,
+        85633147,
         1108826387,
         136253037,
         102070123
@@ -63,6 +63,10 @@
         404424743
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a3c42376c3f3c2d7c524dd5fccf816a5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680043,
-    "wof:lastmodified":1539928931,
+    "wof:lastmodified":1603247102,
     "wof:name":"Saint-Chely-D'Aubrac",
     "wof:parent_id":102070123,
     "wof:placetype":"locality",

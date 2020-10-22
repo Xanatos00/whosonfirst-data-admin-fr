@@ -158,6 +158,11 @@
         404392063
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"762a7a314c67d0a8c03e32057c5e844c",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360676977,
-    "wof:lastmodified":1564126768,
+    "wof:lastmodified":1603247290,
     "wof:name":"La Bonneville",
     "wof:parent_id":102071127,
     "wof:placetype":"locality",

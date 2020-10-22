@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683445,
         102191581,
-        85633147,
-        404398831,
         404227927,
+        404398831,
+        85633147,
         1108826399,
         136253037,
         102067457
@@ -63,6 +63,10 @@
         404398831
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ef7bd56c39eab77ccbc501519883482b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677579,
-    "wof:lastmodified":1539928889,
+    "wof:lastmodified":1603247264,
     "wof:name":"Le Cateau-Cambresis",
     "wof:parent_id":102067457,
     "wof:placetype":"locality",

@@ -105,6 +105,10 @@
         404376185
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"07949b9fc42ecf3201f9d4ba62a1f819",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360675399,
-    "wof:lastmodified":1564126459,
+    "wof:lastmodified":1603247249,
     "wof:name":"Saint-Prix",
     "wof:parent_id":102071315,
     "wof:placetype":"locality",

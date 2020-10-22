@@ -9,7 +9,7 @@
     "geom:bbox":"-2.349915,47.363958,-2.349915,47.363958",
     "geom:latitude":47.363958,
     "geom:longitude":-2.349915,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.363958,
     "lbl:longitude":-2.349915,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686533,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247109,
     "wof:name":"Kermouraud",
     "wof:parent_id":404393095,
     "wof:placetype":"neighbourhood",

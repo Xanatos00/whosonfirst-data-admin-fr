@@ -233,7 +233,7 @@
     "src:geom":"mz",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"31,813",
     "statoids:area_mi":"12,283",
     "statoids:as_of_date":"2010-01-01",
@@ -274,7 +274,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565710114,
+    "wof:lastmodified":1603247006,
     "wof:name":"Upper France",
     "wof:parent_id":85633147,
     "wof:placetype":"macroregion",

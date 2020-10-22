@@ -119,6 +119,11 @@
         404379301
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a4da39b5ab91a696e73671636b3f98c7",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360675713,
-    "wof:lastmodified":1564126900,
+    "wof:lastmodified":1603247308,
     "wof:name":"Arre",
     "wof:parent_id":102070979,
     "wof:placetype":"locality",

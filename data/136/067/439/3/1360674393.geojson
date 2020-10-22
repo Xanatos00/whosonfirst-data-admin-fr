@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404365729,
         404227627,
+        404365729,
+        85633147,
         1108826395,
         136253037,
         102069071
@@ -63,6 +63,10 @@
         404365729
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1b75518d6a1c6d6093cae0a133f4b42b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674393,
-    "wof:lastmodified":1539928833,
+    "wof:lastmodified":1603247206,
     "wof:name":"Chateauneuf",
     "wof:parent_id":102069071,
     "wof:placetype":"locality",

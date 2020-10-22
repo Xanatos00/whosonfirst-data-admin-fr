@@ -141,6 +141,10 @@
         404355905
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0fd9b9905db240ae135846a20e80571c",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360673337,
-    "wof:lastmodified":1564126569,
+    "wof:lastmodified":1603247264,
     "wof:name":"Saint-Julien-Maumont",
     "wof:parent_id":102067565,
     "wof:placetype":"locality",

@@ -67,6 +67,11 @@
         404370629
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c1984df3df99990c4589e065ec44aec2",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360674827,
-    "wof:lastmodified":1539928841,
+    "wof:lastmodified":1603247187,
     "wof:name":"La Celle-Sur-Morin",
     "wof:parent_id":102065469,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404393045,
         404227883,
+        404393045,
+        85633147,
         1108826395,
         136253037,
         102068213
@@ -63,6 +63,10 @@
         404393045
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fa22e4903530e52a85420e84ba7cebde",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677081,
-    "wof:lastmodified":1539928880,
+    "wof:lastmodified":1603247170,
     "wof:name":"Presilly",
     "wof:parent_id":102068213,
     "wof:placetype":"locality",

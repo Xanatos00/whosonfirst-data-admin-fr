@@ -380,6 +380,11 @@
         404365499
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"87abd47003bde58b345d3bb802dec5bc",
     "wof:hierarchy":[
         {
@@ -395,7 +400,7 @@
         }
     ],
     "wof:id":1360674363,
-    "wof:lastmodified":1564126214,
+    "wof:lastmodified":1603247214,
     "wof:name":"Rye",
     "wof:parent_id":102065531,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"6.669602,46.065161,6.669602,46.065161",
     "geom:latitude":46.065161,
     "geom:longitude":6.669602,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.065161,
     "lbl:longitude":6.669602,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686277,
-    "wof:lastmodified":1539986881,
+    "wof:lastmodified":1603247052,
     "wof:name":"Morillon 1100",
     "wof:parent_id":404387953,
     "wof:placetype":"neighbourhood",

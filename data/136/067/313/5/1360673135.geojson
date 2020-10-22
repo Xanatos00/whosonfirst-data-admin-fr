@@ -113,6 +113,11 @@
         404353959
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c2a1adbd91996bdc92dc3bd6f6376921",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360673135,
-    "wof:lastmodified":1564126406,
+    "wof:lastmodified":1603247241,
     "wof:name":"Nozay",
     "wof:parent_id":102064585,
     "wof:placetype":"locality",

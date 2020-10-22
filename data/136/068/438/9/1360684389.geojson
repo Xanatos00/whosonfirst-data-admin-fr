@@ -9,7 +9,7 @@
     "geom:bbox":"5.190353,44.839849,5.190353,44.839849",
     "geom:latitude":44.839849,
     "geom:longitude":5.190353,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.839849,
     "lbl:longitude":5.190353,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684389,
-    "wof:lastmodified":1539986856,
+    "wof:lastmodified":1603247063,
     "wof:name":"Le Moulin-la-Pipe",
     "wof:parent_id":404366743,
     "wof:placetype":"neighbourhood",

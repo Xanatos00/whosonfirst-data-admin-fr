@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683223,
         102191581,
-        85633147,
-        404393635,
         404227779,
+        404393635,
+        85633147,
         1108826391,
         136253037,
         102067419
@@ -63,6 +63,10 @@
         404393635
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d9b181035780aa32152dd6f85b93de45",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677129,
-    "wof:lastmodified":1539928881,
+    "wof:lastmodified":1603247237,
     "wof:name":"Fignevelle",
     "wof:parent_id":102067419,
     "wof:placetype":"locality",

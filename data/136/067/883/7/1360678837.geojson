@@ -138,6 +138,10 @@
         404411343
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f32d54e56cce09c2c5cbc7075089030b",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360678837,
-    "wof:lastmodified":1564126627,
+    "wof:lastmodified":1603247272,
     "wof:name":"Bruille-Saint-Amand",
     "wof:parent_id":102071701,
     "wof:placetype":"locality",

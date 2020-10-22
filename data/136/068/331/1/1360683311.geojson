@@ -9,7 +9,7 @@
     "geom:bbox":"0.516185,44.825012,0.516185,44.825012",
     "geom:latitude":44.825012,
     "geom:longitude":0.516185,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.825012,
     "lbl:longitude":0.516185,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683311,
-    "wof:lastmodified":1539986842,
+    "wof:lastmodified":1603247034,
     "wof:name":"Roumani\u00e8re",
     "wof:parent_id":1159322317,
     "wof:placetype":"neighbourhood",

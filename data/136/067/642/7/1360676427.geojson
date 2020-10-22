@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404386939,
         404227621,
+        404386939,
+        85633147,
         1108826385,
         136253037,
         102064449
@@ -63,6 +63,10 @@
         404386939
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"56c5370fe0c8ea8d94e68d444c24b98e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676427,
-    "wof:lastmodified":1539928869,
+    "wof:lastmodified":1603247195,
     "wof:name":"Saint-Germain-De-Vibrac",
     "wof:parent_id":102064449,
     "wof:placetype":"locality",

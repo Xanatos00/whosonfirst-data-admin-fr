@@ -113,6 +113,11 @@
         404397685
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bfbe0a4dba199e77803c5dcd5dc98b4e",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360677485,
-    "wof:lastmodified":1564126401,
+    "wof:lastmodified":1603247241,
     "wof:name":"Brousse",
     "wof:parent_id":102067215,
     "wof:placetype":"locality",

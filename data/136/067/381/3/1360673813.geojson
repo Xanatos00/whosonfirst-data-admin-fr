@@ -101,6 +101,11 @@
         404360565
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b104894eb1480009cd572951be08d32e",
     "wof:hierarchy":[
         {
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":1360673813,
-    "wof:lastmodified":1564127013,
+    "wof:lastmodified":1603247323,
     "wof:name":"Flamanville",
     "wof:parent_id":102071679,
     "wof:placetype":"locality",

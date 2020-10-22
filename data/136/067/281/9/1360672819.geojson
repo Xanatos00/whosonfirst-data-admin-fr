@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683179,
         102191581,
-        85633147,
-        404350423,
         404227843,
+        404350423,
+        85633147,
         1108826385,
         136253037,
         102069129
@@ -63,6 +63,10 @@
         404350423
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e0fe66e612ea1d5217f4e635dab5585c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672819,
-    "wof:lastmodified":1539928788,
+    "wof:lastmodified":1603247203,
     "wof:name":"Saint-Laurent",
     "wof:parent_id":102069129,
     "wof:placetype":"locality",

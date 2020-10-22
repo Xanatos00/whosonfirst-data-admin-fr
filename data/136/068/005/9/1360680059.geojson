@@ -104,6 +104,11 @@
         404424841
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0b9d3311e4d1baca0591641fec675fba",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360680059,
-    "wof:lastmodified":1564125680,
+    "wof:lastmodified":1603247109,
     "wof:name":"Grandvilliers",
     "wof:parent_id":102066725,
     "wof:placetype":"locality",

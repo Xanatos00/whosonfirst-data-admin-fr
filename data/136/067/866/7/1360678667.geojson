@@ -105,6 +105,10 @@
         404410265
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"62ee667da9b7234eda34fe94d3a51d9c",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360678667,
-    "wof:lastmodified":1564126144,
+    "wof:lastmodified":1603247204,
     "wof:name":"Saint-Sixte",
     "wof:parent_id":102064665,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683255,
         102191581,
-        85633147,
-        404399973,
         404228131,
+        404399973,
+        85633147,
         1108826399,
         136253037,
         102066945
@@ -63,6 +63,10 @@
         404399973
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f6b926f4facd2264e9e70e4ad7d7a2da",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677685,
-    "wof:lastmodified":1539928891,
+    "wof:lastmodified":1603247265,
     "wof:name":"La Capelle-Les-Boulogne",
     "wof:parent_id":102066945,
     "wof:placetype":"locality",

@@ -105,6 +105,10 @@
         404426093
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4aeb7014c5112a17f6a98ecc1efaa09f",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360680187,
-    "wof:lastmodified":1564125593,
+    "wof:lastmodified":1603247091,
     "wof:name":"Reilhac",
     "wof:parent_id":102067627,
     "wof:placetype":"locality",

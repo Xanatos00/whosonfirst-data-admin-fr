@@ -102,6 +102,10 @@
         404421061
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"274ab06123a2e9282028498606c9932d",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360679693,
-    "wof:lastmodified":1564126544,
+    "wof:lastmodified":1603247261,
     "wof:name":"Montagnac",
     "wof:parent_id":102069825,
     "wof:placetype":"locality",

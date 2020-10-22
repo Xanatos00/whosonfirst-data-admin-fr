@@ -137,6 +137,11 @@
         404412211
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a9de3e5cba6017206b60d051d041be70",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360678911,
-    "wof:lastmodified":1564126789,
+    "wof:lastmodified":1603247293,
     "wof:name":"Chapelaine",
     "wof:parent_id":102069223,
     "wof:placetype":"locality",

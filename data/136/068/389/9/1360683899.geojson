@@ -9,7 +9,7 @@
     "geom:bbox":"6.441314,45.896751,6.441314,45.896751",
     "geom:latitude":45.896751,
     "geom:longitude":6.441314,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.896751,
     "lbl:longitude":6.441314,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683899,
-    "wof:lastmodified":1539986850,
+    "wof:lastmodified":1603247115,
     "wof:name":"Cr\u00eat du Merle",
     "wof:parent_id":404350127,
     "wof:placetype":"neighbourhood",

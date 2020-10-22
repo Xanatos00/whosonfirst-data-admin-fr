@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404402497,
         404228113,
+        404402497,
+        85633147,
         1108826391,
         136253037,
         102069021
@@ -63,6 +63,10 @@
         404402497
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"da0d462f07bfbdf771d37fdbffd16dd8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677893,
-    "wof:lastmodified":1539928894,
+    "wof:lastmodified":1603247320,
     "wof:name":"Ferrieres",
     "wof:parent_id":102069021,
     "wof:placetype":"locality",

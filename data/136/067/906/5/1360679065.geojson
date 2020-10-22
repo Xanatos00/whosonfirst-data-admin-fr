@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683413,
         102191581,
-        85633147,
-        404413799,
         404227891,
+        404413799,
+        85633147,
         1108826389,
         136253037,
         102069497
@@ -63,6 +63,10 @@
         404413799
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"26548805639158b5edcf3b7c86d07b8b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679065,
-    "wof:lastmodified":1539928915,
+    "wof:lastmodified":1603247175,
     "wof:name":"Saint-Pierre-Du-Champ",
     "wof:parent_id":102069497,
     "wof:placetype":"locality",

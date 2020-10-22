@@ -113,6 +113,11 @@
         404397759
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4c884a3d2772e9f794d274623749244c",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360677489,
-    "wof:lastmodified":1564126399,
+    "wof:lastmodified":1603247240,
     "wof:name":"Larroque",
     "wof:parent_id":102065475,
     "wof:placetype":"locality",

@@ -77,6 +77,10 @@
         404391747
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b875ec6999d5456ec956118fba7b36c2",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1360676951,
-    "wof:lastmodified":1564126267,
+    "wof:lastmodified":1603247221,
     "wof:name":"Mee",
     "wof:parent_id":102065843,
     "wof:placetype":"locality",

@@ -125,6 +125,11 @@
         404404661
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e79177eaa2c55eddbcca5bdbe9b00a1e",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360678105,
-    "wof:lastmodified":1564126065,
+    "wof:lastmodified":1603247194,
     "wof:name":"Beauville",
     "wof:parent_id":102065753,
     "wof:placetype":"locality",

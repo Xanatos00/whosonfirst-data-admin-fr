@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683517,
         102191581,
-        85633147,
-        404361789,
         404227617,
+        404361789,
+        85633147,
         1108826389,
         136253037,
         102068519
@@ -63,6 +63,10 @@
         404361789
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"640e21fad2f85b6c069da57003e8f178",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673981,
-    "wof:lastmodified":1539928825,
+    "wof:lastmodified":1603247170,
     "wof:name":"Saint-Clement",
     "wof:parent_id":102068519,
     "wof:placetype":"locality",

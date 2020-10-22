@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404391119,
         404228031,
+        404391119,
+        85633147,
         1108826393,
         136253037,
         102069175
@@ -63,6 +63,10 @@
         404391119
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a0148294333d4a1192a486a972b6f629",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676861,
-    "wof:lastmodified":1539928877,
+    "wof:lastmodified":1603247183,
     "wof:name":"Saint-Martin-De-Bienfaite-La-Cressonniere",
     "wof:parent_id":102069175,
     "wof:placetype":"locality",

@@ -161,6 +161,11 @@
         404351987
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"caf2db3b90dbb61b7e04190b1a126c09",
     "wof:hierarchy":[
         {
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":1360672973,
-    "wof:lastmodified":1564126856,
+    "wof:lastmodified":1603247302,
     "wof:name":"Le Thuel",
     "wof:parent_id":102069111,
     "wof:placetype":"locality",

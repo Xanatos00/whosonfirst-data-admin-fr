@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683471,
         102191581,
-        85633147,
-        404381639,
         404227937,
+        404381639,
+        85633147,
         1108826389,
         136253037,
         102065323
@@ -63,6 +63,10 @@
         404381639
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a3ba7389ebb996e0503351335e98278d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675963,
-    "wof:lastmodified":1539928861,
+    "wof:lastmodified":1603247263,
     "wof:name":"Bort-L'Etang",
     "wof:parent_id":102065323,
     "wof:placetype":"locality",

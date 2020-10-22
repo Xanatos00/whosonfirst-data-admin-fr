@@ -155,6 +155,11 @@
         404365773
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2ad2cfbc236c278dbefafcf3fceffbf4",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360674403,
-    "wof:lastmodified":1564125993,
+    "wof:lastmodified":1603247184,
     "wof:name":"Arrigas",
     "wof:parent_id":102064971,
     "wof:placetype":"locality",

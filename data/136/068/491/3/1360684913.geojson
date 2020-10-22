@@ -9,7 +9,7 @@
     "geom:bbox":"-1.363914,43.952664,-1.363914,43.952664",
     "geom:latitude":43.952664,
     "geom:longitude":-1.363914,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.952664,
     "lbl:longitude":-1.363914,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684913,
-    "wof:lastmodified":1539986863,
+    "wof:lastmodified":1603247066,
     "wof:name":"St.-girons-plage",
     "wof:parent_id":404375093,
     "wof:placetype":"neighbourhood",

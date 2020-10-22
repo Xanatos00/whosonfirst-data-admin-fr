@@ -144,6 +144,10 @@
         404368891
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dd14239edc4020558fe130965b7e6ba6",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360674689,
-    "wof:lastmodified":1564126818,
+    "wof:lastmodified":1603247297,
     "wof:name":"Saint-Hilaire-Luc",
     "wof:parent_id":102067883,
     "wof:placetype":"locality",

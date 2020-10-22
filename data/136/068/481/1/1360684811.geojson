@@ -9,7 +9,7 @@
     "geom:bbox":"-4.2349315,48.2029605,-4.2349315,48.2029605",
     "geom:latitude":48.202961,
     "geom:longitude":-4.234932,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.202961,
     "lbl:longitude":-4.234932,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684811,
-    "wof:lastmodified":1539986862,
+    "wof:lastmodified":1603247092,
     "wof:name":"Sainte-Marie-du-M\u00e9nez-Hom",
     "wof:parent_id":404368517,
     "wof:placetype":"neighbourhood",

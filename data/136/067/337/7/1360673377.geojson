@@ -111,6 +111,10 @@
         404356417
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"baf7c79096a3ad6217d84f51247eda44",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360673377,
-    "wof:lastmodified":1564125916,
+    "wof:lastmodified":1603247173,
     "wof:name":"Saint-Antoine",
     "wof:parent_id":102066023,
     "wof:placetype":"locality",

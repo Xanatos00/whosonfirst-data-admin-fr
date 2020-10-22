@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683227,
         102191581,
-        85633147,
-        404383089,
         404227961,
+        404383089,
+        85633147,
         1108826389,
         136253037,
         102068609
@@ -63,6 +63,10 @@
         404383089
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"47dfb685836ee5cd712d557c430f0fb7",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676105,
-    "wof:lastmodified":1539928864,
+    "wof:lastmodified":1603247189,
     "wof:name":"Sixt-Fer-A-Cheval",
     "wof:parent_id":102068609,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"-4.533555,48.34678,-4.533555,48.34678",
     "geom:latitude":48.34678,
     "geom:longitude":-4.533555,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":48.34678,
     "lbl:longitude":-4.533555,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1360684437,
-    "wof:lastmodified":1539986857,
+    "wof:lastmodified":1603247091,
     "wof:name":"Le Gouerest",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

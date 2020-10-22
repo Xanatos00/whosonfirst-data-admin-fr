@@ -456,7 +456,7 @@
     "qs:type":"R\u00e9gion",
     "src:geom":"quattroshapes",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"8,680",
     "statoids:area_mi":"3,351",
     "statoids:as_of_date":"2010-01-01",
@@ -494,7 +494,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1587164337,
+    "wof:lastmodified":1603248318,
     "wof:name":"Corsica",
     "wof:parent_id":85633147,
     "wof:placetype":"macroregion",

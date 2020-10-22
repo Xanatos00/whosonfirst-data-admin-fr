@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404415493,
         404227669,
+        404415493,
+        85633147,
         1108826389,
         136253037,
         102065233
@@ -63,6 +63,10 @@
         404415493
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7ec85db2f0c1dce006ff1729cd9f20ed",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679223,
-    "wof:lastmodified":1539928918,
+    "wof:lastmodified":1603247241,
     "wof:name":"Saint-Michel-En-Beaumont",
     "wof:parent_id":102065233,
     "wof:placetype":"locality",

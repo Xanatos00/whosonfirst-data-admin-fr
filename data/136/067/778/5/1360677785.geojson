@@ -146,6 +146,11 @@
         404401381
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6faa3b18c05f192dbefad7a6013c91bd",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360677785,
-    "wof:lastmodified":1564126330,
+    "wof:lastmodified":1603247231,
     "wof:name":"Choisies",
     "wof:parent_id":102071747,
     "wof:placetype":"locality",

@@ -158,6 +158,11 @@
         404360817
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"10d892a1147b380ff605856f0dee3bfb",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360673853,
-    "wof:lastmodified":1564126361,
+    "wof:lastmodified":1603247235,
     "wof:name":"Argancy",
     "wof:parent_id":102070603,
     "wof:placetype":"locality",

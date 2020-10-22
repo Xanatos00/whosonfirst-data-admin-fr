@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683377,
         102191581,
-        85633147,
-        404407351,
         404227677,
+        404407351,
+        85633147,
         1108826389,
         136253037,
         102064481
@@ -63,6 +63,10 @@
         404407351
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b2d1a9ef2b936b4cfb753d2227515d9d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678351,
-    "wof:lastmodified":1539928902,
+    "wof:lastmodified":1603247212,
     "wof:name":"Debats-Riviere-D'Orpra",
     "wof:parent_id":102064481,
     "wof:placetype":"locality",

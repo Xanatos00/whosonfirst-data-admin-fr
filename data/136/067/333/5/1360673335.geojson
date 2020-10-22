@@ -63,9 +63,9 @@
     "wof:belongsto":[
         85683359,
         102191581,
-        85633147,
-        404355895,
         404228243,
+        404355895,
+        85633147,
         1108826395,
         136253037,
         102065999
@@ -79,6 +79,11 @@
         404355895
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c20cc00ffdd6d4d9709df7e31427a8cd",
     "wof:hierarchy":[
         {
@@ -94,7 +99,7 @@
         }
     ],
     "wof:id":1360673335,
-    "wof:lastmodified":1539928803,
+    "wof:lastmodified":1603247264,
     "wof:name":"Sainte-Colombe-Des-Bois",
     "wof:parent_id":102065999,
     "wof:placetype":"locality",

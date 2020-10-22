@@ -163,6 +163,11 @@
         404382715
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8514f3a4391859cfa02aa40691268dfd",
     "wof:hierarchy":[
         {
@@ -177,7 +182,7 @@
         }
     ],
     "wof:id":1360676071,
-    "wof:lastmodified":1564126859,
+    "wof:lastmodified":1603247303,
     "wof:name":"Roquesteron",
     "wof:parent_id":102067995,
     "wof:placetype":"locality",

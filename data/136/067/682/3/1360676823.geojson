@@ -62,6 +62,10 @@
         404390849
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fffd2dae2dd5b12e5afc2393dd4effa7",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360676823,
-    "wof:lastmodified":1539928876,
+    "wof:lastmodified":1603247273,
     "wof:name":"Chateauneuf",
     "wof:parent_id":102064795,
     "wof:placetype":"locality",

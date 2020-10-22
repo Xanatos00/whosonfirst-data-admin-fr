@@ -71,6 +71,10 @@
         404424809
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f9813ce22fe0f08fa55f188d3c512edb",
     "wof:hierarchy":[
         {
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1360680055,
-    "wof:lastmodified":1564125681,
+    "wof:lastmodified":1603247109,
     "wof:name":"Saint-Roch",
     "wof:parent_id":102067265,
     "wof:placetype":"locality",

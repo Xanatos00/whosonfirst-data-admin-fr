@@ -62,6 +62,10 @@
         404373263
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"155c36a0a0293110624b240d44147187",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360675099,
-    "wof:lastmodified":1539928846,
+    "wof:lastmodified":1603247261,
     "wof:name":"Chaufour-Les-Bonnieres",
     "wof:parent_id":102064521,
     "wof:placetype":"locality",

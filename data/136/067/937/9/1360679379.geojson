@@ -164,6 +164,11 @@
         404417337
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8543647e4cfe21d5e1f779b45aa10939",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360679379,
-    "wof:lastmodified":1564125943,
+    "wof:lastmodified":1603247177,
     "wof:name":"Les Ableuvenettes",
     "wof:parent_id":102066279,
     "wof:placetype":"locality",

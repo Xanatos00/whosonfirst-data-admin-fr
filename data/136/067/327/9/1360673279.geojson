@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404355427,
         404228069,
+        404355427,
+        85633147,
         1108826387,
         136253037,
         102068067
@@ -63,6 +63,10 @@
         404355427
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ecb22162285b123dec69485e7aca94ef",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673279,
-    "wof:lastmodified":1539928800,
+    "wof:lastmodified":1603247308,
     "wof:name":"L'Isle-De-Noe",
     "wof:parent_id":102068067,
     "wof:placetype":"locality",

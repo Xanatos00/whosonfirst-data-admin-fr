@@ -9,7 +9,7 @@
     "geom:bbox":"2.306056,42.810042,2.306056,42.810042",
     "geom:latitude":42.810042,
     "geom:longitude":2.306056,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.810042,
     "lbl:longitude":2.306056,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686691,
-    "wof:lastmodified":1539986886,
+    "wof:lastmodified":1603247058,
     "wof:name":"Lapradelle",
     "wof:parent_id":404379465,
     "wof:placetype":"neighbourhood",

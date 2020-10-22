@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404400461,
         404227599,
+        404400461,
+        85633147,
         1108826389,
         136253037,
         102068513
@@ -63,6 +63,10 @@
         404400461
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"abaa63e0096251b37d49858b4433c671",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677721,
-    "wof:lastmodified":1539928891,
+    "wof:lastmodified":1603247311,
     "wof:name":"Saint-Cirgues-De-Prades",
     "wof:parent_id":102068513,
     "wof:placetype":"locality",

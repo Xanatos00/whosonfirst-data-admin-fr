@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683163,
         102191581,
-        85633147,
-        404413043,
         404228163,
+        404413043,
+        85633147,
         1108826385,
         136253037,
         102067535
@@ -63,6 +63,10 @@
         404413043
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"db44d105dd382c7e83e6d61c9db4d9cf",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678991,
-    "wof:lastmodified":1539928913,
+    "wof:lastmodified":1603247302,
     "wof:name":"Saint-Martin-Du-Fouilloux",
     "wof:parent_id":102067535,
     "wof:placetype":"locality",

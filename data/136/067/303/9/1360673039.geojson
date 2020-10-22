@@ -134,6 +134,11 @@
         404352895
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"848861d36da1ffb05ca70bc6fc3dce79",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360673039,
-    "wof:lastmodified":1564126483,
+    "wof:lastmodified":1603247252,
     "wof:name":"Gigny-Bussy",
     "wof:parent_id":102068859,
     "wof:placetype":"locality",

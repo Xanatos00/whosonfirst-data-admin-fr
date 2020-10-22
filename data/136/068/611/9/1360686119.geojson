@@ -9,7 +9,7 @@
     "geom:bbox":"-2.627534,47.510128,-2.627534,47.510128",
     "geom:latitude":47.510128,
     "geom:longitude":-2.627534,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.510128,
     "lbl:longitude":-2.627534,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686119,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247054,
     "wof:name":"Pen Cad\u00e9nic",
     "wof:parent_id":404360581,
     "wof:placetype":"neighbourhood",

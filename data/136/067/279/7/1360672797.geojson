@@ -62,6 +62,10 @@
         404350273
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4f778969a38965aa5d0ef04263f8459a",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360672797,
-    "wof:lastmodified":1539928788,
+    "wof:lastmodified":1603247272,
     "wof:name":"Roquesteron-Grasse",
     "wof:parent_id":102065613,
     "wof:placetype":"locality",

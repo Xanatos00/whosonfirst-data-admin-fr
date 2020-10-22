@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404387159,
         404228209,
+        404387159,
+        85633147,
         1108826385,
         136253037,
         102071613
@@ -83,6 +83,11 @@
         404387159
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d73be65c675000f35e85e1924efc468b",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360676451,
-    "wof:lastmodified":1539928869,
+    "wof:lastmodified":1603247193,
     "wof:name":"Colombiers",
     "wof:parent_id":102071613,
     "wof:placetype":"locality",

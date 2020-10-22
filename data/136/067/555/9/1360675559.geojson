@@ -112,6 +112,11 @@
         404377781
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"01c5cb51feb4c191de713aa1ee622f8a",
     "wof:hierarchy":[
         {
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":1360675559,
-    "wof:lastmodified":1564126481,
+    "wof:lastmodified":1603247252,
     "wof:name":"Drocourt",
     "wof:parent_id":102066059,
     "wof:placetype":"locality",

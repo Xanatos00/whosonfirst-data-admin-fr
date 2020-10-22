@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404374629,
         404227637,
+        404374629,
+        85633147,
         1108826395,
         136253037,
         102067567
@@ -63,6 +63,10 @@
         404374629
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ae4663a3bc654fffaab74e0585792e93",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675235,
-    "wof:lastmodified":1539928848,
+    "wof:lastmodified":1603247323,
     "wof:name":"Chateauvieux-Les-Fosses",
     "wof:parent_id":102067567,
     "wof:placetype":"locality",

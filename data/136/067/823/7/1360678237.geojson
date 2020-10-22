@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683389,
         102191581,
-        85633147,
-        404405923,
         404227687,
+        404405923,
+        85633147,
         1108826387,
         136253037,
         102065043
@@ -63,6 +63,10 @@
         404405923
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"462f1cc08710680ac460db99551c0434",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678237,
-    "wof:lastmodified":1539928900,
+    "wof:lastmodified":1603247274,
     "wof:name":"Cezac",
     "wof:parent_id":102065043,
     "wof:placetype":"locality",

@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404383443,
         404228105,
+        404383443,
+        85633147,
         1108826393,
         136253037,
         102068083
@@ -77,6 +77,11 @@
         404383443
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"766e460e264937aecc128ac123c95e6f",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360676141,
-    "wof:lastmodified":1539928864,
+    "wof:lastmodified":1603247269,
     "wof:name":"Anneville-Sur-Mer",
     "wof:parent_id":102068083,
     "wof:placetype":"locality",

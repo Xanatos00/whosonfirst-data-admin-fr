@@ -156,6 +156,10 @@
         404356219
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f90e26c5440a8280f5ef367ed3854d13",
     "wof:hierarchy":[
         {
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":1360673365,
-    "wof:lastmodified":1564125840,
+    "wof:lastmodified":1603247163,
     "wof:name":"Saint-Pierre",
     "wof:parent_id":102069553,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683255,
         102191581,
-        85633147,
-        404389541,
         404227933,
+        404389541,
+        85633147,
         1108826399,
         136253037,
         102071723
@@ -63,6 +63,10 @@
         404389541
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2dba4403d03c7a10e6b2387a03dff011",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676675,
-    "wof:lastmodified":1539928873,
+    "wof:lastmodified":1603247213,
     "wof:name":"Noeux-Les-Mines",
     "wof:parent_id":102071723,
     "wof:placetype":"locality",

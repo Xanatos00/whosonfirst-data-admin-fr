@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683255,
         102191581,
-        85633147,
-        404399177,
         404228249,
+        404399177,
+        85633147,
         1108826399,
         136253037,
         102069749
@@ -68,6 +68,11 @@
         404399177
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8539d67b26899de60d7046098fd1d907",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677603,
-    "wof:lastmodified":1539928889,
+    "wof:lastmodified":1603247254,
     "wof:name":"Aix-En-Ergny",
     "wof:parent_id":102069749,
     "wof:placetype":"locality",

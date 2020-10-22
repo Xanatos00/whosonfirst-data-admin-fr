@@ -9,7 +9,7 @@
     "geom:bbox":"5.90659,43.073874,5.90659,43.073874",
     "geom:latitude":43.073874,
     "geom:longitude":5.90659,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.073874,
     "lbl:longitude":5.90659,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686211,
-    "wof:lastmodified":1539986880,
+    "wof:lastmodified":1603247048,
     "wof:name":"Saint-mandrier-sur-mer Pin Rolland",
     "wof:parent_id":1159322025,
     "wof:placetype":"neighbourhood",

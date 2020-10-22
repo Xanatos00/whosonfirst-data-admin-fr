@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683209,
         102191581,
-        85633147,
-        404361301,
         404227837,
+        404361301,
+        85633147,
         1108826385,
         136253037,
         102068197
@@ -63,6 +63,10 @@
         404361301
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"51289e7d49d5330e36609d74415a0830",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673909,
-    "wof:lastmodified":1539928823,
+    "wof:lastmodified":1603247183,
     "wof:name":"Saint-Geniez-O-Merle",
     "wof:parent_id":102068197,
     "wof:placetype":"locality",

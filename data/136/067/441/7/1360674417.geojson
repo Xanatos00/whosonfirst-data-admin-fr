@@ -146,6 +146,10 @@
         404365929
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7ee2d791f874de0b2fbabe20f487b92e",
     "wof:hierarchy":[
         {
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":1360674417,
-    "wof:lastmodified":1564126091,
+    "wof:lastmodified":1603247197,
     "wof:name":"Cognocoli-Monticchi",
     "wof:parent_id":102071473,
     "wof:placetype":"locality",

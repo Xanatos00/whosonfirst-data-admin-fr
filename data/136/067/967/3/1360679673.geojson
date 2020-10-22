@@ -125,6 +125,11 @@
         404420881
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"24270b1b030c571020de4343b5dd5626",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360679673,
-    "wof:lastmodified":1564126518,
+    "wof:lastmodified":1603247257,
     "wof:name":"Besse",
     "wof:parent_id":102064655,
     "wof:placetype":"locality",

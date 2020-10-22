@@ -9,7 +9,7 @@
     "geom:bbox":"6.361598,43.098977,6.361598,43.098977",
     "geom:latitude":43.098977,
     "geom:longitude":6.361598,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.098977,
     "lbl:longitude":6.361598,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360682125,
-    "wof:lastmodified":1539986826,
+    "wof:lastmodified":1603247090,
     "wof:name":"Cap B\u00e9nat",
     "wof:parent_id":404366721,
     "wof:placetype":"neighbourhood",

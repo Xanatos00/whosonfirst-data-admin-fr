@@ -9,7 +9,7 @@
     "geom:bbox":"-0.563049,42.798171,-0.563049,42.798171",
     "geom:latitude":42.798171,
     "geom:longitude":-0.563049,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.798171,
     "lbl:longitude":-0.563049,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683895,
-    "wof:lastmodified":1539986850,
+    "wof:lastmodified":1603247115,
     "wof:name":"Peyren\u00e8re",
     "wof:parent_id":404350357,
     "wof:placetype":"neighbourhood",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404387473,
         404227973,
+        404387473,
+        85633147,
         1108826399,
         136253037,
         102071131
@@ -68,6 +68,11 @@
         404387473
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dc4714d747eaf30375928fd50fe85a64",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360676477,
-    "wof:lastmodified":1539928870,
+    "wof:lastmodified":1603247276,
     "wof:name":"Beaucourt-Sur-L'Hallue",
     "wof:parent_id":102071131,
     "wof:placetype":"locality",

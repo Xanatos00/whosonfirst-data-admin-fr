@@ -9,7 +9,7 @@
     "geom:bbox":"9.281221,42.487641,9.281221,42.487641",
     "geom:latitude":42.487641,
     "geom:longitude":9.281221,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.487641,
     "lbl:longitude":9.281221,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684021,
-    "wof:lastmodified":1539986851,
+    "wof:lastmodified":1603247105,
     "wof:name":"Ponte Novu",
     "wof:parent_id":404427187,
     "wof:placetype":"neighbourhood",

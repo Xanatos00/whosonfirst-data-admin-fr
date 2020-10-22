@@ -63,9 +63,9 @@
     "wof:belongsto":[
         85683247,
         102191581,
-        85633147,
-        404427953,
         404227587,
+        404427953,
+        85633147,
         1108826399,
         136253037,
         102065405
@@ -80,6 +80,11 @@
         404427953
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9d63cefa91cc89da17d62773cfc6187a",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360680393,
-    "wof:lastmodified":1539928937,
+    "wof:lastmodified":1603247066,
     "wof:name":"Charly-Sur-Marne",
     "wof:parent_id":102065405,
     "wof:placetype":"locality",

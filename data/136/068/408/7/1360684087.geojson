@@ -9,7 +9,7 @@
     "geom:bbox":"-2.259235,48.033961,-2.259235,48.033961",
     "geom:latitude":48.033961,
     "geom:longitude":-2.259235,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.033961,
     "lbl:longitude":-2.259235,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684087,
-    "wof:lastmodified":1539986852,
+    "wof:lastmodified":1603247057,
     "wof:name":"Le Perthuis-N\u00e9anti",
     "wof:parent_id":404355395,
     "wof:placetype":"neighbourhood",

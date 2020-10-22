@@ -9,7 +9,7 @@
     "geom:bbox":"5.8104371883,45.3465301532,5.92834346393,45.4449755554",
     "geom:latitude":45.397335,
     "geom:longitude":5.861659,
-    "geonames:id":"2977499,2977500",
+    "gn:id":"2977499,2977500",
     "iso:country":"FR",
     "lbl:latitude":45.417516,
     "lbl:longitude":5.854132,
@@ -287,7 +287,7 @@
         }
     ],
     "wof:id":101894879,
-    "wof:lastmodified":1582323353,
+    "wof:lastmodified":1603247688,
     "wof:name":"Saint-Pierre-d'Entremont",
     "wof:parent_id":1175611699,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"5.51107720591,47.0060054861,5.58835468088,47.058160586",
     "geom:latitude":47.03045,
     "geom:longitude":5.55288,
-    "geonames:id":"3005589,3008409",
+    "gn:id":"3005589,3008409",
     "iso:country":"FR",
     "lbl:latitude":47.026988,
     "lbl:longitude":5.556809,
@@ -335,7 +335,7 @@
         }
     ],
     "wof:id":101889867,
-    "wof:lastmodified":1582323130,
+    "wof:lastmodified":1603247483,
     "wof:name":"La Loye",
     "wof:parent_id":404426969,
     "wof:placetype":"locality",

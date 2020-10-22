@@ -113,6 +113,11 @@
         404420411
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5458638ed3291a926ab27e9d5148ee1b",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360679639,
-    "wof:lastmodified":1564125947,
+    "wof:lastmodified":1603247178,
     "wof:name":"Orsans",
     "wof:parent_id":102069379,
     "wof:placetype":"locality",

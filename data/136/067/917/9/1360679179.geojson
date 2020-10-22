@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683223,
         102191581,
-        85633147,
-        404415003,
         404227779,
+        404415003,
+        85633147,
         1108826391,
         136253037,
         102064695
@@ -63,6 +63,10 @@
         404415003
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b9f17adabfd3add372d888c60ce76d60",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679179,
-    "wof:lastmodified":1539928917,
+    "wof:lastmodified":1603247320,
     "wof:name":"Pierrepont-Sur-L'Arentele",
     "wof:parent_id":102064695,
     "wof:placetype":"locality",

@@ -140,6 +140,11 @@
         404379031
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6e707c5ac2e87744c8645c795f6e9b65",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360675695,
-    "wof:lastmodified":1564125839,
+    "wof:lastmodified":1603247162,
     "wof:name":"Toutens",
     "wof:parent_id":102065753,
     "wof:placetype":"locality",

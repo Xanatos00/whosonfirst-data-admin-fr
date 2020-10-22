@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404397061,
         404227751,
+        404397061,
+        85633147,
         1108826393,
         136253037,
         102068557
@@ -63,6 +63,10 @@
         404397061
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"71d51371d568984c904b048ad0ce5bfc",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677443,
-    "wof:lastmodified":1539928886,
+    "wof:lastmodified":1603247307,
     "wof:name":"La Ferte-Saint-Samson",
     "wof:parent_id":102068557,
     "wof:placetype":"locality",

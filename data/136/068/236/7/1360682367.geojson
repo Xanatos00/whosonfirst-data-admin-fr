@@ -9,7 +9,7 @@
     "geom:bbox":"7.3121465,43.705569,7.3121465,43.705569",
     "geom:latitude":43.705569,
     "geom:longitude":7.312146,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.705569,
     "lbl:longitude":7.312146,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360682367,
-    "wof:lastmodified":1539986830,
+    "wof:lastmodified":1603247102,
     "wof:name":"Villefranche-sur-mer Corne d'Or",
     "wof:parent_id":404379179,
     "wof:placetype":"neighbourhood",

@@ -98,6 +98,11 @@
         404405675
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"57f59af18ab7d2b8fdbe5295c9796125",
     "wof:hierarchy":[
         {
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":1360678207,
-    "wof:lastmodified":1564126001,
+    "wof:lastmodified":1603247185,
     "wof:name":"Bouloc",
     "wof:parent_id":102065863,
     "wof:placetype":"locality",

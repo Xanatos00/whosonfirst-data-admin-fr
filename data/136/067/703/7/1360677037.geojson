@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404392477,
         404228293,
+        404392477,
+        85633147,
         1108826395,
         136253037,
         102071581
@@ -68,6 +68,11 @@
         404392477
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9c1a5f4924f03b2a78572f7160a253d0",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677037,
-    "wof:lastmodified":1539928880,
+    "wof:lastmodified":1603247260,
     "wof:name":"Germolles-Sur-Grosne",
     "wof:parent_id":102071581,
     "wof:placetype":"locality",

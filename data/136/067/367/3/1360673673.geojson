@@ -140,6 +140,11 @@
         404359259
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2d1bbc9f40cac7462cd2626bf2c5b7eb",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360673673,
-    "wof:lastmodified":1564126543,
+    "wof:lastmodified":1603247260,
     "wof:name":"Cherves",
     "wof:parent_id":102067149,
     "wof:placetype":"locality",

@@ -9,7 +9,6 @@
     "geom:bbox":"2.351924,48.830856,2.374977,48.845001",
     "geom:latitude":48.837415,
     "geom:longitude":2.363382,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.838292,
     "lbl:longitude":2.365477,
@@ -72,12 +71,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894257,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894257,
         85683497
     ],
     "wof:breaches":[],
@@ -104,10 +103,7 @@
         }
     ],
     "wof:id":85873931,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592441,
+    "wof:lastmodified":1603246970,
     "wof:name":"Salpetriere",
     "wof:parent_id":1158894257,
     "wof:placetype":"neighbourhood",

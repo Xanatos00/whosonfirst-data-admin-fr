@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683169,
         102191581,
-        85633147,
-        404410749,
         404227943,
+        404410749,
+        85633147,
         1108826387,
         136253037,
         102064933
@@ -63,6 +63,10 @@
         404410749
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8cf0b9a1785ede51ae0e49487c3b5646",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678747,
-    "wof:lastmodified":1539928909,
+    "wof:lastmodified":1603247191,
     "wof:name":"Belesta",
     "wof:parent_id":102064933,
     "wof:placetype":"locality",

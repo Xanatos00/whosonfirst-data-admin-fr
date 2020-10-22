@@ -9,7 +9,7 @@
     "geom:bbox":"6.827584,43.502472,6.827584,43.502472",
     "geom:latitude":43.502472,
     "geom:longitude":6.827584,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.502472,
     "lbl:longitude":6.827584,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687261,
-    "wof:lastmodified":1539986893,
+    "wof:lastmodified":1603247115,
     "wof:name":"St. Jean de L'Esterel",
     "wof:parent_id":404352311,
     "wof:placetype":"neighbourhood",

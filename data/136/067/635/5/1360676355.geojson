@@ -152,6 +152,11 @@
         404385891
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3c2943797ccb23b75f09ec5cf2add00a",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360676355,
-    "wof:lastmodified":1564126235,
+    "wof:lastmodified":1603247217,
     "wof:name":"Saon",
     "wof:parent_id":102070225,
     "wof:placetype":"locality",

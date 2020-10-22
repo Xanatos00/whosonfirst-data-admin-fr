@@ -9,7 +9,7 @@
     "geom:bbox":"4.695038,43.766522,4.695038,43.766522",
     "geom:latitude":43.766522,
     "geom:longitude":4.695038,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.766522,
     "lbl:longitude":4.695038,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686629,
-    "wof:lastmodified":1539986885,
+    "wof:lastmodified":1603247107,
     "wof:name":"St. Gabriel",
     "wof:parent_id":404382881,
     "wof:placetype":"neighbourhood",

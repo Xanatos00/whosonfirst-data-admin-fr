@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404368913,
         404227619,
+        404368913,
+        85633147,
         1108826385,
         136253037,
         102065415
@@ -63,6 +63,10 @@
         404368913
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d7827e08504a09171f41525af5a6338f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674695,
-    "wof:lastmodified":1539928839,
+    "wof:lastmodified":1603247289,
     "wof:name":"Saint-Leger",
     "wof:parent_id":102065415,
     "wof:placetype":"locality",

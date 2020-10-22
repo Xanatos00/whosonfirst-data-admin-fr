@@ -9,7 +9,7 @@
     "geom:bbox":"2.0980945,49.3416725,2.0980945,49.3416725",
     "geom:latitude":49.341673,
     "geom:longitude":2.098095,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.341673,
     "lbl:longitude":2.098095,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683807,
-    "wof:lastmodified":1539986849,
+    "wof:lastmodified":1603247117,
     "wof:name":"Saint-quentin-d'auteuil",
     "wof:parent_id":404421721,
     "wof:placetype":"neighbourhood",

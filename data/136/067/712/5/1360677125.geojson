@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683271,
         102191581,
-        85633147,
-        404393587,
         404228321,
+        404393587,
+        85633147,
         1108826391,
         136253037,
         102070345
@@ -63,6 +63,10 @@
         404393587
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"30764afc4fac5beff69d5b7905ac9229",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677125,
-    "wof:lastmodified":1539928881,
+    "wof:lastmodified":1603247237,
     "wof:name":"Liehon",
     "wof:parent_id":102070345,
     "wof:placetype":"locality",

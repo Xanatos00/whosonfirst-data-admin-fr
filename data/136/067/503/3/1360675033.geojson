@@ -129,6 +129,10 @@
         404372749
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c6adcd2e7e6b9ee89d14cb4a6235d1fa",
     "wof:hierarchy":[
         {
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1360675033,
-    "wof:lastmodified":1564125961,
+    "wof:lastmodified":1603247179,
     "wof:name":"Saint-Bon",
     "wof:parent_id":102066505,
     "wof:placetype":"locality",

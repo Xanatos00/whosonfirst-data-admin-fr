@@ -9,7 +9,7 @@
     "geom:bbox":"5.884637,43.075157,5.884637,43.075157",
     "geom:latitude":43.075157,
     "geom:longitude":5.884637,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.075157,
     "lbl:longitude":5.884637,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687495,
-    "wof:lastmodified":1539986897,
+    "wof:lastmodified":1603247072,
     "wof:name":"Mar-Vivo",
     "wof:parent_id":1159322027,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,7 @@
     "geom:bbox":"6.74273176344,48.1742057541,6.77211054505,48.1990367999",
     "geom:latitude":48.18586,
     "geom:longitude":6.758986,
-    "geonames:id":"3005708,3005709",
+    "gn:id":"3005708,3005709",
     "gn:population":694,
     "iso:country":"FR",
     "lbl:latitude":48.182342,
@@ -342,7 +342,7 @@
         }
     ],
     "wof:id":101885633,
-    "wof:lastmodified":1582323640,
+    "wof:lastmodified":1603248010,
     "wof:name":"Laveline-devant-Bruy\u00e8res",
     "wof:parent_id":404386061,
     "wof:placetype":"locality",

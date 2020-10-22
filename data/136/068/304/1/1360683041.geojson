@@ -9,7 +9,7 @@
     "geom:bbox":"6.8552,45.911999,6.8552,45.911999",
     "geom:latitude":45.911999,
     "geom:longitude":6.8552,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.911999,
     "lbl:longitude":6.8552,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683041,
-    "wof:lastmodified":1539986839,
+    "wof:lastmodified":1603247081,
     "wof:name":"Les P\u00e9lerins",
     "wof:parent_id":404349173,
     "wof:placetype":"neighbourhood",

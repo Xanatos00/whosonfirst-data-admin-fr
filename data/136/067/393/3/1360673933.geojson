@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683301,
         102191581,
-        85633147,
-        404361499,
         404227821,
+        404361499,
+        85633147,
         1108826387,
         136253037,
         102071401
@@ -63,6 +63,10 @@
         404361499
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f93cb868a5a6c32eaded62862641bd16",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673933,
-    "wof:lastmodified":1539928824,
+    "wof:lastmodified":1603247261,
     "wof:name":"Onet-Le-Chateau",
     "wof:parent_id":102071401,
     "wof:placetype":"locality",

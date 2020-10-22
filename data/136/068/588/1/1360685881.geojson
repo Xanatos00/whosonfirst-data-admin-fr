@@ -9,7 +9,7 @@
     "geom:bbox":"-2.912074,47.554228,-2.912074,47.554228",
     "geom:latitude":47.554228,
     "geom:longitude":-2.912074,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.554228,
     "lbl:longitude":-2.912074,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685881,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247071,
     "wof:name":"Bilgroix",
     "wof:parent_id":404367323,
     "wof:placetype":"neighbourhood",

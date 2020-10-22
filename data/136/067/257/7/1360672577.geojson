@@ -77,6 +77,11 @@
         404347937
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7de8a4bb870e8c6f96e34d86bc0fdb08",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360672577,
-    "wof:lastmodified":1564126138,
+    "wof:lastmodified":1603247203,
     "wof:name":"Gramont",
     "wof:parent_id":102066061,
     "wof:placetype":"locality",

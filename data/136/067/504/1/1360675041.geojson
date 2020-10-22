@@ -113,6 +113,11 @@
         404372811
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b9c42fadb38a2d53bd44a6d3bd96e086",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360675041,
-    "wof:lastmodified":1564125956,
+    "wof:lastmodified":1603247179,
     "wof:name":"Le Vernet",
     "wof:parent_id":102066499,
     "wof:placetype":"locality",

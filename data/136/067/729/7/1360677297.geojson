@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404395405,
         404227883,
+        404395405,
+        85633147,
         1108826395,
         136253037,
         102068015
@@ -63,6 +63,10 @@
         404395405
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4d164d996aaa7fd7c8dc2bd2860c7ec7",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677297,
-    "wof:lastmodified":1539928884,
+    "wof:lastmodified":1603247325,
     "wof:name":"La Faviere",
     "wof:parent_id":102068015,
     "wof:placetype":"locality",

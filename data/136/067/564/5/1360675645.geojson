@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404378717,
         404227635,
+        404378717,
+        85633147,
         1108826385,
         136253037,
         102071347
@@ -63,6 +63,10 @@
         404378717
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f3de2abd2e8ea4f0717eabd28b1732f8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675645,
-    "wof:lastmodified":1539928856,
+    "wof:lastmodified":1603247254,
     "wof:name":"Laveyssiere",
     "wof:parent_id":102071347,
     "wof:placetype":"locality",

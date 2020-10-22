@@ -146,6 +146,11 @@
         404370569
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dad96d761b904ca2778f61c7ab5e42d7",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360674825,
-    "wof:lastmodified":1564126012,
+    "wof:lastmodified":1603247187,
     "wof:name":"Cendras",
     "wof:parent_id":102064645,
     "wof:placetype":"locality",

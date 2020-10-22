@@ -62,6 +62,10 @@
         404367241
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"04c403aed8337e595fcd2daacbbbf0d8",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674529,
-    "wof:lastmodified":1539928836,
+    "wof:lastmodified":1603247212,
     "wof:name":"Tremeven",
     "wof:parent_id":102068119,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"6.393333,46.331111,6.393333,46.331111",
     "geom:latitude":46.331111,
     "geom:longitude":6.393333,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.331111,
     "lbl:longitude":6.393333,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685415,
-    "wof:lastmodified":1539986870,
+    "wof:lastmodified":1603247117,
     "wof:name":"Excuvilly",
     "wof:parent_id":404358319,
     "wof:placetype":"neighbourhood",

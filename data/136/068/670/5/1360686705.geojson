@@ -9,7 +9,7 @@
     "geom:bbox":"7.316519,43.70325,7.316519,43.70325",
     "geom:latitude":43.70325,
     "geom:longitude":7.316519,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.70325,
     "lbl:longitude":7.316519,
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1360686705,
-    "wof:lastmodified":1539986886,
+    "wof:lastmodified":1603247099,
     "wof:name":"Villefranche-sur-mer Pont St-jean",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -137,6 +137,11 @@
         404370031
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"80263cae943af14b3f2bc6734cd5494e",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360674775,
-    "wof:lastmodified":1564126059,
+    "wof:lastmodified":1603247193,
     "wof:name":"Chaux-Champagny",
     "wof:parent_id":102069663,
     "wof:placetype":"locality",

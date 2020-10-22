@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683341,
         102191581,
-        85633147,
-        404406089,
         404227901,
+        404406089,
+        85633147,
         1108826385,
         136253037,
         102065707
@@ -68,6 +68,11 @@
         404406089
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8d0863f0b375841a5a8b16a3fbbf9aa3",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678249,
-    "wof:lastmodified":1539928901,
+    "wof:lastmodified":1603247275,
     "wof:name":"Verteuil-D'Agenais",
     "wof:parent_id":102065707,
     "wof:placetype":"locality",

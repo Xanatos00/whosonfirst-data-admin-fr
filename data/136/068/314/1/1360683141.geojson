@@ -9,7 +9,7 @@
     "geom:bbox":"6.63969,43.173197,6.63969,43.173197",
     "geom:latitude":43.173197,
     "geom:longitude":6.63969,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.173197,
     "lbl:longitude":6.63969,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683141,
-    "wof:lastmodified":1539986840,
+    "wof:lastmodified":1603247076,
     "wof:name":"La Bastide-Blanche",
     "wof:parent_id":404351831,
     "wof:placetype":"neighbourhood",

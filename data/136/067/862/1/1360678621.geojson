@@ -62,6 +62,10 @@
         404409891
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e7c3c6f14f8441ee85d68f13f506d0dc",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360678621,
-    "wof:lastmodified":1539928907,
+    "wof:lastmodified":1603247292,
     "wof:name":"La Chapelle-Saint-Martin-En-Plaine",
     "wof:parent_id":102066035,
     "wof:placetype":"locality",

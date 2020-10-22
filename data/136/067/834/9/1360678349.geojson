@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404407513,
         404227865,
+        404407513,
+        85633147,
         1108826387,
         136253037,
         102065287
@@ -63,6 +63,10 @@
         404407513
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3a2120e10adffa3244c0b0b9a8654619",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678349,
-    "wof:lastmodified":1539928902,
+    "wof:lastmodified":1603247221,
     "wof:name":"Saint-Loup-En-Comminges",
     "wof:parent_id":102065287,
     "wof:placetype":"locality",

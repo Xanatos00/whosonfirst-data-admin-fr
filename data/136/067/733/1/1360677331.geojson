@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683221,
         102191581,
-        85633147,
-        404395833,
         404228325,
+        404395833,
+        85633147,
         1108826391,
         136253037,
         102066209
@@ -63,6 +63,10 @@
         404395833
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"03c164b77f9a1f867361b501dffdf853",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677331,
-    "wof:lastmodified":1539928884,
+    "wof:lastmodified":1603247251,
     "wof:name":"Zoebersdorf",
     "wof:parent_id":102066209,
     "wof:placetype":"locality",

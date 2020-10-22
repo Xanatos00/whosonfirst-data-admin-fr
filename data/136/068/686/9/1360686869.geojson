@@ -9,7 +9,7 @@
     "geom:bbox":"2.24108,48.889622,2.24108,48.889622",
     "geom:latitude":48.889622,
     "geom:longitude":2.24108,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.889622,
     "lbl:longitude":2.24108,
@@ -268,7 +268,7 @@
         }
     ],
     "wof:id":1360686869,
-    "wof:lastmodified":1563279504,
+    "wof:lastmodified":1603247042,
     "wof:name":"La D\u00e9fense",
     "wof:parent_id":1159322477,
     "wof:placetype":"neighbourhood",

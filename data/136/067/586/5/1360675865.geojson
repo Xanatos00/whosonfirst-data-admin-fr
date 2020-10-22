@@ -79,6 +79,11 @@
         404380595
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7c1455a527fbdc100cea631d1f74cc7b",
     "wof:hierarchy":[
         {
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":1360675865,
-    "wof:lastmodified":1564126329,
+    "wof:lastmodified":1603247230,
     "wof:name":"Aulnoy",
     "wof:parent_id":102065469,
     "wof:placetype":"locality",

@@ -54,9 +54,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404375763,
         404227599,
+        404375763,
+        85633147,
         1108826389,
         136253037,
         102069599
@@ -71,6 +71,11 @@
         404375763
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b5b55d66d0f3c8b0e2a559084c100f3a",
     "wof:hierarchy":[
         {
@@ -86,7 +91,7 @@
         }
     ],
     "wof:id":1360675335,
-    "wof:lastmodified":1539928850,
+    "wof:lastmodified":1603247167,
     "wof:name":"Mirabel",
     "wof:parent_id":102069599,
     "wof:placetype":"locality",

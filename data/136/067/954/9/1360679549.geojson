@@ -125,6 +125,10 @@
         404419461
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f1fe5b2932ac33f71afe3c17d9ee2142",
     "wof:hierarchy":[
         {
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":1360679549,
-    "wof:lastmodified":1564125863,
+    "wof:lastmodified":1603247166,
     "wof:name":"Champrond",
     "wof:parent_id":102068985,
     "wof:placetype":"locality",

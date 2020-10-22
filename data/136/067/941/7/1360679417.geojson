@@ -115,6 +115,11 @@
         404417777
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9afc001f2a738764061c338c34bbef1b",
     "wof:hierarchy":[
         {
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":1360679417,
-    "wof:lastmodified":1564126320,
+    "wof:lastmodified":1603247229,
     "wof:name":"Maisons",
     "wof:parent_id":102064463,
     "wof:placetype":"locality",

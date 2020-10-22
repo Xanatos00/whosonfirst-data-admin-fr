@@ -142,6 +142,11 @@
         404350977
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"872728192fefea8468398a7b4c62be01",
     "wof:hierarchy":[
         {
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":1360672871,
-    "wof:lastmodified":1564126039,
+    "wof:lastmodified":1603247191,
     "wof:name":"Montfort",
     "wof:parent_id":102069899,
     "wof:placetype":"locality",

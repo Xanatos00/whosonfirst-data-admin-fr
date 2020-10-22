@@ -141,6 +141,10 @@
         404390389
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c9f371837c0ff1c369545f0c6be8849f",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360676753,
-    "wof:lastmodified":1564125998,
+    "wof:lastmodified":1603247184,
     "wof:name":"Saint-Georges-Blancaneix",
     "wof:parent_id":102067187,
     "wof:placetype":"locality",

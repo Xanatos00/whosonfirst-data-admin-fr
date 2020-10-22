@@ -155,6 +155,11 @@
         404347523
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7f0cf96f358ddabc67453a341d8ca1f5",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360672555,
-    "wof:lastmodified":1564126867,
+    "wof:lastmodified":1603247303,
     "wof:name":"Courtivron",
     "wof:parent_id":102067435,
     "wof:placetype":"locality",

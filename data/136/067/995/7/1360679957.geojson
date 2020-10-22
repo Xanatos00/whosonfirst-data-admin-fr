@@ -120,6 +120,11 @@
         404423711
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"160f333076f5668f4652d80ab0debac3",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360679957,
-    "wof:lastmodified":1564126457,
+    "wof:lastmodified":1603247249,
     "wof:name":"Le Castellet",
     "wof:parent_id":102066907,
     "wof:placetype":"locality",

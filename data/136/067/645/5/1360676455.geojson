@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404387279,
         404228157,
+        404387279,
+        85633147,
         1108826393,
         136253037,
         102071783
@@ -63,6 +63,10 @@
         404387279
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"acecc2ca594ca7533f9a65a63700e7ad",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676455,
-    "wof:lastmodified":1539928870,
+    "wof:lastmodified":1603247193,
     "wof:name":"Tourville-La-Riviere",
     "wof:parent_id":102071783,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404393011,
         404227669,
+        404393011,
+        85633147,
         1108826389,
         136253037,
         102067967
@@ -68,6 +68,11 @@
         404393011
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e8fccdd2d995e79ba91e204ba3b1a055",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677077,
-    "wof:lastmodified":1539928880,
+    "wof:lastmodified":1603247181,
     "wof:name":"La Motte-D'Aveillans",
     "wof:parent_id":102067967,
     "wof:placetype":"locality",

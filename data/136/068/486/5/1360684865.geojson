@@ -9,7 +9,7 @@
     "geom:bbox":"7.775434,48.590986,7.775434,48.590986",
     "geom:latitude":48.590986,
     "geom:longitude":7.775434,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.590986,
     "lbl:longitude":7.775434,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684865,
-    "wof:lastmodified":1539986862,
+    "wof:lastmodified":1603247093,
     "wof:name":"Kronenhof",
     "wof:parent_id":1159321945,
     "wof:placetype":"neighbourhood",

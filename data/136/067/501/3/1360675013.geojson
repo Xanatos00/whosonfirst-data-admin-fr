@@ -160,6 +160,11 @@
         404372589
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9f0291db6cf9779711c5df23a9bc8231",
     "wof:hierarchy":[
         {
@@ -174,7 +179,7 @@
         }
     ],
     "wof:id":1360675013,
-    "wof:lastmodified":1564126472,
+    "wof:lastmodified":1603247251,
     "wof:name":"Calorguen",
     "wof:parent_id":102066415,
     "wof:placetype":"locality",

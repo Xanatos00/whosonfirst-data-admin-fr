@@ -128,6 +128,11 @@
         404378063
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f16fb639111850959d33a05fb7f5d40b",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360675591,
-    "wof:lastmodified":1564125913,
+    "wof:lastmodified":1603247173,
     "wof:name":"Fleury",
     "wof:parent_id":102071503,
     "wof:placetype":"locality",

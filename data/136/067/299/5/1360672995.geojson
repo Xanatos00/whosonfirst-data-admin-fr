@@ -113,6 +113,11 @@
         404352269
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2cb9d3fd03093db67cda034c4829f18c",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360672995,
-    "wof:lastmodified":1564126882,
+    "wof:lastmodified":1603247306,
     "wof:name":"Vinzelles",
     "wof:parent_id":102068503,
     "wof:placetype":"locality",

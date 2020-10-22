@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404405225,
         404228045,
+        404405225,
+        85633147,
         1108826395,
         136253037,
         102069377
@@ -68,6 +68,11 @@
         404405225
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8144ba5b0267bd285a2919cbc47d061b",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678143,
-    "wof:lastmodified":1539928898,
+    "wof:lastmodified":1603247283,
     "wof:name":"Lacour-D'Arcenay",
     "wof:parent_id":102069377,
     "wof:placetype":"locality",

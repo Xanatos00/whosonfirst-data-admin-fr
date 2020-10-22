@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683297,
         102191581,
-        85633147,
-        404372537,
         404228117,
+        404372537,
+        85633147,
         1108826391,
         136253037,
         102067909
@@ -63,6 +63,10 @@
         404372537
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"31b49761c06c9aecbae06f5438e0d266",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674995,
-    "wof:lastmodified":1539928844,
+    "wof:lastmodified":1603247212,
     "wof:name":"Villers-Les-Mangiennes",
     "wof:parent_id":102067909,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"7.70675,48.78333,7.70675,48.78333",
     "geom:latitude":48.78333,
     "geom:longitude":7.70675,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.78333,
     "lbl:longitude":7.70675,
@@ -40,7 +40,6 @@
     "woe:name_adm1":"Baden-W\u00fcrttemberg",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85683221,
         102191581,
         404227945,
         404391923,
@@ -48,7 +47,8 @@
         1108826391,
         101882065,
         136253037,
-        102065935
+        102065935,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1126085799,
-    "wof:lastmodified":1509411395,
+    "wof:lastmodified":1603249052,
     "wof:name":"Batzenhof",
     "wof:parent_id":101882065,
     "wof:placetype":"neighbourhood",

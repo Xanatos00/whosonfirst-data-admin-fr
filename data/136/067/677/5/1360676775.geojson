@@ -143,6 +143,11 @@
         404390499
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4906d79fe1146134e05bbc7dc0b526a9",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360676775,
-    "wof:lastmodified":1564126731,
+    "wof:lastmodified":1603247286,
     "wof:name":"Brissac",
     "wof:parent_id":102066671,
     "wof:placetype":"locality",

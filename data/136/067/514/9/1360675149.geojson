@@ -155,6 +155,11 @@
         404373841
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"17048cca738ef61b5df6b3b7fa27d9cb",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360675149,
-    "wof:lastmodified":1564126930,
+    "wof:lastmodified":1603247312,
     "wof:name":"Neuville-Bourjonval",
     "wof:parent_id":102066259,
     "wof:placetype":"locality",

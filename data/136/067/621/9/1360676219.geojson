@@ -101,6 +101,11 @@
         404384591
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9414efbac9d106698671fb7f306d70ce",
     "wof:hierarchy":[
         {
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":1360676219,
-    "wof:lastmodified":1564126042,
+    "wof:lastmodified":1603247191,
     "wof:name":"Freneuse",
     "wof:parent_id":102071783,
     "wof:placetype":"locality",

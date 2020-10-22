@@ -111,6 +111,10 @@
         404348153
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"912f696661e3065c82ef4b67e35290c1",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360672613,
-    "wof:lastmodified":1564126173,
+    "wof:lastmodified":1603247209,
     "wof:name":"Saint-Sauveur",
     "wof:parent_id":102065929,
     "wof:placetype":"locality",

@@ -139,6 +139,11 @@
         404376295
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a4f366f4e0f712a296205c624aacf69a",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360675409,
-    "wof:lastmodified":1564126925,
+    "wof:lastmodified":1603247311,
     "wof:name":"La Cropte",
     "wof:parent_id":102068407,
     "wof:placetype":"locality",

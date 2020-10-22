@@ -140,6 +140,11 @@
         404391593
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6cc9c5aa9535d95f991c8f7fc45114bb",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360676931,
-    "wof:lastmodified":1564126208,
+    "wof:lastmodified":1603247214,
     "wof:name":"Grosbliederstroff",
     "wof:parent_id":404391593,
     "wof:placetype":"locality",

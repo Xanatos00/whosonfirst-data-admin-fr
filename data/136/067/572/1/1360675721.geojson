@@ -115,6 +115,11 @@
         404379359
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"161715e8a9cd0e77f0aaec9bbc77197a",
     "wof:hierarchy":[
         {
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":1360675721,
-    "wof:lastmodified":1564126326,
+    "wof:lastmodified":1603247230,
     "wof:name":"Orville",
     "wof:parent_id":102069869,
     "wof:placetype":"locality",

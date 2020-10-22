@@ -9,7 +9,7 @@
     "geom:bbox":"5.96667,45.5221395,5.96667,45.5221395",
     "geom:latitude":45.52214,
     "geom:longitude":5.96667,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.52214,
     "lbl:longitude":5.96667,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685865,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247070,
     "wof:name":"Chacusard",
     "wof:parent_id":404384143,
     "wof:placetype":"neighbourhood",

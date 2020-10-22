@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683539,
         102191581,
-        85633147,
-        404402771,
         404228137,
+        404402771,
+        85633147,
         1108826385,
         136253037,
         102067921
@@ -63,6 +63,10 @@
         404402771
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"11cf2107d9869efc21877160822567fe",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677921,
-    "wof:lastmodified":1539928895,
+    "wof:lastmodified":1603247266,
     "wof:name":"Beyrie-En-Bearn",
     "wof:parent_id":102067921,
     "wof:placetype":"locality",

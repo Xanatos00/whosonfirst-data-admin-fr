@@ -62,6 +62,10 @@
         404425451
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e16675ee080db694631085cb206d5a50",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360680121,
-    "wof:lastmodified":1539928933,
+    "wof:lastmodified":1603247045,
     "wof:name":"Sainte-Helene",
     "wof:parent_id":102069455,
     "wof:placetype":"locality",

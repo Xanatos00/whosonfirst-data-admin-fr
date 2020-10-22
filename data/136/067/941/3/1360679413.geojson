@@ -62,6 +62,10 @@
         404417743
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d635eb79886185adebe0a3b5a39f4e19",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360679413,
-    "wof:lastmodified":1539928921,
+    "wof:lastmodified":1603247229,
     "wof:name":"Avancon",
     "wof:parent_id":102065077,
     "wof:placetype":"locality",

@@ -116,6 +116,11 @@
         404422491
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b59308d327bed27856c3911f288725af",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360679833,
-    "wof:lastmodified":1564126294,
+    "wof:lastmodified":1603247225,
     "wof:name":"Albas",
     "wof:parent_id":102067109,
     "wof:placetype":"locality",

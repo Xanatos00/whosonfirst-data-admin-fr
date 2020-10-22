@@ -62,6 +62,10 @@
         404380185
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"afb335ea5152cc89dd7ab46ad0c45e63",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360675799,
-    "wof:lastmodified":1539928858,
+    "wof:lastmodified":1603247318,
     "wof:name":"Benevent-Et-Charbillac",
     "wof:parent_id":102067601,
     "wof:placetype":"locality",

@@ -136,6 +136,11 @@
         404379293
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8d2bf3e44108da35e66cca0c6ca54232",
     "wof:hierarchy":[
         {
@@ -150,7 +155,7 @@
         }
     ],
     "wof:id":1360675707,
-    "wof:lastmodified":1564126994,
+    "wof:lastmodified":1603247321,
     "wof:name":"Guigneville",
     "wof:parent_id":102069709,
     "wof:placetype":"locality",

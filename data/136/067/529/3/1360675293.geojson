@@ -121,6 +121,11 @@
         404375199
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"936ec8067a36460b4a5af7f6e67f0bf9",
     "wof:hierarchy":[
         {
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":1360675293,
-    "wof:lastmodified":1564126387,
+    "wof:lastmodified":1603247239,
     "wof:name":"Beynes",
     "wof:parent_id":102067099,
     "wof:placetype":"locality",

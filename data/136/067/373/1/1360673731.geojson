@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404359829,
         404228069,
+        404359829,
+        85633147,
         1108826387,
         136253037,
         102067899
@@ -63,6 +63,10 @@
         404359829
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3e2b8d4fbaa81aa0e1946bb76368ccf0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673731,
-    "wof:lastmodified":1539928820,
+    "wof:lastmodified":1603247315,
     "wof:name":"Clermont-Pouyguilles",
     "wof:parent_id":102067899,
     "wof:placetype":"locality",

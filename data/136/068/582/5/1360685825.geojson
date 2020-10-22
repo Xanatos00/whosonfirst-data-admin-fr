@@ -9,7 +9,7 @@
     "geom:bbox":"3.038765,45.884795,3.038765,45.884795",
     "geom:latitude":45.884795,
     "geom:longitude":3.038765,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.884795,
     "lbl:longitude":3.038765,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685825,
-    "wof:lastmodified":1539986875,
+    "wof:lastmodified":1603247112,
     "wof:name":"Tourno\u00ebl",
     "wof:parent_id":404351203,
     "wof:placetype":"neighbourhood",

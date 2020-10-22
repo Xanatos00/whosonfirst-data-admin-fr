@@ -148,6 +148,11 @@
         404398519
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ed3eff32b33f96fdf02f02faf1ec9268",
     "wof:hierarchy":[
         {
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1360677539,
-    "wof:lastmodified":1564125917,
+    "wof:lastmodified":1603247174,
     "wof:name":"Barrettali",
     "wof:parent_id":102071193,
     "wof:placetype":"locality",

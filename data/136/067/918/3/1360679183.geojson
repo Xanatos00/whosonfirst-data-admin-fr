@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404415043,
         404227751,
+        404415043,
+        85633147,
         1108826393,
         136253037,
         102068557
@@ -63,6 +63,10 @@
         404415043
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d7a17afc9e3280e3bd8f6d53615a0f0b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679183,
-    "wof:lastmodified":1539928917,
+    "wof:lastmodified":1603247312,
     "wof:name":"Le Thil-Riberpre",
     "wof:parent_id":102068557,
     "wof:placetype":"locality",

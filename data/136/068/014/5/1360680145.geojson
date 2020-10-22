@@ -111,6 +111,10 @@
         404425715
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"862c9b1b4ba79f172fad620c2310e359",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360680145,
-    "wof:lastmodified":1564125414,
+    "wof:lastmodified":1603247050,
     "wof:name":"Laas",
     "wof:parent_id":102070865,
     "wof:placetype":"locality",

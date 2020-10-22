@@ -62,6 +62,10 @@
         404360879
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8827d7a76b45a77e77eadc2162a2ac50",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673861,
-    "wof:lastmodified":1539928822,
+    "wof:lastmodified":1603247324,
     "wof:name":"Saint-Nicodeme",
     "wof:parent_id":102065081,
     "wof:placetype":"locality",

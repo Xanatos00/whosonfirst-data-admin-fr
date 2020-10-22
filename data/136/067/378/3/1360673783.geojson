@@ -137,6 +137,11 @@
         404360321
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"04976d65512aa71b1f1655eae11f4cea",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360673783,
-    "wof:lastmodified":1564126397,
+    "wof:lastmodified":1603247240,
     "wof:name":"Milhac",
     "wof:parent_id":102066155,
     "wof:placetype":"locality",

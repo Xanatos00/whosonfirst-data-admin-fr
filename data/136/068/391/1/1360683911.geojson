@@ -9,7 +9,7 @@
     "geom:bbox":"6.068202,45.5677255,6.068202,45.5677255",
     "geom:latitude":45.567726,
     "geom:longitude":6.068202,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.567726,
     "lbl:longitude":6.068202,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683911,
-    "wof:lastmodified":1539986850,
+    "wof:lastmodified":1603247034,
     "wof:name":"Arvey",
     "wof:parent_id":404374251,
     "wof:placetype":"neighbourhood",

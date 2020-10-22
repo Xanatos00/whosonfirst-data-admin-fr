@@ -115,6 +115,11 @@
         404401571
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f2abd4c924c7e7537ad3659396d81521",
     "wof:hierarchy":[
         {
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":1360677799,
-    "wof:lastmodified":1564126419,
+    "wof:lastmodified":1603247243,
     "wof:name":"Beauvilliers",
     "wof:parent_id":102068711,
     "wof:placetype":"locality",

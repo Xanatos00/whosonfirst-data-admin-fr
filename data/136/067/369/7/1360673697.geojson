@@ -62,6 +62,10 @@
         404359555
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ff9ca229a8119cf4f044c535544c4d0d",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673697,
-    "wof:lastmodified":1539928819,
+    "wof:lastmodified":1603247257,
     "wof:name":"Epieds",
     "wof:parent_id":102068081,
     "wof:placetype":"locality",

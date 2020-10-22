@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404405447,
         404227599,
+        404405447,
+        85633147,
         1108826389,
         136253037,
         102069599
@@ -63,6 +63,10 @@
         404405447
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f84449049e39dbd658db2c0ec5bc9cca",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678175,
-    "wof:lastmodified":1539928899,
+    "wof:lastmodified":1603247196,
     "wof:name":"Saint-Maurice-D'Ibie",
     "wof:parent_id":102069599,
     "wof:placetype":"locality",

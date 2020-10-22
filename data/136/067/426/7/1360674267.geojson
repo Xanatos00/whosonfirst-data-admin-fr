@@ -62,6 +62,10 @@
         404364797
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"139b112cfeff9cbf2d74fe967d70f449",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674267,
-    "wof:lastmodified":1539928831,
+    "wof:lastmodified":1603247268,
     "wof:name":"Les Chatelets",
     "wof:parent_id":102065163,
     "wof:placetype":"locality",

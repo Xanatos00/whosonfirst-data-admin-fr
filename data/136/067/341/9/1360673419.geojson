@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683405,
         102191581,
-        85633147,
-        404356709,
         404228107,
+        404356709,
+        85633147,
         1108826391,
         136253037,
         102065581
@@ -63,6 +63,10 @@
         404356709
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"030b70d5623db356d2e4ef211e8ea0c5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673419,
-    "wof:lastmodified":1539928807,
+    "wof:lastmodified":1603247226,
     "wof:name":"Nanteuil-La-Foret",
     "wof:parent_id":102065581,
     "wof:placetype":"locality",

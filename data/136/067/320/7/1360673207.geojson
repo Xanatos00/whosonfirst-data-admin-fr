@@ -62,6 +62,10 @@
         404354659
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5cd13d6b9ec035bc05ad92230cf632f8",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673207,
-    "wof:lastmodified":1539928796,
+    "wof:lastmodified":1603247306,
     "wof:name":"San-Gavino-Di-Tenda",
     "wof:parent_id":102069237,
     "wof:placetype":"locality",

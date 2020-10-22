@@ -134,6 +134,11 @@
         404378585
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ef60e57137af0ce331528697b2c35227",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360675635,
-    "wof:lastmodified":1564126510,
+    "wof:lastmodified":1603247256,
     "wof:name":"Bugny",
     "wof:parent_id":102067115,
     "wof:placetype":"locality",

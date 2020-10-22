@@ -132,6 +132,10 @@
         404367377
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cd90583abaaf8ecd62192871047756cc",
     "wof:hierarchy":[
         {
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":1360674537,
-    "wof:lastmodified":1564126266,
+    "wof:lastmodified":1603247221,
     "wof:name":"Iguerande",
     "wof:parent_id":102071427,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683341,
         102191581,
-        85633147,
-        404423545,
         404228231,
+        404423545,
+        85633147,
         1108826385,
         136253037,
         102066963
@@ -63,6 +63,10 @@
         404423545
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9195b8acd54f808c85cff1c62eb44361",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679943,
-    "wof:lastmodified":1539928930,
+    "wof:lastmodified":1603247259,
     "wof:name":"Bousses",
     "wof:parent_id":102066963,
     "wof:placetype":"locality",

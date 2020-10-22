@@ -63,9 +63,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404357075,
         404227839,
+        404357075,
+        85633147,
         1108826395,
         136253037,
         102066667
@@ -80,6 +80,11 @@
         404357075
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1d7df54affa2cba5c15beb7472ff4fbc",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360673463,
-    "wof:lastmodified":1539928810,
+    "wof:lastmodified":1603247224,
     "wof:name":"Montigny-Mornay-Villeneuve-Sur-Vingeanne",
     "wof:parent_id":102066667,
     "wof:placetype":"locality",

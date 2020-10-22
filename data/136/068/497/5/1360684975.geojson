@@ -9,7 +9,7 @@
     "geom:bbox":"9.460129,42.733837,9.460129,42.733837",
     "geom:latitude":42.733837,
     "geom:longitude":9.460129,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":42.733837,
     "lbl:longitude":9.460129,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684975,
-    "wof:lastmodified":1539986864,
+    "wof:lastmodified":1603247058,
     "wof:name":"Grigione",
     "wof:parent_id":404428739,
     "wof:placetype":"neighbourhood",

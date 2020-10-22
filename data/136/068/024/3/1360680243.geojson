@@ -110,6 +110,10 @@
         404426775
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5e45858b788bb7c43b12ff945bc01dc4",
     "wof:hierarchy":[
         {
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1360680243,
-    "wof:lastmodified":1564125372,
+    "wof:lastmodified":1603247042,
     "wof:name":"Sorbiers",
     "wof:parent_id":102067423,
     "wof:placetype":"locality",

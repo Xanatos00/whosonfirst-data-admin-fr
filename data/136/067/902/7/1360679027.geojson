@@ -62,6 +62,10 @@
         404413469
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5a0126d85f33ef31cd0555b20151d299",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360679027,
-    "wof:lastmodified":1539928914,
+    "wof:lastmodified":1603247264,
     "wof:name":"Mericourt",
     "wof:parent_id":102064521,
     "wof:placetype":"locality",

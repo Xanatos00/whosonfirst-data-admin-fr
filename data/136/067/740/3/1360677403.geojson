@@ -62,6 +62,10 @@
         404396785
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"db56af5bc1d7c02f2633832b9aa90b60",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677403,
-    "wof:lastmodified":1539928886,
+    "wof:lastmodified":1603247230,
     "wof:name":"Piegut",
     "wof:parent_id":102069579,
     "wof:placetype":"locality",

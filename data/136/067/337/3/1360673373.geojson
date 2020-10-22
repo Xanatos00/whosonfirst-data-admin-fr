@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404356397,
         404228213,
+        404356397,
+        85633147,
         1108826385,
         136253037,
         102070599
@@ -63,6 +63,10 @@
         404356397
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4b01400396bf485e52c398efc2b1a87c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673373,
-    "wof:lastmodified":1539928805,
+    "wof:lastmodified":1603247173,
     "wof:name":"Saint-Genies",
     "wof:parent_id":102070599,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404357171,
         404227839,
+        404357171,
+        85633147,
         1108826395,
         136253037,
         102068957
@@ -68,6 +68,11 @@
         404357171
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fbed36299c0f968930e5b3d1002f44a3",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673473,
-    "wof:lastmodified":1539928810,
+    "wof:lastmodified":1603247239,
     "wof:name":"Perrigny-Sur-L'Ognon",
     "wof:parent_id":102068957,
     "wof:placetype":"locality",

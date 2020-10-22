@@ -9,7 +9,7 @@
     "geom:bbox":"9.4631975,42.7434345,9.4631975,42.7434345",
     "geom:latitude":42.743434,
     "geom:longitude":9.463197,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":42.743434,
     "lbl:longitude":9.463197,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1360684253,
-    "wof:lastmodified":1539986854,
+    "wof:lastmodified":1603247047,
     "wof:name":"Marine du Miomo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,7 @@
     "geom:bbox":"6.76379882555,49.1389573207,6.83586347207,49.168501357",
     "geom:latitude":49.152348,
     "geom:longitude":6.797629,
-    "geonames:id":"2994359,3017059",
+    "gn:id":"2994359,3017059",
     "gn:population":14507,
     "iso:country":"FR",
     "lbl:latitude":49.143861,
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":101756695,
-    "wof:lastmodified":1582323441,
+    "wof:lastmodified":1603247786,
     "wof:name":"Freyming-Merlebach",
     "wof:parent_id":404356099,
     "wof:placetype":"locality",

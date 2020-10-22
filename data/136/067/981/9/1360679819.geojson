@@ -229,6 +229,11 @@
         404422329
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"37dbe79bdd97ea74a8afa2b670b58500",
     "wof:hierarchy":[
         {
@@ -243,7 +248,7 @@
         }
     ],
     "wof:id":1360679819,
-    "wof:lastmodified":1564127037,
+    "wof:lastmodified":1603247326,
     "wof:name":"Angles",
     "wof:parent_id":102068373,
     "wof:placetype":"locality",

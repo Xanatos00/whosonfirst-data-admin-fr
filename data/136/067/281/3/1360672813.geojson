@@ -149,6 +149,11 @@
         404350411
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"672875ea4dd1dec94328c964519b3cad",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360672813,
-    "wof:lastmodified":1564126137,
+    "wof:lastmodified":1603247203,
     "wof:name":"Fridefont",
     "wof:parent_id":102065159,
     "wof:placetype":"locality",

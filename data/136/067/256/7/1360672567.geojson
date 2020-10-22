@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683265,
         102191581,
-        85633147,
-        404347801,
         404227745,
+        404347801,
+        85633147,
         1108826389,
         136253037,
         102069463
@@ -63,6 +63,10 @@
         404347801
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5c2918aeb420e7fdea9b7e0430f70cbf",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672567,
-    "wof:lastmodified":1539928783,
+    "wof:lastmodified":1603247218,
     "wof:name":"Saint-Nicolas-La-Chapelle",
     "wof:parent_id":102069463,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683255,
         102191581,
-        85633147,
-        404406861,
         404228131,
+        404406861,
+        85633147,
         1108826399,
         136253037,
         102071337
@@ -63,6 +63,10 @@
         404406861
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3298dab763d736ffd8bd713ac5a3d4e0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678313,
-    "wof:lastmodified":1539928902,
+    "wof:lastmodified":1603247289,
     "wof:name":"Saint-Etienne-Au-Mont",
     "wof:parent_id":102071337,
     "wof:placetype":"locality",

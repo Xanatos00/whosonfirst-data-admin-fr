@@ -155,6 +155,11 @@
         404362313
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1c56f0d643f0d28bd60d8627ef03764e",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360674039,
-    "wof:lastmodified":1564126867,
+    "wof:lastmodified":1603247304,
     "wof:name":"Brageac",
     "wof:parent_id":102066853,
     "wof:placetype":"locality",

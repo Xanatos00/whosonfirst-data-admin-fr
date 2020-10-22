@@ -9,9 +9,8 @@
     "geom:bbox":"4.32936516413,48.115776995,4.40903973106,48.1651406288",
     "geom:latitude":48.141582,
     "geom:longitude":4.362857,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":283,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":283,
     "iso:country":"FR",
     "lbl:latitude":48.130076,
@@ -376,10 +375,7 @@
         }
     ],
     "wof:id":101886035,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323246,
+    "wof:lastmodified":1603247569,
     "wof:name":"Bourguignons",
     "wof:parent_id":404359129,
     "wof:placetype":"locality",

@@ -116,6 +116,11 @@
         404366217
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"09c7e5423c7d231054b71d1c65fd527e",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360674449,
-    "wof:lastmodified":1564126634,
+    "wof:lastmodified":1603247273,
     "wof:name":"Cussac",
     "wof:parent_id":102068059,
     "wof:placetype":"locality",

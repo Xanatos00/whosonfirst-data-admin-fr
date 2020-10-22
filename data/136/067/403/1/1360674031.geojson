@@ -158,6 +158,11 @@
         404362221
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eeb9473f1aa2532fa1f2a4df3fce25a4",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360674031,
-    "wof:lastmodified":1564126869,
+    "wof:lastmodified":1603247304,
     "wof:name":"Ancemont",
     "wof:parent_id":102067711,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404417063,
         404228267,
+        404417063,
+        85633147,
         1108826399,
         136253037,
         102066967
@@ -63,6 +63,10 @@
         404417063
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"79a3f43fe959faa7ceed9e7968edfc49",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679343,
-    "wof:lastmodified":1539928920,
+    "wof:lastmodified":1603247266,
     "wof:name":"Mericourt-L'Abbe",
     "wof:parent_id":102066967,
     "wof:placetype":"locality",

@@ -152,6 +152,11 @@
         404357255
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e381d8486416687cf282b0fb2859e0bf",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360673493,
-    "wof:lastmodified":1564126380,
+    "wof:lastmodified":1603247237,
     "wof:name":"Goualade",
     "wof:parent_id":102067697,
     "wof:placetype":"locality",

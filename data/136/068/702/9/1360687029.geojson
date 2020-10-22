@@ -9,7 +9,7 @@
     "geom:bbox":"6.946878,45.481904,6.946878,45.481904",
     "geom:latitude":45.481904,
     "geom:longitude":6.946878,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.481904,
     "lbl:longitude":6.946878,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687029,
-    "wof:lastmodified":1539986890,
+    "wof:lastmodified":1603247079,
     "wof:name":"Le Villaret du Nial",
     "wof:parent_id":404348937,
     "wof:placetype":"neighbourhood",

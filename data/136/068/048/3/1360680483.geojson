@@ -274,6 +274,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526511283,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"a03d2e35a97c5d698404f0fcd2705091",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":1360680483,
-    "wof:lastmodified":1564125402,
+    "wof:lastmodified":1603247047,
     "wof:name":"Indre",
     "wof:parent_id":102071689,
     "wof:placetype":"locality",

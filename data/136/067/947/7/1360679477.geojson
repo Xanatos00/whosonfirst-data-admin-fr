@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683297,
         102191581,
-        85633147,
-        404418459,
         404228117,
+        404418459,
+        85633147,
         1108826391,
         136253037,
         102065763
@@ -63,6 +63,10 @@
         404418459
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"16acaed492ace41d1300d90e3ef79d06",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679477,
-    "wof:lastmodified":1539928922,
+    "wof:lastmodified":1603247237,
     "wof:name":"Blanzee",
     "wof:parent_id":102065763,
     "wof:placetype":"locality",

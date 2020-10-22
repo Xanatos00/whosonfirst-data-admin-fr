@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404365503,
         404228235,
+        404365503,
+        85633147,
         1108826393,
         136253037,
         102071503
@@ -63,6 +63,10 @@
         404365503
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d24cae0f8b42646069cd104cc6c88022",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674361,
-    "wof:lastmodified":1539928833,
+    "wof:lastmodified":1603247214,
     "wof:name":"La Trinite",
     "wof:parent_id":102071503,
     "wof:placetype":"locality",

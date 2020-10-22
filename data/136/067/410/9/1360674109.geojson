@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683255,
         102191581,
-        85633147,
-        404363091,
         404227933,
+        404363091,
+        85633147,
         1108826399,
         136253037,
         102071857
@@ -63,6 +63,10 @@
         404363091
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c6cd45236ae5ae500b7575512cc764b9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674109,
-    "wof:lastmodified":1539928828,
+    "wof:lastmodified":1603247272,
     "wof:name":"Givenchy-Les-La-Bassee",
     "wof:parent_id":102071857,
     "wof:placetype":"locality",

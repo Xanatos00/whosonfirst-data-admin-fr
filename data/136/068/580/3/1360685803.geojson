@@ -9,7 +9,7 @@
     "geom:bbox":"-1.4587775,43.06293,-1.4587775,43.06293",
     "geom:latitude":43.06293,
     "geom:longitude":-1.458778,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.06293,
     "lbl:longitude":-1.458778,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1360685803,
-    "wof:lastmodified":1539986875,
+    "wof:lastmodified":1603247077,
     "wof:name":"Esnazu",
     "wof:parent_id":404339557,
     "wof:placetype":"neighbourhood",

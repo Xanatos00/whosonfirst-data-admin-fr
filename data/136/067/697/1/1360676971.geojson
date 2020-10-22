@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404392003,
         404227705,
+        404392003,
+        85633147,
         1108826391,
         136253037,
         102067005
@@ -63,6 +63,10 @@
         404392003
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eb2ea5d47deaff6ffe6cb1a940b1e263",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676971,
-    "wof:lastmodified":1539928879,
+    "wof:lastmodified":1603247290,
     "wof:name":"Epiez-Sur-Chiers",
     "wof:parent_id":102067005,
     "wof:placetype":"locality",

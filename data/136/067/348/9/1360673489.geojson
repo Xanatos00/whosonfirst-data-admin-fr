@@ -164,6 +164,11 @@
         404357425
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eed507184b03e64ed6e2c56308265533",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360673489,
-    "wof:lastmodified":1564126312,
+    "wof:lastmodified":1603247228,
     "wof:name":"Anterrieux",
     "wof:parent_id":102065159,
     "wof:placetype":"locality",

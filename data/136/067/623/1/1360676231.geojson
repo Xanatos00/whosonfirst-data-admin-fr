@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683341,
         102191581,
-        85633147,
-        404384575,
         404228231,
+        404384575,
+        85633147,
         1108826385,
         136253037,
         102066199
@@ -63,6 +63,10 @@
         404384575
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c46348b783ac2d4c95eafeb9fc467d8c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676231,
-    "wof:lastmodified":1539928866,
+    "wof:lastmodified":1603247278,
     "wof:name":"Saint-Leon",
     "wof:parent_id":102066199,
     "wof:placetype":"locality",

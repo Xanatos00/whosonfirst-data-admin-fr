@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683255,
         102191581,
-        85633147,
-        404384207,
         404227723,
+        404384207,
+        85633147,
         1108826399,
         136253037,
         102071243
@@ -63,6 +63,10 @@
         404384207
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8ad4f29afd408ccefda835ef1e0cfbf8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676195,
-    "wof:lastmodified":1539928865,
+    "wof:lastmodified":1603247192,
     "wof:name":"Hericourt",
     "wof:parent_id":102071243,
     "wof:placetype":"locality",

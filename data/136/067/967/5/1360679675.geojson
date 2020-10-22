@@ -167,6 +167,11 @@
         404420885
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9c706f7fe2e1395e3c102dcb48ef7013",
     "wof:hierarchy":[
         {
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":1360679675,
-    "wof:lastmodified":1564126519,
+    "wof:lastmodified":1603247257,
     "wof:name":"Beaufort",
     "wof:parent_id":102069075,
     "wof:placetype":"locality",

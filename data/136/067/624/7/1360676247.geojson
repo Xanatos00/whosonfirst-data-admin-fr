@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404384731,
         404227741,
+        404384731,
+        85633147,
         1108826395,
         136253037,
         102066635
@@ -63,6 +63,10 @@
         404384731
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"838114190395828448b64221df6677e1",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676247,
-    "wof:lastmodified":1539928866,
+    "wof:lastmodified":1603247279,
     "wof:name":"Paris-L'Hopital",
     "wof:parent_id":102066635,
     "wof:placetype":"locality",

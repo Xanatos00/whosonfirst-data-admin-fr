@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404427353,
         404227931,
+        404427353,
+        85633147,
         1108826393,
         136253037,
         102065545
@@ -63,6 +63,10 @@
         404427353
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a0cb3372353185eeffb7f05ff19d0524",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680331,
-    "wof:lastmodified":1539928936,
+    "wof:lastmodified":1603247108,
     "wof:name":"Saint-Georges-D'Annebecq",
     "wof:parent_id":102065545,
     "wof:placetype":"locality",

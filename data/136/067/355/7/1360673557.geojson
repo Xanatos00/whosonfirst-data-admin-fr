@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404358025,
         404228049,
+        404358025,
+        85633147,
         1108826385,
         136253037,
         102069539
@@ -63,6 +63,10 @@
         404358025
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"13fa20c8dd76c8abb67ae1eef97234b0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673557,
-    "wof:lastmodified":1539928814,
+    "wof:lastmodified":1603247180,
     "wof:name":"Saint-Meard-De-Drone",
     "wof:parent_id":102069539,
     "wof:placetype":"locality",

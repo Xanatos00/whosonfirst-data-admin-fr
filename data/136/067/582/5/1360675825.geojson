@@ -135,6 +135,10 @@
         404380191
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"996b69942e7c9909b1db5d6bd88116ea",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360675825,
-    "wof:lastmodified":1564126889,
+    "wof:lastmodified":1603247306,
     "wof:name":"Champsevraine",
     "wof:parent_id":102066509,
     "wof:placetype":"locality",

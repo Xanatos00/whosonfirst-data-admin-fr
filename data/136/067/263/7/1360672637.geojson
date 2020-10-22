@@ -143,6 +143,10 @@
         404348441
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f71e76e5616edf29105c4e287249513d",
     "wof:hierarchy":[
         {
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":1360672637,
-    "wof:lastmodified":1564126860,
+    "wof:lastmodified":1603247303,
     "wof:name":"Saint-Plantaire",
     "wof:parent_id":102064387,
     "wof:placetype":"locality",

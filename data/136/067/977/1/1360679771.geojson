@@ -137,6 +137,11 @@
         404421843
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f9b0ba3950c749948cf96b7a15e9d904",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360679771,
-    "wof:lastmodified":1564126291,
+    "wof:lastmodified":1603247224,
     "wof:name":"Longevelle",
     "wof:parent_id":102069295,
     "wof:placetype":"locality",

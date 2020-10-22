@@ -9,7 +9,7 @@
     "geom:bbox":"3.290405,44.289697,3.290405,44.289697",
     "geom:latitude":44.289697,
     "geom:longitude":3.290405,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.289697,
     "lbl:longitude":3.290405,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683233,
-    "wof:lastmodified":1539986841,
+    "wof:lastmodified":1603247071,
     "wof:name":"Rieisse",
     "wof:parent_id":404351197,
     "wof:placetype":"neighbourhood",

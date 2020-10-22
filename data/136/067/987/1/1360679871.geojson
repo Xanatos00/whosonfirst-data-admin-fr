@@ -145,6 +145,11 @@
         404422871
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5af2dc4667081d07d62e575f5d8db30d",
     "wof:hierarchy":[
         {
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1360679871,
-    "wof:lastmodified":1564126935,
+    "wof:lastmodified":1603247313,
     "wof:name":"Castellet",
     "wof:parent_id":102064297,
     "wof:placetype":"locality",

@@ -135,6 +135,10 @@
         404352853
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4ccdd00e4d8bc2beca27abc00fcb54a4",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360673035,
-    "wof:lastmodified":1564126484,
+    "wof:lastmodified":1603247252,
     "wof:name":"Tralaigues",
     "wof:parent_id":102069751,
     "wof:placetype":"locality",

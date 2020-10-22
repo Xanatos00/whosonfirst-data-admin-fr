@@ -146,6 +146,11 @@
         404353615
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fab5f5dae960810b66a2f266ab4fe2fc",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360673103,
-    "wof:lastmodified":1564126983,
+    "wof:lastmodified":1603247319,
     "wof:name":"Siguer",
     "wof:parent_id":102067949,
     "wof:placetype":"locality",

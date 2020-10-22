@@ -164,6 +164,11 @@
         404371209
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d9c33d396a7561d9ba4feb4f8ad2987a",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360674883,
-    "wof:lastmodified":1564126647,
+    "wof:lastmodified":1603247275,
     "wof:name":"Sorbais",
     "wof:parent_id":102065199,
     "wof:placetype":"locality",

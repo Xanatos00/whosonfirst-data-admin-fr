@@ -75,6 +75,10 @@
         404376707
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"986a2c6e56be9404d5252ae418d8c9c5",
     "wof:hierarchy":[
         {
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1360675451,
-    "wof:lastmodified":1564126407,
+    "wof:lastmodified":1603247241,
     "wof:name":"La Reunion",
     "wof:parent_id":102065597,
     "wof:placetype":"locality",

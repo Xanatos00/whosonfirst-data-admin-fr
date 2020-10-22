@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404404059,
         404228129,
+        404404059,
+        85633147,
         1108826393,
         136253037,
         102067717
@@ -63,6 +63,10 @@
         404404059
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e957ee63d54cd096a8b2642ad76bc963",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678057,
-    "wof:lastmodified":1539928897,
+    "wof:lastmodified":1603247223,
     "wof:name":"Saint-Martin-D'Ecublei",
     "wof:parent_id":102067717,
     "wof:placetype":"locality",

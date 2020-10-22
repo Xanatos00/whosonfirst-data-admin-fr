@@ -9,7 +9,7 @@
     "geom:bbox":"6.400351,45.036094,6.400351,45.036094",
     "geom:latitude":45.036094,
     "geom:longitude":6.400351,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.036094,
     "lbl:longitude":6.400351,
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1360684181,
-    "wof:lastmodified":1564125613,
+    "wof:lastmodified":1603247095,
     "wof:name":"Col du Lautaret",
     "wof:parent_id":404383133,
     "wof:placetype":"neighbourhood",

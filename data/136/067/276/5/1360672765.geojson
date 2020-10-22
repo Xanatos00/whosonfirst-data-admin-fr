@@ -141,6 +141,10 @@
         404350069
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fc3fcd0fc4124eb8143680d897b6d5de",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360672765,
-    "wof:lastmodified":1564126687,
+    "wof:lastmodified":1603247280,
     "wof:name":"Lamonzie-Saint-Martin",
     "wof:parent_id":102070823,
     "wof:placetype":"locality",

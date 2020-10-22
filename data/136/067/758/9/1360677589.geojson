@@ -99,6 +99,10 @@
         404398995
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"caaa3a5520d5490182f0f936aa2a6768",
     "wof:hierarchy":[
         {
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1360677589,
-    "wof:lastmodified":1564126487,
+    "wof:lastmodified":1603247252,
     "wof:name":"Saint-Perdoux",
     "wof:parent_id":102066787,
     "wof:placetype":"locality",

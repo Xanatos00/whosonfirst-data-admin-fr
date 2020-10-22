@@ -62,6 +62,10 @@
         404349227
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eaafc6318a771593f64f1c7e2cb6e97d",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360672693,
-    "wof:lastmodified":1539928785,
+    "wof:lastmodified":1603247219,
     "wof:name":"Santo-Pietro-Di-Tenda",
     "wof:parent_id":102069237,
     "wof:placetype":"locality",

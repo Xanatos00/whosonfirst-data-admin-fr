@@ -9,7 +9,7 @@
     "geom:bbox":"9.341282,42.760882,9.341282,42.760882",
     "geom:latitude":42.760882,
     "geom:longitude":9.341282,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.760882,
     "lbl:longitude":9.341282,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684019,
-    "wof:lastmodified":1539986851,
+    "wof:lastmodified":1603247055,
     "wof:name":"Marine de Negro",
     "wof:parent_id":404390307,
     "wof:placetype":"neighbourhood",

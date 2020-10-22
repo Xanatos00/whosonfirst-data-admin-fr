@@ -9,7 +9,7 @@
     "geom:bbox":"6.322444,44.696702,6.322444,44.696702",
     "geom:latitude":44.696702,
     "geom:longitude":6.322444,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.696702,
     "lbl:longitude":6.322444,
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1360682839,
-    "wof:lastmodified":1564125572,
+    "wof:lastmodified":1603247088,
     "wof:name":"Merlette",
     "wof:parent_id":404427799,
     "wof:placetype":"neighbourhood",

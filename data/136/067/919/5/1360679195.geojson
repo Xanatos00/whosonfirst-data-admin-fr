@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683559,
         102191581,
-        85633147,
-        404415185,
         404227951,
+        404415185,
+        85633147,
         1108826395,
         136253037,
         102066113
@@ -63,6 +63,10 @@
         404415185
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c5c33c05637b5656cf698d2832abb929",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679195,
-    "wof:lastmodified":1539928917,
+    "wof:lastmodified":1603247318,
     "wof:name":"Villers-Chemin-Et-Mont-Les-Etrelles",
     "wof:parent_id":102066113,
     "wof:placetype":"locality",

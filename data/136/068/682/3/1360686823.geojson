@@ -9,7 +9,7 @@
     "geom:bbox":"0.886635,47.457866,0.886635,47.457866",
     "geom:latitude":47.457866,
     "geom:longitude":0.886635,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.457866,
     "lbl:longitude":0.886635,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686823,
-    "wof:lastmodified":1539986888,
+    "wof:lastmodified":1603247090,
     "wof:name":"Vall\u00e9e de la Raye",
     "wof:parent_id":404402305,
     "wof:placetype":"neighbourhood",

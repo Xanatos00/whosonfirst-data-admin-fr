@@ -116,6 +116,11 @@
         404349667
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d977ab6be7bbef1bfc1bde9c346907a4",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360672721,
-    "wof:lastmodified":1564126125,
+    "wof:lastmodified":1603247201,
     "wof:name":"Bonneval",
     "wof:parent_id":102065435,
     "wof:placetype":"locality",

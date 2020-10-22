@@ -164,6 +164,11 @@
         404395841
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8330866cf3771d1172db1d1d0492fff5",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360677333,
-    "wof:lastmodified":1564126473,
+    "wof:lastmodified":1603247251,
     "wof:name":"Ingolsheim",
     "wof:parent_id":102069247,
     "wof:placetype":"locality",

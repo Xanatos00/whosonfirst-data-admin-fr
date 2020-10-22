@@ -9,7 +9,7 @@
     "geom:bbox":"3.78376,44.536531,3.78376,44.536531",
     "geom:latitude":44.536531,
     "geom:longitude":3.78376,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.536531,
     "lbl:longitude":3.78376,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684039,
-    "wof:lastmodified":1539986852,
+    "wof:lastmodified":1603247111,
     "wof:name":"L'Estampe",
     "wof:parent_id":404350089,
     "wof:placetype":"neighbourhood",

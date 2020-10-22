@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404365233,
         404228049,
+        404365233,
+        85633147,
         1108826385,
         136253037,
         102066347
@@ -63,6 +63,10 @@
         404365233
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"55b9dbfd78bfaf40e478d5063f289eda",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674323,
-    "wof:lastmodified":1539928832,
+    "wof:lastmodified":1603247301,
     "wof:name":"Saint-Medard-D'Excideuil",
     "wof:parent_id":102066347,
     "wof:placetype":"locality",

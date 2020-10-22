@@ -140,6 +140,11 @@
         404389351
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f51d64352bc8bb8132376c721b4c89d6",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360676643,
-    "wof:lastmodified":1564126765,
+    "wof:lastmodified":1603247289,
     "wof:name":"Prades",
     "wof:parent_id":102068513,
     "wof:placetype":"locality",

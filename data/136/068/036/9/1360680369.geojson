@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683297,
         102191581,
-        85633147,
-        404427773,
         404228117,
+        404427773,
+        85633147,
         1108826391,
         136253037,
         102064785
@@ -68,6 +68,11 @@
         404427773
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"de1424559e1c3455ea891c12baf2494c",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360680369,
-    "wof:lastmodified":1539928937,
+    "wof:lastmodified":1603247060,
     "wof:name":"Beaumont-En-Verdunois",
     "wof:parent_id":102064785,
     "wof:placetype":"locality",

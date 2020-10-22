@@ -116,6 +116,11 @@
         404378851
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f3651ddf38620d08b067832df652ecbe",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360675661,
-    "wof:lastmodified":1564125904,
+    "wof:lastmodified":1603247172,
     "wof:name":"Blanzac",
     "wof:parent_id":102064693,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404394763,
         404227641,
+        404394763,
+        85633147,
         1108826393,
         136253037,
         102066791
@@ -68,6 +68,11 @@
         404394763
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3f530904f6f7e12255fce8b1248060df",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677239,
-    "wof:lastmodified":1539928883,
+    "wof:lastmodified":1603247239,
     "wof:name":"Pressagny-L'Orgueilleux",
     "wof:parent_id":102066791,
     "wof:placetype":"locality",

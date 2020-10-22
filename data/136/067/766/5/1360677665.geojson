@@ -140,6 +140,11 @@
         404399779
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"86bba1d40ea87aa482f5884a8fb4a58f",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360677665,
-    "wof:lastmodified":1564126589,
+    "wof:lastmodified":1603247267,
     "wof:name":"Broye-Aubigney-Montseugny",
     "wof:parent_id":102067837,
     "wof:placetype":"locality",

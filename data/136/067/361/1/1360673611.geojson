@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404358513,
         404228293,
+        404358513,
+        85633147,
         1108826395,
         136253037,
         102066589
@@ -63,6 +63,10 @@
         404358513
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6ae7be94f34bcfe6ac6b69a1a62abab2",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673611,
-    "wof:lastmodified":1539928816,
+    "wof:lastmodified":1603247246,
     "wof:name":"Chateau",
     "wof:parent_id":102066589,
     "wof:placetype":"locality",

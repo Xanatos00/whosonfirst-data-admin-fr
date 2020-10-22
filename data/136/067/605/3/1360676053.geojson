@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683413,
         102191581,
-        85633147,
-        404382421,
         404227679,
+        404382421,
+        85633147,
         1108826389,
         136253037,
         102066037
@@ -68,6 +68,11 @@
         404382421
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4406ea43eb900fb9d3e8c007aa9db6e1",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360676053,
-    "wof:lastmodified":1539928862,
+    "wof:lastmodified":1603247208,
     "wof:name":"Mazeyrat-D'Allier",
     "wof:parent_id":102066037,
     "wof:placetype":"locality",

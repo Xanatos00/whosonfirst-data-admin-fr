@@ -122,6 +122,11 @@
         404389061
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fb072d59460b83fb7b41e60957154977",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360676617,
-    "wof:lastmodified":1564126264,
+    "wof:lastmodified":1603247221,
     "wof:name":"Arry",
     "wof:parent_id":102066771,
     "wof:placetype":"locality",

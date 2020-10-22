@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404389191,
         404228293,
+        404389191,
+        85633147,
         1108826395,
         136253037,
         102071581
@@ -63,6 +63,10 @@
         404389191
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9a65883d8d292be43afc8d3a9cb69571",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676629,
-    "wof:lastmodified":1539928872,
+    "wof:lastmodified":1603247296,
     "wof:name":"Serrieres",
     "wof:parent_id":102071581,
     "wof:placetype":"locality",

@@ -125,6 +125,11 @@
         404371561
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7fb0d408c6ab4e3933ea9c53bbc8f436",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360674917,
-    "wof:lastmodified":1564126274,
+    "wof:lastmodified":1603247223,
     "wof:name":"Brens",
     "wof:parent_id":102064817,
     "wof:placetype":"locality",

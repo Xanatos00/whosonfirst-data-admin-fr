@@ -137,6 +137,11 @@
         404355201
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"340fb202c6488c5f6d0628a4c075d36d",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360673267,
-    "wof:lastmodified":1564126997,
+    "wof:lastmodified":1603247321,
     "wof:name":"Pontamafrey-Montpascal",
     "wof:parent_id":102069031,
     "wof:placetype":"locality",

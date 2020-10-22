@@ -63,9 +63,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404374855,
         404227761,
+        404374855,
+        85633147,
         1108826399,
         136253037,
         102070943
@@ -80,6 +80,11 @@
         404374855
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cc914449156b49097d3f8e3009cd2d9e",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360675257,
-    "wof:lastmodified":1539928849,
+    "wof:lastmodified":1603247315,
     "wof:name":"Rue",
     "wof:parent_id":102070943,
     "wof:placetype":"locality",

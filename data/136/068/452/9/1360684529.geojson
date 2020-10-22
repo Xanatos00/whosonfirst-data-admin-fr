@@ -9,7 +9,7 @@
     "geom:bbox":"2.362994,43.206059,2.362994,43.206059",
     "geom:latitude":43.206059,
     "geom:longitude":2.362994,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.206059,
     "lbl:longitude":2.362994,
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1360684529,
-    "wof:lastmodified":1564125459,
+    "wof:lastmodified":1603247060,
     "wof:name":"La Cit\u00e9",
     "wof:parent_id":404351021,
     "wof:placetype":"neighbourhood",

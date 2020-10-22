@@ -9,7 +9,7 @@
     "geom:bbox":"-61.043472,14.468591,-61.043472,14.468591",
     "geom:latitude":14.468591,
     "geom:longitude":-61.043472,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":14.468591,
     "lbl:longitude":-61.043472,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1360687885,
-    "wof:lastmodified":1539986902,
+    "wof:lastmodified":1603247113,
     "wof:name":"L'Anse Caffar",
     "wof:parent_id":85671191,
     "wof:placetype":"neighbourhood",

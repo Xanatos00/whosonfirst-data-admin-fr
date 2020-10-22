@@ -122,6 +122,11 @@
         404375023
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"72d05fdb08a5e688bc2f54a7aa76f3cb",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360675307,
-    "wof:lastmodified":1564126452,
+    "wof:lastmodified":1603247248,
     "wof:name":"Macey",
     "wof:parent_id":102069633,
     "wof:placetype":"locality",

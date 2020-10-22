@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404357957,
         404228129,
+        404357957,
+        85633147,
         1108826393,
         136253037,
         102069023
@@ -68,6 +68,11 @@
         404357957
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8198a26913b7846ce90ff448824d56dc",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673549,
-    "wof:lastmodified":1539928814,
+    "wof:lastmodified":1603247170,
     "wof:name":"Fay",
     "wof:parent_id":102069023,
     "wof:placetype":"locality",

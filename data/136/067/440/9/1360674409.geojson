@@ -143,6 +143,11 @@
         404365853
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e217d589557c05a2e1471987d3944f07",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360674409,
-    "wof:lastmodified":1564125992,
+    "wof:lastmodified":1603247184,
     "wof:name":"Montabot",
     "wof:parent_id":102069221,
     "wof:placetype":"locality",

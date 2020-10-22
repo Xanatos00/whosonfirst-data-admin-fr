@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404380327,
         404228209,
+        404380327,
+        85633147,
         1108826385,
         136253037,
         102068117
@@ -63,6 +63,10 @@
         404380327
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f81140bffc6172bd762f9b026cfdbe8c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675819,
-    "wof:lastmodified":1539928859,
+    "wof:lastmodified":1603247231,
     "wof:name":"Saint-Sever-De-Saintonge",
     "wof:parent_id":102068117,
     "wof:placetype":"locality",

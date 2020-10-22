@@ -110,6 +110,11 @@
         404350621
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9a49bbcd0392a3fff9fde6ab9ab4966e",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360672845,
-    "wof:lastmodified":1564126605,
+    "wof:lastmodified":1603247269,
     "wof:name":"Rix",
     "wof:parent_id":102068015,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683413,
         102191581,
-        85633147,
-        404355043,
         404227679,
+        404355043,
+        85633147,
         1108826389,
         136253037,
         102066243
@@ -63,6 +63,10 @@
         404355043
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9c9348fbe964a025cbede929a33adc98",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673269,
-    "wof:lastmodified":1539928799,
+    "wof:lastmodified":1603247321,
     "wof:name":"Mercoeur",
     "wof:parent_id":102066243,
     "wof:placetype":"locality",

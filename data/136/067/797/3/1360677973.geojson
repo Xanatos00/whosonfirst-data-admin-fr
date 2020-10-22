@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683203,
         102191581,
-        85633147,
-        404403277,
         404227941,
+        404403277,
+        85633147,
         1108826387,
         136253037,
         102064561
@@ -63,6 +63,10 @@
         404403277
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bae8db8e816dc7c9efa4c564c27f0699",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677973,
-    "wof:lastmodified":1539928896,
+    "wof:lastmodified":1603247159,
     "wof:name":"Lancon",
     "wof:parent_id":102064561,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404407941,
         404228049,
+        404407941,
+        85633147,
         1108826385,
         136253037,
         102071075
@@ -68,6 +68,11 @@
         404407941
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9faa29116a62ce0916d5bceed73c1113",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678409,
-    "wof:lastmodified":1539928903,
+    "wof:lastmodified":1603247281,
     "wof:name":"Montagnac-D'Auberoche",
     "wof:parent_id":102071075,
     "wof:placetype":"locality",

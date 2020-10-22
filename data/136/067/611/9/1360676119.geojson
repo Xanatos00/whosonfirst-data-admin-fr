@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404383271,
         404227751,
+        404383271,
+        85633147,
         1108826393,
         136253037,
         102065061
@@ -63,6 +63,10 @@
         404383271
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a261763d780610e6be081c6fa12a6847",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676119,
-    "wof:lastmodified":1539928864,
+    "wof:lastmodified":1603247202,
     "wof:name":"Aubermesnil-Aux-Erables",
     "wof:parent_id":102065061,
     "wof:placetype":"locality",

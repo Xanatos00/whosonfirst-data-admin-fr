@@ -9,7 +9,7 @@
     "geom:bbox":"1.337628,43.6561355,1.337628,43.6561355",
     "geom:latitude":43.656135,
     "geom:longitude":1.337628,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.656135,
     "lbl:longitude":1.337628,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687215,
-    "wof:lastmodified":1539986893,
+    "wof:lastmodified":1603247116,
     "wof:name":"La Paqui\u00e8re",
     "wof:parent_id":404384585,
     "wof:placetype":"neighbourhood",

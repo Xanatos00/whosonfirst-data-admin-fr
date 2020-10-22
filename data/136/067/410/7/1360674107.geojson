@@ -107,6 +107,11 @@
         404363041
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"751be0671348ef640f3b8db9724b1c6b",
     "wof:hierarchy":[
         {
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":1360674107,
-    "wof:lastmodified":1564126628,
+    "wof:lastmodified":1603247272,
     "wof:name":"Lafarre",
     "wof:parent_id":102067487,
     "wof:placetype":"locality",

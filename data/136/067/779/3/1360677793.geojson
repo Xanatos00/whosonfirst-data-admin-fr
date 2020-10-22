@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404401449,
         404228049,
+        404401449,
+        85633147,
         1108826385,
         136253037,
         102066347
@@ -63,6 +63,10 @@
         404401449
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b6cfbca4720db0e7993905c4ccc682a1",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677793,
-    "wof:lastmodified":1539928893,
+    "wof:lastmodified":1603247243,
     "wof:name":"Saint-Pantaly-D'Excideuil",
     "wof:parent_id":102066347,
     "wof:placetype":"locality",

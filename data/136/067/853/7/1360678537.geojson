@@ -122,6 +122,11 @@
         404409291
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"86c8b137ada116da1d419225b31eaf4f",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360678537,
-    "wof:lastmodified":1564126799,
+    "wof:lastmodified":1603247294,
     "wof:name":"Beaurepaire",
     "wof:parent_id":102066529,
     "wof:placetype":"locality",

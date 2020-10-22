@@ -9,7 +9,7 @@
     "geom:bbox":"7.816901,48.784487,7.816901,48.784487",
     "geom:latitude":48.784487,
     "geom:longitude":7.816901,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.784487,
     "lbl:longitude":7.816901,
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1360683871,
-    "wof:lastmodified":1564125710,
+    "wof:lastmodified":1603247117,
     "wof:name":"Marienthal",
     "wof:parent_id":404348507,
     "wof:placetype":"neighbourhood",

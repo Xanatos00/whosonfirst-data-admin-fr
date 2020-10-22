@@ -146,6 +146,11 @@
         404367431
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"70ae14e9cc765a7cc089eb87bb1c0f4a",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360674543,
-    "wof:lastmodified":1564126258,
+    "wof:lastmodified":1603247220,
     "wof:name":"Sassis",
     "wof:parent_id":102066629,
     "wof:placetype":"locality",

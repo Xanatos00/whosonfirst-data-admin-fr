@@ -9,7 +9,6 @@
     "geom:bbox":"-0.591972,44.829666,-0.591972,44.829666",
     "geom:latitude":44.829666,
     "geom:longitude":-0.591972,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":44.829666,
     "lbl:longitude":-0.591972,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85897679,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322804,
+    "wof:lastmodified":1603246972,
     "wof:name":"Victor Hugo-Saint Augustin",
     "wof:parent_id":101748979,
     "wof:placetype":"neighbourhood",

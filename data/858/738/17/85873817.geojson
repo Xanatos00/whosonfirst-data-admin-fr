@@ -9,7 +9,6 @@
     "geom:bbox":"2.348985,48.836792,2.366129,48.847609",
     "geom:latitude":48.841948,
     "geom:longitude":2.356917,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.841633,
     "lbl:longitude":2.357046,
@@ -85,13 +84,13 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894239,
         102191581,
-        85633147,
-        1159322569,
-        101751119,
         1158894275,
+        1159322569,
+        85633147,
         404227465,
+        101751119,
+        1158894239,
         85683497
     ],
     "wof:breaches":[],
@@ -120,10 +119,7 @@
         }
     ],
     "wof:id":85873817,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592441,
+    "wof:lastmodified":1603246970,
     "wof:name":"Jardin des Plantes",
     "wof:parent_id":1158894275,
     "wof:placetype":"neighbourhood",

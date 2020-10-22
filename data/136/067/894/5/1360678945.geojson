@@ -155,6 +155,11 @@
         404412577
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7927737f1234243f45730b3044060440",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360678945,
-    "wof:lastmodified":1564126240,
+    "wof:lastmodified":1603247218,
     "wof:name":"Bouzanville",
     "wof:parent_id":102066935,
     "wof:placetype":"locality",

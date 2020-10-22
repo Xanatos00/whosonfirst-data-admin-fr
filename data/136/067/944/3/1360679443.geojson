@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404418047,
         404227853,
+        404418047,
+        85633147,
         1108826393,
         136253037,
         102065279
@@ -63,6 +63,10 @@
         404418047
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bbeafe6eec7ae0aa1873edbeeb9c4179",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679443,
-    "wof:lastmodified":1539928921,
+    "wof:lastmodified":1603247323,
     "wof:name":"Saint-Sulpice-De-Grimbouville",
     "wof:parent_id":102065279,
     "wof:placetype":"locality",

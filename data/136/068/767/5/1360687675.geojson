@@ -9,7 +9,7 @@
     "geom:bbox":"4.146995,45.258334,4.146995,45.258334",
     "geom:latitude":45.258334,
     "geom:longitude":4.146995,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.258334,
     "lbl:longitude":4.146995,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687675,
-    "wof:lastmodified":1539986899,
+    "wof:lastmodified":1603247080,
     "wof:name":"Trevas",
     "wof:parent_id":404385501,
     "wof:placetype":"neighbourhood",

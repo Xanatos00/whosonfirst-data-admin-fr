@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404417869,
         404227669,
+        404417869,
+        85633147,
         1108826389,
         136253037,
         102071019
@@ -63,6 +63,10 @@
         404417869
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fd6f50e6705b811481b1570cb3ef32cc",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679429,
-    "wof:lastmodified":1539928921,
+    "wof:lastmodified":1603247316,
     "wof:name":"Varces-Allieres-Et-Risset",
     "wof:parent_id":102071019,
     "wof:placetype":"locality",

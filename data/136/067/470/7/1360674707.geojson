@@ -122,6 +122,11 @@
         404369225
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"884c37f8441abf60132ed7a602796f1f",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360674707,
-    "wof:lastmodified":1564126074,
+    "wof:lastmodified":1603247195,
     "wof:name":"Beaumesnil",
     "wof:parent_id":102069903,
     "wof:placetype":"locality",

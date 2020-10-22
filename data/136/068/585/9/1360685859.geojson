@@ -9,7 +9,7 @@
     "geom:bbox":"5.014024,43.455045,5.014024,43.455045",
     "geom:latitude":43.455045,
     "geom:longitude":5.014024,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.455045,
     "lbl:longitude":5.014024,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685859,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247114,
     "wof:name":"Massane",
     "wof:parent_id":404354885,
     "wof:placetype":"neighbourhood",

@@ -105,6 +105,10 @@
         404408987
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8805d8146d1b73313c67926dcddcd51d",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360678523,
-    "wof:lastmodified":1564126863,
+    "wof:lastmodified":1603247303,
     "wof:name":"Reugny",
     "wof:parent_id":102066403,
     "wof:placetype":"locality",

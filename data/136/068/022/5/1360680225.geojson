@@ -113,6 +113,11 @@
         404426585
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4e619cd7215c7ec575c28a4375cebc09",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360680225,
-    "wof:lastmodified":1564125420,
+    "wof:lastmodified":1603247051,
     "wof:name":"Mirepoix",
     "wof:parent_id":102069775,
     "wof:placetype":"locality",

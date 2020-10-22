@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404396945,
         404227671,
+        404396945,
+        85633147,
         1108826395,
         136253037,
         102067391
@@ -68,6 +68,11 @@
         404396945
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cf2172d16966ee06977d6be48aedd97d",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677433,
-    "wof:lastmodified":1539928886,
+    "wof:lastmodified":1603247308,
     "wof:name":"Bans",
     "wof:parent_id":102067391,
     "wof:placetype":"locality",

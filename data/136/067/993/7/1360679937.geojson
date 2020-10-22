@@ -113,6 +113,11 @@
         404423303
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5a5ebd03e4317e8d78b9ab1355e3bb86",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360679937,
-    "wof:lastmodified":1564126514,
+    "wof:lastmodified":1603247256,
     "wof:name":"Germ",
     "wof:parent_id":102065325,
     "wof:placetype":"locality",

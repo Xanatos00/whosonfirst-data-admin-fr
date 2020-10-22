@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683271,
         102191581,
-        85633147,
-        404396795,
         404228281,
+        404396795,
+        85633147,
         1108826391,
         136253037,
         102068873
@@ -63,6 +63,10 @@
         404396795
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d9521b334b7104e79ca33b2af1d48207",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677405,
-    "wof:lastmodified":1539928886,
+    "wof:lastmodified":1603247230,
     "wof:name":"Saint-Louis",
     "wof:parent_id":102068873,
     "wof:placetype":"locality",

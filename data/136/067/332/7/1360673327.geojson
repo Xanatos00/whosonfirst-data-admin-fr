@@ -75,9 +75,9 @@
     "wof:belongsto":[
         85683335,
         102191581,
-        85633147,
-        404355851,
         404227815,
+        404355851,
+        85633147,
         1108826387,
         136253037,
         102067427
@@ -92,6 +92,11 @@
         404355851
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a1163260dbae53dc7a30ef0ec6f3453e",
     "wof:hierarchy":[
         {
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":1360673327,
-    "wof:lastmodified":1539928803,
+    "wof:lastmodified":1603247255,
     "wof:name":"La Bastide-De-Lordat",
     "wof:parent_id":102067427,
     "wof:placetype":"locality",

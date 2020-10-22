@@ -128,6 +128,11 @@
         404390837
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4c1015477399f2bd946cfe98dfbcf9c8",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360676819,
-    "wof:lastmodified":1564125999,
+    "wof:lastmodified":1603247185,
     "wof:name":"Epping",
     "wof:parent_id":404390837,
     "wof:placetype":"locality",

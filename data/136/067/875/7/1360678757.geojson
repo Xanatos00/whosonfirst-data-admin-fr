@@ -144,6 +144,10 @@
         404410835
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c04e2d4d500dac5b46a07d9afcc17ebd",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360678757,
-    "wof:lastmodified":1564126110,
+    "wof:lastmodified":1603247200,
     "wof:name":"Lisores",
     "wof:parent_id":102068629,
     "wof:placetype":"locality",

@@ -155,6 +155,11 @@
         404350309
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"69a9c432ef5aa53753033bb2550bec7c",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360672817,
-    "wof:lastmodified":1564126136,
+    "wof:lastmodified":1603247203,
     "wof:name":"Maresquel-Ecquemicourt",
     "wof:parent_id":102067745,
     "wof:placetype":"locality",

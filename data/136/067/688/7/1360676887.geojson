@@ -62,6 +62,10 @@
         404391181
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5bed050b3360a291385d825c1d1c29ef",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360676887,
-    "wof:lastmodified":1539928877,
+    "wof:lastmodified":1603247186,
     "wof:name":"Saint-Julien-En-Champsaur",
     "wof:parent_id":102067601,
     "wof:placetype":"locality",

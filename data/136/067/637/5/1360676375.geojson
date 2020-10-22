@@ -110,6 +110,11 @@
         404386283
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ae501386b5824ed070281b7681a76850",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360676375,
-    "wof:lastmodified":1564126776,
+    "wof:lastmodified":1603247291,
     "wof:name":"Ternay",
     "wof:parent_id":102069307,
     "wof:placetype":"locality",

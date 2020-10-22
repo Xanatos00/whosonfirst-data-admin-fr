@@ -63,9 +63,9 @@
     "wof:belongsto":[
         85683503,
         102191581,
-        85633147,
-        404356123,
         404228181,
+        404356123,
+        85633147,
         1108826395,
         136253037,
         102070799
@@ -80,6 +80,11 @@
         404356123
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8ab71dc393f0e50858bcf2b5c500ace8",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360673359,
-    "wof:lastmodified":1539928804,
+    "wof:lastmodified":1603247255,
     "wof:name":"Bussy-Le-Repos",
     "wof:parent_id":102070799,
     "wof:placetype":"locality",

@@ -147,6 +147,10 @@
         404425415
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5d9b441e4f0793a7add37960cde08257",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360680127,
-    "wof:lastmodified":1564125386,
+    "wof:lastmodified":1603247045,
     "wof:name":"Saint-Austremoine",
     "wof:parent_id":102066243,
     "wof:placetype":"locality",

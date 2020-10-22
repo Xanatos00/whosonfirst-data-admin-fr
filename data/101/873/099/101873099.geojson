@@ -9,9 +9,8 @@
     "geom:bbox":"-6.805997,61.556663,-6.805997,61.556663",
     "geom:latitude":61.556663,
     "geom:longitude":-6.805997,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":1230,
+    "gn:country":"FO",
+    "gn:fcode":"PPLA",
     "gn:population":1230,
     "iso:country":"FO",
     "lbl:latitude":61.556663,
@@ -194,10 +193,7 @@
         }
     ],
     "wof:id":101873099,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582323204,
+    "wof:lastmodified":1603247539,
     "wof:name":"Tv\u00f8royri",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

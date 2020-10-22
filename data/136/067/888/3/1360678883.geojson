@@ -146,6 +146,11 @@
         404411917
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2c19320fde1b47bcd5161f1156e50343",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360678883,
-    "wof:lastmodified":1564126123,
+    "wof:lastmodified":1603247201,
     "wof:name":"Yvetot-Bocage",
     "wof:parent_id":102071445,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"5.24271,43.60625,5.24271,43.60625",
     "geom:latitude":43.60625,
     "geom:longitude":5.24271,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.60625,
     "lbl:longitude":5.24271,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685771,
-    "wof:lastmodified":1539986875,
+    "wof:lastmodified":1603247120,
     "wof:name":"Les Quatre-Termes",
     "wof:parent_id":404414351,
     "wof:placetype":"neighbourhood",

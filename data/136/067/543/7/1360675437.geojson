@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404376503,
         404227849,
+        404376503,
+        85633147,
         1108826395,
         136253037,
         102066485
@@ -63,6 +63,10 @@
         404376503
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"97f3fee90a3761777e8b8b4321d26d26",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675437,
-    "wof:lastmodified":1539928852,
+    "wof:lastmodified":1603247233,
     "wof:name":"Cernay-L'Eglise",
     "wof:parent_id":102066485,
     "wof:placetype":"locality",

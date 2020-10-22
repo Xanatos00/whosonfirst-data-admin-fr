@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683271,
         102191581,
-        85633147,
-        404415897,
         404228321,
+        404415897,
+        85633147,
         1108826391,
         136253037,
         102070345
@@ -63,6 +63,10 @@
         404415897
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3eb7b0c39a3ddee779d1329e10f359ae",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679263,
-    "wof:lastmodified":1539928918,
+    "wof:lastmodified":1603247317,
     "wof:name":"Sailly-Achatel",
     "wof:parent_id":102070345,
     "wof:placetype":"locality",

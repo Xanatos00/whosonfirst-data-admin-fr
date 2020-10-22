@@ -307,13 +307,13 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633147,
-        102069015,
-        136253037,
-        404359739,
-        101774009,
         404228067,
+        404359739,
+        85633147,
         1108826387,
+        101774009,
+        136253037,
+        102069015,
         85683397
     ],
     "wof:breaches":[],
@@ -343,10 +343,7 @@
         }
     ],
     "wof:id":1360697105,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247157,
     "wof:name":"Revel",
     "wof:parent_id":404359739,
     "wof:placetype":"neighbourhood",

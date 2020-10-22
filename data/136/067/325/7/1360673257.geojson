@@ -144,6 +144,10 @@
         404355097
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4d15f3f82947c14fcee563f12cda2a4c",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360673257,
-    "wof:lastmodified":1564126436,
+    "wof:lastmodified":1603247245,
     "wof:name":"Saint-Agne",
     "wof:parent_id":102067381,
     "wof:placetype":"locality",

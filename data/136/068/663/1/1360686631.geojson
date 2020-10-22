@@ -9,7 +9,7 @@
     "geom:bbox":"3.028621,42.8644835,3.028621,42.8644835",
     "geom:latitude":42.864483,
     "geom:longitude":3.028621,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":42.864483,
     "lbl:longitude":3.028621,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686631,
-    "wof:lastmodified":1539986885,
+    "wof:lastmodified":1603247103,
     "wof:name":"Les Cabanes-de-Fitou",
     "wof:parent_id":404361447,
     "wof:placetype":"neighbourhood",

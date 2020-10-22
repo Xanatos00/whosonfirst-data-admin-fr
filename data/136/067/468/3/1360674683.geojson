@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404368877,
         404228071,
+        404368877,
+        85633147,
         1108826385,
         136253037,
         102070175
@@ -68,6 +68,11 @@
         404368877
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7a279456301d7887aaa051b024e15237",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360674683,
-    "wof:lastmodified":1539928839,
+    "wof:lastmodified":1603247297,
     "wof:name":"Castelmoron-D'Albret",
     "wof:parent_id":102070175,
     "wof:placetype":"locality",

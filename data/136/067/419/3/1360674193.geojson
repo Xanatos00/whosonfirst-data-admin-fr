@@ -167,6 +167,11 @@
         404364207
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1777d10d060c092280316173a817b3b6",
     "wof:hierarchy":[
         {
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":1360674193,
-    "wof:lastmodified":1564126596,
+    "wof:lastmodified":1603247268,
     "wof:name":"Marlenheim",
     "wof:parent_id":102070327,
     "wof:placetype":"locality",

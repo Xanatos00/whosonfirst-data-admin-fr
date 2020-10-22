@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404383119,
         404227637,
+        404383119,
+        85633147,
         1108826395,
         136253037,
         102068709
@@ -63,6 +63,10 @@
         404383119
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"69611bf59922a869723dd578f459ee16",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676103,
-    "wof:lastmodified":1539928864,
+    "wof:lastmodified":1603247189,
     "wof:name":"L'Ecouvotte",
     "wof:parent_id":102068709,
     "wof:placetype":"locality",

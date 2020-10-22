@@ -62,6 +62,10 @@
         404422699
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f2a577b2180d7fb6f9ff620972e24754",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360679853,
-    "wof:lastmodified":1539928928,
+    "wof:lastmodified":1603247239,
     "wof:name":"Bedoin",
     "wof:parent_id":102067147,
     "wof:placetype":"locality",

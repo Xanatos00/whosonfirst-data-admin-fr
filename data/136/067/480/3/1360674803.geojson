@@ -161,6 +161,11 @@
         404370443
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0d2dbf3f7a3e938ad24b9b789a655b61",
     "wof:hierarchy":[
         {
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":1360674803,
-    "wof:lastmodified":1564126711,
+    "wof:lastmodified":1603247283,
     "wof:name":"Pargnan",
     "wof:parent_id":102066469,
     "wof:placetype":"locality",

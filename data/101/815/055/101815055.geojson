@@ -9,7 +9,7 @@
     "geom:bbox":"2.75447907204,49.6613118205,2.81943911717,49.7200011634",
     "geom:latitude":49.693461,
     "geom:longitude":2.789041,
-    "geonames:id":"2982324,2982330",
+    "gn:id":"2982324,2982330",
     "iso:country":"FR",
     "lbl:latitude":49.697541,
     "lbl:longitude":2.7924,
@@ -344,7 +344,7 @@
         }
     ],
     "wof:id":101815055,
-    "wof:lastmodified":1582323618,
+    "wof:lastmodified":1603247985,
     "wof:name":"Roye",
     "wof:parent_id":404394413,
     "wof:placetype":"locality",

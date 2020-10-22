@@ -128,6 +128,11 @@
         404419893
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d02b7f038df6f621d710042f9b67c512",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360679595,
-    "wof:lastmodified":1564126479,
+    "wof:lastmodified":1603247251,
     "wof:name":"Longueville",
     "wof:parent_id":102068283,
     "wof:placetype":"locality",

@@ -155,6 +155,11 @@
         404400605
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e762365a603c35794f16124e1c124273",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360677743,
-    "wof:lastmodified":1564126986,
+    "wof:lastmodified":1603247319,
     "wof:name":"Chaumeil",
     "wof:parent_id":102065681,
     "wof:placetype":"locality",

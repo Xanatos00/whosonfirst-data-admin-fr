@@ -9,7 +9,7 @@
     "geom:bbox":"6.120672,44.983347,6.120672,44.983347",
     "geom:latitude":44.983347,
     "geom:longitude":6.120672,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.983347,
     "lbl:longitude":6.120672,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686107,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247046,
     "wof:name":"L'alleau",
     "wof:parent_id":404412051,
     "wof:placetype":"neighbourhood",

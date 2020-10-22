@@ -152,6 +152,11 @@
         404379455
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bb97f35e98813254aa5d596358a47a22",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360675733,
-    "wof:lastmodified":1564126433,
+    "wof:lastmodified":1603247245,
     "wof:name":"Girgols",
     "wof:parent_id":102067561,
     "wof:placetype":"locality",

@@ -169,6 +169,11 @@
         404381095
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f15b3ddf0e0383a796f47da99fbf2b5d",
     "wof:hierarchy":[
         {
@@ -183,7 +188,7 @@
         }
     ],
     "wof:id":1360675923,
-    "wof:lastmodified":1564125910,
+    "wof:lastmodified":1603247172,
     "wof:name":"Montreuil",
     "wof:parent_id":102065479,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"-1.580615,43.455411,-1.580615,43.455411",
     "geom:latitude":43.455411,
     "geom:longitude":-1.580615,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.455411,
     "lbl:longitude":-1.580615,
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1360685525,
-    "wof:lastmodified":1564125544,
+    "wof:lastmodified":1603247081,
     "wof:name":"Chaya",
     "wof:parent_id":404395753,
     "wof:placetype":"neighbourhood",

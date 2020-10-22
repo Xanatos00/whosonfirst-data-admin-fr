@@ -263,6 +263,11 @@
         404361145
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b441395cec8872685a68b6cad7a2ca1d",
     "wof:hierarchy":[
         {
@@ -278,7 +283,7 @@
         }
     ],
     "wof:id":1360673891,
-    "wof:lastmodified":1564126937,
+    "wof:lastmodified":1603247313,
     "wof:name":"Munster",
     "wof:parent_id":102064353,
     "wof:placetype":"locality",

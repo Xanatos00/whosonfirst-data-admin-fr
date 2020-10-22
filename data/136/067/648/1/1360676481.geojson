@@ -138,6 +138,10 @@
         404387491
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e28e19d0e2122a7d62614dfa32e4c1ec",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360676481,
-    "wof:lastmodified":1564126738,
+    "wof:lastmodified":1603247286,
     "wof:name":"Saint-Valery",
     "wof:parent_id":102067009,
     "wof:placetype":"locality",

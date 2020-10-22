@@ -9,7 +9,7 @@
     "geom:bbox":"6.405715,45.229568,6.405715,45.229568",
     "geom:latitude":45.229568,
     "geom:longitude":6.405715,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.229568,
     "lbl:longitude":6.405715,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687011,
-    "wof:lastmodified":1539986890,
+    "wof:lastmodified":1603247035,
     "wof:name":"Montricher-le-Bochet",
     "wof:parent_id":404352607,
     "wof:placetype":"neighbourhood",

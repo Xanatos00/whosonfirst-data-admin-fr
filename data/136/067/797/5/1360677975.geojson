@@ -62,6 +62,10 @@
         404403269
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"884437ce5e77505d8ab9e5153d5f8cd5",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677975,
-    "wof:lastmodified":1539928896,
+    "wof:lastmodified":1603247159,
     "wof:name":"San-Gavino-D'Ampugnani",
     "wof:parent_id":102070977,
     "wof:placetype":"locality",

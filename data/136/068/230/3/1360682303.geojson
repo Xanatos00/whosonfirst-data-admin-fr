@@ -9,7 +9,7 @@
     "geom:bbox":"-1.65327,46.426972,-1.65327,46.426972",
     "geom:latitude":46.426972,
     "geom:longitude":-1.65327,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":46.426972,
     "lbl:longitude":-1.65327,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1360682303,
-    "wof:lastmodified":1539986829,
+    "wof:lastmodified":1603247109,
     "wof:name":"La Vini\u00e8re",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

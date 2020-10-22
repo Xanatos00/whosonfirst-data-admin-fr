@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683289,
         102191581,
-        85633147,
-        404355059,
         404228127,
+        404355059,
+        85633147,
         1108826399,
         136253037,
         102069723
@@ -63,6 +63,10 @@
         404355059
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a0c50185b783b75ae776217741ae7003",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673293,
-    "wof:lastmodified":1539928801,
+    "wof:lastmodified":1603247310,
     "wof:name":"Pont-L'Eveque",
     "wof:parent_id":102069723,
     "wof:placetype":"locality",

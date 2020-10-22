@@ -62,6 +62,10 @@
         404357145
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0d738deecbaf1cce721176d053dc786f",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673465,
-    "wof:lastmodified":1539928810,
+    "wof:lastmodified":1603247224,
     "wof:name":"Saint-Clement-Sur-Durance",
     "wof:parent_id":102066211,
     "wof:placetype":"locality",

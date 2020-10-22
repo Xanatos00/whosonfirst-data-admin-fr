@@ -158,6 +158,11 @@
         404414513
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6ac6cff85cf6e2d809d4bff9f679191e",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360679131,
-    "wof:lastmodified":1564126421,
+    "wof:lastmodified":1603247243,
     "wof:name":"Manas",
     "wof:parent_id":102067039,
     "wof:placetype":"locality",

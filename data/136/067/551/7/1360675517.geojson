@@ -62,6 +62,10 @@
         404377377
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"556634544cbbe3d583ee6a30f5820e89",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360675517,
-    "wof:lastmodified":1539928854,
+    "wof:lastmodified":1603247160,
     "wof:name":"Charbonnieres",
     "wof:parent_id":102064809,
     "wof:placetype":"locality",

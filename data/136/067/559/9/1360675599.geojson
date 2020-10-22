@@ -146,6 +146,11 @@
         404378267
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"be58683e2867da4c437c2ade93bcd766",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360675599,
-    "wof:lastmodified":1564125912,
+    "wof:lastmodified":1603247173,
     "wof:name":"Thibouville",
     "wof:parent_id":102064899,
     "wof:placetype":"locality",

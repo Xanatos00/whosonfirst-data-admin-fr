@@ -140,6 +140,11 @@
         404403123
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"889cae534431f501f933e136ab8ccc3f",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360677965,
-    "wof:lastmodified":1564125942,
+    "wof:lastmodified":1603247177,
     "wof:name":"Nogaret",
     "wof:parent_id":102069015,
     "wof:placetype":"locality",

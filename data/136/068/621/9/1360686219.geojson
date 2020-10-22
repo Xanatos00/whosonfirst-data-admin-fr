@@ -9,7 +9,7 @@
     "geom:bbox":"6.494608,46.387865,6.494608,46.387865",
     "geom:latitude":46.387865,
     "geom:longitude":6.494608,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.387865,
     "lbl:longitude":6.494608,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686219,
-    "wof:lastmodified":1539986880,
+    "wof:lastmodified":1603247047,
     "wof:name":"Pont de Dranse",
     "wof:parent_id":404360693,
     "wof:placetype":"neighbourhood",

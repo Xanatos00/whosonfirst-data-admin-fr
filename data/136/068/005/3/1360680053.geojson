@@ -233,6 +233,11 @@
         404424779
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f81586b155feeabd51eb9f5bba3b3932",
     "wof:hierarchy":[
         {
@@ -248,7 +253,7 @@
         }
     ],
     "wof:id":1360680053,
-    "wof:lastmodified":1564125681,
+    "wof:lastmodified":1603247109,
     "wof:name":"Lux",
     "wof:parent_id":102070883,
     "wof:placetype":"locality",

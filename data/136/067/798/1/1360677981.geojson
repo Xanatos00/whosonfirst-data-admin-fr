@@ -113,6 +113,11 @@
         404403311
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9b4c29f20b7471c4e5587cd8d8892a5d",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360677981,
-    "wof:lastmodified":1564125920,
+    "wof:lastmodified":1603247174,
     "wof:name":"Montbrun",
     "wof:parent_id":102064915,
     "wof:placetype":"locality",

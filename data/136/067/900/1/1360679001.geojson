@@ -140,6 +140,11 @@
         404413201
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"36cc4fdd26f924aace913241707fef1b",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360679001,
-    "wof:lastmodified":1564125860,
+    "wof:lastmodified":1603247165,
     "wof:name":"Vaux-Lavalette",
     "wof:parent_id":102069437,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404372117,
         404228015,
+        404372117,
+        85633147,
         1108826389,
         136253037,
         102067869
@@ -63,6 +63,10 @@
         404372117
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b4b0f969ee7a9d8bb1202ef47a1f56f1",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674961,
-    "wof:lastmodified":1539928844,
+    "wof:lastmodified":1603247223,
     "wof:name":"Chateaubourg",
     "wof:parent_id":102067869,
     "wof:placetype":"locality",

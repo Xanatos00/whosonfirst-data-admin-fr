@@ -122,6 +122,11 @@
         404414623
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c1577f8182ec1acce0e8529c48f1013f",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360679145,
-    "wof:lastmodified":1564126429,
+    "wof:lastmodified":1603247245,
     "wof:name":"Villeret",
     "wof:parent_id":102065617,
     "wof:placetype":"locality",

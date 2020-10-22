@@ -9,7 +9,7 @@
     "geom:bbox":"0.7008045,44.835261,0.7008045,44.835261",
     "geom:latitude":44.835261,
     "geom:longitude":0.700805,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.835261,
     "lbl:longitude":0.700805,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685969,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247085,
     "wof:name":"Port-de-couze",
     "wof:parent_id":404381009,
     "wof:placetype":"neighbourhood",

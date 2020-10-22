@@ -105,6 +105,10 @@
         404386199
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bbcbd4178a70c0f3276f679dafcf1eaa",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360676369,
-    "wof:lastmodified":1564126874,
+    "wof:lastmodified":1603247304,
     "wof:name":"Saint-Germier",
     "wof:parent_id":102069363,
     "wof:placetype":"locality",

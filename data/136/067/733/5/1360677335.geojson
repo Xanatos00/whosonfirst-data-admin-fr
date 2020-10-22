@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404395863,
         404227751,
+        404395863,
+        85633147,
         1108826393,
         136253037,
         102064519
@@ -63,6 +63,10 @@
         404395863
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5a37fddd31b808d14ef5e513fc95d2fc",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677335,
-    "wof:lastmodified":1539928884,
+    "wof:lastmodified":1603247251,
     "wof:name":"Aubeguimont",
     "wof:parent_id":102064519,
     "wof:placetype":"locality",

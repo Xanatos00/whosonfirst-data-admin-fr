@@ -155,6 +155,11 @@
         404394359
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ab65591605832e6d45e226b057a40239",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360677203,
-    "wof:lastmodified":1564127036,
+    "wof:lastmodified":1603247326,
     "wof:name":"Mercuer",
     "wof:parent_id":102064627,
     "wof:placetype":"locality",

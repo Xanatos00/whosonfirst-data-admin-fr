@@ -117,6 +117,11 @@
         404401699
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"42fdf60dde7bed456e5ef41e9469bfa4",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360677819,
-    "wof:lastmodified":1564126916,
+    "wof:lastmodified":1603247310,
     "wof:name":"Saint-Gervais",
     "wof:parent_id":102067333,
     "wof:placetype":"locality",

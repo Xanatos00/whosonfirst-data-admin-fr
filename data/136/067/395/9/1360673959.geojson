@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404361673,
         404227599,
+        404361673,
+        85633147,
         1108826389,
         136253037,
         102069249
@@ -63,6 +63,10 @@
         404361673
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ee16f036c8b1e5a89ea453ef55dca918",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673959,
-    "wof:lastmodified":1539928824,
+    "wof:lastmodified":1603247247,
     "wof:name":"Sainte-Marguerite-Lafigere",
     "wof:parent_id":102069249,
     "wof:placetype":"locality",

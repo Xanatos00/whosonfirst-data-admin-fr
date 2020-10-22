@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404396337,
         404228271,
+        404396337,
+        85633147,
         1108826385,
         136253037,
         102066581
@@ -63,6 +63,10 @@
         404396337
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"16bc7fdcb2955e493a3ec852e0ea8a1b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677371,
-    "wof:lastmodified":1539928885,
+    "wof:lastmodified":1603247171,
     "wof:name":"Saint-Martial",
     "wof:parent_id":102066581,
     "wof:placetype":"locality",

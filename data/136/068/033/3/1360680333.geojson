@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683485,
         102191581,
-        85633147,
-        404427371,
         404227607,
+        404427371,
+        85633147,
         1108826387,
         136253037,
         102065215
@@ -63,6 +63,10 @@
         404427371
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"664108d56974444245c139e0dc8308de",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680333,
-    "wof:lastmodified":1539928936,
+    "wof:lastmodified":1603247108,
     "wof:name":"Saint-Couat-D'Aude",
     "wof:parent_id":102065215,
     "wof:placetype":"locality",

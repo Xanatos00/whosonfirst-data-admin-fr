@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404362095,
         404228235,
+        404362095,
+        85633147,
         1108826393,
         136253037,
         102071503
@@ -63,6 +63,10 @@
         404362095
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f485768f9b3161bcb485d25eb258e80c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674013,
-    "wof:lastmodified":1539928825,
+    "wof:lastmodified":1603247204,
     "wof:name":"Sainte-Cecile",
     "wof:parent_id":102071503,
     "wof:placetype":"locality",

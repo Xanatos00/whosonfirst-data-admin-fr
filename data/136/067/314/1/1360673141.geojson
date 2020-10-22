@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683517,
         102191581,
-        85633147,
-        404354075,
         404227829,
+        404354075,
+        85633147,
         1108826389,
         136253037,
         102064897
@@ -63,6 +63,10 @@
         404354075
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8bc86f2f7199afd61de499980bcd1ee2",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673141,
-    "wof:lastmodified":1539928795,
+    "wof:lastmodified":1603247243,
     "wof:name":"Tremouille",
     "wof:parent_id":102064897,
     "wof:placetype":"locality",

@@ -146,6 +146,11 @@
         404377183
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"17914189c114c6ec3bb0c96cb30b8ce6",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360675489,
-    "wof:lastmodified":1564126998,
+    "wof:lastmodified":1603247321,
     "wof:name":"Flaumont-Waudrechies",
     "wof:parent_id":102064673,
     "wof:placetype":"locality",

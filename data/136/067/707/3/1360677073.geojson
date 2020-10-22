@@ -146,6 +146,11 @@
         404393015
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a4cf0fe80ef14c737be51ed0a48eb4af",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360677073,
-    "wof:lastmodified":1564125976,
+    "wof:lastmodified":1603247182,
     "wof:name":"Treffort",
     "wof:parent_id":102067575,
     "wof:placetype":"locality",

@@ -122,6 +122,11 @@
         404398729
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"90f4128f353ec91d49fef9aaec936cf2",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360677571,
-    "wof:lastmodified":1564126566,
+    "wof:lastmodified":1603247264,
     "wof:name":"Bona",
     "wof:parent_id":102068655,
     "wof:placetype":"locality",

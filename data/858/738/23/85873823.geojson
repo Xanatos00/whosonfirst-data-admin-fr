@@ -9,7 +9,6 @@
     "geom:bbox":"2.336599,48.837145,2.349941,48.847325",
     "geom:latitude":48.841735,
     "geom:longitude":2.343853,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.841881,
     "lbl:longitude":2.34398,
@@ -99,13 +98,13 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894239,
         102191581,
-        85633147,
-        1159322569,
-        101751119,
         1158894275,
+        1159322569,
+        85633147,
         404227465,
+        101751119,
+        1158894239,
         85683497
     ],
     "wof:breaches":[],
@@ -134,10 +133,7 @@
         }
     ],
     "wof:id":85873823,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592442,
+    "wof:lastmodified":1603246971,
     "wof:name":"Val de Grace",
     "wof:parent_id":1158894275,
     "wof:placetype":"neighbourhood",

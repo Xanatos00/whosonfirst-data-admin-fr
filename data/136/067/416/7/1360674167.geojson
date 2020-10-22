@@ -119,6 +119,11 @@
         404363873
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6c59566456fbcf058fad99b8907ad273",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360674167,
-    "wof:lastmodified":1564126677,
+    "wof:lastmodified":1603247279,
     "wof:name":"Montgaillard",
     "wof:parent_id":102068403,
     "wof:placetype":"locality",

@@ -116,6 +116,11 @@
         404415517
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"036d235be88bc87426e1d5c6720453e5",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360679231,
-    "wof:lastmodified":1564126352,
+    "wof:lastmodified":1603247234,
     "wof:name":"Venon",
     "wof:parent_id":102071685,
     "wof:placetype":"locality",

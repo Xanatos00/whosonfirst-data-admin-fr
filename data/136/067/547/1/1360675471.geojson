@@ -110,6 +110,11 @@
         404376937
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1474518ff0a5f2eb0c51aa49bd03e3c0",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360675471,
-    "wof:lastmodified":1564126914,
+    "wof:lastmodified":1603247310,
     "wof:name":"Cuisy",
     "wof:parent_id":102066555,
     "wof:placetype":"locality",

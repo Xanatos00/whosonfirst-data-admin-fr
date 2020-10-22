@@ -9,7 +9,7 @@
     "geom:bbox":"1.124666,44.920823,1.124666,44.920823",
     "geom:latitude":44.920823,
     "geom:longitude":1.124666,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.920823,
     "lbl:longitude":1.124666,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1360687217,
-    "wof:lastmodified":1561833945,
+    "wof:lastmodified":1603247116,
     "wof:name":"Cabanes du Breuil",
     "wof:parent_id":404405837,
     "wof:placetype":"neighbourhood",

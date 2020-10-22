@@ -113,6 +113,11 @@
         404386977
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"14abf236b2cd66084716d34bab78c473",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360676431,
-    "wof:lastmodified":1564126006,
+    "wof:lastmodified":1603247186,
     "wof:name":"Le Gua",
     "wof:parent_id":102071019,
     "wof:placetype":"locality",

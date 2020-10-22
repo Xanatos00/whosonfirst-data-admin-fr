@@ -62,6 +62,10 @@
         404363463
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"133486a5027460fb17b20d9977e93ec5",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674137,
-    "wof:lastmodified":1539928828,
+    "wof:lastmodified":1603247191,
     "wof:name":"Fretoy",
     "wof:parent_id":102068669,
     "wof:placetype":"locality",

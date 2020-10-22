@@ -9,7 +9,7 @@
     "geom:bbox":"4.6173685,45.424961,4.6173685,45.424961",
     "geom:latitude":45.424961,
     "geom:longitude":4.617369,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.424961,
     "lbl:longitude":4.617369,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686741,
-    "wof:lastmodified":1539986887,
+    "wof:lastmodified":1603247051,
     "wof:name":"La Croix-du-Collet",
     "wof:parent_id":404411545,
     "wof:placetype":"neighbourhood",

@@ -140,6 +140,11 @@
         404410339
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3108f80f332d017c165ccc13c7fadaaa",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360678669,
-    "wof:lastmodified":1564126143,
+    "wof:lastmodified":1603247204,
     "wof:name":"Les Vallois",
     "wof:parent_id":102066065,
     "wof:placetype":"locality",

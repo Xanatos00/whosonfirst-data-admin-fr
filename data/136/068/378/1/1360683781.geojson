@@ -9,7 +9,7 @@
     "geom:bbox":"6.303837,45.2227385,6.303837,45.2227385",
     "geom:latitude":45.222738,
     "geom:longitude":6.303837,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.222738,
     "lbl:longitude":6.303837,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683781,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247075,
     "wof:name":"G\u00e9voudaz",
     "wof:parent_id":404351843,
     "wof:placetype":"neighbourhood",

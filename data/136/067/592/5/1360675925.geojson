@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683569,
         102191581,
-        85633147,
-        404381239,
         404227735,
+        404381239,
+        85633147,
         1108826389,
         136253037,
         102068923
@@ -68,6 +68,11 @@
         404381239
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6c491606e2570e90c94df8225852c711",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360675925,
-    "wof:lastmodified":1539928860,
+    "wof:lastmodified":1603247172,
     "wof:name":"Curis-Au-Mont-D'Or",
     "wof:parent_id":102068923,
     "wof:placetype":"locality",

@@ -112,6 +112,11 @@
         404408179
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"da2a5b15e4b17c6f852bc22cb31c2369",
     "wof:hierarchy":[
         {
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":1360678425,
-    "wof:lastmodified":1564126031,
+    "wof:lastmodified":1603247189,
     "wof:name":"Varize",
     "wof:parent_id":102068205,
     "wof:placetype":"locality",

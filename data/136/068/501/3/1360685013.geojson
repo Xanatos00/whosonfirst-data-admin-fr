@@ -9,7 +9,7 @@
     "geom:bbox":"2.418816,44.444005,2.418816,44.444005",
     "geom:latitude":44.444005,
     "geom:longitude":2.418816,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.444005,
     "lbl:longitude":2.418816,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685013,
-    "wof:lastmodified":1539986865,
+    "wof:lastmodified":1603247080,
     "wof:name":"Cassagnes le Bas",
     "wof:parent_id":404409065,
     "wof:placetype":"neighbourhood",

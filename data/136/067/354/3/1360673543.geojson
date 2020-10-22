@@ -152,6 +152,11 @@
         404357909
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"affb4dfd0fe41815c73181f5ffebaf30",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360673543,
-    "wof:lastmodified":1564125891,
+    "wof:lastmodified":1603247170,
     "wof:name":"Le Chefresne",
     "wof:parent_id":102069221,
     "wof:placetype":"locality",

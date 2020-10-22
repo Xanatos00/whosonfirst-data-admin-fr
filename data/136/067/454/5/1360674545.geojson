@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404367441,
         404227867,
+        404367441,
+        85633147,
         1108826387,
         136253037,
         102068207
@@ -68,6 +68,11 @@
         404367441
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"55c3a532fdd076d029cf0c64ccbac35b",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360674545,
-    "wof:lastmodified":1539928836,
+    "wof:lastmodified":1603247220,
     "wof:name":"Larroque-Sur-L'Osse",
     "wof:parent_id":102068207,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"6.713429,43.352894,6.713429,43.352894",
     "geom:latitude":43.352894,
     "geom:longitude":6.713429,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.352894,
     "lbl:longitude":6.713429,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686291,
-    "wof:lastmodified":1539986881,
+    "wof:lastmodified":1603247053,
     "wof:name":"Les-issambres-san-peire",
     "wof:parent_id":404347989,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683377,
         102191581,
-        85633147,
-        404379613,
         404227677,
+        404379613,
+        85633147,
         1108826389,
         136253037,
         102068539
@@ -63,6 +63,10 @@
         404379613
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"55ef348ffd60212fe5b6e427219650a0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675759,
-    "wof:lastmodified":1539928858,
+    "wof:lastmodified":1603247231,
     "wof:name":"Andrezieux-Boutheon",
     "wof:parent_id":102068539,
     "wof:placetype":"locality",

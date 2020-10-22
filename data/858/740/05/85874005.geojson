@@ -9,7 +9,6 @@
     "geom:bbox":"2.349478,48.883703,2.359975,48.901603",
     "geom:latitude":48.892147,
     "geom:longitude":2.355565,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.891086,
     "lbl:longitude":2.355992,
@@ -109,12 +108,12 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1095,
     "wof:belongsto":[
-        1158894269,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894269,
         85683497
     ],
     "wof:breaches":[],
@@ -142,10 +141,7 @@
         }
     ],
     "wof:id":85874005,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592442,
+    "wof:lastmodified":1603246972,
     "wof:name":"La Goutte d'Or",
     "wof:parent_id":1158894269,
     "wof:placetype":"neighbourhood",

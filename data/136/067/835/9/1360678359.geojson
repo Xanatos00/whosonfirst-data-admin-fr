@@ -149,6 +149,11 @@
         404407473
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0b9e91894aef47cdeb072826f60dd9c2",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360678359,
-    "wof:lastmodified":1564126194,
+    "wof:lastmodified":1603247212,
     "wof:name":"La Haye-Bellefond",
     "wof:parent_id":102069221,
     "wof:placetype":"locality",

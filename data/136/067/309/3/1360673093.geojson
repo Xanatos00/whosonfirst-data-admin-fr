@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683531,
         102191581,
-        85633147,
-        404353463,
         404227987,
+        404353463,
+        85633147,
         1108826385,
         136253037,
         102066127
@@ -63,6 +63,10 @@
         404353463
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"13bfdd1599df36bfcb24016d5481504d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673093,
-    "wof:lastmodified":1539928794,
+    "wof:lastmodified":1603247164,
     "wof:name":"Lauriere",
     "wof:parent_id":102066127,
     "wof:placetype":"locality",

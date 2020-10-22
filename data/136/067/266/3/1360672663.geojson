@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683217,
         102191581,
-        85633147,
-        404348783,
         404227765,
+        404348783,
+        85633147,
         1108826387,
         136253037,
         102066267
@@ -63,6 +63,10 @@
         404348783
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5b565ee4ad9054a58839bf17897729a3",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672663,
-    "wof:lastmodified":1539928785,
+    "wof:lastmodified":1603247207,
     "wof:name":"Saint-Paul-D'Espis",
     "wof:parent_id":102066267,
     "wof:placetype":"locality",

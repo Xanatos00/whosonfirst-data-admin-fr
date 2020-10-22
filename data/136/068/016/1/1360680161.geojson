@@ -110,6 +110,11 @@
         404425851
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e193c9bd160aecde38e16eda4774194c",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360680161,
-    "wof:lastmodified":1564125599,
+    "wof:lastmodified":1603247093,
     "wof:name":"Nointel",
     "wof:parent_id":102068031,
     "wof:placetype":"locality",

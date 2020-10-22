@@ -399,7 +399,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"6720",
     "statoids:as_of_date":"2010-01-01",
     "statoids:capital":"La Roche-sur-Yon",
@@ -444,7 +444,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1588976239,
+    "wof:lastmodified":1603246964,
     "wof:name":"Vend\u00e9e",
     "wof:parent_id":404227423,
     "wof:placetype":"region",

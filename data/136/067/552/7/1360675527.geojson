@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404377493,
         404227695,
+        404377493,
+        85633147,
         1108826393,
         136253037,
         102066617
@@ -63,6 +63,10 @@
         404377493
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"780154de68c51fdf7e75fc82a146bef0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675527,
-    "wof:lastmodified":1539928854,
+    "wof:lastmodified":1603247253,
     "wof:name":"Ceaux",
     "wof:parent_id":102066617,
     "wof:placetype":"locality",

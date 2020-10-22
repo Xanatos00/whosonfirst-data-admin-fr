@@ -9,7 +9,7 @@
     "geom:bbox":"4.1306875,44.278591,4.1306875,44.278591",
     "geom:latitude":44.278591,
     "geom:longitude":4.130687,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.278591,
     "lbl:longitude":4.130687,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683133,
-    "wof:lastmodified":1539986840,
+    "wof:lastmodified":1603247075,
     "wof:name":"Revety",
     "wof:parent_id":404366737,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,7 @@
     "geom:bbox":"-1.233773,45.924647,-1.233773,45.924647",
     "geom:latitude":45.924647,
     "geom:longitude":-1.233773,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.924647,
     "lbl:longitude":-1.233773,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682177,
-    "wof:lastmodified":1539986827,
+    "wof:lastmodified":1603247051,
     "wof:name":"La Baudissi\u00e8re",
     "wof:parent_id":404347877,
     "wof:placetype":"neighbourhood",

@@ -131,6 +131,11 @@
         404349791
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e5860b553ee9907989b9182bfe19bc07",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360672729,
-    "wof:lastmodified":1564126124,
+    "wof:lastmodified":1603247201,
     "wof:name":"Ouroux",
     "wof:parent_id":102068605,
     "wof:placetype":"locality",

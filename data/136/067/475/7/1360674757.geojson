@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683335,
         102191581,
-        85633147,
-        404369821,
         404227603,
+        404369821,
+        85633147,
         1108826387,
         136253037,
         102068143
@@ -63,6 +63,10 @@
         404369821
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"aca3130141f73f9b226e20461964c182",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674757,
-    "wof:lastmodified":1539928840,
+    "wof:lastmodified":1603247275,
     "wof:name":"Benac",
     "wof:parent_id":102068143,
     "wof:placetype":"locality",

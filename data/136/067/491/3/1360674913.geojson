@@ -128,6 +128,10 @@
         404371529
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b9fc04bac20e69cc5d19dbec96186fe3",
     "wof:hierarchy":[
         {
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":1360674913,
-    "wof:lastmodified":1564126275,
+    "wof:lastmodified":1603247223,
     "wof:name":"L'Orbrie",
     "wof:parent_id":102065479,
     "wof:placetype":"locality",

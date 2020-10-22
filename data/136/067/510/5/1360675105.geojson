@@ -69,9 +69,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404373299,
         404227619,
+        404373299,
+        85633147,
         1108826385,
         136253037,
         102068895
@@ -86,6 +86,11 @@
         404373299
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ae7cddb37befcdfa34bf4d1711595222",
     "wof:hierarchy":[
         {
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":1360675105,
-    "wof:lastmodified":1539928846,
+    "wof:lastmodified":1603247224,
     "wof:name":"La Chapelle",
     "wof:parent_id":102068895,
     "wof:placetype":"locality",

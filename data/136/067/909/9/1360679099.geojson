@@ -161,6 +161,11 @@
         404414089
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fa7a6b69d79ecb68c94bb2aa920452dc",
     "wof:hierarchy":[
         {
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":1360679099,
-    "wof:lastmodified":1564125819,
+    "wof:lastmodified":1603247160,
     "wof:name":"Fierville-Bray",
     "wof:parent_id":102065515,
     "wof:placetype":"locality",

@@ -134,6 +134,11 @@
         404376107
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"67a60da7fa490ce9765b7ba88cb0af64",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360675371,
-    "wof:lastmodified":1564126442,
+    "wof:lastmodified":1603247246,
     "wof:name":"Biron",
     "wof:parent_id":102067139,
     "wof:placetype":"locality",

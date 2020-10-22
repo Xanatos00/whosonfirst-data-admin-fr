@@ -131,6 +131,11 @@
         404361635
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3c8310aa19fd08f23439848e8959ad3d",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360673957,
-    "wof:lastmodified":1564126444,
+    "wof:lastmodified":1603247247,
     "wof:name":"Berneuil",
     "wof:parent_id":102067417,
     "wof:placetype":"locality",

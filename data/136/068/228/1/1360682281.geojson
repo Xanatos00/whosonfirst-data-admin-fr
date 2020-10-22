@@ -9,7 +9,7 @@
     "geom:bbox":"-3.050251,47.577944,-3.050251,47.577944",
     "geom:latitude":47.577944,
     "geom:longitude":-3.050251,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.577944,
     "lbl:longitude":-3.050251,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1360682281,
-    "wof:lastmodified":1539986828,
+    "wof:lastmodified":1603247052,
     "wof:name":"Le Men Du",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

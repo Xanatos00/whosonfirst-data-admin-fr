@@ -143,6 +143,11 @@
         404407497
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d5e393c03e98be5979cd3abec03c1aa3",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360678371,
-    "wof:lastmodified":1564126809,
+    "wof:lastmodified":1603247296,
     "wof:name":"Poubeau",
     "wof:parent_id":102064903,
     "wof:placetype":"locality",

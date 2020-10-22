@@ -110,6 +110,11 @@
         404371805
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1c3fe2e3bd4ac4cdfb120d6404e8f818",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360674933,
-    "wof:lastmodified":1564126745,
+    "wof:lastmodified":1603247287,
     "wof:name":"Sancy",
     "wof:parent_id":102064499,
     "wof:placetype":"locality",

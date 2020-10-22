@@ -134,6 +134,11 @@
         404395673
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"11404618fc8db75da1e67f5f3b87448b",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360677323,
-    "wof:lastmodified":1564126520,
+    "wof:lastmodified":1603247257,
     "wof:name":"Rurey",
     "wof:parent_id":102068337,
     "wof:placetype":"locality",

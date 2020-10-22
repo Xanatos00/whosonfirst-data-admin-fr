@@ -9,7 +9,7 @@
     "geom:bbox":"5.578994,45.020519,5.578994,45.020519",
     "geom:latitude":45.020519,
     "geom:longitude":5.578994,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.020519,
     "lbl:longitude":5.578994,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683905,
-    "wof:lastmodified":1539986850,
+    "wof:lastmodified":1603247041,
     "wof:name":"Pr\u00e9lenfrey",
     "wof:parent_id":404366889,
     "wof:placetype":"neighbourhood",

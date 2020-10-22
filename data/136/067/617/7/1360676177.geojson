@@ -151,6 +151,11 @@
         404383885
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4a43f46be0405473af0c62071af2613e",
     "wof:hierarchy":[
         {
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":1360676177,
-    "wof:lastmodified":1564126033,
+    "wof:lastmodified":1603247190,
     "wof:name":"Grosseto-Prugna",
     "wof:parent_id":102071473,
     "wof:placetype":"locality",

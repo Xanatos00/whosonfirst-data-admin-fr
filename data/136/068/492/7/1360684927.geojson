@@ -9,7 +9,7 @@
     "geom:bbox":"1.550522,42.681867,1.550522,42.681867",
     "geom:latitude":42.681867,
     "geom:longitude":1.550522,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.681867,
     "lbl:longitude":1.550522,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684927,
-    "wof:lastmodified":1539986863,
+    "wof:lastmodified":1603247110,
     "wof:name":"Peyregrand",
     "wof:parent_id":404353615,
     "wof:placetype":"neighbourhood",

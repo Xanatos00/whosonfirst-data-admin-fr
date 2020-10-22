@@ -9,7 +9,7 @@
     "geom:bbox":"6.600133,43.368643,6.600133,43.368643",
     "geom:latitude":43.368643,
     "geom:longitude":6.600133,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.368643,
     "lbl:longitude":6.600133,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685347,
-    "wof:lastmodified":1539986869,
+    "wof:lastmodified":1603247035,
     "wof:name":"Les Richards",
     "wof:parent_id":404402997,
     "wof:placetype":"neighbourhood",

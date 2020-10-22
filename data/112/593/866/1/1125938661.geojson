@@ -9,7 +9,7 @@
     "geom:bbox":"6.44339031464,45.5743837229,6.55018457464,45.646583999",
     "geom:latitude":45.609701,
     "geom:longitude":6.497379,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.5918,
     "lbl:longitude":6.456066,
@@ -339,7 +339,7 @@
         }
     ],
     "wof:id":1125938661,
-    "wof:lastmodified":1582325632,
+    "wof:lastmodified":1603248562,
     "wof:name":"Cevins",
     "wof:parent_id":404360285,
     "wof:placetype":"locality",

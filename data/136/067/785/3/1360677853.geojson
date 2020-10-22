@@ -137,6 +137,11 @@
         404402077
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"03c3a9c104718f5c50a1418c9ef223d0",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360677853,
-    "wof:lastmodified":1564126343,
+    "wof:lastmodified":1603247232,
     "wof:name":"Terre-Clapier",
     "wof:parent_id":102069101,
     "wof:placetype":"locality",

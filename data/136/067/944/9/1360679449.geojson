@@ -155,6 +155,11 @@
         404418005
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e13bd03afeecc10b428f6e6f4de324c7",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360679449,
-    "wof:lastmodified":1564127014,
+    "wof:lastmodified":1603247323,
     "wof:name":"Beaurain",
     "wof:parent_id":102071739,
     "wof:placetype":"locality",

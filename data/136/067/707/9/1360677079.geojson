@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404393083,
         404227637,
+        404393083,
+        85633147,
         1108826395,
         136253037,
         102068337
@@ -63,6 +63,10 @@
         404393083
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"96f8e93bec27fc0ace586190f3441bef",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677079,
-    "wof:lastmodified":1539928880,
+    "wof:lastmodified":1603247181,
     "wof:name":"Chatillon-Sur-Lison",
     "wof:parent_id":102068337,
     "wof:placetype":"locality",

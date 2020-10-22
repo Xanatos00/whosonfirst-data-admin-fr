@@ -9,7 +9,7 @@
     "geom:bbox":"1.14028,47.853271,1.14028,47.853271",
     "geom:latitude":47.853271,
     "geom:longitude":1.14028,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.853271,
     "lbl:longitude":1.14028,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685899,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247076,
     "wof:name":"Chicheray",
     "wof:parent_id":404415661,
     "wof:placetype":"neighbourhood",

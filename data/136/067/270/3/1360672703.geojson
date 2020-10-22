@@ -119,6 +119,11 @@
         404349451
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2a3d713b0641b969c4839abc52979212",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360672703,
-    "wof:lastmodified":1564126600,
+    "wof:lastmodified":1603247268,
     "wof:name":"Portes",
     "wof:parent_id":102066229,
     "wof:placetype":"locality",

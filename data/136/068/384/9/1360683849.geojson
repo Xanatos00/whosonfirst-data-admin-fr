@@ -9,7 +9,7 @@
     "geom:bbox":"-1.125669,45.789791,-1.125669,45.789791",
     "geom:latitude":45.789791,
     "geom:longitude":-1.125669,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.789791,
     "lbl:longitude":-1.125669,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683849,
-    "wof:lastmodified":1539986849,
+    "wof:lastmodified":1603247070,
     "wof:name":"La Cayenne",
     "wof:parent_id":404390571,
     "wof:placetype":"neighbourhood",

@@ -127,6 +127,11 @@
         404412071
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8ba8cc626b77afb50ed9a3a911f30f81",
     "wof:hierarchy":[
         {
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":1360678901,
-    "wof:lastmodified":1564126871,
+    "wof:lastmodified":1603247304,
     "wof:name":"Fontenay",
     "wof:parent_id":102068681,
     "wof:placetype":"locality",

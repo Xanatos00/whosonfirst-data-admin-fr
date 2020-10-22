@@ -9,7 +9,7 @@
     "geom:bbox":"-2.230911,48.048761,-2.230911,48.048761",
     "geom:latitude":48.048761,
     "geom:longitude":-2.230911,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.048761,
     "lbl:longitude":-2.230911,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686685,
-    "wof:lastmodified":1539986886,
+    "wof:lastmodified":1603247066,
     "wof:name":"Vaubossard",
     "wof:parent_id":404355395,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404408667,
         404227657,
+        404408667,
+        85633147,
         1108826385,
         136253037,
         102066991
@@ -63,6 +63,10 @@
         404408667
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a6a0350f1c37c91078a2d7a0bc9eab59",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678481,
-    "wof:lastmodified":1539928905,
+    "wof:lastmodified":1603247273,
     "wof:name":"Saint-Seurin-De-Bourg",
     "wof:parent_id":102066991,
     "wof:placetype":"locality",

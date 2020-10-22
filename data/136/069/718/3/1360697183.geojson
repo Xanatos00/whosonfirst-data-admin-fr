@@ -9,7 +9,6 @@
     "geom:bbox":"0.705022388031,46.5640371738,0.715539555697,46.5718513283",
     "geom:latitude":46.568703,
     "geom:longitude":0.710117,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":46.570055,
     "lbl:longitude":0.710037,
@@ -78,10 +77,7 @@
         }
     ],
     "wof:id":1360697183,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1540416476,
+    "wof:lastmodified":1603247159,
     "wof:name":"L'Espinasse",
     "wof:parent_id":404350167,
     "wof:placetype":"neighbourhood",

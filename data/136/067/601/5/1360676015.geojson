@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404382167,
         404228239,
+        404382167,
+        85633147,
         1108826391,
         136253037,
         102066205
@@ -63,6 +63,10 @@
         404382167
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"23e0d88fc7ad8818e8a3a57b8652a8f1",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676015,
-    "wof:lastmodified":1539928862,
+    "wof:lastmodified":1603247296,
     "wof:name":"Tramont-Emy",
     "wof:parent_id":102066205,
     "wof:placetype":"locality",

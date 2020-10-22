@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683247,
         102191581,
-        85633147,
-        404411191,
         404227799,
+        404411191,
+        85633147,
         1108826399,
         136253037,
         102069807
@@ -63,6 +63,10 @@
         404411191
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1add67884ded3f8bf717c75955fd4cd9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678811,
-    "wof:lastmodified":1539928910,
+    "wof:lastmodified":1603247200,
     "wof:name":"Goudelancourt-Les-Pierrepont",
     "wof:parent_id":102069807,
     "wof:placetype":"locality",

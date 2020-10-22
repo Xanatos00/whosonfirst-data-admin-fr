@@ -135,6 +135,10 @@
         404368491
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b9b42642d11c3d8109e023d97b49a721",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360674665,
-    "wof:lastmodified":1564126843,
+    "wof:lastmodified":1603247300,
     "wof:name":"Saint-Point",
     "wof:parent_id":102071581,
     "wof:placetype":"locality",

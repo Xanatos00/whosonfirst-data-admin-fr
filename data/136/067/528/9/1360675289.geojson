@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404375107,
         404227599,
+        404375107,
+        85633147,
         1108826389,
         136253037,
         102066213
@@ -63,6 +63,10 @@
         404375107
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0cfc4e66b1d105bd870bfc80f489620a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675289,
-    "wof:lastmodified":1539928849,
+    "wof:lastmodified":1603247226,
     "wof:name":"Largentiere",
     "wof:parent_id":102066213,
     "wof:placetype":"locality",

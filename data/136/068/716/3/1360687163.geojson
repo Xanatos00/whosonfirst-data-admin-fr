@@ -9,7 +9,7 @@
     "geom:bbox":"9.335506,41.560233,9.335506,41.560233",
     "geom:latitude":41.560233,
     "geom:longitude":9.335506,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":41.560233,
     "lbl:longitude":9.335506,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687163,
-    "wof:lastmodified":1539986892,
+    "wof:lastmodified":1603247121,
     "wof:name":"Piccuvaghjia",
     "wof:parent_id":404386991,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,7 @@
     "geom:bbox":"1.590532,50.868378,1.590532,50.868378",
     "geom:latitude":50.868378,
     "geom:longitude":1.590532,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":50.868378,
     "lbl:longitude":1.590532,
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1360684399,
-    "wof:lastmodified":1564125443,
+    "wof:lastmodified":1603247056,
     "wof:name":"Cap Gris-Nez",
     "wof:parent_id":404349239,
     "wof:placetype":"neighbourhood",

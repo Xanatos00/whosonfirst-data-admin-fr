@@ -97,6 +97,11 @@
         404388355
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8aac828644338647abf95b2df2e222a0",
     "wof:hierarchy":[
         {
@@ -111,7 +116,7 @@
         }
     ],
     "wof:id":1360676561,
-    "wof:lastmodified":1564126192,
+    "wof:lastmodified":1603247211,
     "wof:name":"Cures",
     "wof:parent_id":102065719,
     "wof:placetype":"locality",

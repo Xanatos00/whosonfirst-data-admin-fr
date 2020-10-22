@@ -113,6 +113,11 @@
         404380127
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e58bc11a31213172a57566d615504917",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360675793,
-    "wof:lastmodified":1564126979,
+    "wof:lastmodified":1603247319,
     "wof:name":"Les Loges",
     "wof:parent_id":102064413,
     "wof:placetype":"locality",

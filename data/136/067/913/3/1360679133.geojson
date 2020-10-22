@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683359,
         102191581,
-        85633147,
-        404414507,
         404227713,
+        404414507,
+        85633147,
         1108826395,
         136253037,
         102066623
@@ -63,6 +63,10 @@
         404414507
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e7f111d7c54299261ed46d76a3e92d5f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679133,
-    "wof:lastmodified":1539928916,
+    "wof:lastmodified":1603247243,
     "wof:name":"Remilly",
     "wof:parent_id":102066623,
     "wof:placetype":"locality",

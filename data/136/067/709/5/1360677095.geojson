@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404393325,
         404228207,
+        404393325,
+        85633147,
         1108826393,
         136253037,
         102064413
@@ -63,6 +63,10 @@
         404393325
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d4cd9bd16ddc886fd3ad92c0e5eb7339",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677095,
-    "wof:lastmodified":1539928881,
+    "wof:lastmodified":1603247177,
     "wof:name":"Saint-Georges-D'Aunay",
     "wof:parent_id":102064413,
     "wof:placetype":"locality",

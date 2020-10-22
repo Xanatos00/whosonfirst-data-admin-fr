@@ -140,6 +140,11 @@
         404359735
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3b7eee4027407ee78ea7d8e05c9fb11a",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360673715,
-    "wof:lastmodified":1564126367,
+    "wof:lastmodified":1603247235,
     "wof:name":"Lachaux",
     "wof:parent_id":102066007,
     "wof:placetype":"locality",

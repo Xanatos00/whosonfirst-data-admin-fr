@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404401759,
         404228267,
+        404401759,
+        85633147,
         1108826399,
         136253037,
         102068869
@@ -63,6 +63,10 @@
         404401759
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d2a7ae619cf7dfa97a7b4cf85c5f5f1f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677827,
-    "wof:lastmodified":1539928893,
+    "wof:lastmodified":1603247234,
     "wof:name":"Ugny-L'Equipee",
     "wof:parent_id":102068869,
     "wof:placetype":"locality",

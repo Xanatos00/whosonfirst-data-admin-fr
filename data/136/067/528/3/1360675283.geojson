@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404375145,
         404228051,
+        404375145,
+        85633147,
         1108826395,
         136253037,
         102069379
@@ -63,6 +63,10 @@
         404375145
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8349f174408aec18d760140b64ee8039",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675283,
-    "wof:lastmodified":1539928849,
+    "wof:lastmodified":1603247226,
     "wof:name":"Magny-Chatelard",
     "wof:parent_id":102069379,
     "wof:placetype":"locality",

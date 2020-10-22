@@ -146,6 +146,11 @@
         404347495
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0af140d3e586d38097e8c6a3e5a14281",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360672549,
-    "wof:lastmodified":1564126782,
+    "wof:lastmodified":1603247292,
     "wof:name":"Chanteraine",
     "wof:parent_id":102066251,
     "wof:placetype":"locality",

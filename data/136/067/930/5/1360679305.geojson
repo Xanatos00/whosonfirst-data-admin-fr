@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404416285,
         404228275,
+        404416285,
+        85633147,
         1108826385,
         136253037,
         102070073
@@ -63,6 +63,10 @@
         404416285
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6147177aa65a893b17d3cf7638f941fa",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679305,
-    "wof:lastmodified":1539928919,
+    "wof:lastmodified":1603247176,
     "wof:name":"Saint-Christophe-Des-Bardes",
     "wof:parent_id":102070073,
     "wof:placetype":"locality",

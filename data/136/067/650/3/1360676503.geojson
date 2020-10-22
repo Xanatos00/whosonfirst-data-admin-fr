@@ -104,6 +104,10 @@
         404387753
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3b48a7e730b9a0a49dc73d4d2ff79a04",
     "wof:hierarchy":[
         {
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1360676503,
-    "wof:lastmodified":1564126282,
+    "wof:lastmodified":1603247223,
     "wof:name":"Saint-Caprais",
     "wof:parent_id":102067375,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"-3.00785,48.800644,-3.00785,48.800644",
     "geom:latitude":48.800644,
     "geom:longitude":-3.00785,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":48.800644,
     "lbl:longitude":-3.00785,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687879,
-    "wof:lastmodified":1539986902,
+    "wof:lastmodified":1603247118,
     "wof:name":"Pors-Even",
     "wof:parent_id":404368577,
     "wof:placetype":"neighbourhood",

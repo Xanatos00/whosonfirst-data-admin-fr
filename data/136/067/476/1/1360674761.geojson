@@ -144,6 +144,10 @@
         404369889
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fbd21a4276dc351c565194f94d1e36dd",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360674761,
-    "wof:lastmodified":1564126016,
+    "wof:lastmodified":1603247187,
     "wof:name":"Saint-Trojan",
     "wof:parent_id":102066991,
     "wof:placetype":"locality",

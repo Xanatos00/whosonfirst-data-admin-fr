@@ -9,7 +9,7 @@
     "geom:bbox":"-2.39136,47.286991,-2.39136,47.286991",
     "geom:latitude":47.286991,
     "geom:longitude":-2.39136,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.286991,
     "lbl:longitude":-2.39136,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687647,
-    "wof:lastmodified":1539986899,
+    "wof:lastmodified":1603247032,
     "wof:name":"La Baule",
     "wof:parent_id":404408279,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404402125,
         404227883,
+        404402125,
+        85633147,
         1108826395,
         136253037,
         102068213
@@ -63,6 +63,10 @@
         404402125
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"093a721a67c9db426a1447ba637fa819",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677859,
-    "wof:lastmodified":1539928894,
+    "wof:lastmodified":1603247232,
     "wof:name":"Ecrille",
     "wof:parent_id":102068213,
     "wof:placetype":"locality",

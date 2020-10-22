@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683185,
         102191581,
-        85633147,
-        404374391,
         404227775,
+        404374391,
+        85633147,
         1108826385,
         136253037,
         102067597
@@ -63,6 +63,10 @@
         404374391
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9bfd4784f8ae63b659138a7be3360dde",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675201,
-    "wof:lastmodified":1539928848,
+    "wof:lastmodified":1603247237,
     "wof:name":"Derce",
     "wof:parent_id":102067597,
     "wof:placetype":"locality",

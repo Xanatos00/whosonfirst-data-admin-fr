@@ -9,7 +9,7 @@
     "geom:bbox":"6.164789,44.6913,6.164789,44.6913",
     "geom:latitude":44.6913,
     "geom:longitude":6.164789,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.6913,
     "lbl:longitude":6.164789,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686821,
-    "wof:lastmodified":1539986888,
+    "wof:lastmodified":1603247090,
     "wof:name":"Chaillol 1600-station",
     "wof:parent_id":404358693,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-1.570422,47.258069,-1.570422,47.258069",
     "geom:latitude":47.258069,
     "geom:longitude":-1.570422,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":47.258069,
     "lbl:longitude":-1.570422,
@@ -102,10 +101,7 @@
         }
     ],
     "wof:id":85897707,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322803,
+    "wof:lastmodified":1603246972,
     "wof:name":"Nantes-Nord",
     "wof:parent_id":101749589,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,7 @@
     "geom:bbox":"3.121389,44.091936,3.121389,44.091936",
     "geom:latitude":44.091936,
     "geom:longitude":3.121389,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.091936,
     "lbl:longitude":3.121389,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685975,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247082,
     "wof:name":"Massebiau",
     "wof:parent_id":404348401,
     "wof:placetype":"neighbourhood",

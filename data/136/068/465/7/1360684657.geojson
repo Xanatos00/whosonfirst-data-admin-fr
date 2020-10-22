@@ -9,7 +9,7 @@
     "geom:bbox":"6.624069,46.404453,6.624069,46.404453",
     "geom:latitude":46.404453,
     "geom:longitude":6.624069,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.404453,
     "lbl:longitude":6.624069,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684657,
-    "wof:lastmodified":1539986860,
+    "wof:lastmodified":1603247066,
     "wof:name":"Petite Rive",
     "wof:parent_id":404411479,
     "wof:placetype":"neighbourhood",

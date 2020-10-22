@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404415925,
         404227751,
+        404415925,
+        85633147,
         1108826393,
         136253037,
         102067775
@@ -68,6 +68,11 @@
         404415925
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fab784dca9b0980c8f927be04eeeeed3",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679261,
-    "wof:lastmodified":1539928918,
+    "wof:lastmodified":1603247317,
     "wof:name":"Touffreville-Sur-Eu",
     "wof:parent_id":102067775,
     "wof:placetype":"locality",

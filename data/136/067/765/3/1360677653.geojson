@@ -116,6 +116,11 @@
         404399521
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fed409d40f872311714e81a3270331dc",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360677653,
-    "wof:lastmodified":1564125928,
+    "wof:lastmodified":1603247175,
     "wof:name":"Chappes",
     "wof:parent_id":102065509,
     "wof:placetype":"locality",

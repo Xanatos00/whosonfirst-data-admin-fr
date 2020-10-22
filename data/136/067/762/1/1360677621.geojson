@@ -57,9 +57,9 @@
     "wof:belongsto":[
         85683569,
         102191581,
-        85633147,
-        404399285,
         404227949,
+        404399285,
+        85633147,
         1108826389,
         136253037,
         102071653
@@ -74,6 +74,11 @@
         404399285
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"41d1e721a036b1d91de85e4615420dee",
     "wof:hierarchy":[
         {
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":1360677621,
-    "wof:lastmodified":1539928890,
+    "wof:lastmodified":1603247177,
     "wof:name":"Vaux-En-Beaujolais",
     "wof:parent_id":102071653,
     "wof:placetype":"locality",

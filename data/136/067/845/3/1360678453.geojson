@@ -111,6 +111,10 @@
         404408411
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c09817e3f816b718da1b6a44d88aead5",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360678453,
-    "wof:lastmodified":1564126022,
+    "wof:lastmodified":1603247188,
     "wof:name":"Saint-Mard",
     "wof:parent_id":102065107,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404372441,
         404227915,
+        404372441,
+        85633147,
         1108826391,
         136253037,
         102065313
@@ -63,6 +63,10 @@
         404372441
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d6eceef7ce3074b63b0246193972a799",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674997,
-    "wof:lastmodified":1539928844,
+    "wof:lastmodified":1603247211,
     "wof:name":"Fremenil",
     "wof:parent_id":102065313,
     "wof:placetype":"locality",

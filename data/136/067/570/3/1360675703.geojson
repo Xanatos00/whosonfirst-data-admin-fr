@@ -136,6 +136,11 @@
         404379175
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3d49f009ca6998b3ec439919e862911d",
     "wof:hierarchy":[
         {
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":1360675703,
-    "wof:lastmodified":1564126995,
+    "wof:lastmodified":1603247321,
     "wof:name":"Pansey",
     "wof:parent_id":102068459,
     "wof:placetype":"locality",

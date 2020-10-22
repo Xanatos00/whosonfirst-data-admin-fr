@@ -9,7 +9,7 @@
     "geom:bbox":"2.866058,42.464246,2.866058,42.464246",
     "geom:latitude":42.464246,
     "geom:longitude":2.866058,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.464246,
     "lbl:longitude":2.866058,
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1360685465,
-    "wof:lastmodified":1563280250,
+    "wof:lastmodified":1603247119,
     "wof:name":"Els Limits",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

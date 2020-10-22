@@ -62,6 +62,10 @@
         404393993
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ae377eaca923645b2607a95890f6f300",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677167,
-    "wof:lastmodified":1539928882,
+    "wof:lastmodified":1603247324,
     "wof:name":"Chemery",
     "wof:parent_id":102067705,
     "wof:placetype":"locality",

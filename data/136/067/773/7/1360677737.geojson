@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683445,
         102191581,
-        85633147,
-        404400581,
         404228125,
+        404400581,
+        85633147,
         1108826399,
         136253037,
         102064393
@@ -63,6 +63,10 @@
         404400581
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a9a4b6042c7fd1ccc60bbda5e37ae8bb",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677737,
-    "wof:lastmodified":1539928892,
+    "wof:lastmodified":1603247318,
     "wof:name":"Estrees",
     "wof:parent_id":102064393,
     "wof:placetype":"locality",

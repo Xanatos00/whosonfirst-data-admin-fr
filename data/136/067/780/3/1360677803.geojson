@@ -62,6 +62,10 @@
         404401605
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9f9c62b0c05db6279e669e8a00d5f607",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677803,
-    "wof:lastmodified":1539928893,
+    "wof:lastmodified":1603247319,
     "wof:name":"La Chaussee-D'Ivry",
     "wof:parent_id":102064381,
     "wof:placetype":"locality",

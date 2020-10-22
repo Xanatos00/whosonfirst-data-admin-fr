@@ -144,6 +144,10 @@
         404381553
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6012ebf9aa5b7b921f2099124ed50186",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360675949,
-    "wof:lastmodified":1564125846,
+    "wof:lastmodified":1603247163,
     "wof:name":"Saint-Jean-Kourtzerode",
     "wof:parent_id":102068873,
     "wof:placetype":"locality",

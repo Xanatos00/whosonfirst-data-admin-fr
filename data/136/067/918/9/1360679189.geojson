@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683185,
         102191581,
-        85633147,
-        404415155,
         404227775,
+        404415155,
+        85633147,
         1108826385,
         136253037,
         102067225
@@ -63,6 +63,10 @@
         404415155
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c9ad87400dcb734547d722746d3864e2",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679189,
-    "wof:lastmodified":1539928917,
+    "wof:lastmodified":1603247311,
     "wof:name":"La Chaussee",
     "wof:parent_id":102067225,
     "wof:placetype":"locality",

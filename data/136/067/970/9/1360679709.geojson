@@ -137,6 +137,11 @@
         404421169
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e3cfba70f926e233f1c7d56a8ce2cba9",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360679709,
-    "wof:lastmodified":1564126302,
+    "wof:lastmodified":1603247226,
     "wof:name":"Frontenay",
     "wof:parent_id":102070139,
     "wof:placetype":"locality",

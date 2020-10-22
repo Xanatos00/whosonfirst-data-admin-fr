@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404419183,
         404227825,
+        404419183,
+        85633147,
         1108826393,
         136253037,
         102071479
@@ -63,6 +63,10 @@
         404419183
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1f53aaac8a5b1394ccdd7b70a2d09437",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679519,
-    "wof:lastmodified":1539928922,
+    "wof:lastmodified":1603247261,
     "wof:name":"Saint-Aubin-D'Arquenay",
     "wof:parent_id":102071479,
     "wof:placetype":"locality",

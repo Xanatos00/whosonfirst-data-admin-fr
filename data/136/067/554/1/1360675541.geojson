@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404377455,
         404227853,
+        404377455,
+        85633147,
         1108826393,
         136253037,
         102066091
@@ -63,6 +63,10 @@
         404377455
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5caf982632a3561ec55fb53f96b4fc55",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675541,
-    "wof:lastmodified":1539928854,
+    "wof:lastmodified":1603247266,
     "wof:name":"Saint-Jean-Du-Thenney",
     "wof:parent_id":102066091,
     "wof:placetype":"locality",

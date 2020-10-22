@@ -117,6 +117,10 @@
         404397095
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ca757b5d452f3a889753b4ea90f09b22",
     "wof:hierarchy":[
         {
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1360677451,
-    "wof:lastmodified":1564127005,
+    "wof:lastmodified":1603247322,
     "wof:name":"Saint-Agnan",
     "wof:parent_id":102068483,
     "wof:placetype":"locality",

@@ -140,6 +140,11 @@
         404376135
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"808ae7c68190eb0530fd3df802c638ab",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360675385,
-    "wof:lastmodified":1564126529,
+    "wof:lastmodified":1603247258,
     "wof:name":"Le Thil",
     "wof:parent_id":102066987,
     "wof:placetype":"locality",

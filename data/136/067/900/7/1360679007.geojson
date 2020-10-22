@@ -131,6 +131,11 @@
         404413287
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"295663531769283ae20b96b4e5ba3478",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360679007,
-    "wof:lastmodified":1564125859,
+    "wof:lastmodified":1603247165,
     "wof:name":"Fontenelle",
     "wof:parent_id":102065199,
     "wof:placetype":"locality",

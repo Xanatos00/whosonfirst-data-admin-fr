@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404402709,
         404227637,
+        404402709,
+        85633147,
         1108826395,
         136253037,
         102064459
@@ -68,6 +68,11 @@
         404402709
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ee3cb5f1e6f494b58d4dfced459c85e6",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677917,
-    "wof:lastmodified":1539928895,
+    "wof:lastmodified":1603247175,
     "wof:name":"Chevigney-Sur-L'Ognon",
     "wof:parent_id":102064459,
     "wof:placetype":"locality",

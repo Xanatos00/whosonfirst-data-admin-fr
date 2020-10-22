@@ -62,6 +62,10 @@
         404412927
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7de2a4d1b77d962a4780a7aba4d113d6",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360678985,
-    "wof:lastmodified":1539928913,
+    "wof:lastmodified":1603247294,
     "wof:name":"Preaux",
     "wof:parent_id":102066619,
     "wof:placetype":"locality",

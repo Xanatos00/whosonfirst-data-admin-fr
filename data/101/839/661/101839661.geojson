@@ -9,7 +9,7 @@
     "geom:bbox":"2.97827688045,50.72511716,3.0493895728,50.774252222",
     "geom:latitude":50.749864,
     "geom:longitude":3.016923,
-    "geonames:id":"2800195,3024102",
+    "gn:id":"2800195,3024102",
     "gn:population":12548,
     "iso:country":"FR",
     "lbl:latitude":50.75957,
@@ -281,7 +281,7 @@
         }
     ],
     "wof:id":101839661,
-    "wof:lastmodified":1582323756,
+    "wof:lastmodified":1603248146,
     "wof:name":"Comines",
     "wof:parent_id":404402821,
     "wof:placetype":"locality",

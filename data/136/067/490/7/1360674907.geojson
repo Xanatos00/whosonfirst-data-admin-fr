@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683223,
         102191581,
-        85633147,
-        404371525,
         404228179,
+        404371525,
+        85633147,
         1108826391,
         136253037,
         102064595
@@ -63,6 +63,10 @@
         404371525
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"98aed130e35f8c82abb26c05dc03b0fb",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674907,
-    "wof:lastmodified":1539928843,
+    "wof:lastmodified":1603247211,
     "wof:name":"Bois-De-Champ",
     "wof:parent_id":102064595,
     "wof:placetype":"locality",

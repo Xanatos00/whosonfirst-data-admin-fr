@@ -125,6 +125,11 @@
         404362713
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cb5220a545c26b76d777ccfac449a4d6",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360674077,
-    "wof:lastmodified":1564126232,
+    "wof:lastmodified":1603247217,
     "wof:name":"Montpezat",
     "wof:parent_id":102069453,
     "wof:placetype":"locality",

@@ -141,6 +141,10 @@
         404372535
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e4208712c30a9e63908d6d974ae3487a",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360674991,
-    "wof:lastmodified":1564126193,
+    "wof:lastmodified":1603247211,
     "wof:name":"Saint-Pierrevillers",
     "wof:parent_id":102067909,
     "wof:placetype":"locality",

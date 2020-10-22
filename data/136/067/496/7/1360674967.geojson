@@ -116,6 +116,11 @@
         404372227
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"87432210a149d9d1a6ab2a418a975c9b",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360674967,
-    "wof:lastmodified":1564126278,
+    "wof:lastmodified":1603247223,
     "wof:name":"Pers",
     "wof:parent_id":102069523,
     "wof:placetype":"locality",

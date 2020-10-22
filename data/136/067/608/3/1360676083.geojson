@@ -155,6 +155,11 @@
         404382827
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"51cbc1a690f27545821b260bc2f112ab",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360676083,
-    "wof:lastmodified":1564126782,
+    "wof:lastmodified":1603247292,
     "wof:name":"Rougnat",
     "wof:parent_id":102064641,
     "wof:placetype":"locality",

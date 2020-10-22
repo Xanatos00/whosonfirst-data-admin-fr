@@ -152,6 +152,11 @@
         404407211
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3b64eb7bee7e5825e30619fc03acdc15",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360678343,
-    "wof:lastmodified":1564126262,
+    "wof:lastmodified":1603247221,
     "wof:name":"Chaudeyrolles",
     "wof:parent_id":102065917,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683261,
         102191581,
-        85633147,
-        404422213,
         404227911,
+        404422213,
+        85633147,
         1108826391,
         136253037,
         102068601
@@ -68,6 +68,11 @@
         404422213
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fea6816b863f1ab1cd3660a61642ee25",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679829,
-    "wof:lastmodified":1539928928,
+    "wof:lastmodified":1603247240,
     "wof:name":"Le Val-D'Esnoms",
     "wof:parent_id":102068601,
     "wof:placetype":"locality",

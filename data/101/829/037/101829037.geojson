@@ -9,9 +9,8 @@
     "geom:bbox":"6.50786491018,46.3780727065,6.5772146577,46.4047884031",
     "geom:latitude":46.389986,
     "geom:longitude":6.540942,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5525,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":5525,
     "iso:country":"FR",
     "lbl:latitude":46.389909,
@@ -371,10 +370,7 @@
         }
     ],
     "wof:id":101829037,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323104,
+    "wof:lastmodified":1603247454,
     "wof:name":"Publier",
     "wof:parent_id":404372999,
     "wof:placetype":"locality",

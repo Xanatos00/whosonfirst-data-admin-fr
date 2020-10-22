@@ -155,6 +155,11 @@
         404365335
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"36c9cc29df6f87f22d6ef5b303a7a1c0",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360674343,
-    "wof:lastmodified":1564126792,
+    "wof:lastmodified":1603247293,
     "wof:name":"Vieilmoulin",
     "wof:parent_id":102070529,
     "wof:placetype":"locality",

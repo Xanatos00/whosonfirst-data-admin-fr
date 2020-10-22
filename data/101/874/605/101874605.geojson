@@ -9,7 +9,7 @@
     "geom:bbox":"6.28569562604,46.1570520159,6.35058516798,46.1898696719",
     "geom:latitude":46.171937,
     "geom:longitude":6.319733,
-    "geonames:id":"3031729,6620176",
+    "gn:id":"3031729,6620176",
     "iso:country":"FR",
     "lbl:latitude":46.163908,
     "lbl:longitude":6.318396,
@@ -340,7 +340,7 @@
         }
     ],
     "wof:id":101874605,
-    "wof:lastmodified":1582323142,
+    "wof:lastmodified":1603247497,
     "wof:name":"Bonne",
     "wof:parent_id":404408113,
     "wof:placetype":"locality",

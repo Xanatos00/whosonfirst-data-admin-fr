@@ -116,6 +116,11 @@
         404399183
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2ab76830963e0b14c7fd8ae69dc4b839",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360677607,
-    "wof:lastmodified":1564126494,
+    "wof:lastmodified":1603247253,
     "wof:name":"Genouillac",
     "wof:parent_id":102069177,
     "wof:placetype":"locality",

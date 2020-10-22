@@ -149,6 +149,11 @@
         404404433
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3256088158eee76f49db2d9a0234ea69",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360678081,
-    "wof:lastmodified":1564126815,
+    "wof:lastmodified":1603247297,
     "wof:name":"Trausse",
     "wof:parent_id":102068891,
     "wof:placetype":"locality",

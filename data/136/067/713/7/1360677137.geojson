@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683293,
         102191581,
-        85633147,
-        404393737,
         404227801,
+        404393737,
+        85633147,
         1108826389,
         136253037,
         102070259
@@ -63,6 +63,10 @@
         404393737
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f02fee2b04db562c566c942e096f6724",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677137,
-    "wof:lastmodified":1539928881,
+    "wof:lastmodified":1603247227,
     "wof:name":"Aurouer",
     "wof:parent_id":102070259,
     "wof:placetype":"locality",

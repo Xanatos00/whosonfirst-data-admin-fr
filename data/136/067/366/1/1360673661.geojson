@@ -158,6 +158,11 @@
         404359017
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7de13ee7f4b1c3e91db4e9da1a70da10",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360673661,
-    "wof:lastmodified":1564126456,
+    "wof:lastmodified":1603247248,
     "wof:name":"Laroquevieille",
     "wof:parent_id":102068893,
     "wof:placetype":"locality",

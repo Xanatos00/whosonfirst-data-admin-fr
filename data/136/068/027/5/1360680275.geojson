@@ -269,6 +269,11 @@
         404426987
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0bddbe0ecd2f562f45161c7e7e069647",
     "wof:hierarchy":[
         {
@@ -284,7 +289,7 @@
         }
     ],
     "wof:id":1360680275,
-    "wof:lastmodified":1564125590,
+    "wof:lastmodified":1603247091,
     "wof:name":"Ore",
     "wof:parent_id":102065089,
     "wof:placetype":"locality",

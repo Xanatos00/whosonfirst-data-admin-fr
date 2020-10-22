@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683503,
         102191581,
-        85633147,
-        404414571,
         404228181,
+        404414571,
+        85633147,
         1108826395,
         136253037,
         102066377
@@ -63,6 +63,10 @@
         404414571
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6228c2bc779f57dc6ebfcbf8d1753e0e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679137,
-    "wof:lastmodified":1539928916,
+    "wof:lastmodified":1603247243,
     "wof:name":"Foucheres",
     "wof:parent_id":102066377,
     "wof:placetype":"locality",

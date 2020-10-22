@@ -123,6 +123,10 @@
         404364181
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"428d765ce8c5c2c9e1f7b8ea9087c2fc",
     "wof:hierarchy":[
         {
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1360674209,
-    "wof:lastmodified":1564126681,
+    "wof:lastmodified":1603247280,
     "wof:name":"Saint-Lieux-Lafenasse",
     "wof:parent_id":102069101,
     "wof:placetype":"locality",

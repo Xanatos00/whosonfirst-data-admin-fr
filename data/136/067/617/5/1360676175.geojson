@@ -138,6 +138,10 @@
         404383767
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8775fb52b89dac240f41ced550f38951",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360676175,
-    "wof:lastmodified":1564126034,
+    "wof:lastmodified":1603247190,
     "wof:name":"Saint-Paul-Lizonne",
     "wof:parent_id":102071329,
     "wof:placetype":"locality",

@@ -122,6 +122,11 @@
         404379883
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"958abccab5a28920de34adabad6f0452",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360675779,
-    "wof:lastmodified":1564127002,
+    "wof:lastmodified":1603247322,
     "wof:name":"Marcq",
     "wof:parent_id":102066563,
     "wof:placetype":"locality",

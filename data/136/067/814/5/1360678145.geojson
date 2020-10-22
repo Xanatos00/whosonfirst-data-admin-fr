@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404405083,
         404227973,
+        404405083,
+        85633147,
         1108826399,
         136253037,
         102068993
@@ -63,6 +63,10 @@
         404405083
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c1d618a45eec07022c5b50edccc8f6a1",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678145,
-    "wof:lastmodified":1539928899,
+    "wof:lastmodified":1603247283,
     "wof:name":"Belloy-Saint-Leonard",
     "wof:parent_id":102068993,
     "wof:placetype":"locality",

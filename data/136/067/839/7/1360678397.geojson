@@ -137,6 +137,11 @@
         404407805
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1cfbd85d54c3edec8b3e188bda30eb79",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360678397,
-    "wof:lastmodified":1564126837,
+    "wof:lastmodified":1603247299,
     "wof:name":"Chouzelot",
     "wof:parent_id":102068337,
     "wof:placetype":"locality",

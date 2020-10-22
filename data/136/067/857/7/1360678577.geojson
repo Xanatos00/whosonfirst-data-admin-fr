@@ -122,6 +122,11 @@
         404409545
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9f102e899a7f83dd847ffba8708639b3",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360678577,
-    "wof:lastmodified":1564126165,
+    "wof:lastmodified":1603247208,
     "wof:name":"La Pommeraye",
     "wof:parent_id":102069979,
     "wof:placetype":"locality",

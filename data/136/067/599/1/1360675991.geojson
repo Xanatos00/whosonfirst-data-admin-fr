@@ -131,6 +131,10 @@
         404381855
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b2cc4ea008f9d01b9748c12f6077392f",
     "wof:hierarchy":[
         {
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":1360675991,
-    "wof:lastmodified":1564126496,
+    "wof:lastmodified":1603247254,
     "wof:name":"Saint-Yon",
     "wof:parent_id":102068735,
     "wof:placetype":"locality",

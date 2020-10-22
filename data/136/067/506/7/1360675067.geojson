@@ -57,9 +57,9 @@
     "wof:belongsto":[
         85683405,
         102191581,
-        85633147,
-        404373099,
         404227697,
+        404373099,
+        85633147,
         1108826391,
         136253037,
         102069635
@@ -74,6 +74,11 @@
         404373099
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e79fd6cee51bbd3bd01723b310620aae",
     "wof:hierarchy":[
         {
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":1360675067,
-    "wof:lastmodified":1539928845,
+    "wof:lastmodified":1603247250,
     "wof:name":"Val-Des-Marais",
     "wof:parent_id":102069635,
     "wof:placetype":"locality",

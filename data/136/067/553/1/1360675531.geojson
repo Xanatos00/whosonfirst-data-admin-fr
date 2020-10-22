@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683485,
         102191581,
-        85633147,
-        404377541,
         404227607,
+        404377541,
+        85633147,
         1108826387,
         136253037,
         102069433
@@ -63,6 +63,10 @@
         404377541
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4b4fbf1474a564ecf4dcbdedea27ce0e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675531,
-    "wof:lastmodified":1539928854,
+    "wof:lastmodified":1603247265,
     "wof:name":"Fraisse-Cabardes",
     "wof:parent_id":102069433,
     "wof:placetype":"locality",

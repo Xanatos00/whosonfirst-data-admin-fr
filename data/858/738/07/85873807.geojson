@@ -9,7 +9,6 @@
     "geom:bbox":"2.360112,48.846307,2.369147,48.856432",
     "geom:latitude":48.851662,
     "geom:longitude":2.36477,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.851687,
     "lbl:longitude":2.364684,
@@ -115,12 +114,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894237,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894237,
         85683497
     ],
     "wof:breaches":[],
@@ -148,10 +147,7 @@
         }
     ],
     "wof:id":85873807,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592441,
+    "wof:lastmodified":1603246971,
     "wof:name":"l'Arsenal",
     "wof:parent_id":1158894237,
     "wof:placetype":"neighbourhood",

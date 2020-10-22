@@ -108,6 +108,10 @@
         404378029
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"af5ebdce6158c9782907917d82973a4e",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360675583,
-    "wof:lastmodified":1564125862,
+    "wof:lastmodified":1603247166,
     "wof:name":"Neuvy",
     "wof:parent_id":102066505,
     "wof:placetype":"locality",

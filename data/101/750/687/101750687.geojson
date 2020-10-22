@@ -307,14 +307,14 @@
     "src:population":"geonames",
     "wd:wordcount":1098,
     "wof:belongsto":[
+        85683397,
         102191581,
-        85633147,
-        102071573,
-        136253037,
-        404364099,
         404228067,
+        404364099,
+        85633147,
         1108826387,
-        85683397
+        136253037,
+        102071573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -349,10 +349,7 @@
         }
     ],
     "wof:id":101750687,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163109,
+    "wof:lastmodified":1603247817,
     "wof:name":"Saint-Jean",
     "wof:parent_id":404364099,
     "wof:placetype":"locality",

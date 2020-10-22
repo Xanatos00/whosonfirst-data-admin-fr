@@ -137,6 +137,11 @@
         404420383
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"200bb61d6e673ba25db7c6b709e7bb93",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360679641,
-    "wof:lastmodified":1564125960,
+    "wof:lastmodified":1603247179,
     "wof:name":"Celles",
     "wof:parent_id":102068263,
     "wof:placetype":"locality",

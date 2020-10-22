@@ -108,6 +108,10 @@
         404405033
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"570dc4c2ef6539e0be3bbde9d0ef553e",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360678137,
-    "wof:lastmodified":1564126712,
+    "wof:lastmodified":1603247284,
     "wof:name":"Saint-Arnoult",
     "wof:parent_id":102070567,
     "wof:placetype":"locality",

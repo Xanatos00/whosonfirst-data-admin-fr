@@ -143,6 +143,11 @@
         404416141
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bfbf08dbdbddc414bc70284ede370ada",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360679287,
-    "wof:lastmodified":1564126996,
+    "wof:lastmodified":1603247321,
     "wof:name":"La Chevillotte",
     "wof:parent_id":102065221,
     "wof:placetype":"locality",

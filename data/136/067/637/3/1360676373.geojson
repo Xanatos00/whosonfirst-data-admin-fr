@@ -139,6 +139,11 @@
         404386091
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"27f079ebc7d8804e2bfd8a5229ea4f42",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360676373,
-    "wof:lastmodified":1564126776,
+    "wof:lastmodified":1603247291,
     "wof:name":"Breteau",
     "wof:parent_id":102065041,
     "wof:placetype":"locality",

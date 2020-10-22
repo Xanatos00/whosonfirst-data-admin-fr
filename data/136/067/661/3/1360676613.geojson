@@ -135,6 +135,10 @@
         404389047
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2d539dd1aa86747b5b3499e4b2f4d6fe",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360676613,
-    "wof:lastmodified":1564126265,
+    "wof:lastmodified":1603247221,
     "wof:name":"Valbois",
     "wof:parent_id":102069355,
     "wof:placetype":"locality",

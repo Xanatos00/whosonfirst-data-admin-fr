@@ -9,7 +9,6 @@
     "geom:bbox":"-1.529034,47.189361,-1.529034,47.189361",
     "geom:latitude":47.189361,
     "geom:longitude":-1.529034,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":47.189361,
     "lbl:longitude":-1.529034,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85897703,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322802,
+    "wof:lastmodified":1603246972,
     "wof:name":"Nantes-Sud",
     "wof:parent_id":101749589,
     "wof:placetype":"neighbourhood",

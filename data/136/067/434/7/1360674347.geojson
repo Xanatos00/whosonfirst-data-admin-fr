@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683539,
         102191581,
-        85633147,
-        404365369,
         404228137,
+        404365369,
+        85633147,
         1108826385,
         136253037,
         102064789
@@ -63,6 +63,10 @@
         404365369
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c25e9c84cd656385e27c6fccb3e06392",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674347,
-    "wof:lastmodified":1539928832,
+    "wof:lastmodified":1603247293,
     "wof:name":"Castillon (Canton D'Arthez-De-Bearn)",
     "wof:parent_id":102064789,
     "wof:placetype":"locality",

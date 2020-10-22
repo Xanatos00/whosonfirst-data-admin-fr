@@ -62,6 +62,10 @@
         404390481
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1d69fddde325dcaac70fcc65d4cdaa48",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360676765,
-    "wof:lastmodified":1539928875,
+    "wof:lastmodified":1603247273,
     "wof:name":"Saint-Germain-D'Anxure",
     "wof:parent_id":102068277,
     "wof:placetype":"locality",

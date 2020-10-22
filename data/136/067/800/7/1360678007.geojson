@@ -108,6 +108,10 @@
         404403621
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"161db771387a7aa9bab88984f05e47f2",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360678007,
-    "wof:lastmodified":1564126742,
+    "wof:lastmodified":1603247286,
     "wof:name":"Pace",
     "wof:parent_id":102064507,
     "wof:placetype":"locality",

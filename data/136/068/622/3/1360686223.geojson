@@ -9,7 +9,7 @@
     "geom:bbox":"6.125521,43.0790085,6.125521,43.0790085",
     "geom:latitude":43.079009,
     "geom:longitude":6.125521,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.079009,
     "lbl:longitude":6.125521,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1360686223,
-    "wof:lastmodified":1539986880,
+    "wof:lastmodified":1603247090,
     "wof:name":"l'Almanarre",
     "wof:parent_id":404350543,
     "wof:placetype":"neighbourhood",

@@ -119,6 +119,11 @@
         404390741
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f71c4aa24aa1eeae45629b6887aed9d0",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360676807,
-    "wof:lastmodified":1564126079,
+    "wof:lastmodified":1603247196,
     "wof:name":"Bellefontaine",
     "wof:parent_id":102067781,
     "wof:placetype":"locality",

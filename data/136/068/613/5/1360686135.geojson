@@ -9,7 +9,7 @@
     "geom:bbox":"-0.906887,45.40785,-0.906887,45.40785",
     "geom:latitude":45.40785,
     "geom:longitude":-0.906887,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.40785,
     "lbl:longitude":-0.906887,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686135,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247088,
     "wof:name":"Port de Goul\u00e9e",
     "wof:parent_id":404407163,
     "wof:placetype":"neighbourhood",

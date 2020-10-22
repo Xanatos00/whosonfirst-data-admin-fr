@@ -9,7 +9,7 @@
     "geom:bbox":"5.891933,46.360804,5.891933,46.360804",
     "geom:latitude":46.360804,
     "geom:longitude":5.891933,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.360804,
     "lbl:longitude":5.891933,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684825,
-    "wof:lastmodified":1539986862,
+    "wof:lastmodified":1603247045,
     "wof:name":"Montbrillant",
     "wof:parent_id":404349101,
     "wof:placetype":"neighbourhood",

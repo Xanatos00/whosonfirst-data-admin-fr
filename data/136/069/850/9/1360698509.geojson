@@ -65,6 +65,9 @@
         "qs_pg:id":103651
     },
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3851782203edfb9517f5534e834444b4",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1360698509,
-    "wof:lastmodified":1545176972,
+    "wof:lastmodified":1603247133,
     "wof:name":"9th Arrondissement",
     "wof:parent_id":101749199,
     "wof:placetype":"borough",

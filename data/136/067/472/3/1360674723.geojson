@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404369495,
         404227931,
+        404369495,
+        85633147,
         1108826393,
         136253037,
         102067277
@@ -63,6 +63,10 @@
         404369495
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6b2e65ea589011b00f38900b6cdaa467",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674723,
-    "wof:lastmodified":1539928840,
+    "wof:lastmodified":1603247276,
     "wof:name":"Saint-Evroult-De-Montfort",
     "wof:parent_id":102067277,
     "wof:placetype":"locality",

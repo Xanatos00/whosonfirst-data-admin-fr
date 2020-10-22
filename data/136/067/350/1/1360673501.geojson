@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683517,
         102191581,
-        85633147,
-        404357549,
         404228033,
+        404357549,
+        85633147,
         1108826389,
         136253037,
         102065745
@@ -63,6 +63,10 @@
         404357549
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c9f498858ae820d9f93a210bdc6c9462",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673501,
-    "wof:lastmodified":1539928812,
+    "wof:lastmodified":1603247249,
     "wof:name":"Auriac-L'Eglise",
     "wof:parent_id":102065745,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"3.400096,44.248211,3.400096,44.248211",
     "geom:latitude":44.248211,
     "geom:longitude":3.400096,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.248211,
     "lbl:longitude":3.400096,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684387,
-    "wof:lastmodified":1539986856,
+    "wof:lastmodified":1603247063,
     "wof:name":"Drigas",
     "wof:parent_id":404377387,
     "wof:placetype":"neighbourhood",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683153,
         102191581,
-        85633147,
-        404366007,
         404228195,
+        404366007,
+        85633147,
         1108826389,
         136253037,
         102065385
@@ -68,6 +68,11 @@
         404366007
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"38290df03a56b176032f8f7935262b6b",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360674425,
-    "wof:lastmodified":1539928834,
+    "wof:lastmodified":1603247284,
     "wof:name":"Vieu-D'Izenave",
     "wof:parent_id":102065385,
     "wof:placetype":"locality",

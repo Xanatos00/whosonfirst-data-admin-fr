@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404409397,
         404227955,
+        404409397,
+        85633147,
         1108826395,
         136253037,
         102071605
@@ -63,6 +63,10 @@
         404409397
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0dbbf57093f460155be5ddde525bb0e6",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678565,
-    "wof:lastmodified":1539928906,
+    "wof:lastmodified":1603247217,
     "wof:name":"Saint-Loup-Geanges",
     "wof:parent_id":102071605,
     "wof:placetype":"locality",

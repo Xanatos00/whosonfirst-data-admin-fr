@@ -122,6 +122,11 @@
         404378061
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ac9e04f956a2764fd61d9f0149d75053",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360675587,
-    "wof:lastmodified":1564125862,
+    "wof:lastmodified":1603247166,
     "wof:name":"Montagne",
     "wof:parent_id":102069779,
     "wof:placetype":"locality",

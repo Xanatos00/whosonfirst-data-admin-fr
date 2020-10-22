@@ -9,7 +9,7 @@
     "geom:bbox":"6.995516,48.033014,6.995516,48.033014",
     "geom:latitude":48.033014,
     "geom:longitude":6.995516,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.033014,
     "lbl:longitude":6.995516,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683049,
-    "wof:lastmodified":1539986839,
+    "wof:lastmodified":1603247081,
     "wof:name":"Belles Hutte",
     "wof:parent_id":404359277,
     "wof:placetype":"neighbourhood",

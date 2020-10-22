@@ -9,7 +9,7 @@
     "geom:bbox":"-4.055024,48.027963,-4.055024,48.027963",
     "geom:latitude":48.027963,
     "geom:longitude":-4.055024,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.027963,
     "lbl:longitude":-4.055024,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686999,
-    "wof:lastmodified":1539986890,
+    "wof:lastmodified":1603247101,
     "wof:name":"Lestonan",
     "wof:parent_id":404366897,
     "wof:placetype":"neighbourhood",

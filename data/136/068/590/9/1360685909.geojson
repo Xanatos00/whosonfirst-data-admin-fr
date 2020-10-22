@@ -9,7 +9,7 @@
     "geom:bbox":"6.61849,44.675244,6.61849,44.675244",
     "geom:latitude":44.675244,
     "geom:longitude":6.61849,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.675244,
     "lbl:longitude":6.61849,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685909,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247081,
     "wof:name":"Mont-dauphin-gare",
     "wof:parent_id":404420667,
     "wof:placetype":"neighbourhood",

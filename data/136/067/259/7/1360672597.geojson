@@ -62,6 +62,10 @@
         404348023
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7ffc284423e94b28b290a8e783f8c94a",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360672597,
-    "wof:lastmodified":1539928783,
+    "wof:lastmodified":1603247208,
     "wof:name":"Chatenoy",
     "wof:parent_id":102065307,
     "wof:placetype":"locality",

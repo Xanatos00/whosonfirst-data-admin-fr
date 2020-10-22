@@ -155,6 +155,11 @@
         404403973
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2fb34a30d412d04b1bc5452801d59856",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360678047,
-    "wof:lastmodified":1564126180,
+    "wof:lastmodified":1603247210,
     "wof:name":"Enguinegatte",
     "wof:parent_id":102068695,
     "wof:placetype":"locality",

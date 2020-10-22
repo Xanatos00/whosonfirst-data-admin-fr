@@ -9,7 +9,7 @@
     "geom:bbox":"6.027052,46.301376,6.027052,46.301376",
     "geom:latitude":46.301376,
     "geom:longitude":6.027052,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.301376,
     "lbl:longitude":6.027052,
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1360686623,
-    "wof:lastmodified":1539986885,
+    "wof:lastmodified":1603247107,
     "wof:name":"Naz-Dessus",
     "wof:parent_id":-4,
     "wof:placetype":"neighbourhood",

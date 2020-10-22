@@ -9,7 +9,7 @@
     "geom:bbox":"6.408312,45.064499,6.408312,45.064499",
     "geom:latitude":45.064499,
     "geom:longitude":6.408312,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.064499,
     "lbl:longitude":6.408312,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682737,
-    "wof:lastmodified":1539986835,
+    "wof:lastmodified":1603247047,
     "wof:name":"Les Granges-du-Galibier",
     "wof:parent_id":404364163,
     "wof:placetype":"neighbourhood",

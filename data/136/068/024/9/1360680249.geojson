@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404426805,
         404227751,
+        404426805,
+        85633147,
         1108826393,
         136253037,
         102071633
@@ -63,6 +63,10 @@
         404426805
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"41a81e6dbf34d716e818e0033a6015d6",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680249,
-    "wof:lastmodified":1539928935,
+    "wof:lastmodified":1603247042,
     "wof:name":"Saint-Victor-L'Abbaye",
     "wof:parent_id":102071633,
     "wof:placetype":"locality",

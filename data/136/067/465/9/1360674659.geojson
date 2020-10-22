@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404368441,
         404227655,
+        404368441,
+        85633147,
         1108826387,
         136253037,
         102069775
@@ -63,6 +63,10 @@
         404368441
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cb91e555961098597bd7da49b3644194",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674659,
-    "wof:lastmodified":1539928839,
+    "wof:lastmodified":1603247222,
     "wof:name":"Montaut-Les-Creneaux",
     "wof:parent_id":102069775,
     "wof:placetype":"locality",

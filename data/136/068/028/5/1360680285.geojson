@@ -134,6 +134,11 @@
         404427107
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"39926e28af265795ffcc03f401aa6575",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360680285,
-    "wof:lastmodified":1564125623,
+    "wof:lastmodified":1603247097,
     "wof:name":"Placey",
     "wof:parent_id":102064459,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"0.141014,42.908355,0.141014,42.908355",
     "geom:latitude":42.908355,
     "geom:longitude":0.141014,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.908355,
     "lbl:longitude":0.141014,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686207,
-    "wof:lastmodified":1539986880,
+    "wof:lastmodified":1603247053,
     "wof:name":"Super Bar\u00e8ges",
     "wof:parent_id":404398185,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"-1.508502,47.237833,-1.508502,47.237833",
     "geom:latitude":47.237833,
     "geom:longitude":-1.508502,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":47.237833,
     "lbl:longitude":-1.508502,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85794527,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322792,
+    "wof:lastmodified":1603246954,
     "wof:name":"Doulon-Bottiere",
     "wof:parent_id":101749589,
     "wof:placetype":"neighbourhood",

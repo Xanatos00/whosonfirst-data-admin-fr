@@ -201,6 +201,10 @@
         404419559
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cd973169b51394d2b8cbcc0110b640c2",
     "wof:hierarchy":[
         {
@@ -216,7 +220,7 @@
         }
     ],
     "wof:id":1360679557,
-    "wof:lastmodified":1564125980,
+    "wof:lastmodified":1603247182,
     "wof:name":"Vaudeville",
     "wof:parent_id":102066463,
     "wof:placetype":"locality",

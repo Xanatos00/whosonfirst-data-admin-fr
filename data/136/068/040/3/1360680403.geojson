@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683247,
         102191581,
-        85633147,
-        404428075,
         404227799,
+        404428075,
+        85633147,
         1108826399,
         136253037,
         102066469
@@ -63,6 +63,10 @@
         404428075
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"94b23f73d9ad77d8f5c4ebf3c2243ce8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680403,
-    "wof:lastmodified":1539928938,
+    "wof:lastmodified":1603247054,
     "wof:name":"Oulches-La-Vallee-Foulon",
     "wof:parent_id":102066469,
     "wof:placetype":"locality",

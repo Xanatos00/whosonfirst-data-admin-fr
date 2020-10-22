@@ -129,6 +129,10 @@
         404386203
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cc87ce22b180cd8cf59cfb8a73db7517",
     "wof:hierarchy":[
         {
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1360676383,
-    "wof:lastmodified":1564126864,
+    "wof:lastmodified":1603247303,
     "wof:name":"Fraissines",
     "wof:parent_id":102070253,
     "wof:placetype":"locality",

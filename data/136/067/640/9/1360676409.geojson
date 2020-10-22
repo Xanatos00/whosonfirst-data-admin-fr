@@ -116,6 +116,11 @@
         404386667
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1893e409cb9d61b13725b2de7a514bcc",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360676409,
-    "wof:lastmodified":1564126658,
+    "wof:lastmodified":1603247276,
     "wof:name":"Germaine",
     "wof:parent_id":102070303,
     "wof:placetype":"locality",

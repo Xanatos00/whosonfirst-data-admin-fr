@@ -9,7 +9,7 @@
     "geom:bbox":"2.71732816011,50.5504748006,2.7839695364,50.6141550949",
     "geom:latitude":50.579186,
     "geom:longitude":2.746848,
-    "geonames:id":"2983655,2983656",
+    "gn:id":"2983655,2983656",
     "iso:country":"FR",
     "lbl:latitude":50.580279,
     "lbl:longitude":2.777666,
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":101899185,
-    "wof:lastmodified":1582323773,
+    "wof:lastmodified":1603248166,
     "wof:name":"Richebourg",
     "wof:parent_id":404406875,
     "wof:placetype":"locality",

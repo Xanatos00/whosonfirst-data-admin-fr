@@ -62,6 +62,10 @@
         404394675
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c972fd2ca019db018f58968c432f0e05",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677227,
-    "wof:lastmodified":1539928883,
+    "wof:lastmodified":1603247224,
     "wof:name":"Saint-Pierre-Du-Perray",
     "wof:parent_id":102070165,
     "wof:placetype":"locality",

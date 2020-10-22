@@ -158,6 +158,11 @@
         404416135
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a2ee3e173f37b929e242050922c7eab9",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360679277,
-    "wof:lastmodified":1564126921,
+    "wof:lastmodified":1603247311,
     "wof:name":"Laversine",
     "wof:parent_id":102070595,
     "wof:placetype":"locality",

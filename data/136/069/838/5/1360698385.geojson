@@ -130,11 +130,11 @@
     "wof:belongsto":[
         102191581,
         85633147,
-        102064981,
         404385985,
-        101885421,
         404228103,
         404227423,
+        101885421,
+        102064981,
         85683327
     ],
     "wof:breaches":[],
@@ -162,10 +162,7 @@
         }
     ],
     "wof:id":1360698385,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247150,
     "wof:name":"Fouger\u00e9",
     "wof:parent_id":404385985,
     "wof:placetype":"neighbourhood",

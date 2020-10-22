@@ -108,6 +108,10 @@
         404349289
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"07feda83028966c6045d1184bf2d1b74",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360672691,
-    "wof:lastmodified":1564126250,
+    "wof:lastmodified":1603247219,
     "wof:name":"Saint-Usage",
     "wof:parent_id":102066137,
     "wof:placetype":"locality",

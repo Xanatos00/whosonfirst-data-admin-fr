@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683301,
         102191581,
-        85633147,
-        404360327,
         404227821,
+        404360327,
+        85633147,
         1108826387,
         136253037,
         102070393
@@ -68,6 +68,11 @@
         404360327
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ce9cb0272185ff96cc5842088c2c2e52",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673785,
-    "wof:lastmodified":1539928821,
+    "wof:lastmodified":1603247240,
     "wof:name":"Prades-D'Aubrac",
     "wof:parent_id":102070393,
     "wof:placetype":"locality",

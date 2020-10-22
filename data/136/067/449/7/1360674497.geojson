@@ -143,6 +143,10 @@
         404366899
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0f7d455383041af603ea04d6d562848b",
     "wof:hierarchy":[
         {
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":1360674497,
-    "wof:lastmodified":1564126019,
+    "wof:lastmodified":1603247187,
     "wof:name":"Le Saint",
     "wof:parent_id":102065933,
     "wof:placetype":"locality",

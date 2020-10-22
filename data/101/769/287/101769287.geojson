@@ -9,9 +9,8 @@
     "geom:bbox":"1.3941321508,45.2416078824,1.43632007076,45.2904818179",
     "geom:latitude":45.263352,
     "geom:longitude":1.413103,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3452,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":3452,
     "iso:country":"FR",
     "lbl:latitude":45.264559,
@@ -398,10 +397,7 @@
         }
     ],
     "wof:id":101769287,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323450,
+    "wof:lastmodified":1603247796,
     "wof:name":"Objat",
     "wof:parent_id":404356307,
     "wof:placetype":"locality",

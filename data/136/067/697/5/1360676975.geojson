@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683503,
         102191581,
-        85633147,
-        404392035,
         404227993,
+        404392035,
+        85633147,
         1108826395,
         136253037,
         102067483
@@ -67,6 +67,11 @@
         404392035
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4622d2f28e612a63506aa9afe55cc7d8",
     "wof:hierarchy":[
         {
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":1360676975,
-    "wof:lastmodified":1539928879,
+    "wof:lastmodified":1603247290,
     "wof:name":"Vassy-Sous-Pisy",
     "wof:parent_id":102067483,
     "wof:placetype":"locality",

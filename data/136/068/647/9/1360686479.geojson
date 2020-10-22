@@ -9,7 +9,7 @@
     "geom:bbox":"3.230924,43.803685,3.230924,43.803685",
     "geom:latitude":43.803685,
     "geom:longitude":3.230924,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.803685,
     "lbl:longitude":3.230924,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686479,
-    "wof:lastmodified":1539986883,
+    "wof:lastmodified":1603247092,
     "wof:name":"Autignaguet",
     "wof:parent_id":404397773,
     "wof:placetype":"neighbourhood",

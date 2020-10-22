@@ -62,6 +62,10 @@
         404371121
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3f845ccff29eb9bfb522b5062586e9d8",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674865,
-    "wof:lastmodified":1539928842,
+    "wof:lastmodified":1603247277,
     "wof:name":"Nossage-Et-Benevent",
     "wof:parent_id":102067025,
     "wof:placetype":"locality",

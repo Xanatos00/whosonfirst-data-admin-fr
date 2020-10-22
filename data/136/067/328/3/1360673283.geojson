@@ -78,9 +78,9 @@
     "wof:belongsto":[
         85683517,
         102191581,
-        85633147,
-        404355473,
         404227829,
+        404355473,
+        85633147,
         1108826389,
         136253037,
         102065891
@@ -95,6 +95,11 @@
         404355473
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"99b912063b886c9977d7bef97213a637",
     "wof:hierarchy":[
         {
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":1360673283,
-    "wof:lastmodified":1539928800,
+    "wof:lastmodified":1603247317,
     "wof:name":"Arches",
     "wof:parent_id":102065891,
     "wof:placetype":"locality",

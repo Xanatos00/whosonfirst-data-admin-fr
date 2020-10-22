@@ -9,7 +9,7 @@
     "geom:bbox":"5.4237265,49.207952,5.4237265,49.207952",
     "geom:latitude":49.207952,
     "geom:longitude":5.423726,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.207952,
     "lbl:longitude":5.423726,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686053,
-    "wof:lastmodified":1539986878,
+    "wof:lastmodified":1603247057,
     "wof:name":"Ossuaire",
     "wof:parent_id":404428497,
     "wof:placetype":"neighbourhood",

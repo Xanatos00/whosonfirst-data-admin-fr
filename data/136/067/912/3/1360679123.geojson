@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404414483,
         404227973,
+        404414483,
+        85633147,
         1108826399,
         136253037,
         102067471
@@ -63,6 +63,10 @@
         404414483
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0044f4d3a3fffcc1675414345211c407",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679123,
-    "wof:lastmodified":1539928916,
+    "wof:lastmodified":1603247231,
     "wof:name":"Neuville-Les-Loeuilly",
     "wof:parent_id":102067471,
     "wof:placetype":"locality",

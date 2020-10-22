@@ -9,7 +9,7 @@
     "geom:bbox":"0.2913735,49.7379185,0.2913735,49.7379185",
     "geom:latitude":49.737918,
     "geom:longitude":0.291374,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.737918,
     "lbl:longitude":0.291374,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683869,
-    "wof:lastmodified":1539986849,
+    "wof:lastmodified":1603247121,
     "wof:name":"Vaucottes",
     "wof:parent_id":404389817,
     "wof:placetype":"neighbourhood",

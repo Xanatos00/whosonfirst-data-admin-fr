@@ -62,6 +62,10 @@
         404420033
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"42c5cf333c8cfabeb7d21d023cc0ec32",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360679611,
-    "wof:lastmodified":1539928924,
+    "wof:lastmodified":1603247249,
     "wof:name":"Saint-Jouan-De-L'Isle",
     "wof:parent_id":102065219,
     "wof:placetype":"locality",

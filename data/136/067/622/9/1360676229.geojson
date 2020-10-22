@@ -83,6 +83,11 @@
         404384609
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fdcad715840de253a8d6c13bc288f33b",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360676229,
-    "wof:lastmodified":1564126630,
+    "wof:lastmodified":1603247272,
     "wof:name":"Touffreville",
     "wof:parent_id":102068341,
     "wof:placetype":"locality",

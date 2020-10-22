@@ -62,6 +62,10 @@
         404365259
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ddeaf2572fca4648f60a7881be128259",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674335,
-    "wof:lastmodified":1539928832,
+    "wof:lastmodified":1603247295,
     "wof:name":"Yevres",
     "wof:parent_id":102065281,
     "wof:placetype":"locality",

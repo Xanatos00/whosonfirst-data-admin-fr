@@ -114,6 +114,10 @@
         404352961
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b51d75f4f57d6b2cee24fbac50bee194",
     "wof:hierarchy":[
         {
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1360673043,
-    "wof:lastmodified":1564126491,
+    "wof:lastmodified":1603247253,
     "wof:name":"Saint-Privat",
     "wof:parent_id":102067043,
     "wof:placetype":"locality",

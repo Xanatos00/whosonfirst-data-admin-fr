@@ -462,6 +462,10 @@
         404393027
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6c264647df3980b149d425518ca569f7",
     "wof:hierarchy":[
         {
@@ -477,7 +481,7 @@
         }
     ],
     "wof:id":1360677075,
-    "wof:lastmodified":1564125978,
+    "wof:lastmodified":1603247182,
     "wof:name":"Montreal",
     "wof:parent_id":102067483,
     "wof:placetype":"locality",

@@ -134,6 +134,11 @@
         404382653
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ab1afe68462f02ce86291229e1500876",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360676063,
-    "wof:lastmodified":1564126791,
+    "wof:lastmodified":1603247293,
     "wof:name":"Lodes",
     "wof:parent_id":102069659,
     "wof:placetype":"locality",

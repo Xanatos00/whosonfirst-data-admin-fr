@@ -143,6 +143,11 @@
         404409775
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"21dbc9387f1f619717f791c037abc6cb",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360678609,
-    "wof:lastmodified":1564126235,
+    "wof:lastmodified":1603247217,
     "wof:name":"Vidai",
     "wof:parent_id":102069565,
     "wof:placetype":"locality",

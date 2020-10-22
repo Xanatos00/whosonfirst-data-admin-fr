@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404389407,
         404228049,
+        404389407,
+        85633147,
         1108826385,
         136253037,
         102070771
@@ -63,6 +63,10 @@
         404389407
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"04c026a7e10388f79c58d742a5f45192",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676639,
-    "wof:lastmodified":1539928873,
+    "wof:lastmodified":1603247290,
     "wof:name":"Saint-Vincent-Sur-L'Isle",
     "wof:parent_id":102070771,
     "wof:placetype":"locality",

@@ -67,6 +67,11 @@
         404401821
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e35374b650a7acb5045fbc404d4a85ff",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360677829,
-    "wof:lastmodified":1539928893,
+    "wof:lastmodified":1603247234,
     "wof:name":"Beaumont-Du-Ventoux",
     "wof:parent_id":102066951,
     "wof:placetype":"locality",

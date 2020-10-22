@@ -9,7 +9,7 @@
     "geom:bbox":"6.864148,47.92525,6.864148,47.92525",
     "geom:latitude":47.92525,
     "geom:longitude":6.864148,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.92525,
     "lbl:longitude":6.864148,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683789,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247075,
     "wof:name":"L'Ermitage du Fr\u00e8re Joseph",
     "wof:parent_id":404424449,
     "wof:placetype":"neighbourhood",

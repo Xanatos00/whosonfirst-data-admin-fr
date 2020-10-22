@@ -110,6 +110,11 @@
         404375303
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dd51f81e47e2c80e04c367b97bbf2f0d",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360675301,
-    "wof:lastmodified":1564126453,
+    "wof:lastmodified":1603247248,
     "wof:name":"Leval",
     "wof:parent_id":102065071,
     "wof:placetype":"locality",

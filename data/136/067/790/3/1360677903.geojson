@@ -140,6 +140,11 @@
         404402537
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3affe763a78d0f77b03aefd9a002128f",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360677903,
-    "wof:lastmodified":1564125835,
+    "wof:lastmodified":1603247162,
     "wof:name":"Clais",
     "wof:parent_id":102070383,
     "wof:placetype":"locality",

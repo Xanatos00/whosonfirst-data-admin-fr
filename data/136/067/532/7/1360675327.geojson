@@ -116,6 +116,11 @@
         404375595
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ae0a284b66096b8bbf06a3ca029ece20",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360675327,
-    "wof:lastmodified":1564125983,
+    "wof:lastmodified":1603247182,
     "wof:name":"Bours",
     "wof:parent_id":102069287,
     "wof:placetype":"locality",

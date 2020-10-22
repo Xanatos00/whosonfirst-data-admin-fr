@@ -141,6 +141,10 @@
         404401609
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0711772316c25ff1f294995e613fb7fe",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360677805,
-    "wof:lastmodified":1564126981,
+    "wof:lastmodified":1603247319,
     "wof:name":"Saint-Sauveur-Lalande",
     "wof:parent_id":102068635,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683289,
         102191581,
-        85633147,
-        404370419,
         404228127,
+        404370419,
+        85633147,
         1108826399,
         136253037,
         102070187
@@ -63,6 +63,10 @@
         404370419
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"60d452a8da3a48053f6be8f28ac56a5a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674805,
-    "wof:lastmodified":1539928841,
+    "wof:lastmodified":1603247283,
     "wof:name":"Melicocq",
     "wof:parent_id":102070187,
     "wof:placetype":"locality",

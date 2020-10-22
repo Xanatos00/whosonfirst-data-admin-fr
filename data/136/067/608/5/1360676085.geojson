@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683453,
         102191581,
-        85633147,
-        404382837,
         404227903,
+        404382837,
+        85633147,
         1108826387,
         136253037,
         102068975
@@ -63,6 +63,10 @@
         404382837
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9386a28f8886cbd650be8bc9c0f8b3a9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676085,
-    "wof:lastmodified":1539928863,
+    "wof:lastmodified":1603247292,
     "wof:name":"Lanuejols",
     "wof:parent_id":102068975,
     "wof:placetype":"locality",

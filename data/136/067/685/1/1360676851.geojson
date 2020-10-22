@@ -137,6 +137,11 @@
         404391133
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3098314ed1d028cfeec30e66d60bd754",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360676851,
-    "wof:lastmodified":1564126641,
+    "wof:lastmodified":1603247274,
     "wof:name":"Trouans",
     "wof:parent_id":102067683,
     "wof:placetype":"locality",

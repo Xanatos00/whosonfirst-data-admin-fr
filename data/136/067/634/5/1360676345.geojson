@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683405,
         102191581,
-        85633147,
-        404385847,
         404227697,
+        404385847,
+        85633147,
         1108826391,
         136253037,
         102069635
@@ -63,6 +63,10 @@
         404385847
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a6a293d1d9a23e7ba50e200fb18b9853",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676345,
-    "wof:lastmodified":1539928868,
+    "wof:lastmodified":1603247205,
     "wof:name":"Givry-Les-Loisy",
     "wof:parent_id":102069635,
     "wof:placetype":"locality",

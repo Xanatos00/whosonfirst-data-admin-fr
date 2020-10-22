@@ -116,6 +116,11 @@
         404405753
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"920c19bd3ec541ef9a600ce254a002e0",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360678219,
-    "wof:lastmodified":1564126085,
+    "wof:lastmodified":1603247196,
     "wof:name":"Buxerolles",
     "wof:parent_id":102069537,
     "wof:placetype":"locality",

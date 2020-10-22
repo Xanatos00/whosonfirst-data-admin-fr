@@ -152,6 +152,11 @@
         404413753
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6c6266ac4a1beb4733139f2c8adf4add",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360679061,
-    "wof:lastmodified":1564125925,
+    "wof:lastmodified":1603247175,
     "wof:name":"Bourniquel",
     "wof:parent_id":102064251,
     "wof:placetype":"locality",

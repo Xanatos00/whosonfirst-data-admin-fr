@@ -110,6 +110,11 @@
         404362355
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d74a849bd0115e4f78a7b5ec1c93697d",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360674043,
-    "wof:lastmodified":1564126877,
+    "wof:lastmodified":1603247305,
     "wof:name":"Vadans",
     "wof:parent_id":102064331,
     "wof:placetype":"locality",

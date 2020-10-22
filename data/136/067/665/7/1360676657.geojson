@@ -143,6 +143,11 @@
         404389347
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"94e315a06c142de0491e80dae16eda40",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360676657,
-    "wof:lastmodified":1564126823,
+    "wof:lastmodified":1603247298,
     "wof:name":"Arbourse",
     "wof:parent_id":102067937,
     "wof:placetype":"locality",

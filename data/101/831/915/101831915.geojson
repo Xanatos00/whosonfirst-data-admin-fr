@@ -9,7 +9,7 @@
     "geom:bbox":"7.40751633892,43.734654933,7.43735319711,43.7592845894",
     "geom:latitude":43.747617,
     "geom:longitude":7.421592,
-    "geonames:id":"3034041,8029384",
+    "gn:id":"3034041,8029384",
     "gn:population":13376,
     "iso:country":"FR",
     "lbl:latitude":43.747619,
@@ -363,7 +363,7 @@
         }
     ],
     "wof:id":101831915,
-    "wof:lastmodified":1582323687,
+    "wof:lastmodified":1603248063,
     "wof:name":"Beausoleil",
     "wof:parent_id":1159322003,
     "wof:placetype":"locality",

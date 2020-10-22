@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404420543,
         404228275,
+        404420543,
+        85633147,
         1108826385,
         136253037,
         102069239
@@ -63,6 +63,10 @@
         404420543
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0f9d0cff52c1d532fc66c29a919450b4",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679651,
-    "wof:lastmodified":1539928925,
+    "wof:lastmodified":1603247169,
     "wof:name":"Saint-Martin-Du-Bois",
     "wof:parent_id":102069239,
     "wof:placetype":"locality",

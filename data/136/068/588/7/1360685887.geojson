@@ -9,7 +9,7 @@
     "geom:bbox":"2.75422,48.116027,2.75422,48.116027",
     "geom:latitude":48.116027,
     "geom:longitude":2.75422,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.116027,
     "lbl:longitude":2.75422,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685887,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247071,
     "wof:name":"Brise-Barre",
     "wof:parent_id":404387735,
     "wof:placetype":"neighbourhood",

@@ -134,6 +134,11 @@
         404361041
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d9478710fe08aa350df2a619c7e5dce2",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360673873,
-    "wof:lastmodified":1564126956,
+    "wof:lastmodified":1603247315,
     "wof:name":"Fontaine",
     "wof:parent_id":102064631,
     "wof:placetype":"locality",

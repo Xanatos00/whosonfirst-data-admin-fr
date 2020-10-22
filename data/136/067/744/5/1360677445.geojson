@@ -105,6 +105,10 @@
         404397039
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0b1fe0cd2527ed87b08f45eee4707bc1",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360677445,
-    "wof:lastmodified":1564126892,
+    "wof:lastmodified":1603247307,
     "wof:name":"Saignes",
     "wof:parent_id":102068763,
     "wof:placetype":"locality",

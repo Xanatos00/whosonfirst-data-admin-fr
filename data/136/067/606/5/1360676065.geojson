@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683377,
         102191581,
-        85633147,
-        404382651,
         404227889,
+        404382651,
+        85633147,
         1108826389,
         136253037,
         102069833
@@ -63,6 +63,10 @@
         404382651
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"30c53d24dc3ac75107e7cf9ddfd3dd39",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676065,
-    "wof:lastmodified":1539928863,
+    "wof:lastmodified":1603247293,
     "wof:name":"La Tuiliere",
     "wof:parent_id":102069833,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"5.22431,44.120531,5.22431,44.120531",
     "geom:latitude":44.120531,
     "geom:longitude":5.22431,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.120531,
     "lbl:longitude":5.22431,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687263,
-    "wof:lastmodified":1539986893,
+    "wof:lastmodified":1603247115,
     "wof:name":"Ste. Colombe",
     "wof:parent_id":404422699,
     "wof:placetype":"neighbourhood",

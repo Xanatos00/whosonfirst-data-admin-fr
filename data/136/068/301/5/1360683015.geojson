@@ -9,7 +9,7 @@
     "geom:bbox":"6.657114,45.179253,6.657114,45.179253",
     "geom:latitude":45.179253,
     "geom:longitude":6.657114,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.179253,
     "lbl:longitude":6.657114,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683015,
-    "wof:lastmodified":1539986838,
+    "wof:lastmodified":1603247038,
     "wof:name":"Valfr\u00e9jus",
     "wof:parent_id":404360729,
     "wof:placetype":"neighbourhood",

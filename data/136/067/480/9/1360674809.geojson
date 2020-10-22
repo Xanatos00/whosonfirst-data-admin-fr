@@ -151,6 +151,11 @@
         404370465
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9727c2a613509d31f53ee103ac26b081",
     "wof:hierarchy":[
         {
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":1360674809,
-    "wof:lastmodified":1564126710,
+    "wof:lastmodified":1603247283,
     "wof:name":"Les Ferres",
     "wof:parent_id":102065613,
     "wof:placetype":"locality",

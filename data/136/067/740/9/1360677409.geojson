@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683247,
         102191581,
-        85633147,
-        404396815,
         404227587,
+        404396815,
+        85633147,
         1108826399,
         136253037,
         102066009
@@ -63,6 +63,10 @@
         404396815
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5a9ac0831b685f79d0016733506bba8a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677409,
-    "wof:lastmodified":1539928886,
+    "wof:lastmodified":1603247229,
     "wof:name":"Trelou-Sur-Marne",
     "wof:parent_id":102066009,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683217,
         102191581,
-        85633147,
-        404413535,
         404227977,
+        404413535,
+        85633147,
         1108826387,
         136253037,
         102065727
@@ -63,6 +63,10 @@
         404413535
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4d002aad6b2585c24ec24cb10110f9ae",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679037,
-    "wof:lastmodified":1539928914,
+    "wof:lastmodified":1603247255,
     "wof:name":"L'Honor-De-Cos",
     "wof:parent_id":102065727,
     "wof:placetype":"locality",

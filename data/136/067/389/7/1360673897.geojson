@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683359,
         102191581,
-        85633147,
-        404361221,
         404227925,
+        404361221,
+        85633147,
         1108826395,
         136253037,
         102068983
@@ -63,6 +63,10 @@
         404361221
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1cb90920635d140152a000f20e7b8c8b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673897,
-    "wof:lastmodified":1539928823,
+    "wof:lastmodified":1603247313,
     "wof:name":"Saint-Pierre-Du-Mont",
     "wof:parent_id":102068983,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"2.71491,50.313037,2.71491,50.313037",
     "geom:latitude":50.313037,
     "geom:longitude":2.71491,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":50.313037,
     "lbl:longitude":2.71491,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683805,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247117,
     "wof:name":"Hameau de Saint-Aubin",
     "wof:parent_id":404384509,
     "wof:placetype":"neighbourhood",

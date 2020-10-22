@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404424511,
         404228235,
+        404424511,
+        85633147,
         1108826393,
         136253037,
         102071431
@@ -63,6 +63,10 @@
         404424511
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bbdaf74df67774fcd739747d69168c67",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680023,
-    "wof:lastmodified":1539928931,
+    "wof:lastmodified":1603247109,
     "wof:name":"Bieville",
     "wof:parent_id":102071431,
     "wof:placetype":"locality",

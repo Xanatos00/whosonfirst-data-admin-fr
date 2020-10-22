@@ -110,6 +110,11 @@
         404396535
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4d5a957ce6a4c3b44498d8c71156cd4c",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360677385,
-    "wof:lastmodified":1564125967,
+    "wof:lastmodified":1603247180,
     "wof:name":"Polastron",
     "wof:parent_id":102066603,
     "wof:placetype":"locality",

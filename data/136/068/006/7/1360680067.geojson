@@ -116,6 +116,11 @@
         404424955
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2dca0bd3bc1e821b54ecce81f55b117b",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360680067,
-    "wof:lastmodified":1564125489,
+    "wof:lastmodified":1603247067,
     "wof:name":"Alos",
     "wof:parent_id":102065475,
     "wof:placetype":"locality",

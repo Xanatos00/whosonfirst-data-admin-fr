@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683221,
         102191581,
-        85633147,
-        404422607,
         404228315,
+        404422607,
+        85633147,
         1108826391,
         136253037,
         102069065
@@ -63,6 +63,10 @@
         404422607
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bba2bad4584360314bce0bd698e0dc0b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679845,
-    "wof:lastmodified":1539928928,
+    "wof:lastmodified":1603247226,
     "wof:name":"Croettwiller",
     "wof:parent_id":102069065,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404407607,
         404228239,
+        404407607,
+        85633147,
         1108826391,
         136253037,
         102066205
@@ -63,6 +63,10 @@
         404407607
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"31204acfa5523ec0633202a7f4278806",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678367,
-    "wof:lastmodified":1539928903,
+    "wof:lastmodified":1603247290,
     "wof:name":"Vannes-Le-Chatel",
     "wof:parent_id":102066205,
     "wof:placetype":"locality",

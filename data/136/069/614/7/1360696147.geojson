@@ -310,13 +310,13 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633147,
-        102069221,
-        136253037,
-        404357909,
-        101761709,
         404228235,
+        404357909,
+        85633147,
         1108826393,
+        101761709,
+        136253037,
+        102069221,
         85683489
     ],
     "wof:breaches":[],
@@ -346,10 +346,7 @@
         }
     ],
     "wof:id":1360696147,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247144,
     "wof:name":"Percy",
     "wof:parent_id":404357909,
     "wof:placetype":"neighbourhood",

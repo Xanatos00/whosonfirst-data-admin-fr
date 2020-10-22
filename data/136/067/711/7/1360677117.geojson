@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404393541,
         404227963,
+        404393541,
+        85633147,
         1108826393,
         136253037,
         102066529
@@ -68,6 +68,11 @@
         404393541
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d975e1d48d532480ddc67b3494b5f174",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677117,
-    "wof:lastmodified":1539928881,
+    "wof:lastmodified":1603247323,
     "wof:name":"La Poterie-Cap-D'Antifer",
     "wof:parent_id":102066529,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404408775,
         404227865,
+        404408775,
+        85633147,
         1108826387,
         136253037,
         102068393
@@ -63,6 +63,10 @@
         404408775
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2e7759c923680e11db37e7b6fc456dbf",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678495,
-    "wof:lastmodified":1539928905,
+    "wof:lastmodified":1603247278,
     "wof:name":"Cazaril-Tamboures",
     "wof:parent_id":102068393,
     "wof:placetype":"locality",

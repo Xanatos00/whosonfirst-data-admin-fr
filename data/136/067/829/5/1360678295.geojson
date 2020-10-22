@@ -116,6 +116,11 @@
         404406721
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"251a1ebcac94153fd2faec34f041bb3b",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360678295,
-    "wof:lastmodified":1564126004,
+    "wof:lastmodified":1603247185,
     "wof:name":"Clarac",
     "wof:parent_id":102068393,
     "wof:placetype":"locality",

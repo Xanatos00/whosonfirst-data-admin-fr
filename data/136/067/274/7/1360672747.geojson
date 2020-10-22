@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683453,
         102191581,
-        85633147,
-        404349895,
         404227903,
+        404349895,
+        85633147,
         1108826387,
         136253037,
         102065923
@@ -63,6 +63,10 @@
         404349895
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f6400f3273456437a173a5671b7a5cbf",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672747,
-    "wof:lastmodified":1539928787,
+    "wof:lastmodified":1603247189,
     "wof:name":"Saint-Bonnet-De-Montauroux",
     "wof:parent_id":102065923,
     "wof:placetype":"locality",

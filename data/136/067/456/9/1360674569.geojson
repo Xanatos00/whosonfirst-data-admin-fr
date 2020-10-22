@@ -153,6 +153,10 @@
         404367649
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2b66a460b08fe6d4ee4eacee1cdc1343",
     "wof:hierarchy":[
         {
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":1360674569,
-    "wof:lastmodified":1564126762,
+    "wof:lastmodified":1603247289,
     "wof:name":"Banize",
     "wof:parent_id":102068527,
     "wof:placetype":"locality",

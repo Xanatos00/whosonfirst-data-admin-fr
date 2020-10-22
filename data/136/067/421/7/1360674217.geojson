@@ -110,6 +110,11 @@
         404364271
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f8ed78c493c7d761493b7180c924d3ab",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360674217,
-    "wof:lastmodified":1564126611,
+    "wof:lastmodified":1603247270,
     "wof:name":"Gennes",
     "wof:parent_id":102065221,
     "wof:placetype":"locality",

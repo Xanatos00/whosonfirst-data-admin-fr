@@ -137,6 +137,11 @@
         404361959
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2624e7dd82199fa689b7a87dc7fca178",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360674007,
-    "wof:lastmodified":1564126246,
+    "wof:lastmodified":1603247219,
     "wof:name":"Nesle-Hodeng",
     "wof:parent_id":102070839,
     "wof:placetype":"locality",

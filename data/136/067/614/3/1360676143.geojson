@@ -143,6 +143,11 @@
         404383429
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7f23c00afbb8869e5fc0286c346a7fb0",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360676143,
-    "wof:lastmodified":1564126603,
+    "wof:lastmodified":1603247269,
     "wof:name":"Lys",
     "wof:parent_id":102068769,
     "wof:placetype":"locality",

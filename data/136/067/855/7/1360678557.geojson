@@ -152,6 +152,11 @@
         404409421
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b8eceac1cd96224522aee8b010c9e2b0",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360678557,
-    "wof:lastmodified":1564126853,
+    "wof:lastmodified":1603247302,
     "wof:name":"Champagny",
     "wof:parent_id":102069817,
     "wof:placetype":"locality",

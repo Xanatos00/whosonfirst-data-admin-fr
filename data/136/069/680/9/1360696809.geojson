@@ -9,7 +9,7 @@
     "geom:bbox":"2.121195591,50.4576785272,2.13653068772,50.4662251513",
     "geom:latitude":50.462279,
     "geom:longitude":2.129044,
-    "geonames:id":"2996614,2996613",
+    "gn:id":"2996614,2996613",
     "iso:country":"FR",
     "lbl:latitude":50.462801,
     "lbl:longitude":2.126604,
@@ -335,7 +335,7 @@
         }
     ],
     "wof:id":1360696809,
-    "wof:lastmodified":1563280468,
+    "wof:lastmodified":1603247131,
     "wof:name":"Maisoncelle",
     "wof:parent_id":404380103,
     "wof:placetype":"neighbourhood",

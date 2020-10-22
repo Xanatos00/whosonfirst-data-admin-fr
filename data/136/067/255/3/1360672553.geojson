@@ -161,6 +161,11 @@
         404347499
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"87112066bd9dbd6652442f45a016b1fc",
     "wof:hierarchy":[
         {
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":1360672553,
-    "wof:lastmodified":1564126866,
+    "wof:lastmodified":1603247303,
     "wof:name":"Schirmeck",
     "wof:parent_id":102068665,
     "wof:placetype":"locality",

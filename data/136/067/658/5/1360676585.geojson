@@ -129,6 +129,10 @@
         404388769
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e3bf996260935c4da9d3dd26b78ee120",
     "wof:hierarchy":[
         {
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1360676585,
-    "wof:lastmodified":1564126202,
+    "wof:lastmodified":1603247213,
     "wof:name":"Saint-Beauzile",
     "wof:parent_id":102065475,
     "wof:placetype":"locality",

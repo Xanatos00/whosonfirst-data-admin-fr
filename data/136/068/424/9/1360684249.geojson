@@ -9,7 +9,7 @@
     "geom:bbox":"1.834458,43.341269,1.834458,43.341269",
     "geom:latitude":43.341269,
     "geom:longitude":1.834458,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.341269,
     "lbl:longitude":1.834458,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684249,
-    "wof:lastmodified":1539986854,
+    "wof:lastmodified":1603247054,
     "wof:name":"Le S\u00e9gala",
     "wof:parent_id":404374379,
     "wof:placetype":"neighbourhood",

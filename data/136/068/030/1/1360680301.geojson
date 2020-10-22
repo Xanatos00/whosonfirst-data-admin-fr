@@ -67,6 +67,11 @@
         404427187
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a6b33e090f83f00a14ffcc34156da84a",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360680301,
-    "wof:lastmodified":1539928936,
+    "wof:lastmodified":1603247064,
     "wof:name":"Castello-Di-Rostino",
     "wof:parent_id":102069011,
     "wof:placetype":"locality",

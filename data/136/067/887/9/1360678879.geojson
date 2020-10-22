@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404411893,
         404228293,
+        404411893,
+        85633147,
         1108826395,
         136253037,
         102065799
@@ -63,6 +63,10 @@
         404411893
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"293458b07daed68ca699197c894892fb",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678879,
-    "wof:lastmodified":1539928911,
+    "wof:lastmodified":1603247192,
     "wof:name":"Saint-Symphorien-D'Ancelles",
     "wof:parent_id":102065799,
     "wof:placetype":"locality",

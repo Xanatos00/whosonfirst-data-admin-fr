@@ -147,6 +147,11 @@
         404427173
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ea857b974f903e219b8237ff2d041755",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360680297,
-    "wof:lastmodified":1564125602,
+    "wof:lastmodified":1603247093,
     "wof:name":"Sainte-Gemme-Moronval",
     "wof:parent_id":102066727,
     "wof:placetype":"locality",

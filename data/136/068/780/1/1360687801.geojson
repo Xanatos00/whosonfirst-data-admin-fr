@@ -9,7 +9,7 @@
     "geom:bbox":"6.018119,45.244075,6.018119,45.244075",
     "geom:latitude":45.244075,
     "geom:longitude":6.018119,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.244075,
     "lbl:longitude":6.018119,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687801,
-    "wof:lastmodified":1539986901,
+    "wof:lastmodified":1603247118,
     "wof:name":"Pr\u00e9-de-l'Arc",
     "wof:parent_id":404383593,
     "wof:placetype":"neighbourhood",

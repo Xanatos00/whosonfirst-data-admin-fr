@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404402567,
         404227751,
+        404402567,
+        85633147,
         1108826393,
         136253037,
         102065061
@@ -63,6 +63,10 @@
         404402567
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8e3099b2284a2f1c89310096ae93c3ee",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677905,
-    "wof:lastmodified":1539928894,
+    "wof:lastmodified":1603247162,
     "wof:name":"Saint-Martin-Au-Bosc",
     "wof:parent_id":102065061,
     "wof:placetype":"locality",

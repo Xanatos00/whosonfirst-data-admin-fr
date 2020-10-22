@@ -116,6 +116,11 @@
         404349689
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"08ed2d0d95c9c8feab050007cb39adb4",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360672723,
-    "wof:lastmodified":1564126126,
+    "wof:lastmodified":1603247201,
     "wof:name":"Boitron",
     "wof:parent_id":102067969,
     "wof:placetype":"locality",

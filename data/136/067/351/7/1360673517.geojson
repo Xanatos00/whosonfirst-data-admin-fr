@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404357719,
         404227659,
+        404357719,
+        85633147,
         1108826387,
         136253037,
         102064651
@@ -63,6 +63,10 @@
         404357719
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"774b4a5cd97cbe7ef83356b18ae33ec0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673517,
-    "wof:lastmodified":1539928812,
+    "wof:lastmodified":1603247259,
     "wof:name":"Pezenes-Les-Mines",
     "wof:parent_id":102064651,
     "wof:placetype":"locality",

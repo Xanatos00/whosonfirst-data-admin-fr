@@ -9,9 +9,8 @@
     "geom:bbox":"-7.1659,62.154979,-7.1659,62.154979",
     "geom:latitude":62.154979,
     "geom:longitude":-7.1659,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1284,
+    "gn:country":"FO",
+    "gn:fcode":"PPL",
     "gn:population":1284,
     "iso:country":"FO",
     "lbl:latitude":62.154979,
@@ -180,10 +179,7 @@
         }
     ],
     "wof:id":101873083,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582323204,
+    "wof:lastmodified":1603247539,
     "wof:name":"Vestmanna",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

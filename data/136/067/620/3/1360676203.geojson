@@ -134,6 +134,11 @@
         404384309
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a2ba66d1914a4945cbd00cc729837ad2",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360676203,
-    "wof:lastmodified":1564126118,
+    "wof:lastmodified":1603247200,
     "wof:name":"Ravilloles",
     "wof:parent_id":102069183,
     "wof:placetype":"locality",

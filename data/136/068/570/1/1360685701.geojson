@@ -9,7 +9,7 @@
     "geom:bbox":"-1.793185,43.356592,-1.793185,43.356592",
     "geom:latitude":43.356592,
     "geom:longitude":-1.793185,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.356592,
     "lbl:longitude":-1.793185,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1360685701,
-    "wof:lastmodified":1539986874,
+    "wof:lastmodified":1603247119,
     "wof:name":"La Kosta",
     "wof:parent_id":404336163,
     "wof:placetype":"neighbourhood",

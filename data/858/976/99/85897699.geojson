@@ -9,7 +9,6 @@
     "geom:bbox":"-1.548507,47.204687,-1.548507,47.204687",
     "geom:latitude":47.204687,
     "geom:longitude":-1.548507,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":47.204687,
     "lbl:longitude":-1.548507,
@@ -120,10 +119,7 @@
         }
     ],
     "wof:id":85897699,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322804,
+    "wof:lastmodified":1603246972,
     "wof:name":"Ile de Nantes",
     "wof:parent_id":101749589,
     "wof:placetype":"neighbourhood",

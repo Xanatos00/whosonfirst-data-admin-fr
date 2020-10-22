@@ -9,7 +9,7 @@
     "geom:bbox":"2.412314,43.343875,2.412314,43.343875",
     "geom:latitude":43.343875,
     "geom:longitude":2.412314,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.343875,
     "lbl:longitude":2.412314,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686689,
-    "wof:lastmodified":1539986886,
+    "wof:lastmodified":1603247066,
     "wof:name":"Marmorleres",
     "wof:parent_id":404349139,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404375883,
         404228031,
+        404375883,
+        85633147,
         1108826393,
         136253037,
         102071521
@@ -63,6 +63,10 @@
         404375883
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b96f0cab279178f2013131f2b4a75173",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675353,
-    "wof:lastmodified":1539928851,
+    "wof:lastmodified":1603247181,
     "wof:name":"Saint-Desir",
     "wof:parent_id":102071521,
     "wof:placetype":"locality",

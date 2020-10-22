@@ -9,7 +9,7 @@
     "geom:bbox":"-2.7253385,47.506997,-2.7253385,47.506997",
     "geom:latitude":47.506997,
     "geom:longitude":-2.725338,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.506997,
     "lbl:longitude":-2.725338,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683089,
-    "wof:lastmodified":1539986839,
+    "wof:lastmodified":1603247038,
     "wof:name":"Bod\u00e9rin",
     "wof:parent_id":404408881,
     "wof:placetype":"neighbourhood",

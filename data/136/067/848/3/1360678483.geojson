@@ -125,6 +125,11 @@
         404408689
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1759a376464f7ca658e334aa801fb463",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360678483,
-    "wof:lastmodified":1564126632,
+    "wof:lastmodified":1603247273,
     "wof:name":"Ozon",
     "wof:parent_id":102068799,
     "wof:placetype":"locality",

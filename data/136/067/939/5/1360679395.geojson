@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683485,
         102191581,
-        85633147,
-        404417551,
         404227819,
+        404417551,
+        85633147,
         1108826387,
         136253037,
         102066657
@@ -68,6 +68,11 @@
         404417551
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"02b64323d3ee16bf5065016b32bb5a92",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679395,
-    "wof:lastmodified":1539928920,
+    "wof:lastmodified":1603247173,
     "wof:name":"Conilhac-De-La-Montagne",
     "wof:parent_id":102066657,
     "wof:placetype":"locality",

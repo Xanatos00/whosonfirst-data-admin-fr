@@ -62,6 +62,10 @@
         404428359
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2d1aaa0958f1a9f9f589fe9cdf64f2c1",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360680415,
-    "wof:lastmodified":1539928938,
+    "wof:lastmodified":1603247047,
     "wof:name":"Acheres",
     "wof:parent_id":102066981,
     "wof:placetype":"locality",

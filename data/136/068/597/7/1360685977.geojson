@@ -9,7 +9,7 @@
     "geom:bbox":"2.0983235,43.0359755,2.0983235,43.0359755",
     "geom:latitude":43.035975,
     "geom:longitude":2.098323,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.035975,
     "lbl:longitude":2.098323,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1360685977,
-    "wof:lastmodified":1564125549,
+    "wof:lastmodified":1603247082,
     "wof:name":"La Grange",
     "wof:parent_id":404415809,
     "wof:placetype":"neighbourhood",

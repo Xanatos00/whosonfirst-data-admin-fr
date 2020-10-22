@@ -9,7 +9,7 @@
     "geom:bbox":"6.433374,43.792286,6.433374,43.792286",
     "geom:latitude":43.792286,
     "geom:longitude":6.433374,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.792286,
     "lbl:longitude":6.433374,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683959,
-    "wof:lastmodified":1539986851,
+    "wof:lastmodified":1603247078,
     "wof:name":"Soleils",
     "wof:parent_id":404408189,
     "wof:placetype":"neighbourhood",

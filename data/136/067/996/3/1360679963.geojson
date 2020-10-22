@@ -143,6 +143,11 @@
         404423767
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3d08db0f6445c4d7a7434b7136d78276",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360679963,
-    "wof:lastmodified":1564125893,
+    "wof:lastmodified":1603247170,
     "wof:name":"Solrinnes",
     "wof:parent_id":102071747,
     "wof:placetype":"locality",

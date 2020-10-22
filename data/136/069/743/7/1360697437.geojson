@@ -296,13 +296,13 @@
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
-        85633147,
-        102069849,
-        136253037,
-        404393995,
-        101828899,
         404227949,
+        404393995,
+        85633147,
         1108826389,
+        101828899,
+        136253037,
+        102069849,
         85683569
     ],
     "wof:breaches":[],
@@ -332,10 +332,7 @@
         }
     ],
     "wof:id":1360697437,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247155,
     "wof:name":"Thizy",
     "wof:parent_id":404393995,
     "wof:placetype":"neighbourhood",

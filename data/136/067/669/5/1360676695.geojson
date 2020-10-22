@@ -122,6 +122,11 @@
         404389709
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"91cc86f2545dfd367e0a9cdf24189c25",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360676695,
-    "wof:lastmodified":1564126187,
+    "wof:lastmodified":1603247210,
     "wof:name":"Nizas",
     "wof:parent_id":102069077,
     "wof:placetype":"locality",

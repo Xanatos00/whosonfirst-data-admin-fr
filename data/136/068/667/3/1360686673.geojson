@@ -9,7 +9,7 @@
     "geom:bbox":"-3.200497,47.675805,-3.200497,47.675805",
     "geom:latitude":47.675805,
     "geom:longitude":-3.200497,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.675805,
     "lbl:longitude":-3.200497,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1360686673,
-    "wof:lastmodified":1539986886,
+    "wof:lastmodified":1603247061,
     "wof:name":"Passage-Neuf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

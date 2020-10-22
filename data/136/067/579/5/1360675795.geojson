@@ -144,6 +144,11 @@
         404380111
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b66bfd6c8b0e5f70e7d160c62fa78dfa",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360675795,
-    "wof:lastmodified":1564126979,
+    "wof:lastmodified":1603247319,
     "wof:name":"Arnouville",
     "wof:parent_id":102070561,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404361131,
         404227695,
+        404361131,
+        85633147,
         1108826393,
         136253037,
         102068719
@@ -63,6 +63,10 @@
         404361131
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7c044c87a84c29e0e6e7606c2b4579be",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673895,
-    "wof:lastmodified":1539928823,
+    "wof:lastmodified":1603247313,
     "wof:name":"Saint-Jean-Du-Corail",
     "wof:parent_id":102068719,
     "wof:placetype":"locality",

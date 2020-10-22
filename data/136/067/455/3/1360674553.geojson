@@ -62,6 +62,10 @@
         404367533
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"84657640ee2eb2655a2f58bd04feaece",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674553,
-    "wof:lastmodified":1539928837,
+    "wof:lastmodified":1603247213,
     "wof:name":"Saint-Martin-D'Entraunes",
     "wof:parent_id":102066289,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404362645,
         404227669,
+        404362645,
+        85633147,
         1108826389,
         136253037,
         102064655
@@ -63,6 +63,10 @@
         404362645
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"46892829e3cdccc899f697946a7c3be5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674071,
-    "wof:lastmodified":1539928827,
+    "wof:lastmodified":1603247217,
     "wof:name":"Saint-Christophe-En-Oisans",
     "wof:parent_id":102064655,
     "wof:placetype":"locality",

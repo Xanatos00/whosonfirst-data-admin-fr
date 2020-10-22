@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404380093,
         404228071,
+        404380093,
+        85633147,
         1108826385,
         136253037,
         102071281
@@ -63,6 +63,10 @@
         404380093
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d45b8f29d2f6d83ee0102ccb6ccb920b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675815,
-    "wof:lastmodified":1539928858,
+    "wof:lastmodified":1603247231,
     "wof:name":"Saint-Andre-Du-Bois",
     "wof:parent_id":102071281,
     "wof:placetype":"locality",

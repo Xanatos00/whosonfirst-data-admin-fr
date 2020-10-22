@@ -152,6 +152,11 @@
         404350251
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"23b53102013089ad38f98c33d82ecd51",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360672799,
-    "wof:lastmodified":1564126625,
+    "wof:lastmodified":1603247272,
     "wof:name":"Gorre",
     "wof:parent_id":102069037,
     "wof:placetype":"locality",

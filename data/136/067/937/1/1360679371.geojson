@@ -110,6 +110,11 @@
         404417335
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1b0dda1e06b072195329ba01a2ba1ee2",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360679371,
-    "wof:lastmodified":1564125944,
+    "wof:lastmodified":1603247177,
     "wof:name":"Vaudoncourt",
     "wof:parent_id":102064953,
     "wof:placetype":"locality",

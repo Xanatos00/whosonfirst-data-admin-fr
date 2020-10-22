@@ -108,6 +108,10 @@
         404393613
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5b4ed5c956060863a9a386b999c49b00",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360677127,
-    "wof:lastmodified":1564126375,
+    "wof:lastmodified":1603247237,
     "wof:name":"Chavigny",
     "wof:parent_id":102070055,
     "wof:placetype":"locality",

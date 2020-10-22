@@ -9,7 +9,7 @@
     "geom:bbox":"-1.141805,45.484326,-1.141805,45.484326",
     "geom:latitude":45.484326,
     "geom:longitude":-1.141805,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":45.484326,
     "lbl:longitude":-1.141805,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684949,
-    "wof:lastmodified":1539986864,
+    "wof:lastmodified":1603247102,
     "wof:name":"L'Am\u00e9lie-sur-Mer",
     "wof:parent_id":404358159,
     "wof:placetype":"neighbourhood",

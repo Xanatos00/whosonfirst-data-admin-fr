@@ -9,7 +9,7 @@
     "geom:bbox":"5.09738,44.218578,5.09738,44.218578",
     "geom:latitude":44.218578,
     "geom:longitude":5.09738,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.218578,
     "lbl:longitude":5.09738,
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":1360686819,
-    "wof:lastmodified":1564125378,
+    "wof:lastmodified":1603247043,
     "wof:name":"Le Crestet",
     "wof:parent_id":404392781,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404387363,
         404227659,
+        404387363,
+        85633147,
         1108826387,
         136253037,
         102068161
@@ -63,6 +63,10 @@
         404387363
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"412c242ce400356cfa65b0237fa35247",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676473,
-    "wof:lastmodified":1539928870,
+    "wof:lastmodified":1603247276,
     "wof:name":"Usclas-D'Herault",
     "wof:parent_id":102068161,
     "wof:placetype":"locality",

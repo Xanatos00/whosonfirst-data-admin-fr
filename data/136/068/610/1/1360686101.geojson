@@ -9,7 +9,7 @@
     "geom:bbox":"2.229881,48.783953,2.229881,48.783953",
     "geom:latitude":48.783953,
     "geom:longitude":2.229881,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.783953,
     "lbl:longitude":2.229881,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686101,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247046,
     "wof:name":"Meudon-la-for\u00eat",
     "wof:parent_id":1159322467,
     "wof:placetype":"neighbourhood",

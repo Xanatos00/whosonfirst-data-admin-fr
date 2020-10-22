@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404414519,
         404227671,
+        404414519,
+        85633147,
         1108826395,
         136253037,
         102066609
@@ -63,6 +63,10 @@
         404414519
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"951291313c8b028e8f85d55fb1b45855",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679135,
-    "wof:lastmodified":1539928916,
+    "wof:lastmodified":1603247243,
     "wof:name":"Monnieres",
     "wof:parent_id":102066609,
     "wof:placetype":"locality",

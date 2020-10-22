@@ -131,6 +131,11 @@
         404379089
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5c3b9c0793cc6c816b88c2522350eaa2",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360675689,
-    "wof:lastmodified":1564125933,
+    "wof:lastmodified":1603247176,
     "wof:name":"Savigny",
     "wof:parent_id":102065069,
     "wof:placetype":"locality",

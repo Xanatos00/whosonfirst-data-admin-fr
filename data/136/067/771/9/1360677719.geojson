@@ -143,6 +143,11 @@
         404400405
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"26278160431d585728039e30ba3d9903",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360677719,
-    "wof:lastmodified":1564126345,
+    "wof:lastmodified":1603247233,
     "wof:name":"Ignaux",
     "wof:parent_id":102064245,
     "wof:placetype":"locality",

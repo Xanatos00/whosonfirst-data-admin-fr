@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404396929,
         404227761,
+        404396929,
+        85633147,
         1108826399,
         136253037,
         102070113
@@ -63,6 +63,10 @@
         404396929
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"53b50d557f5946f2d14441907573642a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677431,
-    "wof:lastmodified":1539928886,
+    "wof:lastmodified":1603247308,
     "wof:name":"Nesle-L'Hopital",
     "wof:parent_id":102070113,
     "wof:placetype":"locality",

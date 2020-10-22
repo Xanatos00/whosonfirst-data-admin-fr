@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683389,
         102191581,
-        85633147,
-        404398669,
         404227687,
+        404398669,
+        85633147,
         1108826387,
         136253037,
         102068169
@@ -63,6 +63,10 @@
         404398669
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"84376a2aa3832d378ca135efa8ed8af4",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677563,
-    "wof:lastmodified":1539928889,
+    "wof:lastmodified":1603247255,
     "wof:name":"Saint-Pantaleon",
     "wof:parent_id":102068169,
     "wof:placetype":"locality",

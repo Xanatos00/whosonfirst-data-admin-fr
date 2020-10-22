@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683431,
         102191581,
-        85633147,
-        404385361,
         404227651,
+        404385361,
+        85633147,
         1108826387,
         136253037,
         102065627
@@ -63,6 +63,10 @@
         404385361
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1424ae5319ea083bb8d6bbd83afd960c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676311,
-    "wof:lastmodified":1539928867,
+    "wof:lastmodified":1603247304,
     "wof:name":"Rivieres",
     "wof:parent_id":102065627,
     "wof:placetype":"locality",

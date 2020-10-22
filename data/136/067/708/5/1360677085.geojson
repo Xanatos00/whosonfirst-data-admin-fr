@@ -145,6 +145,11 @@
         404393147
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3e7703ad0f5050203591ca01f4137f0c",
     "wof:hierarchy":[
         {
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1360677085,
-    "wof:lastmodified":1564125896,
+    "wof:lastmodified":1603247171,
     "wof:name":"Cateri",
     "wof:parent_id":102065201,
     "wof:placetype":"locality",

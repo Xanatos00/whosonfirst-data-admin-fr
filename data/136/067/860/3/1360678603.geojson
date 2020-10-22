@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404409683,
         404228015,
+        404409683,
+        85633147,
         1108826389,
         136253037,
         102065359
@@ -63,6 +63,10 @@
         404409683
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d7f2aa4608a120ed7ade0a88fdb36878",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678603,
-    "wof:lastmodified":1539928907,
+    "wof:lastmodified":1603247218,
     "wof:name":"Saint-Cierge-Sous-Le-Cheylard",
     "wof:parent_id":102065359,
     "wof:placetype":"locality",

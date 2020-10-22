@@ -9,7 +9,7 @@
     "geom:bbox":"-2.034273,46.75915,-2.034273,46.75915",
     "geom:latitude":46.75915,
     "geom:longitude":-2.034273,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":46.75915,
     "lbl:longitude":-2.034273,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686127,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247095,
     "wof:name":"Les Becs",
     "wof:parent_id":404383799,
     "wof:placetype":"neighbourhood",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683341,
         102191581,
-        85633147,
-        404348363,
         404228231,
+        404348363,
+        85633147,
         1108826385,
         136253037,
         102066199
@@ -68,6 +68,11 @@
         404348363
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5408a7bddb899ee8858a1c80a8373040",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672627,
-    "wof:lastmodified":1539928784,
+    "wof:lastmodified":1603247294,
     "wof:name":"Puch-D'Agenais",
     "wof:parent_id":102066199,
     "wof:placetype":"locality",

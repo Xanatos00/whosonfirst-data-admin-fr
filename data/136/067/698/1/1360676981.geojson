@@ -124,6 +124,11 @@
         404392069
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"818aa741ca00f7f6e9f2554d1f4cae12",
     "wof:hierarchy":[
         {
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":1360676981,
-    "wof:lastmodified":1564126827,
+    "wof:lastmodified":1603247298,
     "wof:name":"Sainte-Foy",
     "wof:parent_id":102071427,
     "wof:placetype":"locality",

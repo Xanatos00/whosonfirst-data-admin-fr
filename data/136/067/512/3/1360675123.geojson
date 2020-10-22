@@ -135,6 +135,10 @@
         404373613
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e6488420d3c8cec141df03e2996b5bd1",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360675123,
-    "wof:lastmodified":1564127034,
+    "wof:lastmodified":1603247326,
     "wof:name":"Saint-Mamert",
     "wof:parent_id":102068605,
     "wof:placetype":"locality",

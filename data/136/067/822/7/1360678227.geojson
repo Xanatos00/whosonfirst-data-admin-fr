@@ -155,6 +155,11 @@
         404405877
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"43097c30737ec0879b7a27a6db6fab42",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360678227,
-    "wof:lastmodified":1564126733,
+    "wof:lastmodified":1603247286,
     "wof:name":"Bustince-Iriberry",
     "wof:parent_id":102070517,
     "wof:placetype":"locality",

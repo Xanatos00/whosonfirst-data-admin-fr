@@ -113,6 +113,11 @@
         404425001
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3f63f021ef66ac322e02393de680aeb8",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360680073,
-    "wof:lastmodified":1564125452,
+    "wof:lastmodified":1603247058,
     "wof:name":"Millery",
     "wof:parent_id":102068831,
     "wof:placetype":"locality",

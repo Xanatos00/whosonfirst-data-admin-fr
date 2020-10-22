@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404402431,
         404227867,
+        404402431,
+        85633147,
         1108826387,
         136253037,
         102067257
@@ -63,6 +63,10 @@
         404402431
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ef089865e6558309eaef36b2afedd272",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677887,
-    "wof:lastmodified":1539928894,
+    "wof:lastmodified":1603247308,
     "wof:name":"Saint-Bres",
     "wof:parent_id":102067257,
     "wof:placetype":"locality",

@@ -115,6 +115,11 @@
         404409207
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"231cae91dc347da88c84215562edc1d9",
     "wof:hierarchy":[
         {
@@ -130,7 +135,7 @@
         }
     ],
     "wof:id":1360678549,
-    "wof:lastmodified":1564126807,
+    "wof:lastmodified":1603247296,
     "wof:name":"Sainte-Eulalie",
     "wof:parent_id":102064441,
     "wof:placetype":"locality",

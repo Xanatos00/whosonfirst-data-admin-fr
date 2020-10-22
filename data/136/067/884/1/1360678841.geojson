@@ -113,6 +113,11 @@
         404411411
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"65a8cc4dd417a8d3d47c948643885190",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360678841,
-    "wof:lastmodified":1564126616,
+    "wof:lastmodified":1603247270,
     "wof:name":"Urville",
     "wof:parent_id":102068405,
     "wof:placetype":"locality",

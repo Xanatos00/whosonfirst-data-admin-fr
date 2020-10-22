@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404361829,
         404227867,
+        404361829,
+        85633147,
         1108826387,
         136253037,
         102065691
@@ -68,6 +68,11 @@
         404361829
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0920a1e133a90e2d4852919f9d05e05f",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673983,
-    "wof:lastmodified":1539928825,
+    "wof:lastmodified":1603247170,
     "wof:name":"Castelnau-D'Arbieu",
     "wof:parent_id":102065691,
     "wof:placetype":"locality",

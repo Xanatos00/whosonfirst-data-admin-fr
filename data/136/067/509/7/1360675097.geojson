@@ -108,6 +108,10 @@
         404373359
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c120632f1a6483192216585db5445588",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360675097,
-    "wof:lastmodified":1564126547,
+    "wof:lastmodified":1603247261,
     "wof:name":"Saint-Savin",
     "wof:parent_id":102064277,
     "wof:placetype":"locality",

@@ -113,6 +113,11 @@
         404427261
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d6932368896bd48ab1130c1f8ab51ac8",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360680325,
-    "wof:lastmodified":1564125651,
+    "wof:lastmodified":1603247103,
     "wof:name":"Lugny",
     "wof:parent_id":102069057,
     "wof:placetype":"locality",

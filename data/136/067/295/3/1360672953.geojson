@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404351975,
         404227865,
+        404351975,
+        85633147,
         1108826387,
         136253037,
         102067255
@@ -68,6 +68,11 @@
         404351975
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e02971f0e269560a758f2b33b3d00db7",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672953,
-    "wof:lastmodified":1539928791,
+    "wof:lastmodified":1603247209,
     "wof:name":"Cazac",
     "wof:parent_id":102067255,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"6.569833,46.211833,6.569833,46.211833",
     "geom:latitude":46.211833,
     "geom:longitude":6.569833,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.211833,
     "lbl:longitude":6.569833,
@@ -152,7 +152,7 @@
         }
     ],
     "wof:id":1360682139,
-    "wof:lastmodified":1564125636,
+    "wof:lastmodified":1603247100,
     "wof:name":"La Ch\u00e8vrerie",
     "wof:parent_id":404369079,
     "wof:placetype":"neighbourhood",

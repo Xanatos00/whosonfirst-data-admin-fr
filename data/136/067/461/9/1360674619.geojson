@@ -160,6 +160,11 @@
         404368069
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a58408dfc82d371c1efe654654e92a6f",
     "wof:hierarchy":[
         {
@@ -174,7 +179,7 @@
         }
     ],
     "wof:id":1360674619,
-    "wof:lastmodified":1564126834,
+    "wof:lastmodified":1603247299,
     "wof:name":"Kerien",
     "wof:parent_id":102064719,
     "wof:placetype":"locality",

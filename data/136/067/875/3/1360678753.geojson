@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404410811,
         404227615,
+        404410811,
+        85633147,
         1108826393,
         136253037,
         102069435
@@ -68,6 +68,11 @@
         404410811
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"acca08e871d9a165f943db5e37109374",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678753,
-    "wof:lastmodified":1539928909,
+    "wof:lastmodified":1603247200,
     "wof:name":"Port-En-Bessin-Huppain",
     "wof:parent_id":102069435,
     "wof:placetype":"locality",

@@ -128,6 +128,11 @@
         404412519
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b2773c0e9bf0158bfa80b620080d22e7",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360678937,
-    "wof:lastmodified":1564126248,
+    "wof:lastmodified":1603247219,
     "wof:name":"Lacougotte-Cadoul",
     "wof:parent_id":102067473,
     "wof:placetype":"locality",

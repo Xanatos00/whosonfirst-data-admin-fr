@@ -9,7 +9,7 @@
     "geom:bbox":"7.054145,43.616007,7.054145,43.616007",
     "geom:latitude":43.616007,
     "geom:longitude":7.054145,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.616007,
     "lbl:longitude":7.054145,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360682913,
-    "wof:lastmodified":1539986837,
+    "wof:lastmodified":1603247106,
     "wof:name":"Garbeja\u00efre",
     "wof:parent_id":404368657,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,7 @@
     "geom:bbox":"3.432197,44.251885,3.432197,44.251885",
     "geom:latitude":44.251885,
     "geom:longitude":3.432197,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.251885,
     "lbl:longitude":3.432197,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687731,
-    "wof:lastmodified":1539986900,
+    "wof:lastmodified":1603247118,
     "wof:name":"Hures",
     "wof:parent_id":404377387,
     "wof:placetype":"neighbourhood",

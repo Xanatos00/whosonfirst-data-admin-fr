@@ -144,6 +144,10 @@
         404413745
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"147dd980741621881478954f70c3ac78",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360679057,
-    "wof:lastmodified":1564126565,
+    "wof:lastmodified":1603247263,
     "wof:name":"Saint-Maclou",
     "wof:parent_id":102065279,
     "wof:placetype":"locality",

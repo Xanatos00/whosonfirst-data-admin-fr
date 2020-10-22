@@ -149,6 +149,11 @@
         404402849
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fc1cb7f36334f8a346aa8cc933c864eb",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360677939,
-    "wof:lastmodified":1564126484,
+    "wof:lastmodified":1603247252,
     "wof:name":"Boisse",
     "wof:parent_id":102066787,
     "wof:placetype":"locality",

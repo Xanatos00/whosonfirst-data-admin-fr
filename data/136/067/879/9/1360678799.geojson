@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404410955,
         404227915,
+        404410955,
+        85633147,
         1108826391,
         136253037,
         102065313
@@ -63,6 +63,10 @@
         404410955
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"179700cd1f01f1c21ae880c8fd37ee78",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678799,
-    "wof:lastmodified":1539928910,
+    "wof:lastmodified":1603247270,
     "wof:name":"Blemerey",
     "wof:parent_id":102065313,
     "wof:placetype":"locality",

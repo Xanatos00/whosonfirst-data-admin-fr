@@ -155,6 +155,11 @@
         404408523
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b2578f3e09cf5f1bd245b6f6387912b2",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360678461,
-    "wof:lastmodified":1564126606,
+    "wof:lastmodified":1603247269,
     "wof:name":"Cernion",
     "wof:parent_id":102068887,
     "wof:placetype":"locality",

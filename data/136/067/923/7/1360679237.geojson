@@ -135,6 +135,10 @@
         404415557
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f8ffe1765c2313d24990e3439614a530",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360679237,
-    "wof:lastmodified":1564126351,
+    "wof:lastmodified":1603247233,
     "wof:name":"Triac-Lautrait",
     "wof:parent_id":102067433,
     "wof:placetype":"locality",

@@ -62,6 +62,10 @@
         404400695
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c40813c75423584958eb12586b5f44cc",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677745,
-    "wof:lastmodified":1539928892,
+    "wof:lastmodified":1603247319,
     "wof:name":"Bouee",
     "wof:parent_id":102071283,
     "wof:placetype":"locality",

@@ -137,6 +137,11 @@
         404410947
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1bf6df8afd16cf0f3e8d2c55240ddbba",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360678777,
-    "wof:lastmodified":1564126623,
+    "wof:lastmodified":1603247271,
     "wof:name":"Pautaines-Augeville",
     "wof:parent_id":102066159,
     "wof:placetype":"locality",

@@ -115,6 +115,11 @@
         404410673
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5ab126ac9a76b579404fa3b5e6f72aa9",
     "wof:hierarchy":[
         {
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":1360678737,
-    "wof:lastmodified":1564126052,
+    "wof:lastmodified":1603247192,
     "wof:name":"Blandy",
     "wof:parent_id":102067421,
     "wof:placetype":"locality",

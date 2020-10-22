@@ -116,6 +116,11 @@
         404355399
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"08a6c8f25e5f88974370ccaa37083fce",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360673299,
-    "wof:lastmodified":1564126918,
+    "wof:lastmodified":1603247310,
     "wof:name":"Rougemont",
     "wof:parent_id":102068259,
     "wof:placetype":"locality",

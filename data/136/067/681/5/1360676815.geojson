@@ -86,6 +86,11 @@
         404390777
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f61f1206757767676f2645f72f7e0b6e",
     "wof:hierarchy":[
         {
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":1360676815,
-    "wof:lastmodified":1564126000,
+    "wof:lastmodified":1603247185,
     "wof:name":"Larrey",
     "wof:parent_id":102067689,
     "wof:placetype":"locality",

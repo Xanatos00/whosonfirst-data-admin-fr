@@ -143,6 +143,11 @@
         404412341
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f8c900c4c2e67a43206afdaea01dc384",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360678919,
-    "wof:lastmodified":1564126788,
+    "wof:lastmodified":1603247293,
     "wof:name":"Vitot",
     "wof:parent_id":102068809,
     "wof:placetype":"locality",

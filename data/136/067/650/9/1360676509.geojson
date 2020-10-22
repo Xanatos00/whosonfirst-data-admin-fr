@@ -326,6 +326,11 @@
         404387819
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5e1f471956b2727f497de24ffdf6d966",
     "wof:hierarchy":[
         {
@@ -341,7 +346,7 @@
         }
     ],
     "wof:id":1360676509,
-    "wof:lastmodified":1564126281,
+    "wof:lastmodified":1603247223,
     "wof:name":"Gland",
     "wof:parent_id":102067089,
     "wof:placetype":"locality",

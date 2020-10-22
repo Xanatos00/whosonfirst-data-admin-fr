@@ -9,7 +9,7 @@
     "geom:bbox":"3.950958,45.542742,3.950958,45.542742",
     "geom:latitude":45.542742,
     "geom:longitude":3.950958,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.542742,
     "lbl:longitude":3.950958,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687033,
-    "wof:lastmodified":1539986890,
+    "wof:lastmodified":1603247084,
     "wof:name":"Fortuni\u00e8re",
     "wof:parent_id":404422109,
     "wof:placetype":"neighbourhood",

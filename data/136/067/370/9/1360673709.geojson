@@ -149,6 +149,11 @@
         404359665
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7d40ce105cb2d8d2a675508ac03f45cd",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360673709,
-    "wof:lastmodified":1564126316,
+    "wof:lastmodified":1603247228,
     "wof:name":"Liginiac",
     "wof:parent_id":102067883,
     "wof:placetype":"locality",

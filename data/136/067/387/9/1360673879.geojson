@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404361017,
         404227849,
+        404361017,
+        85633147,
         1108826395,
         136253037,
         102066485
@@ -63,6 +63,10 @@
         404361017
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1a150aa93a0657b63430f301386beea3",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673879,
-    "wof:lastmodified":1539928823,
+    "wof:lastmodified":1603247315,
     "wof:name":"Provenchere",
     "wof:parent_id":102066485,
     "wof:placetype":"locality",

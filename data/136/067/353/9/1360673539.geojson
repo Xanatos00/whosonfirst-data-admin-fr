@@ -104,6 +104,10 @@
         404357899
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"385eb2d722c657e0fda6b6bafa5d0429",
     "wof:hierarchy":[
         {
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1360673539,
-    "wof:lastmodified":1564125898,
+    "wof:lastmodified":1603247171,
     "wof:name":"Saint-Christol",
     "wof:parent_id":102068103,
     "wof:placetype":"locality",

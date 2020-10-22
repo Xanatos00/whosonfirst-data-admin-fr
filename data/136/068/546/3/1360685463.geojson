@@ -9,7 +9,7 @@
     "geom:bbox":"6.034192,45.5171025,6.034192,45.5171025",
     "geom:latitude":45.517103,
     "geom:longitude":6.034192,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.517103,
     "lbl:longitude":6.034192,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685463,
-    "wof:lastmodified":1539986870,
+    "wof:lastmodified":1603247119,
     "wof:name":"Necuidet",
     "wof:parent_id":404387903,
     "wof:placetype":"neighbourhood",

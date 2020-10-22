@@ -137,6 +137,11 @@
         404396245
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"46af171679adef855bbee801a91d20d4",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360677369,
-    "wof:lastmodified":1564125954,
+    "wof:lastmodified":1603247178,
     "wof:name":"Cailly",
     "wof:parent_id":102066371,
     "wof:placetype":"locality",

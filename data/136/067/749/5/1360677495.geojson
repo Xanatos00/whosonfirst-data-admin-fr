@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683359,
         102191581,
-        85633147,
-        404397791,
         404227713,
+        404397791,
+        85633147,
         1108826395,
         136253037,
         102064859
@@ -77,6 +77,11 @@
         404397791
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cd80d718075ad1990c247eb8ee04ab76",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360677495,
-    "wof:lastmodified":1539928887,
+    "wof:lastmodified":1603247233,
     "wof:name":"Tamnay-En-Bazois",
     "wof:parent_id":102064859,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"4.0354645666,49.3585593096,4.08531379132,49.4057846855",
     "geom:latitude":49.385738,
     "geom:longitude":4.058703,
-    "geonames:id":"3036111,3036112",
+    "gn:id":"3036111,3036112",
     "iso:country":"FR",
     "lbl:latitude":49.384697,
     "lbl:longitude":4.068105,
@@ -341,7 +341,7 @@
         }
     ],
     "wof:id":101902443,
-    "wof:lastmodified":1582323488,
+    "wof:lastmodified":1603247839,
     "wof:name":"Aum\u00e9nancourt",
     "wof:parent_id":404375961,
     "wof:placetype":"locality",

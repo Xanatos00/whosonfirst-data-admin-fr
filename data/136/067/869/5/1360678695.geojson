@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683431,
         102191581,
-        85633147,
-        404410343,
         404227651,
+        404410343,
+        85633147,
         1108826387,
         136253037,
         102066793
@@ -63,6 +63,10 @@
         404410343
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5917c75336b76447def87648d790560e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678695,
-    "wof:lastmodified":1539928908,
+    "wof:lastmodified":1603247216,
     "wof:name":"Saint-Jean-De-Serres",
     "wof:parent_id":102066793,
     "wof:placetype":"locality",

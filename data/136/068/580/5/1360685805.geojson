@@ -9,7 +9,7 @@
     "geom:bbox":"3.235774,43.216873,3.235774,43.216873",
     "geom:latitude":43.216873,
     "geom:longitude":3.235774,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.216873,
     "lbl:longitude":3.235774,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685805,
-    "wof:lastmodified":1539986875,
+    "wof:lastmodified":1603247077,
     "wof:name":"Les Cabanes-de-Fleury",
     "wof:parent_id":404351671,
     "wof:placetype":"neighbourhood",

@@ -146,6 +146,11 @@
         404379937
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2b9dc2947c157d8a1e0712da71edc924",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360675783,
-    "wof:lastmodified":1564126908,
+    "wof:lastmodified":1603247309,
     "wof:name":"Joganville",
     "wof:parent_id":102068405,
     "wof:placetype":"locality",

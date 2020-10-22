@@ -146,6 +146,11 @@
         404369759
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e57d79076765ead8cfefc9bac9b83300",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360674745,
-    "wof:lastmodified":1564126709,
+    "wof:lastmodified":1603247283,
     "wof:name":"Cauroir",
     "wof:parent_id":102066685,
     "wof:placetype":"locality",

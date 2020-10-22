@@ -107,6 +107,11 @@
         404392519
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1f043eea185f0f3b3b56b94cadb217af",
     "wof:hierarchy":[
         {
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":1360677035,
-    "wof:lastmodified":1564126542,
+    "wof:lastmodified":1603247260,
     "wof:name":"Massingy",
     "wof:parent_id":102065747,
     "wof:placetype":"locality",

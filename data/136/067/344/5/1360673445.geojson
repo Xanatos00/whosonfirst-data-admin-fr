@@ -119,6 +119,11 @@
         404356927
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f7a764b7b0ed8ac254e6f9fa0015e0bf",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360673445,
-    "wof:lastmodified":1564127032,
+    "wof:lastmodified":1603247325,
     "wof:name":"Montastruc",
     "wof:parent_id":102068645,
     "wof:placetype":"locality",

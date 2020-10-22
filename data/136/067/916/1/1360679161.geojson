@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404414885,
         404227751,
+        404414885,
+        85633147,
         1108826393,
         136253037,
         102068929
@@ -63,6 +63,10 @@
         404414885
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"be0dd04dc54f7facfc498f06ab14f366",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679161,
-    "wof:lastmodified":1539928917,
+    "wof:lastmodified":1603247307,
     "wof:name":"Bezancourt",
     "wof:parent_id":102068929,
     "wof:placetype":"locality",

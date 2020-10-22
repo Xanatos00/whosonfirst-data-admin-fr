@@ -9,9 +9,9 @@
     "geom:bbox":"5.5525,46.10922,5.5525,46.10922",
     "geom:latitude":46.10922,
     "geom:longitude":5.5525,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":342,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
+    "gn:population":342,
     "iso:country":"FR",
     "lbl:latitude":46.10922,
     "lbl:longitude":5.5525,
@@ -46,14 +46,14 @@
     "woe:name_adm1":"Canton de Gen\u00e8ve",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85683153,
         102191581,
-        85633147,
-        404421445,
         404228195,
+        404421445,
+        85633147,
         1108826389,
         136253037,
-        102065385
+        102065385,
+        85683153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1126069599,
-    "wof:lastmodified":1509410602,
+    "wof:lastmodified":1603249052,
     "wof:name":"Contamines",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

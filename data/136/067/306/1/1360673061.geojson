@@ -137,6 +137,11 @@
         404353149
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dcd65204cadbf403d37c6e428781d3e1",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360673061,
-    "wof:lastmodified":1564125935,
+    "wof:lastmodified":1603247176,
     "wof:name":"Villars-Santenoge",
     "wof:parent_id":102064745,
     "wof:placetype":"locality",

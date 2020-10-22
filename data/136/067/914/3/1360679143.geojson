@@ -116,6 +116,11 @@
         404414591
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2a1adca095fbf9edc559e6c51d615c5e",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360679143,
-    "wof:lastmodified":1564126428,
+    "wof:lastmodified":1603247245,
     "wof:name":"Le Pin",
     "wof:parent_id":102070139,
     "wof:placetype":"locality",

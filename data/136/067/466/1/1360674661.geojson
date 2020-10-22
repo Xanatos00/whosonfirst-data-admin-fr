@@ -104,6 +104,10 @@
         404368585
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5d6b3b1a0cd67f5bdf14bfd6dd57242d",
     "wof:hierarchy":[
         {
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1360674661,
-    "wof:lastmodified":1564126842,
+    "wof:lastmodified":1603247300,
     "wof:name":"Saint-Pons",
     "wof:parent_id":102064819,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404373797,
         404227853,
+        404373797,
+        85633147,
         1108826393,
         136253037,
         102065903
@@ -63,6 +63,10 @@
         404373797
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"75a7e03572a79793c7ae89ec7864f0ac",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675141,
-    "wof:lastmodified":1539928847,
+    "wof:lastmodified":1603247312,
     "wof:name":"Saint-Eloi-De-Fourques",
     "wof:parent_id":102065903,
     "wof:placetype":"locality",

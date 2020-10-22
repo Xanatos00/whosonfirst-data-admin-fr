@@ -62,6 +62,10 @@
         404385071
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a152b56a115b8fb5fdcfbf8762d80275",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360676283,
-    "wof:lastmodified":1539928867,
+    "wof:lastmodified":1603247189,
     "wof:name":"Chatenay",
     "wof:parent_id":102064463,
     "wof:placetype":"locality",

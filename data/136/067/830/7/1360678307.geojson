@@ -116,6 +116,11 @@
         404406767
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3223dc5f99a469a0973eae771b622ead",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360678307,
-    "wof:lastmodified":1564126820,
+    "wof:lastmodified":1603247297,
     "wof:name":"Rieux",
     "wof:parent_id":102067447,
     "wof:placetype":"locality",

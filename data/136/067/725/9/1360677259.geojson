@@ -123,6 +123,10 @@
         404394879
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c91464c8c444330c61bdc8da959ce099",
     "wof:hierarchy":[
         {
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1360677259,
-    "wof:lastmodified":1564126295,
+    "wof:lastmodified":1603247225,
     "wof:name":"Cabanes",
     "wof:parent_id":102069679,
     "wof:placetype":"locality",

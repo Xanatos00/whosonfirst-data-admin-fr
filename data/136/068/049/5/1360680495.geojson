@@ -74,6 +74,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526509128,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"b4744fb3b0b5c42c718b3b6d65929fa9",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1360680495,
-    "wof:lastmodified":1564125429,
+    "wof:lastmodified":1603247053,
     "wof:name":"Saulxures",
     "wof:parent_id":102067829,
     "wof:placetype":"locality",

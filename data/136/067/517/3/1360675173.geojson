@@ -101,6 +101,10 @@
         404374017
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d0bf324fda8d975b4753fecee757c11d",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":1360675173,
-    "wof:lastmodified":1564126298,
+    "wof:lastmodified":1603247225,
     "wof:name":"Fougerolles",
     "wof:parent_id":102067307,
     "wof:placetype":"locality",

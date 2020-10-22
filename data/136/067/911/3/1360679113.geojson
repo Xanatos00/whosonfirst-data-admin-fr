@@ -144,6 +144,10 @@
         404414313
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d76788e0528b98df74ed9b1d7d547dc9",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360679113,
-    "wof:lastmodified":1564126887,
+    "wof:lastmodified":1603247306,
     "wof:name":"Boiry-Saint-Martin",
     "wof:parent_id":102066049,
     "wof:placetype":"locality",

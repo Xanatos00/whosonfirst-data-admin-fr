@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404409743,
         404228209,
+        404409743,
+        85633147,
         1108826385,
         136253037,
         102070201
@@ -63,6 +63,10 @@
         404409743
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cf065273f316bfec5e1800d5e11ca559",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678607,
-    "wof:lastmodified":1539928907,
+    "wof:lastmodified":1603247217,
     "wof:name":"La Vallee",
     "wof:parent_id":102070201,
     "wof:placetype":"locality",

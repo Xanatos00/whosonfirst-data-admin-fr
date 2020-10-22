@@ -148,6 +148,11 @@
         404371603
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"40f95cf136fa9e431ff0e52f80866262",
     "wof:hierarchy":[
         {
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1360674923,
-    "wof:lastmodified":1564126845,
+    "wof:lastmodified":1603247300,
     "wof:name":"Monthault",
     "wof:parent_id":102067961,
     "wof:placetype":"locality",

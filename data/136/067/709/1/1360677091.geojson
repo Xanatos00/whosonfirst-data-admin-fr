@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404393223,
         404227655,
+        404393223,
+        85633147,
         1108826387,
         136253037,
         102069263
@@ -63,6 +63,10 @@
         404393223
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cb8c47c91a2d8709a5a5ee965b4048a8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677091,
-    "wof:lastmodified":1539928881,
+    "wof:lastmodified":1603247177,
     "wof:name":"Semezies-Cachan",
     "wof:parent_id":102069263,
     "wof:placetype":"locality",

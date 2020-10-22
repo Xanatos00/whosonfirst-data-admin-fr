@@ -62,6 +62,10 @@
         404369621
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"841ac110d1378a2eed5e4a5821a33ed5",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674737,
-    "wof:lastmodified":1539928840,
+    "wof:lastmodified":1603247282,
     "wof:name":"Antogny-Le-Tillac",
     "wof:parent_id":102067963,
     "wof:placetype":"locality",

@@ -110,6 +110,11 @@
         404403365
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"19d80993748bf5a1623fefbd3ea62319",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360677993,
-    "wof:lastmodified":1564125852,
+    "wof:lastmodified":1603247164,
     "wof:name":"Loisy",
     "wof:parent_id":102068831,
     "wof:placetype":"locality",

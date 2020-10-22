@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683431,
         102191581,
-        85633147,
-        404426883,
         404227651,
+        404426883,
+        85633147,
         1108826387,
         136253037,
         102066427
@@ -63,6 +63,10 @@
         404426883
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3d743860d47fa47f79b25866b3ed5737",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680261,
-    "wof:lastmodified":1539928935,
+    "wof:lastmodified":1603247098,
     "wof:name":"Sainte-Cecile-D'Andorge",
     "wof:parent_id":102066427,
     "wof:placetype":"locality",

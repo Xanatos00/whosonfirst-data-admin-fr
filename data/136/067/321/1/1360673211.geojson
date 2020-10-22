@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683353,
         102191581,
-        85633147,
-        404354723,
         404227783,
+        404354723,
+        85633147,
         1108826395,
         136253037,
         102066467
@@ -63,6 +63,10 @@
         404354723
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9ef6dd93640ac41826deb49125765aaa",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673211,
-    "wof:lastmodified":1539928796,
+    "wof:lastmodified":1603247322,
     "wof:name":"Feche-L'Eglise",
     "wof:parent_id":102066467,
     "wof:placetype":"locality",

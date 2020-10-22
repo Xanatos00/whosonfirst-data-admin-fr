@@ -150,6 +150,10 @@
         404389635
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bc4cad8f618bbbf06c522aa90a168ce5",
     "wof:hierarchy":[
         {
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":1360676685,
-    "wof:lastmodified":1564126270,
+    "wof:lastmodified":1603247222,
     "wof:name":"Bistroff",
     "wof:parent_id":102066941,
     "wof:placetype":"locality",

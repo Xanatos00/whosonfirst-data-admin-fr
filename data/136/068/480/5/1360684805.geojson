@@ -9,7 +9,7 @@
     "geom:bbox":"6.695308,46.050539,6.695308,46.050539",
     "geom:latitude":46.050539,
     "geom:longitude":6.695308,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.050539,
     "lbl:longitude":6.695308,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684805,
-    "wof:lastmodified":1539986862,
+    "wof:lastmodified":1603247098,
     "wof:name":"Samo\u00ebns 1600 les Saix",
     "wof:parent_id":404360765,
     "wof:placetype":"neighbourhood",

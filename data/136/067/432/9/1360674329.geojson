@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683163,
         102191581,
-        85633147,
-        404365241,
         404227969,
+        404365241,
+        85633147,
         1108826385,
         136253037,
         102066119
@@ -67,6 +67,11 @@
         404365241
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cde93f05a7e9e555c70162f0e7193027",
     "wof:hierarchy":[
         {
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":1360674329,
-    "wof:lastmodified":1539928832,
+    "wof:lastmodified":1603247301,
     "wof:name":"Fontenille-Saint-Martin-D'Entraigues",
     "wof:parent_id":102066119,
     "wof:placetype":"locality",

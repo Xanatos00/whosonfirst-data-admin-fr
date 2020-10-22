@@ -138,6 +138,10 @@
         404421529
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5990b7d9ce2a4671d3adc9ab75bb9251",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360679755,
-    "wof:lastmodified":1564127040,
+    "wof:lastmodified":1603247326,
     "wof:name":"Saint-Sauveur-Camprieu",
     "wof:parent_id":102070435,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"-1.791973,43.370343,-1.791973,43.370343",
     "geom:latitude":43.370343,
     "geom:longitude":-1.791973,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.370343,
     "lbl:longitude":-1.791973,
@@ -195,7 +195,7 @@
         }
     ],
     "wof:id":1360687583,
-    "wof:lastmodified":1563279884,
+    "wof:lastmodified":1603247081,
     "wof:name":"Hondarribia",
     "wof:parent_id":404336163,
     "wof:placetype":"neighbourhood",

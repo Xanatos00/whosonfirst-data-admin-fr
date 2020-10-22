@@ -142,6 +142,11 @@
         404376977
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2916b29b8b195892504a01f7009c5c28",
     "wof:hierarchy":[
         {
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":1360675475,
-    "wof:lastmodified":1564126915,
+    "wof:lastmodified":1603247310,
     "wof:name":"Brenon",
     "wof:parent_id":102065657,
     "wof:placetype":"locality",

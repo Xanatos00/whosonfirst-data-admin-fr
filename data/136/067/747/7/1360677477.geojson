@@ -62,6 +62,10 @@
         404397623
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b01d99b31dc187ead4d0cb7b32a8c6e1",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677477,
-    "wof:lastmodified":1539928887,
+    "wof:lastmodified":1603247232,
     "wof:name":"Chateauneuf-De-Chabre",
     "wof:parent_id":102067233,
     "wof:placetype":"locality",

@@ -148,6 +148,11 @@
         404361625
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4a507425b5baae94a897fb3ebecdf195",
     "wof:hierarchy":[
         {
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1360673949,
-    "wof:lastmodified":1564126549,
+    "wof:lastmodified":1603247261,
     "wof:name":"Ghisoni",
     "wof:parent_id":102067895,
     "wof:placetype":"locality",

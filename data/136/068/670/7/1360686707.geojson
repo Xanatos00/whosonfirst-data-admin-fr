@@ -9,7 +9,7 @@
     "geom:bbox":"3.235902,44.292769,3.235902,44.292769",
     "geom:latitude":44.292769,
     "geom:longitude":3.235902,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.292769,
     "lbl:longitude":3.235902,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686707,
-    "wof:lastmodified":1539986886,
+    "wof:lastmodified":1603247099,
     "wof:name":"Almi\u00e8res",
     "wof:parent_id":404356345,
     "wof:placetype":"neighbourhood",

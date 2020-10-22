@@ -161,6 +161,11 @@
         404366177
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3671ff892f4b2b782d90b7a503071a66",
     "wof:hierarchy":[
         {
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":1360674443,
-    "wof:lastmodified":1564126635,
+    "wof:lastmodified":1603247273,
     "wof:name":"Bessas",
     "wof:parent_id":102069067,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683289,
         102191581,
-        85633147,
-        404379133,
         404228127,
+        404379133,
+        85633147,
         1108826399,
         136253037,
         102070043
@@ -68,6 +68,11 @@
         404379133
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5da556ac5ce309064424037be45cd991",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360675699,
-    "wof:lastmodified":1539928857,
+    "wof:lastmodified":1603247162,
     "wof:name":"Braisnes",
     "wof:parent_id":102070043,
     "wof:placetype":"locality",

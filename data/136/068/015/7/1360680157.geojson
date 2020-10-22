@@ -164,6 +164,11 @@
         404425811
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1f4fd19b1ae8ad9af28d33e6400583af",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360680157,
-    "wof:lastmodified":1564125380,
+    "wof:lastmodified":1603247044,
     "wof:name":"Neuhaeusel",
     "wof:parent_id":404425811,
     "wof:placetype":"locality",

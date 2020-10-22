@@ -137,6 +137,10 @@
         404378501
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a5ee4843475053df86089c8b169e25b8",
     "wof:hierarchy":[
         {
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":1360675625,
-    "wof:lastmodified":1564126562,
+    "wof:lastmodified":1603247263,
     "wof:name":"Forest-Saint-Julien",
     "wof:parent_id":102067601,
     "wof:placetype":"locality",

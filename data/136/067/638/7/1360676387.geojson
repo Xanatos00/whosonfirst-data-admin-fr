@@ -107,6 +107,10 @@
         404386123
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"09d3cc0bdf1cdcc32ab3ed7c1a3ea63a",
     "wof:hierarchy":[
         {
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":1360676387,
-    "wof:lastmodified":1564126864,
+    "wof:lastmodified":1603247303,
     "wof:name":"Saint-Lambert",
     "wof:parent_id":102065129,
     "wof:placetype":"locality",

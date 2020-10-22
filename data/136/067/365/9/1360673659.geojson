@@ -152,6 +152,11 @@
         404359023
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f0c3e19c94aa85b5bfd3238a354c0df9",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360673659,
-    "wof:lastmodified":1564125870,
+    "wof:lastmodified":1603247167,
     "wof:name":"Champclause",
     "wof:parent_id":102065917,
     "wof:placetype":"locality",

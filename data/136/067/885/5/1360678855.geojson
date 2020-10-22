@@ -146,6 +146,11 @@
         404411491
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a113be90f59ddadaa481600ed2e40e62",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360678855,
-    "wof:lastmodified":1564126676,
+    "wof:lastmodified":1603247279,
     "wof:name":"Pexonne",
     "wof:parent_id":102064925,
     "wof:placetype":"locality",

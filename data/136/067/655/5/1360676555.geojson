@@ -113,6 +113,11 @@
         404388363
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6082a357328856d4b4d8d79e71b1e963",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360676555,
-    "wof:lastmodified":1564126748,
+    "wof:lastmodified":1603247287,
     "wof:name":"Lieusaint",
     "wof:parent_id":102071445,
     "wof:placetype":"locality",

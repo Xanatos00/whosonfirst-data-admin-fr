@@ -122,6 +122,11 @@
         404376117
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ed7c40a4d91e2bbb3faadb8a57298284",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360675369,
-    "wof:lastmodified":1564126555,
+    "wof:lastmodified":1603247262,
     "wof:name":"La Sauvetat",
     "wof:parent_id":102065691,
     "wof:placetype":"locality",

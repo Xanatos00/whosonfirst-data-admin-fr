@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683413,
         102191581,
-        85633147,
-        404365433,
         404227891,
+        404365433,
+        85633147,
         1108826389,
         136253037,
         102065703
@@ -63,6 +63,10 @@
         404365433
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"59feb5abd3cbff2e1abdace90aaa629c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674359,
-    "wof:lastmodified":1539928833,
+    "wof:lastmodified":1603247302,
     "wof:name":"Saint-Jean-D'Aubrigoux",
     "wof:parent_id":102065703,
     "wof:placetype":"locality",

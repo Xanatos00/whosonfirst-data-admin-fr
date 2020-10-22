@@ -128,6 +128,11 @@
         404428699
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"725efff643c9f9ee1e77a49a1fa1b454",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360680461,
-    "wof:lastmodified":1564125393,
+    "wof:lastmodified":1603247046,
     "wof:name":"Morsains",
     "wof:parent_id":102067447,
     "wof:placetype":"locality",

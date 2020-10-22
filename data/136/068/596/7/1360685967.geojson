@@ -9,7 +9,7 @@
     "geom:bbox":"-1.1653065,44.9658215,-1.1653065,44.9658215",
     "geom:latitude":44.965821,
     "geom:longitude":-1.165307,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.965821,
     "lbl:longitude":-1.165307,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685967,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247085,
     "wof:name":"La Grande Escoure",
     "wof:parent_id":404366959,
     "wof:placetype":"neighbourhood",

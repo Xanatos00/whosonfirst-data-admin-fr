@@ -137,6 +137,11 @@
         404375007
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"21d64f8519af46b4fc992c6d6380b848",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360675275,
-    "wof:lastmodified":1564126365,
+    "wof:lastmodified":1603247235,
     "wof:name":"Apremont",
     "wof:parent_id":102066563,
     "wof:placetype":"locality",

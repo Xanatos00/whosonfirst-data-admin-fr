@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683559,
         102191581,
-        85633147,
-        404393905,
         404227739,
+        404393905,
+        85633147,
         1108826395,
         136253037,
         102069955
@@ -63,6 +63,10 @@
         404393905
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"438664ffcf67cfb7cd4be883b51b5a2f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677151,
-    "wof:lastmodified":1539928882,
+    "wof:lastmodified":1603247235,
     "wof:name":"La Cote",
     "wof:parent_id":102069955,
     "wof:placetype":"locality",

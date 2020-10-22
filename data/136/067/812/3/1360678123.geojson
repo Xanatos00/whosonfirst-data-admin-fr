@@ -122,6 +122,11 @@
         404404885
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"af38afd200df82803de033aa2e80ed92",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360678123,
-    "wof:lastmodified":1564126655,
+    "wof:lastmodified":1603247276,
     "wof:name":"Avoine",
     "wof:parent_id":102066321,
     "wof:placetype":"locality",

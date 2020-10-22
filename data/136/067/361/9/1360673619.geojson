@@ -101,6 +101,10 @@
         404358593
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2580353b6a258ff848090d64842e44a2",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":1360673619,
-    "wof:lastmodified":1564126440,
+    "wof:lastmodified":1603247246,
     "wof:name":"Saint-Florent",
     "wof:parent_id":102069757,
     "wof:placetype":"locality",

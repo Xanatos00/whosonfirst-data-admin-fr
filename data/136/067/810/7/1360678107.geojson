@@ -110,6 +110,11 @@
         404404669
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3b38c35f40128bd143bd4287e033095e",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360678107,
-    "wof:lastmodified":1564126063,
+    "wof:lastmodified":1603247194,
     "wof:name":"Gargas",
     "wof:parent_id":102066919,
     "wof:placetype":"locality",

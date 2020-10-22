@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683559,
         102191581,
-        85633147,
-        404352749,
         404227739,
+        404352749,
+        85633147,
         1108826395,
         136253037,
         102068551
@@ -63,6 +63,10 @@
         404352749
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8ea2ad85d520223cbb9f4a73680bb787",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673027,
-    "wof:lastmodified":1539928793,
+    "wof:lastmodified":1603247267,
     "wof:name":"Chatenois",
     "wof:parent_id":102068551,
     "wof:placetype":"locality",

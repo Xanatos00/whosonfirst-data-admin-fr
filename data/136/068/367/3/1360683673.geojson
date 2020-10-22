@@ -9,7 +9,7 @@
     "geom:bbox":"6.117839,46.070372,6.117839,46.070372",
     "geom:latitude":46.070372,
     "geom:longitude":6.117839,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.070372,
     "lbl:longitude":6.117839,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683673,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247084,
     "wof:name":"Les Verjus",
     "wof:parent_id":404351623,
     "wof:placetype":"neighbourhood",

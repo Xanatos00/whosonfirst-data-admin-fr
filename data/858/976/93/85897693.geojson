@@ -9,7 +9,6 @@
     "geom:bbox":"-1.577569,47.236307,-1.577569,47.236307",
     "geom:latitude":47.236307,
     "geom:longitude":-1.577569,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":47.236307,
     "lbl:longitude":-1.577569,
@@ -100,10 +99,7 @@
         }
     ],
     "wof:id":85897693,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322803,
+    "wof:lastmodified":1603246972,
     "wof:name":"Breil-Barberie",
     "wof:parent_id":101749589,
     "wof:placetype":"neighbourhood",

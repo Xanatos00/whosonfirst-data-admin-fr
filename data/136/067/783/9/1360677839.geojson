@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683183,
         102191581,
-        85633147,
-        404401971,
         404227885,
+        404401971,
+        85633147,
         1108826385,
         136253037,
         102065093
@@ -68,6 +68,11 @@
         404401971
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f7741f53fb9376112382262c59057fcb",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677839,
-    "wof:lastmodified":1539928893,
+    "wof:lastmodified":1603247241,
     "wof:name":"Mauvezin-D'Armagnac",
     "wof:parent_id":102065093,
     "wof:placetype":"locality",

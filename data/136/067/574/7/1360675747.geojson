@@ -105,6 +105,10 @@
         404379493
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"89ad0ef7458e192a2dbc0c6c937deb91",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360675747,
-    "wof:lastmodified":1564126425,
+    "wof:lastmodified":1603247244,
     "wof:name":"Saint-Symphorien",
     "wof:parent_id":102069339,
     "wof:placetype":"locality",

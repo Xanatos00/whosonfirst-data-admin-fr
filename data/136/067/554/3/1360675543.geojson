@@ -125,6 +125,11 @@
         404377589
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"971386cc9838deca59f4894808f853e0",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360675543,
-    "wof:lastmodified":1564126586,
+    "wof:lastmodified":1603247267,
     "wof:name":"Montdidier",
     "wof:parent_id":102064353,
     "wof:placetype":"locality",

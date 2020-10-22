@@ -135,6 +135,10 @@
         404359855
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c39ee81b593b6d2e780c5b20d208b558",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360673733,
-    "wof:lastmodified":1564126953,
+    "wof:lastmodified":1603247315,
     "wof:name":"La Roche-Rigault",
     "wof:parent_id":102066461,
     "wof:placetype":"locality",

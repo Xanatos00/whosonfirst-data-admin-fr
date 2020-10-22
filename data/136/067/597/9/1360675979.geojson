@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404381793,
         404228051,
+        404381793,
+        85633147,
         1108826395,
         136253037,
         102067495
@@ -77,6 +77,11 @@
         404381793
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a9c0de52fb2177cc518b781d78d69d51",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360675979,
-    "wof:lastmodified":1539928861,
+    "wof:lastmodified":1603247256,
     "wof:name":"Fourcatier-Et-Maison-Neuve",
     "wof:parent_id":102067495,
     "wof:placetype":"locality",

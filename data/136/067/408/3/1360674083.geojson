@@ -121,6 +121,11 @@
         404362739
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"45ef61f4e9ae6ae971946e9fdd4436a1",
     "wof:hierarchy":[
         {
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":1360674083,
-    "wof:lastmodified":1564126178,
+    "wof:lastmodified":1603247209,
     "wof:name":"Vitrolles",
     "wof:parent_id":102064889,
     "wof:placetype":"locality",

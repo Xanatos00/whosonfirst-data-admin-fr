@@ -96,6 +96,10 @@
         404351735
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d2cd3dc40f9280f076c1f186bf76023a",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1360672945,
-    "wof:lastmodified":1564126211,
+    "wof:lastmodified":1603247214,
     "wof:name":"Saint-Beauzire",
     "wof:parent_id":102065039,
     "wof:placetype":"locality",

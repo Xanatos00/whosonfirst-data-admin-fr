@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683289,
         102191581,
-        85633147,
-        404426735,
         404228127,
+        404426735,
+        85633147,
         1108826399,
         136253037,
         102070783
@@ -63,6 +63,10 @@
         404426735
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"29b8471f2f21305cdf9838b548913eb6",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680239,
-    "wof:lastmodified":1539928935,
+    "wof:lastmodified":1603247043,
     "wof:name":"Saint-Jean-Aux-Bois",
     "wof:parent_id":102070783,
     "wof:placetype":"locality",

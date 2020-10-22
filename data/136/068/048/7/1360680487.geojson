@@ -80,6 +80,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526509154,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"6d8476874a398023a8ce07261b2ef11c",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1360680487,
-    "wof:lastmodified":1564125400,
+    "wof:lastmodified":1603247047,
     "wof:name":"Avrecourt",
     "wof:parent_id":102067829,
     "wof:placetype":"locality",

@@ -148,6 +148,11 @@
         404409585
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"99554d10b9e47a69311c4eae06b69afe",
     "wof:hierarchy":[
         {
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1360678587,
-    "wof:lastmodified":1564126241,
+    "wof:lastmodified":1603247218,
     "wof:name":"La Chapelle-Montmartin",
     "wof:parent_id":102065971,
     "wof:placetype":"locality",

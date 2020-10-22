@@ -9,7 +9,7 @@
     "geom:bbox":"8.552513,42.357333,8.552513,42.357333",
     "geom:latitude":42.357333,
     "geom:longitude":8.552513,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":42.357333,
     "lbl:longitude":8.552513,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1360684505,
-    "wof:lastmodified":1539986858,
+    "wof:lastmodified":1603247107,
     "wof:name":"Elbo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

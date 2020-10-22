@@ -9,7 +9,7 @@
     "geom:bbox":"-3.54649208465,48.4696565466,-3.41877110506,48.5523418021",
     "geom:latitude":48.510461,
     "geom:longitude":-3.491739,
-    "geonames:id":"2997890,2997891",
+    "gn:id":"2997890,2997891",
     "iso:country":"FR",
     "lbl:latitude":48.522872,
     "lbl:longitude":-3.488804,
@@ -351,7 +351,7 @@
         }
     ],
     "wof:id":101878849,
-    "wof:lastmodified":1582323663,
+    "wof:lastmodified":1603248036,
     "wof:name":"Loguivy-Plougras",
     "wof:parent_id":404350181,
     "wof:placetype":"locality",

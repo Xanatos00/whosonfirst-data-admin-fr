@@ -9,7 +9,7 @@
     "geom:bbox":"-4.736866,48.039887,-4.736866,48.039887",
     "geom:latitude":48.039887,
     "geom:longitude":-4.736866,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":48.039887,
     "lbl:longitude":-4.736866,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686091,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247112,
     "wof:name":"S\u00e9maphore",
     "wof:parent_id":404368419,
     "wof:placetype":"neighbourhood",

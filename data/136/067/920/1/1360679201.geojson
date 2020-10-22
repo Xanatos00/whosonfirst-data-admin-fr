@@ -149,6 +149,11 @@
         404415331
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b3872d83e7ccfc803c5465b12f24e849",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360679201,
-    "wof:lastmodified":1564126910,
+    "wof:lastmodified":1603247309,
     "wof:name":"Gimouille",
     "wof:parent_id":102070185,
     "wof:placetype":"locality",

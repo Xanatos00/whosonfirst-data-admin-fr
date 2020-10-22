@@ -116,6 +116,11 @@
         404412451
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fd90d4eafc4fd855a96cf50449af7955",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360678929,
-    "wof:lastmodified":1564126148,
+    "wof:lastmodified":1603247205,
     "wof:name":"Floirac",
     "wof:parent_id":102065785,
     "wof:placetype":"locality",

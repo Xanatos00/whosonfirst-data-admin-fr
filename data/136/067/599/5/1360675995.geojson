@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683377,
         102191581,
-        85633147,
-        404381917,
         404227889,
+        404381917,
+        85633147,
         1108826389,
         136253037,
         102066103
@@ -63,6 +63,10 @@
         404381917
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3481227cca22c4850350511a28b52c7e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675995,
-    "wof:lastmodified":1539928861,
+    "wof:lastmodified":1603247254,
     "wof:name":"Saint-Cyr-De-Valorges",
     "wof:parent_id":102066103,
     "wof:placetype":"locality",

@@ -110,6 +110,11 @@
         404425381
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9a44c0bc925a81617c0d6dfc3c620847",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360680125,
-    "wof:lastmodified":1564125387,
+    "wof:lastmodified":1603247045,
     "wof:name":"Villereau",
     "wof:parent_id":102071555,
     "wof:placetype":"locality",

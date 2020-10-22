@@ -9,7 +9,7 @@
     "geom:bbox":"2.732377,50.779932,2.732377,50.779932",
     "geom:latitude":50.779932,
     "geom:longitude":2.732377,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":50.779932,
     "lbl:longitude":2.732377,
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1360686759,
-    "wof:lastmodified":1564125375,
+    "wof:lastmodified":1603247043,
     "wof:name":"Mont Noir",
     "wof:parent_id":404411883,
     "wof:placetype":"neighbourhood",

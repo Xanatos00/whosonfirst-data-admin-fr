@@ -9,7 +9,7 @@
     "geom:bbox":"6.040732,45.224611,6.040732,45.224611",
     "geom:latitude":45.224611,
     "geom:longitude":6.040732,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.224611,
     "lbl:longitude":6.040732,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686449,
-    "wof:lastmodified":1539986883,
+    "wof:lastmodified":1603247045,
     "wof:name":"Le Rivier-d'Allemond",
     "wof:parent_id":404405783,
     "wof:placetype":"neighbourhood",

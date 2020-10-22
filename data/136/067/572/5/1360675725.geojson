@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404379425,
         404228213,
+        404379425,
+        85633147,
         1108826385,
         136253037,
         102065791
@@ -63,6 +63,10 @@
         404379425
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a3ebda1dcec45064842bd4d764d3a759",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675725,
-    "wof:lastmodified":1539928857,
+    "wof:lastmodified":1603247230,
     "wof:name":"Saint-Julien-De-Lampon",
     "wof:parent_id":102065791,
     "wof:placetype":"locality",

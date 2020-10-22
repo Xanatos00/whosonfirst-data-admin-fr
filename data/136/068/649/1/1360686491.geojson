@@ -9,7 +9,7 @@
     "geom:bbox":"5.858553,46.614798,5.858553,46.614798",
     "geom:latitude":46.614798,
     "geom:longitude":5.858553,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.614798,
     "lbl:longitude":5.858553,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686491,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247090,
     "wof:name":"La Fruiti\u00e8re",
     "wof:parent_id":404402901,
     "wof:placetype":"neighbourhood",

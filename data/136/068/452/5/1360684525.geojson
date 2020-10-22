@@ -9,7 +9,7 @@
     "geom:bbox":"-2.95515,47.621778,-2.95515,47.621778",
     "geom:latitude":47.621778,
     "geom:longitude":-2.95515,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.621778,
     "lbl:longitude":-2.95515,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1360684525,
-    "wof:lastmodified":1539986858,
+    "wof:lastmodified":1603247060,
     "wof:name":"Man\u00e9-Verh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404386617,
         404227853,
+        404386617,
+        85633147,
         1108826393,
         136253037,
         102070273
@@ -63,6 +63,10 @@
         404386617
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1f649d494a3e3b5e4a2162d6aba3e954",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676407,
-    "wof:lastmodified":1539928869,
+    "wof:lastmodified":1603247276,
     "wof:name":"Saint-Etienne-L'Allier",
     "wof:parent_id":102070273,
     "wof:placetype":"locality",

@@ -156,6 +156,10 @@
         404417977
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d01491d62310d91b641e507d280ddad8",
     "wof:hierarchy":[
         {
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":1360679439,
-    "wof:lastmodified":1564127027,
+    "wof:lastmodified":1603247325,
     "wof:name":"Blancey",
     "wof:parent_id":102069071,
     "wof:placetype":"locality",

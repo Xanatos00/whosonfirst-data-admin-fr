@@ -119,6 +119,11 @@
         404428039
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"51e9f4d662ffb0afa28d6ada774c6bf5",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360680385,
-    "wof:lastmodified":1564125449,
+    "wof:lastmodified":1603247057,
     "wof:name":"Franconville",
     "wof:parent_id":102066683,
     "wof:placetype":"locality",

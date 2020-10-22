@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404410591,
         404228083,
+        404410591,
+        85633147,
         1108826389,
         136253037,
         102064591
@@ -63,6 +63,10 @@
         404410591
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3a505be7871616d4839f393b1aea6c1e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678727,
-    "wof:lastmodified":1539928909,
+    "wof:lastmodified":1603247199,
     "wof:name":"Saint-Barthelemy",
     "wof:parent_id":102064591,
     "wof:placetype":"locality",

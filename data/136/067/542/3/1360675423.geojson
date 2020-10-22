@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404376397,
         404228275,
+        404376397,
+        85633147,
         1108826385,
         136253037,
         102068317
@@ -63,6 +63,10 @@
         404376397
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a156f0394e9af9bb1f4dabe823231c06",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675423,
-    "wof:lastmodified":1539928852,
+    "wof:lastmodified":1603247243,
     "wof:name":"Saint-Philippe-D'Aiguille",
     "wof:parent_id":102068317,
     "wof:placetype":"locality",

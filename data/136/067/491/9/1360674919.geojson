@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404371599,
         404228105,
+        404371599,
+        85633147,
         1108826393,
         136253037,
         102065369
@@ -77,6 +77,11 @@
         404371599
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ad7886c2d5cb30bbb1f2c2b7282951bd",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360674919,
-    "wof:lastmodified":1539928843,
+    "wof:lastmodified":1603247222,
     "wof:name":"Coudeville-Sur-Mer",
     "wof:parent_id":102065369,
     "wof:placetype":"locality",

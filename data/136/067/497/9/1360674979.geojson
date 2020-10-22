@@ -110,6 +110,11 @@
         404372237
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e623bed4d5ca8d94723e5ae3e919f11d",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360674979,
-    "wof:lastmodified":1564126185,
+    "wof:lastmodified":1603247210,
     "wof:name":"Juvigny",
     "wof:parent_id":102065179,
     "wof:placetype":"locality",

@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404378015,
         404227931,
+        404378015,
+        85633147,
         1108826393,
         136253037,
         102071055
@@ -83,6 +83,11 @@
         404378015
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"77c0dc28732f4dba2ebd5a6b0967b1f8",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360675573,
-    "wof:lastmodified":1539928854,
+    "wof:lastmodified":1603247175,
     "wof:name":"La Chapelle-Au-Moine",
     "wof:parent_id":102071055,
     "wof:placetype":"locality",

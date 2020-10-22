@@ -9,7 +9,7 @@
     "geom:bbox":"3.0582596294,46.6557231705,3.15445293685,46.7377729894",
     "geom:latitude":46.698127,
     "geom:longitude":3.105657,
-    "geonames:id":"2978773,2978774",
+    "gn:id":"2978773,2978774",
     "iso:country":"FR",
     "lbl:latitude":46.682464,
     "lbl:longitude":3.103871,
@@ -350,7 +350,7 @@
         }
     ],
     "wof:id":101889663,
-    "wof:lastmodified":1582323138,
+    "wof:lastmodified":1603247492,
     "wof:name":"Saint-L\u00e9opardin-d'Augy",
     "wof:parent_id":404358569,
     "wof:placetype":"locality",

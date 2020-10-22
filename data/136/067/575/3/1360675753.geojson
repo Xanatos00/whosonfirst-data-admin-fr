@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404379591,
         404228035,
+        404379591,
+        85633147,
         1108826385,
         136253037,
         102067113
@@ -63,6 +63,10 @@
         404379591
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0960440e9ecff9e9506e1c47319727fc",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675753,
-    "wof:lastmodified":1539928857,
+    "wof:lastmodified":1603247231,
     "wof:name":"Saint-Germain-De-Confolens",
     "wof:parent_id":102067113,
     "wof:placetype":"locality",

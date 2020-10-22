@@ -9,7 +9,7 @@
     "geom:bbox":"2.076189,49.037189,2.076189,49.037189",
     "geom:latitude":49.037189,
     "geom:longitude":2.076189,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.037189,
     "lbl:longitude":2.076189,
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1360686103,
-    "wof:lastmodified":1563279548,
+    "wof:lastmodified":1603247046,
     "wof:name":"Cergy-Pontoise",
     "wof:parent_id":1159322429,
     "wof:placetype":"neighbourhood",

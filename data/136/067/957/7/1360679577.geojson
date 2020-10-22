@@ -146,6 +146,11 @@
         404419741
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fd118c3d78c56abe5dcd7908088af989",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360679577,
-    "wof:lastmodified":1564126448,
+    "wof:lastmodified":1603247247,
     "wof:name":"Roncenay",
     "wof:parent_id":102065151,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404357857,
         404227669,
+        404357857,
+        85633147,
         1108826389,
         136253037,
         102069625
@@ -63,6 +63,10 @@
         404357857
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1dce12aa8c70f8e90c7be47fae88346d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673533,
-    "wof:lastmodified":1539928813,
+    "wof:lastmodified":1603247171,
     "wof:name":"Saint-Joseph-De-Riviere",
     "wof:parent_id":102069625,
     "wof:placetype":"locality",

@@ -152,6 +152,11 @@
         404358871
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"68c54f44166e1253c8f2fbf379196655",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360673641,
-    "wof:lastmodified":1564125985,
+    "wof:lastmodified":1603247182,
     "wof:name":"Montrigaud",
     "wof:parent_id":102066351,
     "wof:placetype":"locality",

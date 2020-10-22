@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683261,
         102191581,
-        85633147,
-        404415725,
         404227699,
+        404415725,
+        85633147,
         1108826391,
         136253037,
         102065241
@@ -68,6 +68,11 @@
         404415725
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8179f908d0708ca5510771325eca8648",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679251,
-    "wof:lastmodified":1539928918,
+    "wof:lastmodified":1603247242,
     "wof:name":"Orges",
     "wof:parent_id":102065241,
     "wof:placetype":"locality",

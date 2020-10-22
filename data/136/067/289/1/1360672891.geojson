@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404351251,
         404228031,
+        404351251,
+        85633147,
         1108826393,
         136253037,
         102065155
@@ -63,6 +63,10 @@
         404351251
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"80573013dc97e31f262c463467f288c9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672891,
-    "wof:lastmodified":1539928790,
+    "wof:lastmodified":1603247192,
     "wof:name":"Saint-Andre-D'Hebertot",
     "wof:parent_id":102065155,
     "wof:placetype":"locality",

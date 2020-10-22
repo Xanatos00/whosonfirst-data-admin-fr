@@ -152,6 +152,11 @@
         404364979
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c7ca79b85c2f59f19cb4ba4b7b589cf0",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360674293,
-    "wof:lastmodified":1564126672,
+    "wof:lastmodified":1603247278,
     "wof:name":"Vinezac",
     "wof:parent_id":102066213,
     "wof:placetype":"locality",

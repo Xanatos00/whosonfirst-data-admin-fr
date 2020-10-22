@@ -140,6 +140,11 @@
         404419703
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"751f4ccdbf31f47777d3217ab2d0d2a5",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360679573,
-    "wof:lastmodified":1564126448,
+    "wof:lastmodified":1603247247,
     "wof:name":"Colombier",
     "wof:parent_id":102066787,
     "wof:placetype":"locality",

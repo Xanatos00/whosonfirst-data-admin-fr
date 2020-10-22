@@ -134,6 +134,11 @@
         404394565
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"482a39aa1dce29beb3991d41a272b7a8",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360677219,
-    "wof:lastmodified":1564126943,
+    "wof:lastmodified":1603247314,
     "wof:name":"Montmarlon",
     "wof:parent_id":102069663,
     "wof:placetype":"locality",

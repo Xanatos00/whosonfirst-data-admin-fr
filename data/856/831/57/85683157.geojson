@@ -421,7 +421,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"176",
     "statoids:as_of_date":"2010-01-01",
     "statoids:capital":"Nanterre",
@@ -468,7 +468,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1588976235,
+    "wof:lastmodified":1603246967,
     "wof:name":"Hauts-de-Seine",
     "wof:parent_id":404227465,
     "wof:placetype":"region",

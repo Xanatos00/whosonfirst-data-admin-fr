@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404408231,
         404228209,
+        404408231,
+        85633147,
         1108826385,
         136253037,
         102065785
@@ -63,6 +63,10 @@
         404408231
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b46b65f25498003a9bb7ef45cfa48ac8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678429,
-    "wof:lastmodified":1539928904,
+    "wof:lastmodified":1603247189,
     "wof:name":"Chenac-Saint-Seurin-D'Uzet",
     "wof:parent_id":102065785,
     "wof:placetype":"locality",

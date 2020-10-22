@@ -9,7 +9,7 @@
     "geom:bbox":"5.330418,43.491389,5.330418,43.491389",
     "geom:latitude":43.491389,
     "geom:longitude":5.330418,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.491389,
     "lbl:longitude":5.330418,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686115,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247054,
     "wof:name":"La M\u00e9rindole",
     "wof:parent_id":1159322055,
     "wof:placetype":"neighbourhood",

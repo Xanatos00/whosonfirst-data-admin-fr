@@ -144,6 +144,10 @@
         404420861
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c9835f52e874c7cfc6a526b092288495",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360679671,
-    "wof:lastmodified":1564126518,
+    "wof:lastmodified":1603247257,
     "wof:name":"Saint-Lary-Soulan",
     "wof:parent_id":102069149,
     "wof:placetype":"locality",

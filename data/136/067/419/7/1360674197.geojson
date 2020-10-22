@@ -137,6 +137,11 @@
         404364161
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0c6bf2380981de648fdfd20f10949f10",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360674197,
-    "wof:lastmodified":1564126595,
+    "wof:lastmodified":1603247267,
     "wof:name":"Presle",
     "wof:parent_id":102068413,
     "wof:placetype":"locality",

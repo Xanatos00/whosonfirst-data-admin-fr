@@ -67,6 +67,11 @@
         404428451
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"746bac0eb2b5e55eeb0462ac1857b22f",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360680431,
-    "wof:lastmodified":1539928938,
+    "wof:lastmodified":1603247096,
     "wof:name":"Sceaux-D'Anjou",
     "wof:parent_id":102066203,
     "wof:placetype":"locality",

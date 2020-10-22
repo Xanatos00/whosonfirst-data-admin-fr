@@ -122,6 +122,11 @@
         404410475
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e362f179d7aa6831eb78e5e89314d729",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360678709,
-    "wof:lastmodified":1564126618,
+    "wof:lastmodified":1603247271,
     "wof:name":"Fronsac",
     "wof:parent_id":102068871,
     "wof:placetype":"locality",

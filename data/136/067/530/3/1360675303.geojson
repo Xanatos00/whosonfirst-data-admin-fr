@@ -113,6 +113,11 @@
         404375239
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f33edb050cb7d890b38a073c337744d5",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360675303,
-    "wof:lastmodified":1564126453,
+    "wof:lastmodified":1603247248,
     "wof:name":"Vals",
     "wof:parent_id":102066077,
     "wof:placetype":"locality",

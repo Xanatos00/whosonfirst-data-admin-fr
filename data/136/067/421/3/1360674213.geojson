@@ -147,6 +147,10 @@
         404364317
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1b1846fa403078d1c9da1b358344a8c1",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360674213,
-    "wof:lastmodified":1564126612,
+    "wof:lastmodified":1603247270,
     "wof:name":"Autevielle-Saint-Martin-Bideren",
     "wof:parent_id":102070865,
     "wof:placetype":"locality",

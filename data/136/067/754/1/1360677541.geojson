@@ -119,6 +119,11 @@
         404398579
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fc815a9028def4d813076ecd43cd53a0",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360677541,
-    "wof:lastmodified":1564125906,
+    "wof:lastmodified":1603247172,
     "wof:name":"Sarry",
     "wof:parent_id":102068245,
     "wof:placetype":"locality",

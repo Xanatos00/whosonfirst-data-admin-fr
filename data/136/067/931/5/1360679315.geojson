@@ -145,6 +145,11 @@
         404416405
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c4d2edd9392d46783c319eae5d001111",
     "wof:hierarchy":[
         {
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1360679315,
-    "wof:lastmodified":1564125837,
+    "wof:lastmodified":1603247162,
     "wof:name":"Ortale",
     "wof:parent_id":102070777,
     "wof:placetype":"locality",

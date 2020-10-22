@@ -152,6 +152,11 @@
         404356915
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b70a1a8e06a9bc31b6def004763ac7e3",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360673443,
-    "wof:lastmodified":1564127032,
+    "wof:lastmodified":1603247325,
     "wof:name":"Bazoches",
     "wof:parent_id":102066513,
     "wof:placetype":"locality",

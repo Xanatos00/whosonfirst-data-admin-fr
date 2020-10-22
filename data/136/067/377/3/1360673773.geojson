@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683453,
         102191581,
-        85633147,
-        404360273,
         404227691,
+        404360273,
+        85633147,
         1108826387,
         136253037,
         102068171
@@ -63,6 +63,10 @@
         404360273
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4d1c77471faef92e0880578970b5d148",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673773,
-    "wof:lastmodified":1539928820,
+    "wof:lastmodified":1603247227,
     "wof:name":"Mas-Saint-Chely",
     "wof:parent_id":102068171,
     "wof:placetype":"locality",

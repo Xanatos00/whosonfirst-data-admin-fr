@@ -69,9 +69,9 @@
     "wof:belongsto":[
         85683179,
         102191581,
-        85633147,
-        404350135,
         404227843,
+        404350135,
+        85633147,
         1108826385,
         136253037,
         102068749
@@ -86,6 +86,11 @@
         404350135
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e8a6158e4a393414b45e3d1b6c6f5ca9",
     "wof:hierarchy":[
         {
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":1360672791,
-    "wof:lastmodified":1539928787,
+    "wof:lastmodified":1603247272,
     "wof:name":"Montaigut-Le-Blanc",
     "wof:parent_id":102068749,
     "wof:placetype":"locality",

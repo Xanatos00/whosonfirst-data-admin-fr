@@ -318,13 +318,13 @@
     "wd:wordcount":27,
     "wof:belongsto":[
         102191581,
-        85633147,
-        102070217,
-        136253037,
-        404395829,
-        101886227,
         404228289,
+        404395829,
+        85633147,
         1108826391,
+        101886227,
+        136253037,
+        102070217,
         85683221
     ],
     "wof:breaches":[],
@@ -353,10 +353,7 @@
         }
     ],
     "wof:id":1360695697,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163122,
+    "wof:lastmodified":1603247123,
     "wof:name":"Neuve-\u00c9glise",
     "wof:parent_id":404395829,
     "wof:placetype":"neighbourhood",

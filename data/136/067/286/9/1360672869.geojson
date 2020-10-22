@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683193,
         102191581,
-        85633147,
-        404350975,
         404228021,
+        404350975,
+        85633147,
         1108826391,
         136253037,
         102067489
@@ -68,6 +68,11 @@
         404350975
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4d4d785e1fb06996233894e144244543",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672869,
-    "wof:lastmodified":1539928789,
+    "wof:lastmodified":1603247201,
     "wof:name":"Val-D'Auzon",
     "wof:parent_id":102067489,
     "wof:placetype":"locality",

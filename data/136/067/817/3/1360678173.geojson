@@ -154,6 +154,11 @@
         404405431
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fbf422a352ce1f508e9489e9b2a55b9c",
     "wof:hierarchy":[
         {
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":1360678173,
-    "wof:lastmodified":1564126079,
+    "wof:lastmodified":1603247196,
     "wof:name":"Vallouise",
     "wof:parent_id":102064431,
     "wof:placetype":"locality",

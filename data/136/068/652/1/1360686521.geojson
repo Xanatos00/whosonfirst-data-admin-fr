@@ -9,7 +9,7 @@
     "geom:bbox":"2.6958985,50.017942,2.6958985,50.017942",
     "geom:latitude":50.017942,
     "geom:longitude":2.695899,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":50.017942,
     "lbl:longitude":2.695899,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686521,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247102,
     "wof:name":"La Boisselle",
     "wof:parent_id":404386639,
     "wof:placetype":"neighbourhood",

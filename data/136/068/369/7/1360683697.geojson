@@ -9,7 +9,7 @@
     "geom:bbox":"-2.0522865,47.093982,-2.0522865,47.093982",
     "geom:latitude":47.093982,
     "geom:longitude":-2.052287,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.093982,
     "lbl:longitude":-2.052287,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683697,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247082,
     "wof:name":"La Boutinardi\u00e8re",
     "wof:parent_id":404424349,
     "wof:placetype":"neighbourhood",

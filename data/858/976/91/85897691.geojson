@@ -9,7 +9,6 @@
     "geom:bbox":"-1.563704,47.228036,-1.563704,47.228036",
     "geom:latitude":47.228036,
     "geom:longitude":-1.563704,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":47.228036,
     "lbl:longitude":-1.563704,
@@ -106,10 +105,7 @@
         }
     ],
     "wof:id":85897691,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322804,
+    "wof:lastmodified":1603246972,
     "wof:name":"Hauts-Paves-Saint-Felix",
     "wof:parent_id":101749589,
     "wof:placetype":"neighbourhood",

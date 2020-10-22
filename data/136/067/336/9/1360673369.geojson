@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404356273,
         404227659,
+        404356273,
+        85633147,
         1108826387,
         136253037,
         102069079
@@ -63,6 +63,10 @@
         404356273
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5514d2bd924215311007c50e84feb624",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673369,
-    "wof:lastmodified":1539928804,
+    "wof:lastmodified":1603247162,
     "wof:name":"Saint-Martin-De-L'Arcon",
     "wof:parent_id":102069079,
     "wof:placetype":"locality",

@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683377,
         102191581,
-        85633147,
-        404363521,
         404227889,
+        404363521,
+        85633147,
         1108826389,
         136253037,
         102069139
@@ -77,6 +77,11 @@
         404363521
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ad474835fa56d19009ee53b63deb9241",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360674147,
-    "wof:lastmodified":1539928828,
+    "wof:lastmodified":1603247193,
     "wof:name":"Bully",
     "wof:parent_id":102069139,
     "wof:placetype":"locality",

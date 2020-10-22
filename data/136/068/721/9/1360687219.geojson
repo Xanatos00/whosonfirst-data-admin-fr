@@ -9,7 +9,7 @@
     "geom:bbox":"6.105051,46.081718,6.105051,46.081718",
     "geom:latitude":46.081718,
     "geom:longitude":6.105051,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.081718,
     "lbl:longitude":6.105051,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687219,
-    "wof:lastmodified":1539986893,
+    "wof:lastmodified":1603247116,
     "wof:name":"Le Petit Chable",
     "wof:parent_id":404376727,
     "wof:placetype":"neighbourhood",

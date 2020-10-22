@@ -9,9 +9,8 @@
     "geom:bbox":"2.392159,50.52281,2.438121,50.546108",
     "geom:latitude":50.535529,
     "geom:longitude":2.415507,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":533,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":533,
     "iso:country":"FR",
     "lbl:latitude":50.54079,
@@ -319,14 +318,14 @@
     "woe:name_adm1":"Nord-Pas-de-Calais",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683255,
         102191581,
-        85633147,
-        102071795,
-        136253037,
-        404380389,
         404227933,
+        404380389,
+        85633147,
         1108826399,
-        85683255
+        136253037,
+        102071795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -358,7 +357,7 @@
         }
     ],
     "wof:id":1125889957,
-    "wof:lastmodified":1587163114,
+    "wof:lastmodified":1603248851,
     "wof:name":"Ames",
     "wof:parent_id":404380389,
     "wof:placetype":"locality",

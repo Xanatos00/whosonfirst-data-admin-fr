@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683341,
         102191581,
-        85633147,
-        404360319,
         404227901,
+        404360319,
+        85633147,
         1108826385,
         136253037,
         102070857
@@ -68,6 +68,11 @@
         404360319
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"515a22d3bf5a1f0c1fd441e9aea13845",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673779,
-    "wof:lastmodified":1539928821,
+    "wof:lastmodified":1603247227,
     "wof:name":"Mauvezin-Sur-Gupie",
     "wof:parent_id":102070857,
     "wof:placetype":"locality",

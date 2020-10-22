@@ -152,6 +152,11 @@
         404413925
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7c4cda80bd163a424bee06b12f97bbb9",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360679075,
-    "wof:lastmodified":1564125850,
+    "wof:lastmodified":1603247164,
     "wof:name":"Marsan",
     "wof:parent_id":102065829,
     "wof:placetype":"locality",

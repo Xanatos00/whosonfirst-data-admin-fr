@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683471,
         102191581,
-        85633147,
-        404351751,
         404228135,
+        404351751,
+        85633147,
         1108826389,
         136253037,
         102071377
@@ -63,6 +63,10 @@
         404351751
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7c6277c6e0d63f0c16770e9f5255ec87",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672941,
-    "wof:lastmodified":1539928791,
+    "wof:lastmodified":1603247214,
     "wof:name":"Aveze",
     "wof:parent_id":102071377,
     "wof:placetype":"locality",

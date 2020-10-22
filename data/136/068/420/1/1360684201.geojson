@@ -9,7 +9,7 @@
     "geom:bbox":"8.80184,41.898507,8.80184,41.898507",
     "geom:latitude":41.898507,
     "geom:longitude":8.80184,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":41.898507,
     "lbl:longitude":8.80184,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684201,
-    "wof:lastmodified":1539986854,
+    "wof:lastmodified":1603247095,
     "wof:name":"Capitoro",
     "wof:parent_id":404383885,
     "wof:placetype":"neighbourhood",

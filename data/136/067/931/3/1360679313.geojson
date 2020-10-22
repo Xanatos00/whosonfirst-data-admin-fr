@@ -176,6 +176,11 @@
         404416399
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ddfaa2a4e9fb0f8652683f76ed1662b2",
     "wof:hierarchy":[
         {
@@ -191,7 +196,7 @@
         }
     ],
     "wof:id":1360679313,
-    "wof:lastmodified":1564125837,
+    "wof:lastmodified":1603247162,
     "wof:name":"Lalleyriat",
     "wof:parent_id":102068489,
     "wof:placetype":"locality",

@@ -155,6 +155,11 @@
         404371311
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8d294bbc6f020841e24df40588cb9caf",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360674885,
-    "wof:lastmodified":1564126648,
+    "wof:lastmodified":1603247275,
     "wof:name":"Bosroger",
     "wof:parent_id":102064831,
     "wof:placetype":"locality",

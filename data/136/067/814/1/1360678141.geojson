@@ -146,6 +146,11 @@
         404405063
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"607e3f8a56ded482fc48cc74ab231472",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360678141,
-    "wof:lastmodified":1564126705,
+    "wof:lastmodified":1603247283,
     "wof:name":"Montonvillers",
     "wof:parent_id":102071131,
     "wof:placetype":"locality",

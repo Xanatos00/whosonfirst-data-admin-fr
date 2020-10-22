@@ -146,6 +146,11 @@
         404360983
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f6bb01bf94f2cec7c4bdda0acb840a5e",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360673881,
-    "wof:lastmodified":1564127050,
+    "wof:lastmodified":1603247328,
     "wof:name":"Urdos",
     "wof:parent_id":102064357,
     "wof:placetype":"locality",

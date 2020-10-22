@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683179,
         102191581,
-        85633147,
-        404355161,
         404227633,
+        404355161,
+        85633147,
         1108826385,
         136253037,
         102066419
@@ -68,6 +68,11 @@
         404355161
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4d260e96ade4fbdb3b15845961d3819f",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673261,
-    "wof:lastmodified":1539928799,
+    "wof:lastmodified":1603247321,
     "wof:name":"Le Mas-D'Artige",
     "wof:parent_id":102066419,
     "wof:placetype":"locality",

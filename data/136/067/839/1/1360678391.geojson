@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683297,
         102191581,
-        85633147,
-        404407657,
         404228117,
+        404407657,
+        85633147,
         1108826391,
         136253037,
         102065371
@@ -63,6 +63,10 @@
         404407657
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f99889853f7d213ef14f94ccc64fd99e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678391,
-    "wof:lastmodified":1539928903,
+    "wof:lastmodified":1603247299,
     "wof:name":"Moirey-Flabas-Crepion",
     "wof:parent_id":102065371,
     "wof:placetype":"locality",

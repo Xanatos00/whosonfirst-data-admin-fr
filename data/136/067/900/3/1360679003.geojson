@@ -149,6 +149,10 @@
         404413199
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d8a4267b9ab7ad3254d28d5412a8f861",
     "wof:hierarchy":[
         {
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":1360679003,
-    "wof:lastmodified":1564125861,
+    "wof:lastmodified":1603247166,
     "wof:name":"Saint-Gildas",
     "wof:parent_id":102071159,
     "wof:placetype":"locality",

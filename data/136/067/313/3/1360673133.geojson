@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404353911,
         404228069,
+        404353911,
+        85633147,
         1108826387,
         136253037,
         102064385
@@ -63,6 +63,10 @@
         404353911
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a099785814777dba458bf21c093ad0d3",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673133,
-    "wof:lastmodified":1539928795,
+    "wof:lastmodified":1603247241,
     "wof:name":"Saint-Pierre-D'Aubezies",
     "wof:parent_id":102064385,
     "wof:placetype":"locality",

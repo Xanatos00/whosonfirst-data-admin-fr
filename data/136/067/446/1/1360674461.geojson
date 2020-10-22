@@ -62,6 +62,10 @@
         404366347
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c632d8b81c1323cbd6e04b2c93cbb587",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674461,
-    "wof:lastmodified":1539928835,
+    "wof:lastmodified":1603247196,
     "wof:name":"Gomene",
     "wof:parent_id":102068899,
     "wof:placetype":"locality",

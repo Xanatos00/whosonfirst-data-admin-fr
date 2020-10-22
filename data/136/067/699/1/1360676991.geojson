@@ -129,6 +129,10 @@
         404392313
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a2f40d90cacbd5ffdde3801abaf3c840",
     "wof:hierarchy":[
         {
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1360676991,
-    "wof:lastmodified":1564126753,
+    "wof:lastmodified":1603247287,
     "wof:name":"Mournans-Charbonny",
     "wof:parent_id":102068015,
     "wof:placetype":"locality",

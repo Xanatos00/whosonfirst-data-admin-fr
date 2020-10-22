@@ -113,6 +113,11 @@
         404373325
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6c9ec0a405aec5a2a17ccbc1f1157831",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360675083,
-    "wof:lastmodified":1564126438,
+    "wof:lastmodified":1603247246,
     "wof:name":"Malans",
     "wof:parent_id":102064253,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"6.719627,46.381517,6.719627,46.381517",
     "geom:latitude":46.381517,
     "geom:longitude":6.719627,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.381517,
     "lbl:longitude":6.719627,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686817,
-    "wof:lastmodified":1539986888,
+    "wof:lastmodified":1603247043,
     "wof:name":"Thollon-les-m\u00e9mises-station",
     "wof:parent_id":404382023,
     "wof:placetype":"neighbourhood",

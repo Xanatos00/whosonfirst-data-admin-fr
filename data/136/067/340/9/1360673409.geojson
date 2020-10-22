@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683265,
         102191581,
-        85633147,
-        404356571,
         404227745,
+        404356571,
+        85633147,
         1108826389,
         136253037,
         102065651
@@ -63,6 +63,10 @@
         404356571
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"73369adbe7dcdecb085ab4e4564fe8a9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673409,
-    "wof:lastmodified":1539928807,
+    "wof:lastmodified":1603247238,
     "wof:name":"La Perriere",
     "wof:parent_id":102065651,
     "wof:placetype":"locality",

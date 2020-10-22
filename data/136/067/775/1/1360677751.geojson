@@ -62,6 +62,10 @@
         404400809
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8257b3fcdbbc6bbbf41c20cb1730431d",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677751,
-    "wof:lastmodified":1539928892,
+    "wof:lastmodified":1603247310,
     "wof:name":"La Bourdiniere-Saint-Loup",
     "wof:parent_id":102066989,
     "wof:placetype":"locality",

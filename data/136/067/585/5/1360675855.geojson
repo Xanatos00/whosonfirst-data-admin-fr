@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683153,
         102191581,
-        85633147,
-        404380439,
         404227797,
+        404380439,
+        85633147,
         1108826389,
         136253037,
         102069805
@@ -63,6 +63,10 @@
         404380439
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9c4592e41c68c0bef34630ab071923be",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675855,
-    "wof:lastmodified":1539928859,
+    "wof:lastmodified":1603247309,
     "wof:name":"Messimy-Sur-Saone",
     "wof:parent_id":102069805,
     "wof:placetype":"locality",

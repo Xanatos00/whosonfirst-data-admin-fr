@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404371659,
         404227659,
+        404371659,
+        85633147,
         1108826387,
         136253037,
         102068161
@@ -63,6 +63,10 @@
         404371659
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2e3897c8c9e3640d058e966d6970e3d5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674925,
-    "wof:lastmodified":1539928843,
+    "wof:lastmodified":1603247300,
     "wof:name":"Cazouls-D'Herault",
     "wof:parent_id":102068161,
     "wof:placetype":"locality",

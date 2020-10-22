@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404376625,
         404228129,
+        404376625,
+        85633147,
         1108826393,
         136253037,
         102069195
@@ -63,6 +63,10 @@
         404376625
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3c6d65ec69afa936b34841b0be839166",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675441,
-    "wof:lastmodified":1539928852,
+    "wof:lastmodified":1603247234,
     "wof:name":"Saint-Maurice-Sur-Huisne",
     "wof:parent_id":102069195,
     "wof:placetype":"locality",

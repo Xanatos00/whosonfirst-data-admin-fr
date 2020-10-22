@@ -138,6 +138,10 @@
         404410247
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ca45a862b68b15f1a0fb59eece723bfc",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360678665,
-    "wof:lastmodified":1564126145,
+    "wof:lastmodified":1603247205,
     "wof:name":"Saint-Christophe",
     "wof:parent_id":102066063,
     "wof:placetype":"locality",

@@ -143,6 +143,11 @@
         404389307
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"442ddc2d6d0f581a1ce978e1d10c72df",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360676663,
-    "wof:lastmodified":1564126260,
+    "wof:lastmodified":1603247221,
     "wof:name":"Gazave",
     "wof:parent_id":102065115,
     "wof:placetype":"locality",

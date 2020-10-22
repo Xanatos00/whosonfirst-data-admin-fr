@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404398207,
         404227871,
+        404398207,
+        85633147,
         1108826387,
         136253037,
         102067043
@@ -68,6 +68,11 @@
         404398207
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d0b6f475d137ac49ccd4b80b018e66e2",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677517,
-    "wof:lastmodified":1539928888,
+    "wof:lastmodified":1603247256,
     "wof:name":"Olmet-Et-Villecun",
     "wof:parent_id":102067043,
     "wof:placetype":"locality",

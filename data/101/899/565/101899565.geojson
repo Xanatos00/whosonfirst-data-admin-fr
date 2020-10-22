@@ -9,7 +9,7 @@
     "geom:bbox":"3.70912442862,50.2987596064,3.73730478618,50.3196056257",
     "geom:latitude":50.307823,
     "geom:longitude":3.721532,
-    "geonames:id":"6957810,3009444",
+    "gn:id":"6957810,3009444",
     "iso:country":"FR",
     "lbl:latitude":50.302603,
     "lbl:longitude":3.731619,
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":101899565,
-    "wof:lastmodified":1582323767,
+    "wof:lastmodified":1603248159,
     "wof:name":"La Flamengrie",
     "wof:parent_id":404352641,
     "wof:placetype":"locality",

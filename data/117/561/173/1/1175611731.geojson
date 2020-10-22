@@ -67,6 +67,9 @@
         1175612125
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6b519ff04a8f8779beb07f4b8a64dd36",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1175611731,
-    "wof:lastmodified":1541014283,
+    "wof:lastmodified":1603247016,
     "wof:name":"Le Pont-De-Beauvoisin",
     "wof:parent_id":102068231,
     "wof:placetype":"localadmin",

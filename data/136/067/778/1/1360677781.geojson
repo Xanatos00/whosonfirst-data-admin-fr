@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404401391,
         404228257,
+        404401391,
+        85633147,
         1108826395,
         136253037,
         102067347
@@ -63,6 +63,10 @@
         404401391
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"01d1219bd141e09d5c57d0db721e52e8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677781,
-    "wof:lastmodified":1539928892,
+    "wof:lastmodified":1603247230,
     "wof:name":"Jouvencon",
     "wof:parent_id":102067347,
     "wof:placetype":"locality",

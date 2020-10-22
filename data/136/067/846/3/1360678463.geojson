@@ -62,6 +62,10 @@
         404408551
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1235c09dedd8ab82e9734ca24edb75d6",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360678463,
-    "wof:lastmodified":1539928904,
+    "wof:lastmodified":1603247269,
     "wof:name":"Maille",
     "wof:parent_id":102066459,
     "wof:placetype":"locality",

@@ -141,6 +141,10 @@
         404402399
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7042244659da263a1b364b2101b51f2f",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360677877,
-    "wof:lastmodified":1564126977,
+    "wof:lastmodified":1603247318,
     "wof:name":"Saint-Mamet",
     "wof:parent_id":404402399,
     "wof:placetype":"locality",

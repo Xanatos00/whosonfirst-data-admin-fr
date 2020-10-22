@@ -62,6 +62,10 @@
         404419489
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6786b718686c656fe110f1289e936748",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360679551,
-    "wof:lastmodified":1539928923,
+    "wof:lastmodified":1603247182,
     "wof:name":"Saint-Pierre-De-Mezoargues",
     "wof:parent_id":102070263,
     "wof:placetype":"locality",

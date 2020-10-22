@@ -119,6 +119,11 @@
         404369967
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d71055ca586a20dae78ccbcf57f526ed",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360674771,
-    "wof:lastmodified":1564126058,
+    "wof:lastmodified":1603247193,
     "wof:name":"Rouffiac",
     "wof:parent_id":102064823,
     "wof:placetype":"locality",

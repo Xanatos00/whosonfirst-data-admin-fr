@@ -62,6 +62,10 @@
         404413303
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4512f01f3a5053d55d003df1d1462445",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360679021,
-    "wof:lastmodified":1539928914,
+    "wof:lastmodified":1603247265,
     "wof:name":"Ferrieres-En-Gatinais",
     "wof:parent_id":102066441,
     "wof:placetype":"locality",

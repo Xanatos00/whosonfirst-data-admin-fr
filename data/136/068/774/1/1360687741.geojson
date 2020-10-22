@@ -9,7 +9,7 @@
     "geom:bbox":"-2.378196,46.731801,-2.378196,46.731801",
     "geom:latitude":46.731801,
     "geom:longitude":-2.378196,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":46.731801,
     "lbl:longitude":-2.378196,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687741,
-    "wof:lastmodified":1539986900,
+    "wof:lastmodified":1603247118,
     "wof:name":"Cadou\u00e8re",
     "wof:parent_id":404375993,
     "wof:placetype":"neighbourhood",

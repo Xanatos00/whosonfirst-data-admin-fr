@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683193,
         102191581,
-        85633147,
-        404386999,
         404227605,
+        404386999,
+        85633147,
         1108826391,
         136253037,
         102064631
@@ -63,6 +63,10 @@
         404386999
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6372294e721fd9a647c05262d70e295a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676433,
-    "wof:lastmodified":1539928869,
+    "wof:lastmodified":1603247186,
     "wof:name":"Colombe-Le-Sec",
     "wof:parent_id":102064631,
     "wof:placetype":"locality",

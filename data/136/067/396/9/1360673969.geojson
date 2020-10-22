@@ -110,6 +110,11 @@
         404361733
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4a3c4776103ea14440b8b51af626493e",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360673969,
-    "wof:lastmodified":1564125882,
+    "wof:lastmodified":1603247168,
     "wof:name":"Ormoy",
     "wof:parent_id":102066521,
     "wof:placetype":"locality",

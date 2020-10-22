@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404425379,
         404227669,
+        404425379,
+        85633147,
         1108826389,
         136253037,
         102065233
@@ -68,6 +68,11 @@
         404425379
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4aee4119544c9182ff93f475cdacef08",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360680105,
-    "wof:lastmodified":1539928933,
+    "wof:lastmodified":1603247098,
     "wof:name":"Monestier-D'Ambel",
     "wof:parent_id":102065233,
     "wof:placetype":"locality",

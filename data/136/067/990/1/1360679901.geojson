@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404422931,
         404228049,
+        404422931,
+        85633147,
         1108826385,
         136253037,
         102071329
@@ -68,6 +68,11 @@
         404422931
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"19c739b00183d7340512ea9187225b24",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679901,
-    "wof:lastmodified":1539928929,
+    "wof:lastmodified":1603247179,
     "wof:name":"Nanteuil-Auriac-De-Bourzac",
     "wof:parent_id":102071329,
     "wof:placetype":"locality",

@@ -135,6 +135,10 @@
         404348413
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"433cbd8947a0341bee539995219fed28",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360672635,
-    "wof:lastmodified":1564126861,
+    "wof:lastmodified":1603247303,
     "wof:name":"Saint-Bonnet",
     "wof:parent_id":102065271,
     "wof:placetype":"locality",

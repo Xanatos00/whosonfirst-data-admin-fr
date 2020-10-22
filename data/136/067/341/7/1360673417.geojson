@@ -119,6 +119,11 @@
         404356701
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"110ebada438d1d4d9c4fe4c3024473ee",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360673417,
-    "wof:lastmodified":1564126299,
+    "wof:lastmodified":1603247226,
     "wof:name":"Condat",
     "wof:parent_id":102069713,
     "wof:placetype":"locality",

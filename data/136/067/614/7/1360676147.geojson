@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404383449,
         404227931,
+        404383449,
+        85633147,
         1108826393,
         136253037,
         102068773
@@ -63,6 +63,10 @@
         404383449
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a890082628a027a8c655de53eaedd080",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676147,
-    "wof:lastmodified":1539928864,
+    "wof:lastmodified":1603247268,
     "wof:name":"Le Chateau-D'Almeneches",
     "wof:parent_id":102068773,
     "wof:placetype":"locality",

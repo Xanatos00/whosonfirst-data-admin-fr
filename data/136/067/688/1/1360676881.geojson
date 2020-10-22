@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404391311,
         404227871,
+        404391311,
+        85633147,
         1108826387,
         136253037,
         102065693
@@ -63,6 +63,10 @@
         404391311
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b482a2d78a489f958159ed943539bb10",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676881,
-    "wof:lastmodified":1539928877,
+    "wof:lastmodified":1603247186,
     "wof:name":"Saint-Felix-De-L'Heras",
     "wof:parent_id":102065693,
     "wof:placetype":"locality",

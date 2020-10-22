@@ -152,6 +152,10 @@
         404351243
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"92e4e4253b76a2b65ed21fa22b9f5a31",
     "wof:hierarchy":[
         {
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":1360672889,
-    "wof:lastmodified":1564126101,
+    "wof:lastmodified":1603247199,
     "wof:name":"Loc-Eguiner",
     "wof:parent_id":102069447,
     "wof:placetype":"locality",

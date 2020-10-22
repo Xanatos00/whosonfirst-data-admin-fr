@@ -144,6 +144,10 @@
         404380619
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1040a2b252fce7c99f6fe39090b47cea",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360675859,
-    "wof:lastmodified":1564126906,
+    "wof:lastmodified":1603247309,
     "wof:name":"Niderhoff",
     "wof:parent_id":102067359,
     "wof:placetype":"locality",

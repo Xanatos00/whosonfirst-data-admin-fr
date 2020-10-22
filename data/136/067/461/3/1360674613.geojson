@@ -152,6 +152,11 @@
         404367963
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b2cebaf033c640034df5e3d1a131a2e5",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360674613,
-    "wof:lastmodified":1564126835,
+    "wof:lastmodified":1603247299,
     "wof:name":"Arphy",
     "wof:parent_id":102070979,
     "wof:placetype":"locality",

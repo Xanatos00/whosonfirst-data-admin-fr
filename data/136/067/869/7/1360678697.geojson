@@ -62,6 +62,10 @@
         404410381
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"412a287d4cd7f8ff059ca9471998c533",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360678697,
-    "wof:lastmodified":1539928908,
+    "wof:lastmodified":1603247215,
     "wof:name":"Saint-Pere-Sur-Loire",
     "wof:parent_id":102069993,
     "wof:placetype":"locality",

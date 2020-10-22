@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683523,
         102191581,
-        85633147,
-        404349601,
         404227639,
+        404349601,
+        85633147,
         1108826389,
         136253037,
         102065825
@@ -68,6 +68,11 @@
         404349601
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1167af51a948735fde76365efeb59aaa",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672711,
-    "wof:lastmodified":1539928786,
+    "wof:lastmodified":1603247282,
     "wof:name":"Laval-D'Aix",
     "wof:parent_id":102065825,
     "wof:placetype":"locality",

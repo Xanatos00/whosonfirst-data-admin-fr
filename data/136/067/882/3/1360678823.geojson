@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404411245,
         404228275,
+        404411245,
+        85633147,
         1108826385,
         136253037,
         102070819
@@ -63,6 +63,10 @@
         404411245
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d0deac00a4b66c031410a4a03a39f9a4",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678823,
-    "wof:lastmodified":1539928910,
+    "wof:lastmodified":1603247277,
     "wof:name":"Saint-Vincent-De-Pertignas",
     "wof:parent_id":102070819,
     "wof:placetype":"locality",

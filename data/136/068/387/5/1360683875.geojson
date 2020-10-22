@@ -9,7 +9,7 @@
     "geom:bbox":"0.971517,49.91879,0.971517,49.91879",
     "geom:latitude":49.91879,
     "geom:longitude":0.971517,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":49.91879,
     "lbl:longitude":0.971517,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683875,
-    "wof:lastmodified":1539986849,
+    "wof:lastmodified":1603247117,
     "wof:name":"Vasterival",
     "wof:parent_id":404390831,
     "wof:placetype":"neighbourhood",

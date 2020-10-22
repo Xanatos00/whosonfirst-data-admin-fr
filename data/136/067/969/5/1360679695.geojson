@@ -135,6 +135,10 @@
         404421023
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0e95977d94441887dde8934e18b54f92",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360679695,
-    "wof:lastmodified":1564126545,
+    "wof:lastmodified":1603247261,
     "wof:name":"Saint-Broing",
     "wof:parent_id":102065939,
     "wof:placetype":"locality",

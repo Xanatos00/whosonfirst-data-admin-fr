@@ -105,6 +105,10 @@
         404377859
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"81a3f68389324d71ece8b69109b58729",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360675561,
-    "wof:lastmodified":1564125830,
+    "wof:lastmodified":1603247161,
     "wof:name":"Roquebrune",
     "wof:parent_id":102070175,
     "wof:placetype":"locality",

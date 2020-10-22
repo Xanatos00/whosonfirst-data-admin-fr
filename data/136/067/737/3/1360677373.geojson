@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404396369,
         404227867,
+        404396369,
+        85633147,
         1108826387,
         136253037,
         102065289
@@ -68,6 +68,11 @@
         404396369
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"df0aedc2ff6fe546bc6bc2da9e5e24ec",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677373,
-    "wof:lastmodified":1539928885,
+    "wof:lastmodified":1603247171,
     "wof:name":"Castelnau-Sur-L'Auvignon",
     "wof:parent_id":102065289,
     "wof:placetype":"locality",

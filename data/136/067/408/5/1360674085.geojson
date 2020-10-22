@@ -151,6 +151,11 @@
         404362749
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f99b314e720ce20f8d1fc2292cb034e3",
     "wof:hierarchy":[
         {
@@ -166,7 +171,7 @@
         }
     ],
     "wof:id":1360674085,
-    "wof:lastmodified":1564126179,
+    "wof:lastmodified":1603247209,
     "wof:name":"Sainte-Trie",
     "wof:parent_id":102066347,
     "wof:placetype":"locality",

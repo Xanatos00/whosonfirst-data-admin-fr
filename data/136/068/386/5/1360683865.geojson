@@ -9,7 +9,7 @@
     "geom:bbox":"-0.565034,49.27948,-0.565034,49.27948",
     "geom:latitude":49.27948,
     "geom:longitude":-0.565034,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.27948,
     "lbl:longitude":-0.565034,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683865,
-    "wof:lastmodified":1539986849,
+    "wof:lastmodified":1603247121,
     "wof:name":"Prieur\u00e9",
     "wof:parent_id":404348509,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404366215,
         404227671,
+        404366215,
+        85633147,
         1108826395,
         136253037,
         102066433
@@ -63,6 +63,10 @@
         404366215
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ca6dc1c6b93c9eb412e56e0b7d7b5c93",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674447,
-    "wof:lastmodified":1539928834,
+    "wof:lastmodified":1603247273,
     "wof:name":"Etrepigney",
     "wof:parent_id":102066433,
     "wof:placetype":"locality",

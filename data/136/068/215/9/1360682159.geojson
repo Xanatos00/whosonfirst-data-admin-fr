@@ -9,7 +9,7 @@
     "geom:bbox":"7.112746,48.193531,7.112746,48.193531",
     "geom:latitude":48.193531,
     "geom:longitude":7.112746,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.193531,
     "lbl:longitude":7.112746,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682159,
-    "wof:lastmodified":1539986827,
+    "wof:lastmodified":1603247091,
     "wof:name":"Le Ha\u00efcot",
     "wof:parent_id":404383875,
     "wof:placetype":"neighbourhood",

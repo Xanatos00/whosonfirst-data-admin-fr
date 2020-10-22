@@ -106,6 +106,11 @@
         404371563
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"90cc567a68fd17800e23d96c13229708",
     "wof:hierarchy":[
         {
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":1360674899,
-    "wof:lastmodified":1564126721,
+    "wof:lastmodified":1603247285,
     "wof:name":"Lavardin",
     "wof:parent_id":102066495,
     "wof:placetype":"locality",

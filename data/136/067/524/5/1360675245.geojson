@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404374763,
         404228049,
+        404374763,
+        85633147,
         1108826385,
         136253037,
         102068635
@@ -63,6 +63,10 @@
         404374763
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c00ca1cb5e7667957c2d3deaa43f3a0b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675245,
-    "wof:lastmodified":1539928848,
+    "wof:lastmodified":1603247324,
     "wof:name":"Saint-Martial-D'Artenset",
     "wof:parent_id":102068635,
     "wof:placetype":"locality",

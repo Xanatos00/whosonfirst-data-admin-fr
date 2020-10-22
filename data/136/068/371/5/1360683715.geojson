@@ -9,7 +9,7 @@
     "geom:bbox":"-1.126785,45.655448,-1.126785,45.655448",
     "geom:latitude":45.655448,
     "geom:longitude":-1.126785,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":45.655448,
     "lbl:longitude":-1.126785,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683715,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247073,
     "wof:name":"La Grande-C\u00f4te",
     "wof:parent_id":404374159,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,7 @@
     "geom:bbox":"2.870178,43.448307,2.870178,43.448307",
     "geom:latitude":43.448307,
     "geom:longitude":2.870178,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.448307,
     "lbl:longitude":2.870178,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686145,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247088,
     "wof:name":"Rieussec de Pardailhan",
     "wof:parent_id":404360183,
     "wof:placetype":"neighbourhood",

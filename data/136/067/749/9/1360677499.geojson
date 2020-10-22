@@ -129,6 +129,10 @@
         404397947
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ffa18874479d93c3d11b1c8b6652bb3b",
     "wof:hierarchy":[
         {
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1360677499,
-    "wof:lastmodified":1564126349,
+    "wof:lastmodified":1603247233,
     "wof:name":"Saint-Laurent-Lolmie",
     "wof:parent_id":102068169,
     "wof:placetype":"locality",

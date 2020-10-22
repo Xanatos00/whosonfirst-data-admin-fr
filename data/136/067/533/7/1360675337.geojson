@@ -155,6 +155,11 @@
         404375765
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2de3575b6dff170516dd4468ba6078d5",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360675337,
-    "wof:lastmodified":1564125867,
+    "wof:lastmodified":1603247166,
     "wof:name":"Aignes",
     "wof:parent_id":102066429,
     "wof:placetype":"locality",

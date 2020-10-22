@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404378335,
         404228071,
+        404378335,
+        85633147,
         1108826385,
         136253037,
         102070885
@@ -63,6 +63,10 @@
         404378335
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bf647c508a23ec5186f6505cd635789c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675613,
-    "wof:lastmodified":1539928855,
+    "wof:lastmodified":1603247174,
     "wof:name":"Saint-Michel-De-Lapujade",
     "wof:parent_id":102070885,
     "wof:placetype":"locality",

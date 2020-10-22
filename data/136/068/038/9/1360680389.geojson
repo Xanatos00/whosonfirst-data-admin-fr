@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683293,
         102191581,
-        85633147,
-        404428071,
         404227801,
+        404428071,
+        85633147,
         1108826389,
         136253037,
         102064703
@@ -68,6 +68,11 @@
         404428071
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"806d280e95da0d800f11567d7e4459f7",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360680389,
-    "wof:lastmodified":1539928937,
+    "wof:lastmodified":1603247057,
     "wof:name":"Ussel-D'Allier",
     "wof:parent_id":102064703,
     "wof:placetype":"locality",

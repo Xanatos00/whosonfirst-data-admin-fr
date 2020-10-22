@@ -104,6 +104,11 @@
         404374103
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ab5b8803ff31d9c8b5fa7de6153ba99b",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360675167,
-    "wof:lastmodified":1564126381,
+    "wof:lastmodified":1603247238,
     "wof:name":"Charmoy",
     "wof:parent_id":102066655,
     "wof:placetype":"locality",

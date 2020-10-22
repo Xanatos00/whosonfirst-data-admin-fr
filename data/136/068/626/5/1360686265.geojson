@@ -9,7 +9,7 @@
     "geom:bbox":"5.596836,43.319669,5.596836,43.319669",
     "geom:latitude":43.319669,
     "geom:longitude":5.596836,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.319669,
     "lbl:longitude":5.596836,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686265,
-    "wof:lastmodified":1539986881,
+    "wof:lastmodified":1603247048,
     "wof:name":"St.-Pierre-les-Aubagnes",
     "wof:parent_id":1159322057,
     "wof:placetype":"neighbourhood",

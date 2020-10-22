@@ -9,7 +9,7 @@
     "geom:bbox":"-0.590364,47.444227,-0.590364,47.444227",
     "geom:latitude":47.444227,
     "geom:longitude":-0.590364,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.444227,
     "lbl:longitude":-0.590364,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686259,
-    "wof:lastmodified":1539986881,
+    "wof:lastmodified":1603247089,
     "wof:name":"Fr\u00e9mur",
     "wof:parent_id":404402153,
     "wof:placetype":"neighbourhood",

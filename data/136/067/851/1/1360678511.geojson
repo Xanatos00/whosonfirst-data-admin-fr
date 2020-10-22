@@ -146,6 +146,11 @@
         404408917
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"aab3b46af174eb59f28b200238060a89",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360678511,
-    "wof:lastmodified":1564126218,
+    "wof:lastmodified":1603247215,
     "wof:name":"Tanzac",
     "wof:parent_id":102065993,
     "wof:placetype":"locality",

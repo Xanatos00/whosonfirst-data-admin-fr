@@ -62,6 +62,10 @@
         404363967
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6a9eacabf84b618fc14885ecd700c100",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674185,
-    "wof:lastmodified":1539928829,
+    "wof:lastmodified":1603247281,
     "wof:name":"Nevache",
     "wof:parent_id":102065209,
     "wof:placetype":"locality",

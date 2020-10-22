@@ -134,6 +134,11 @@
         404403847
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2a854cdf16de874a209b01730209142b",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360678037,
-    "wof:lastmodified":1564126188,
+    "wof:lastmodified":1603247211,
     "wof:name":"Villars",
     "wof:parent_id":102065899,
     "wof:placetype":"locality",

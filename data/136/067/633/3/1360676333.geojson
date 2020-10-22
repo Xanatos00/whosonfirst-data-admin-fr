@@ -83,6 +83,11 @@
         404385617
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7943ecd1531688e32b0c6761547ebd44",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360676333,
-    "wof:lastmodified":1564126142,
+    "wof:lastmodified":1603247204,
     "wof:name":"Sansan",
     "wof:parent_id":102064649,
     "wof:placetype":"locality",

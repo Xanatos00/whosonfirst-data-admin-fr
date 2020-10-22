@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683405,
         102191581,
-        85633147,
-        404379485,
         404228237,
+        404379485,
+        85633147,
         1108826391,
         136253037,
         102067153
@@ -68,6 +68,11 @@
         404379485
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e67bfca67d872f098b0009d47112b7b2",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360675743,
-    "wof:lastmodified":1539928857,
+    "wof:lastmodified":1603247244,
     "wof:name":"Sogny-En-L'Angle",
     "wof:parent_id":102067153,
     "wof:placetype":"locality",

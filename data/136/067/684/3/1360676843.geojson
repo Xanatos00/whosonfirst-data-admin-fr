@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683517,
         102191581,
-        85633147,
-        404391047,
         404228033,
+        404391047,
+        85633147,
         1108826389,
         136253037,
         102067879
@@ -63,6 +63,10 @@
         404391047
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7a32e94457dce48e8f51c59a594e71ba",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676843,
-    "wof:lastmodified":1539928876,
+    "wof:lastmodified":1603247284,
     "wof:name":"Mentieres",
     "wof:parent_id":102067879,
     "wof:placetype":"locality",

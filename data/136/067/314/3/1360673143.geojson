@@ -130,6 +130,11 @@
         404354147
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"31f73526cf2e16c012977d759f700ac3",
     "wof:hierarchy":[
         {
@@ -145,7 +150,7 @@
         }
     ],
     "wof:id":1360673143,
-    "wof:lastmodified":1564126417,
+    "wof:lastmodified":1603247243,
     "wof:name":"Sainte-Colombe",
     "wof:parent_id":102067687,
     "wof:placetype":"locality",

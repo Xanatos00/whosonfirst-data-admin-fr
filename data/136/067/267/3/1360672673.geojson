@@ -161,6 +161,11 @@
         404348939
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1e5ec2d8e23ac68f157da8f3a8a02909",
     "wof:hierarchy":[
         {
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":1360672673,
-    "wof:lastmodified":1564126222,
+    "wof:lastmodified":1603247215,
     "wof:name":"Bozas",
     "wof:parent_id":102067487,
     "wof:placetype":"locality",

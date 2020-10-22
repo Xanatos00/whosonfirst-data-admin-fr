@@ -134,6 +134,11 @@
         404373397
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a1eae379253855865dc79dfa881100af",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360675109,
-    "wof:lastmodified":1564126286,
+    "wof:lastmodified":1603247224,
     "wof:name":"Aigremont",
     "wof:parent_id":102065867,
     "wof:placetype":"locality",

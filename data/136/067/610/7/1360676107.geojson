@@ -140,6 +140,11 @@
         404383211
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b989a32765bdd3230a64893b91361e5b",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360676107,
-    "wof:lastmodified":1564126026,
+    "wof:lastmodified":1603247188,
     "wof:name":"La Celle",
     "wof:parent_id":102069751,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404391341,
         404227669,
+        404391341,
+        85633147,
         1108826389,
         136253037,
         102067575
@@ -63,6 +63,10 @@
         404391341
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d43503b077711beae423b1b949858b7b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676885,
-    "wof:lastmodified":1539928877,
+    "wof:lastmodified":1603247187,
     "wof:name":"Chateau-Bernard",
     "wof:parent_id":102067575,
     "wof:placetype":"locality",

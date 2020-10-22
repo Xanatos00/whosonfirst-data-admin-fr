@@ -256,6 +256,11 @@
         404361363
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"508b24ff14f4630db3dc509321400f72",
     "wof:hierarchy":[
         {
@@ -270,7 +275,7 @@
         }
     ],
     "wof:id":1360673913,
-    "wof:lastmodified":1564125866,
+    "wof:lastmodified":1603247166,
     "wof:name":"Novella",
     "wof:parent_id":102065201,
     "wof:placetype":"locality",

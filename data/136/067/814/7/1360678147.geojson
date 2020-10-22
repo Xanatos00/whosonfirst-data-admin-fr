@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404405195,
         404227853,
+        404405195,
+        85633147,
         1108826393,
         136253037,
         102066491
@@ -63,6 +63,10 @@
         404405195
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a62334e206a61a91e31f795ef5f05e9a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678147,
-    "wof:lastmodified":1539928899,
+    "wof:lastmodified":1603247283,
     "wof:name":"Asnieres",
     "wof:parent_id":102066491,
     "wof:placetype":"locality",

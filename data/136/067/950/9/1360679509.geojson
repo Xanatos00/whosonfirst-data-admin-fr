@@ -63,9 +63,9 @@
     "wof:belongsto":[
         85683503,
         102191581,
-        85633147,
-        404418929,
         404227781,
+        404418929,
+        85633147,
         1108826395,
         136253037,
         102067985
@@ -80,6 +80,11 @@
         404418929
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f0c6d6efede8bfe710ee885988fb2366",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360679509,
-    "wof:lastmodified":1539928922,
+    "wof:lastmodified":1603247246,
     "wof:name":"Varennes",
     "wof:parent_id":102067985,
     "wof:placetype":"locality",

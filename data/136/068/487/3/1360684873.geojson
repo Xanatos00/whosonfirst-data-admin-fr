@@ -9,7 +9,7 @@
     "geom:bbox":"5.806531,45.340321,5.806531,45.340321",
     "geom:latitude":45.340321,
     "geom:longitude":5.806531,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.340321,
     "lbl:longitude":5.806531,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684873,
-    "wof:lastmodified":1539986863,
+    "wof:lastmodified":1603247096,
     "wof:name":"La Diat",
     "wof:parent_id":404428343,
     "wof:placetype":"neighbourhood",

@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404410663,
         404228209,
+        404410663,
+        85633147,
         1108826385,
         136253037,
         102065187
@@ -83,6 +83,11 @@
         404410663
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1d16a9d763e245625e8e471a3f5c9b6f",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360678733,
-    "wof:lastmodified":1539928909,
+    "wof:lastmodified":1603247192,
     "wof:name":"Dompierre-Sur-Charente",
     "wof:parent_id":102065187,
     "wof:placetype":"locality",

@@ -106,6 +106,11 @@
         404402857
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"008bd20a9f294d06e09c67d0d4381397",
     "wof:hierarchy":[
         {
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":1360677935,
-    "wof:lastmodified":1564126485,
+    "wof:lastmodified":1603247252,
     "wof:name":"Croce",
     "wof:parent_id":102070977,
     "wof:placetype":"locality",

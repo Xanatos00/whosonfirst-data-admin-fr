@@ -107,6 +107,11 @@
         404364293
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"046328f9f4bf88496a614548b73a59ba",
     "wof:hierarchy":[
         {
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":1360674221,
-    "wof:lastmodified":1564126025,
+    "wof:lastmodified":1603247188,
     "wof:name":"Orlu",
     "wof:parent_id":102064245,
     "wof:placetype":"locality",

@@ -110,6 +110,11 @@
         404355233
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d92a0b3b12e1937de69b1d9906c8dedc",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360673303,
-    "wof:lastmodified":1564125908,
+    "wof:lastmodified":1603247172,
     "wof:name":"Grazac",
     "wof:parent_id":102068931,
     "wof:placetype":"locality",

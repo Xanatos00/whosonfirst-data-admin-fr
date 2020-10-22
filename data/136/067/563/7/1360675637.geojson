@@ -110,6 +110,11 @@
         404378579
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a72602f8d509475cf577bde5aa4c1836",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360675637,
-    "wof:lastmodified":1564126509,
+    "wof:lastmodified":1603247256,
     "wof:name":"Montels",
     "wof:parent_id":102064439,
     "wof:placetype":"locality",

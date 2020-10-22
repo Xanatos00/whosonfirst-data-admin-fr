@@ -101,6 +101,11 @@
         404371501
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1ebac3c7e08893014ebbc0162754b9c1",
     "wof:hierarchy":[
         {
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":1360674897,
-    "wof:lastmodified":1564126722,
+    "wof:lastmodified":1603247285,
     "wof:name":"Meilhan",
     "wof:parent_id":102066605,
     "wof:placetype":"locality",

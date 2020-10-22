@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404398687,
         404228235,
+        404398687,
+        85633147,
         1108826393,
         136253037,
         102070471
@@ -68,6 +68,11 @@
         404398687
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"36e74d05117e2e074aa36dd067f9beb9",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677567,
-    "wof:lastmodified":1539928889,
+    "wof:lastmodified":1603247254,
     "wof:name":"Le Hommet-D'Arthenay",
     "wof:parent_id":102070471,
     "wof:placetype":"locality",

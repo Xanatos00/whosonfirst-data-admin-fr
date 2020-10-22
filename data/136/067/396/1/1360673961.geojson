@@ -138,6 +138,10 @@
         404361683
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a38a1106a7178371168e867fc4814568",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360673961,
-    "wof:lastmodified":1564125883,
+    "wof:lastmodified":1603247169,
     "wof:name":"Saint-Brisson",
     "wof:parent_id":102066811,
     "wof:placetype":"locality",

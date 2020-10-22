@@ -9,7 +9,7 @@
     "geom:bbox":"6.025915,45.263922,6.025915,45.263922",
     "geom:latitude":45.263922,
     "geom:longitude":6.025915,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.263922,
     "lbl:longitude":6.025915,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684091,
-    "wof:lastmodified":1539986852,
+    "wof:lastmodified":1603247062,
     "wof:name":"Pipay",
     "wof:parent_id":404363737,
     "wof:placetype":"neighbourhood",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683209,
         102191581,
-        85633147,
-        404364761,
         404228041,
+        404364761,
+        85633147,
         1108826385,
         136253037,
         102066343
@@ -68,6 +68,11 @@
         404364761
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e02e5a61188f906f8809776fd2333337",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360674265,
-    "wof:lastmodified":1539928831,
+    "wof:lastmodified":1603247268,
     "wof:name":"Aix",
     "wof:parent_id":102066343,
     "wof:placetype":"locality",

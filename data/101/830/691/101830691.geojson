@@ -9,7 +9,7 @@
     "geom:bbox":"0.724551047019,45.0855826403,0.850998335893,45.191308656",
     "geom:latitude":45.141961,
     "geom:longitude":0.781978,
-    "geonames:id":"3031179,3031180",
+    "gn:id":"3031179,3031180",
     "iso:country":"FR",
     "lbl:latitude":45.174583,
     "lbl:longitude":0.748442,
@@ -360,7 +360,7 @@
         }
     ],
     "wof:id":101830691,
-    "wof:lastmodified":1582323753,
+    "wof:lastmodified":1603248142,
     "wof:name":"Boulazac",
     "wof:parent_id":404407181,
     "wof:placetype":"locality",

@@ -62,6 +62,10 @@
         404353133
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ff84c016986f62d9866465492c930284",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673059,
-    "wof:lastmodified":1539928793,
+    "wof:lastmodified":1603247265,
     "wof:name":"Sant'Andrea-D'Orcino",
     "wof:parent_id":102071593,
     "wof:placetype":"locality",

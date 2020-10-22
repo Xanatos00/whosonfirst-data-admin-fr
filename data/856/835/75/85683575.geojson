@@ -408,7 +408,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"6127",
     "statoids:as_of_date":"2010-01-01",
     "statoids:capital":"Tours",
@@ -453,7 +453,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1588976241,
+    "wof:lastmodified":1603246956,
     "wof:name":"Indre-et-Loire",
     "wof:parent_id":404227461,
     "wof:placetype":"region",

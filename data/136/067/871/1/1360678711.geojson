@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404410485,
         404227635,
+        404410485,
+        85633147,
         1108826385,
         136253037,
         102071471
@@ -63,6 +63,10 @@
         404410485
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"60ba4f37fcb2aa9943aff6b820a06492",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678711,
-    "wof:lastmodified":1539928909,
+    "wof:lastmodified":1603247279,
     "wof:name":"Saint-Germain-Et-Mons",
     "wof:parent_id":102071471,
     "wof:placetype":"locality",

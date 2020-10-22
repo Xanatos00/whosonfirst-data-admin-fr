@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683603,
         102191581,
-        85633147,
-        404391565,
         404227975,
+        404391565,
+        85633147,
         1108826387,
         136253037,
         102064763
@@ -63,6 +63,10 @@
         404391565
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"aa0bdb556410e9377fb83a7fee420da8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676923,
-    "wof:lastmodified":1539928878,
+    "wof:lastmodified":1603247220,
     "wof:name":"Lamontelarie",
     "wof:parent_id":102064763,
     "wof:placetype":"locality",

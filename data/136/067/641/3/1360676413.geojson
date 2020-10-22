@@ -119,6 +119,11 @@
         404386709
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5417380c0eb1d38c76fa9e7fdb52f4b6",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360676413,
-    "wof:lastmodified":1564126704,
+    "wof:lastmodified":1603247283,
     "wof:name":"Selles",
     "wof:parent_id":102068283,
     "wof:placetype":"locality",

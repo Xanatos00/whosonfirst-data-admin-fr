@@ -9,7 +9,7 @@
     "geom:bbox":"-1.402301,43.175795,-1.402301,43.175795",
     "geom:latitude":43.175795,
     "geom:longitude":-1.402301,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.175795,
     "lbl:longitude":-1.402301,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1360684595,
-    "wof:lastmodified":1539986859,
+    "wof:lastmodified":1603247109,
     "wof:name":"I\u00f1arbil",
     "wof:parent_id":404339557,
     "wof:placetype":"neighbourhood",

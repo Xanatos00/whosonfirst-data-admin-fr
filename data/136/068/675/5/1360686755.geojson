@@ -9,7 +9,7 @@
     "geom:bbox":"3.299674,43.389643,3.299674,43.389643",
     "geom:latitude":43.389643,
     "geom:longitude":3.299674,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.389643,
     "lbl:longitude":3.299674,
@@ -152,7 +152,7 @@
         }
     ],
     "wof:id":1360686755,
-    "wof:lastmodified":1564125376,
+    "wof:lastmodified":1603247043,
     "wof:name":"La Baume",
     "wof:parent_id":404404931,
     "wof:placetype":"neighbourhood",

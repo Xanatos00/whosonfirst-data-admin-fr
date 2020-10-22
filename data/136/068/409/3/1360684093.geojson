@@ -9,7 +9,7 @@
     "geom:bbox":"6.922837,43.751785,6.922837,43.751785",
     "geom:latitude":43.751785,
     "geom:longitude":6.922837,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.751785,
     "lbl:longitude":6.922837,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684093,
-    "wof:lastmodified":1539986852,
+    "wof:lastmodified":1603247062,
     "wof:name":"Cresp",
     "wof:parent_id":404393519,
     "wof:placetype":"neighbourhood",

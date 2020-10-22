@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404379987,
         404227853,
+        404379987,
+        85633147,
         1108826393,
         136253037,
         102064899
@@ -63,6 +63,10 @@
         404379987
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"260fa362791d238849a94a595cae31e4",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675787,
-    "wof:lastmodified":1539928858,
+    "wof:lastmodified":1603247309,
     "wof:name":"Goupillieres",
     "wof:parent_id":102064899,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"0.4592795,42.793196,0.4592795,42.793196",
     "geom:latitude":42.793196,
     "geom:longitude":0.45928,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.793196,
     "lbl:longitude":0.45928,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686153,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247096,
     "wof:name":"Peyragudes Peyresourde Balestas",
     "wof:parent_id":404396057,
     "wof:placetype":"neighbourhood",

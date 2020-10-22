@@ -9,7 +9,7 @@
     "geom:bbox":"9.185319,41.6665,9.185319,41.6665",
     "geom:latitude":41.6665,
     "geom:longitude":9.185319,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":41.6665,
     "lbl:longitude":9.185319,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684175,
-    "wof:lastmodified":1539986853,
+    "wof:lastmodified":1603247089,
     "wof:name":"Agnarone",
     "wof:parent_id":404386991,
     "wof:placetype":"neighbourhood",

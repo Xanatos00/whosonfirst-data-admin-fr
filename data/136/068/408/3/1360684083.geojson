@@ -9,7 +9,7 @@
     "geom:bbox":"-4.2866175,48.315931,-4.2866175,48.315931",
     "geom:latitude":48.315931,
     "geom:longitude":-4.286618,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":48.315931,
     "lbl:longitude":-4.286618,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684083,
-    "wof:lastmodified":1539986852,
+    "wof:lastmodified":1603247057,
     "wof:name":"Moulin-Mer",
     "wof:parent_id":404358683,
     "wof:placetype":"neighbourhood",

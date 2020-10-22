@@ -9,7 +9,7 @@
     "geom:bbox":"6.549053,45.317525,6.549053,45.317525",
     "geom:latitude":45.317525,
     "geom:longitude":6.549053,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.317525,
     "lbl:longitude":6.549053,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683037,
-    "wof:lastmodified":1539986839,
+    "wof:lastmodified":1603247080,
     "wof:name":"Le Reberty",
     "wof:parent_id":404388665,
     "wof:placetype":"neighbourhood",

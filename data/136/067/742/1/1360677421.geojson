@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404396859,
         404228275,
+        404396859,
+        85633147,
         1108826385,
         136253037,
         102068871
@@ -63,6 +63,10 @@
         404396859
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3efcd4a9a80342fc59d544ebc52c6139",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677421,
-    "wof:lastmodified":1539928886,
+    "wof:lastmodified":1603247321,
     "wof:name":"Saint-Michel-De-Fronsac",
     "wof:parent_id":102068871,
     "wof:placetype":"locality",

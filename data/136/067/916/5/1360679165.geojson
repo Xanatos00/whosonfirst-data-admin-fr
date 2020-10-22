@@ -134,6 +134,11 @@
         404414939
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2f28bf604e2eddeb71a7c4421bd1caaa",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360679165,
-    "wof:lastmodified":1564126895,
+    "wof:lastmodified":1603247307,
     "wof:name":"Eoux",
     "wof:parent_id":102064543,
     "wof:placetype":"locality",

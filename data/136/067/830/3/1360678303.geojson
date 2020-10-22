@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683485,
         102191581,
-        85633147,
-        404406731,
         404227607,
+        404406731,
+        85633147,
         1108826387,
         136253037,
         102065019
@@ -68,6 +68,11 @@
         404406731
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"809d133f72a3e0b5709aca8cccf84282",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678303,
-    "wof:lastmodified":1539928902,
+    "wof:lastmodified":1603247297,
     "wof:name":"Peyrefitte-Sur-L'Hers",
     "wof:parent_id":102065019,
     "wof:placetype":"locality",

@@ -147,6 +147,10 @@
         404376659
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"adbbe9ec59b1db5b1fe71ef8c5a00d38",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360675443,
-    "wof:lastmodified":1564126358,
+    "wof:lastmodified":1603247234,
     "wof:name":"Commelle-Vernay",
     "wof:parent_id":102066879,
     "wof:placetype":"locality",

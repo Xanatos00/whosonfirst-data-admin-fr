@@ -62,6 +62,10 @@
         404399559
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a9b39983cbb463d68b63a8276239d17a",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677647,
-    "wof:lastmodified":1539928890,
+    "wof:lastmodified":1603247161,
     "wof:name":"Saint-Pantaleon",
     "wof:parent_id":102066457,
     "wof:placetype":"locality",

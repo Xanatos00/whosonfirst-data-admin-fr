@@ -119,6 +119,11 @@
         404383687
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e79e184a732949a53ae9637979e585e3",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360676167,
-    "wof:lastmodified":1564126128,
+    "wof:lastmodified":1603247202,
     "wof:name":"Arques",
     "wof:parent_id":102068745,
     "wof:placetype":"locality",

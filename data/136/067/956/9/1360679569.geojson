@@ -113,6 +113,11 @@
         404419701
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"66ff3090e4dc950aa9ce3eac94aa97ec",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360679569,
-    "wof:lastmodified":1564126536,
+    "wof:lastmodified":1603247259,
     "wof:name":"Ambleville",
     "wof:parent_id":102069327,
     "wof:placetype":"locality",

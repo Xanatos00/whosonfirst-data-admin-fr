@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404365345,
         404227751,
+        404365345,
+        85633147,
         1108826393,
         136253037,
         102071517
@@ -63,6 +63,10 @@
         404365345
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"503237e68c3ce7875ce193bdd98a9f2a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674349,
-    "wof:lastmodified":1539928832,
+    "wof:lastmodified":1603247293,
     "wof:name":"Sainte-Genevieve",
     "wof:parent_id":102071517,
     "wof:placetype":"locality",

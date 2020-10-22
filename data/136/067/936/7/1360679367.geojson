@@ -62,6 +62,10 @@
         404417245
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"46b3786c6b0545357e9adf4e500a9d14",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360679367,
-    "wof:lastmodified":1539928920,
+    "wof:lastmodified":1603247161,
     "wof:name":"Saint-Laurent-Sur-Oust",
     "wof:parent_id":102070183,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683603,
         102191581,
-        85633147,
-        404375677,
         404227763,
+        404375677,
+        85633147,
         1108826387,
         136253037,
         102064291
@@ -63,6 +63,10 @@
         404375677
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"575ac54b3ad22e0bec0aad74f4b0c659",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675331,
-    "wof:lastmodified":1539928850,
+    "wof:lastmodified":1603247166,
     "wof:name":"Saint-Andre",
     "wof:parent_id":102064291,
     "wof:placetype":"locality",

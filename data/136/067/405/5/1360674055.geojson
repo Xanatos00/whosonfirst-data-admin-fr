@@ -146,6 +146,11 @@
         404362451
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0f0b555559136ca9d71cae32c852f6b8",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360674055,
-    "wof:lastmodified":1564126775,
+    "wof:lastmodified":1603247291,
     "wof:name":"Dracy",
     "wof:parent_id":102070255,
     "wof:placetype":"locality",

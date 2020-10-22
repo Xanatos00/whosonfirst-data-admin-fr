@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683203,
         102191581,
-        85633147,
-        404365089,
         404227729,
+        404365089,
+        85633147,
         1108826387,
         136253037,
         102064277
@@ -63,6 +63,10 @@
         404365089
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1ebd87a53a453284a4cc8ced3614d254",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674311,
-    "wof:lastmodified":1539928832,
+    "wof:lastmodified":1603247216,
     "wof:name":"Prechac",
     "wof:parent_id":102064277,
     "wof:placetype":"locality",

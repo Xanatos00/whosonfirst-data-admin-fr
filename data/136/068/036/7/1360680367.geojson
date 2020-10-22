@@ -146,6 +146,11 @@
         404427769
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1b4381c212a526f94f900fa8f8b333ad",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360680367,
-    "wof:lastmodified":1564125460,
+    "wof:lastmodified":1603247060,
     "wof:name":"Voyennes",
     "wof:parent_id":102069915,
     "wof:placetype":"locality",

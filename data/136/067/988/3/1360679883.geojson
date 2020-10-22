@@ -116,6 +116,11 @@
         404422925
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fad41cfbc7fe4a4b23e4865d62554e46",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360679883,
-    "wof:lastmodified":1564127021,
+    "wof:lastmodified":1603247324,
     "wof:name":"Callian",
     "wof:parent_id":102069619,
     "wof:placetype":"locality",

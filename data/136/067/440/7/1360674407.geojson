@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404365823,
         404228147,
+        404365823,
+        85633147,
         1108826395,
         136253037,
         102070897
@@ -63,6 +63,10 @@
         404365823
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bf4f8f5621e2e60a10a80387b6c5f49d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674407,
-    "wof:lastmodified":1539928834,
+    "wof:lastmodified":1603247184,
     "wof:name":"Saint-Leger-Les-Paray",
     "wof:parent_id":102070897,
     "wof:placetype":"locality",

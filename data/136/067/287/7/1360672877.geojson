@@ -149,6 +149,11 @@
         404351085
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"233f1df0c6ec8c7db5a7e5a393e072cc",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360672877,
-    "wof:lastmodified":1564126038,
+    "wof:lastmodified":1603247191,
     "wof:name":"Bars",
     "wof:parent_id":102071075,
     "wof:placetype":"locality",

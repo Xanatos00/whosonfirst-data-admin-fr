@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404409855,
         404227883,
+        404409855,
+        85633147,
         1108826395,
         136253037,
         102064551
@@ -63,6 +63,10 @@
         404409855
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"19d7b46b9e8b87ff2903c299b8515a4d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678615,
-    "wof:lastmodified":1539928907,
+    "wof:lastmodified":1603247206,
     "wof:name":"Fetigny",
     "wof:parent_id":102064551,
     "wof:placetype":"locality",

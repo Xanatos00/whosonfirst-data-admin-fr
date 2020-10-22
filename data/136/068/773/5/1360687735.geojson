@@ -9,7 +9,7 @@
     "geom:bbox":"6.985931,43.550165,6.985931,43.550165",
     "geom:latitude":43.550165,
     "geom:longitude":6.985931,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.550165,
     "lbl:longitude":6.985931,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687735,
-    "wof:lastmodified":1539986900,
+    "wof:lastmodified":1603247118,
     "wof:name":"La Bocca",
     "wof:parent_id":1159321933,
     "wof:placetype":"neighbourhood",

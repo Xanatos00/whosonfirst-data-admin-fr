@@ -9,7 +9,7 @@
     "geom:bbox":"-3.02501,47.574354,-3.02501,47.574354",
     "geom:latitude":47.574354,
     "geom:longitude":-3.02501,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.574354,
     "lbl:longitude":-3.02501,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1360683749,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247117,
     "wof:name":"Kerbihan",
     "wof:parent_id":404361105,
     "wof:placetype":"neighbourhood",

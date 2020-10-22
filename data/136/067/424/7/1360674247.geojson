@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683309,
         102191581,
-        85633147,
-        404364567,
         404227601,
+        404364567,
+        85633147,
         1108826391,
         136253037,
         102069601
@@ -77,6 +77,11 @@
         404364567
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"38ead171c422f26672ef65f8462492a4",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360674247,
-    "wof:lastmodified":1539928830,
+    "wof:lastmodified":1603247202,
     "wof:name":"Neuville-Lez-Beaulieu",
     "wof:parent_id":102069601,
     "wof:placetype":"locality",

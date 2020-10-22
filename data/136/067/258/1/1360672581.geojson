@@ -170,6 +170,11 @@
         404347969
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"aa292fc3f0471d3b9ed698885ebc72f8",
     "wof:hierarchy":[
         {
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":1360672581,
-    "wof:lastmodified":1564126230,
+    "wof:lastmodified":1603247217,
     "wof:name":"Andlau",
     "wof:parent_id":102064425,
     "wof:placetype":"locality",

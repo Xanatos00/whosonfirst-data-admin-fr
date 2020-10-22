@@ -113,6 +113,11 @@
         404358677
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"879b19fffa03283d7aef14a6a3f10cfe",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360673625,
-    "wof:lastmodified":1564125877,
+    "wof:lastmodified":1603247168,
     "wof:name":"Molay",
     "wof:parent_id":102069517,
     "wof:placetype":"locality",

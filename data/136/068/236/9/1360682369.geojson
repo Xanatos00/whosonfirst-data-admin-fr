@@ -9,7 +9,7 @@
     "geom:bbox":"-1.339817,44.04011,-1.339817,44.04011",
     "geom:latitude":44.04011,
     "geom:longitude":-1.339817,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.04011,
     "lbl:longitude":-1.339817,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682369,
-    "wof:lastmodified":1539986830,
+    "wof:lastmodified":1603247102,
     "wof:name":"Plage Du Cap-de-l'homy",
     "wof:parent_id":404420831,
     "wof:placetype":"neighbourhood",

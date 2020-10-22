@@ -108,6 +108,10 @@
         404402199
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"444f32ab5dce683cc4b1ba5382017852",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360677865,
-    "wof:lastmodified":1564126923,
+    "wof:lastmodified":1603247311,
     "wof:name":"Surin",
     "wof:parent_id":102064577,
     "wof:placetype":"locality",

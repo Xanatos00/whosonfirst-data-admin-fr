@@ -141,6 +141,10 @@
         404418901
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a5019ac1c689dbd49fa80350850351a5",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360679505,
-    "wof:lastmodified":1564126440,
+    "wof:lastmodified":1603247246,
     "wof:name":"Nantoin",
     "wof:parent_id":102065577,
     "wof:placetype":"locality",

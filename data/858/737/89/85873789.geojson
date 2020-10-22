@@ -9,7 +9,6 @@
     "geom:bbox":"2.320908,48.854099,2.348229,48.866475",
     "geom:latitude":48.860638,
     "geom:longitude":2.334974,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.860862,
     "lbl:longitude":2.334974,
@@ -108,12 +107,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894231,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894231,
         85683497
     ],
     "wof:breaches":[],
@@ -141,10 +140,7 @@
         }
     ],
     "wof:id":85873789,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592440,
+    "wof:lastmodified":1603246970,
     "wof:name":"Saint-Germain l'Auxerrois",
     "wof:parent_id":1158894231,
     "wof:placetype":"neighbourhood",

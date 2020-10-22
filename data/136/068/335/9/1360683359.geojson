@@ -9,7 +9,7 @@
     "geom:bbox":"-2.251338,47.026142,-2.251338,47.026142",
     "geom:latitude":47.026142,
     "geom:longitude":-2.251338,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.026142,
     "lbl:longitude":-2.251338,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1360683359,
-    "wof:lastmodified":1539986843,
+    "wof:lastmodified":1603247082,
     "wof:name":"Le Vieil",
     "wof:parent_id":404352525,
     "wof:placetype":"neighbourhood",

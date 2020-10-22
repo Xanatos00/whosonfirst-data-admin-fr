@@ -115,6 +115,11 @@
         404415309
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8474c35f9cb55c8fd84de3c50f5671d8",
     "wof:hierarchy":[
         {
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":1360679205,
-    "wof:lastmodified":1564126910,
+    "wof:lastmodified":1603247309,
     "wof:name":"Contres",
     "wof:parent_id":102066483,
     "wof:placetype":"locality",

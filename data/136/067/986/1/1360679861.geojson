@@ -122,6 +122,11 @@
         404422771
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fc9d523fe59d0a34e29e5c553a139d33",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360679861,
-    "wof:lastmodified":1564127051,
+    "wof:lastmodified":1603247328,
     "wof:name":"Fontanes",
     "wof:parent_id":102066803,
     "wof:placetype":"locality",

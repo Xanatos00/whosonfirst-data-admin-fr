@@ -113,6 +113,11 @@
         404391479
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eafaea8338ec67779b98432f3d739652",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360676915,
-    "wof:lastmodified":1564126823,
+    "wof:lastmodified":1603247298,
     "wof:name":"Cahuzac",
     "wof:parent_id":102066331,
     "wof:placetype":"locality",

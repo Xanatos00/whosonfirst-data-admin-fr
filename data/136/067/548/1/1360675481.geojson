@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683335,
         102191581,
-        85633147,
-        404377019,
         404227815,
+        404377019,
+        85633147,
         1108826387,
         136253037,
         102065267
@@ -63,6 +63,10 @@
         404377019
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"af04a9813a7b9c80b0d2b20df16b46ac",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675481,
-    "wof:lastmodified":1539928853,
+    "wof:lastmodified":1603247321,
     "wof:name":"Casteras",
     "wof:parent_id":102065267,
     "wof:placetype":"locality",

@@ -143,6 +143,11 @@
         404384451
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"73df64e24238eda90669d2644a5bfa29",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360676213,
-    "wof:lastmodified":1564126044,
+    "wof:lastmodified":1603247191,
     "wof:name":"Pont-Authou",
     "wof:parent_id":102068585,
     "wof:placetype":"locality",

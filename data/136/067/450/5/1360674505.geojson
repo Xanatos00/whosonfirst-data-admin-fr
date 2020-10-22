@@ -105,6 +105,10 @@
         404367079
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"84e409e053a22cdaf691a658bb92fd5a",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360674505,
-    "wof:lastmodified":1564126812,
+    "wof:lastmodified":1603247296,
     "wof:name":"Saint-Victor",
     "wof:parent_id":102065413,
     "wof:placetype":"locality",

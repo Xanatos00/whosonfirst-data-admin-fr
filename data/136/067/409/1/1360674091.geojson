@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404362877,
         404227635,
+        404362877,
+        85633147,
         1108826385,
         136253037,
         102070823
@@ -63,6 +63,10 @@
         404362877
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"65d13fca13ce219840f5bda63b280ce3",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674091,
-    "wof:lastmodified":1539928827,
+    "wof:lastmodified":1603247215,
     "wof:name":"Thenac",
     "wof:parent_id":102070823,
     "wof:placetype":"locality",

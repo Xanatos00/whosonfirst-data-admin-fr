@@ -9,7 +9,7 @@
     "geom:bbox":"7.0960515,48.12084,7.0960515,48.12084",
     "geom:latitude":48.12084,
     "geom:longitude":7.096051,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.12084,
     "lbl:longitude":7.096051,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685985,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247086,
     "wof:name":"Orbey Pairis",
     "wof:parent_id":404403197,
     "wof:placetype":"neighbourhood",

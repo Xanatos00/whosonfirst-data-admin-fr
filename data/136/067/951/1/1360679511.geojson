@@ -120,6 +120,10 @@
         404418985
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"692af2325e30cffbb64d4daf2e045b1b",
     "wof:hierarchy":[
         {
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":1360679511,
-    "wof:lastmodified":1564126548,
+    "wof:lastmodified":1603247261,
     "wof:name":"Saint-Georges",
     "wof:parent_id":102068803,
     "wof:placetype":"locality",

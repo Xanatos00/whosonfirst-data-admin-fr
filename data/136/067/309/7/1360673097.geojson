@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404353475,
         404228045,
+        404353475,
+        85633147,
         1108826395,
         136253037,
         102070311
@@ -63,6 +63,10 @@
         404353475
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b333358c7da0cf935a9d40382ccf561b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673097,
-    "wof:lastmodified":1539928794,
+    "wof:lastmodified":1603247164,
     "wof:name":"Flee",
     "wof:parent_id":102070311,
     "wof:placetype":"locality",

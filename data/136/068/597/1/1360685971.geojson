@@ -9,7 +9,7 @@
     "geom:bbox":"3.135493,43.132531,3.135493,43.132531",
     "geom:latitude":43.132531,
     "geom:longitude":3.135493,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.132531,
     "lbl:longitude":3.135493,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685971,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247082,
     "wof:name":"Gruissan les Ayguades",
     "wof:parent_id":404402443,
     "wof:placetype":"neighbourhood",

@@ -104,6 +104,11 @@
         404419843
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"147a942c3408c53e600a5328c867504b",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360679591,
-    "wof:lastmodified":1564126476,
+    "wof:lastmodified":1603247251,
     "wof:name":"Flagey",
     "wof:parent_id":102067449,
     "wof:placetype":"locality",

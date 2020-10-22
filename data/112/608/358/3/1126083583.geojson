@@ -9,9 +9,9 @@
     "geom:bbox":"4.79432,50.12558,4.79432,50.12558",
     "geom:latitude":50.12558,
     "geom:longitude":4.79432,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FR",
     "lbl:latitude":50.12558,
     "lbl:longitude":4.79432,
@@ -45,14 +45,14 @@
     "woe:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85683309,
         102191581,
-        85633147,
-        404384501,
         404227601,
+        404384501,
+        85633147,
         1108826391,
         136253037,
-        102066215
+        102066215,
+        85683309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1126083583,
-    "wof:lastmodified":1509411285,
+    "wof:lastmodified":1603249052,
     "wof:name":"Trois-Fontaines",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

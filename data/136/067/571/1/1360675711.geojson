@@ -143,6 +143,11 @@
         404379303
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ec79d2b0b276d862dd79e3c2d094971b",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360675711,
-    "wof:lastmodified":1564126900,
+    "wof:lastmodified":1603247308,
     "wof:name":"Vernon",
     "wof:parent_id":102065809,
     "wof:placetype":"locality",

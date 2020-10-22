@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683271,
         102191581,
-        85633147,
-        404380803,
         404228281,
+        404380803,
+        85633147,
         1108826391,
         136253037,
         102067359
@@ -63,6 +63,10 @@
         404380803
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f13dae52ebd3ddb44c37df730dc67685",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675887,
-    "wof:lastmodified":1539928860,
+    "wof:lastmodified":1603247232,
     "wof:name":"Laneuveville-Les-Lorquin",
     "wof:parent_id":102067359,
     "wof:placetype":"locality",

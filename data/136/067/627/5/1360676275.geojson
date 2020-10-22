@@ -134,6 +134,11 @@
         404384953
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6c3b684a4300c9d0cbe9e0693661636b",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360676275,
-    "wof:lastmodified":1564126106,
+    "wof:lastmodified":1603247199,
     "wof:name":"Pallud",
     "wof:parent_id":102065059,
     "wof:placetype":"locality",

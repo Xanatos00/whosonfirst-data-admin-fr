@@ -9,7 +9,7 @@
     "geom:bbox":"4.752413,43.961986,4.752413,43.961986",
     "geom:latitude":43.961986,
     "geom:longitude":4.752413,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.961986,
     "lbl:longitude":4.752413,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686143,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247088,
     "wof:name":"La B\u00e9gude de Rochefort",
     "wof:parent_id":404385357,
     "wof:placetype":"neighbourhood",

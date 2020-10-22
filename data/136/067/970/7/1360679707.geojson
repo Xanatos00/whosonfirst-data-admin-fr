@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404421173,
         404228221,
+        404421173,
+        85633147,
         1108826385,
         136253037,
         102069743
@@ -63,6 +63,10 @@
         404421173
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"32a42894b77bdbf48c38885d5cfcc75b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679707,
-    "wof:lastmodified":1539928926,
+    "wof:lastmodified":1603247226,
     "wof:name":"Prignac-En-Medoc",
     "wof:parent_id":102069743,
     "wof:placetype":"locality",

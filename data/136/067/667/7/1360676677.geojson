@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404389597,
         404228055,
+        404389597,
+        85633147,
         1108826393,
         136253037,
         102070173
@@ -63,6 +63,10 @@
         404389597
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"843bef25aa4d0f966109c3c932e168fd",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676677,
-    "wof:lastmodified":1539928873,
+    "wof:lastmodified":1603247213,
     "wof:name":"Grossoeuvre",
     "wof:parent_id":102070173,
     "wof:placetype":"locality",

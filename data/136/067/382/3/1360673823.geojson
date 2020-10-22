@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404360623,
         404227825,
+        404360623,
+        85633147,
         1108826393,
         136253037,
         102065889
@@ -63,6 +63,10 @@
         404360623
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7939ff7507dafc02916049b30139cdd6",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673823,
-    "wof:lastmodified":1539928821,
+    "wof:lastmodified":1603247237,
     "wof:name":"Saint-Germain-La-Blanche-Herbe",
     "wof:parent_id":102065889,
     "wof:placetype":"locality",

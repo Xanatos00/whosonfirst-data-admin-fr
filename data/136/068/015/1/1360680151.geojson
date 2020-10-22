@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683301,
         102191581,
-        85633147,
-        404425751,
         404227609,
+        404425751,
+        85633147,
         1108826387,
         136253037,
         102069925
@@ -63,6 +63,10 @@
         404425751
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9bf1c7e9525a1ddfc6ae91624f25083c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680151,
-    "wof:lastmodified":1539928933,
+    "wof:lastmodified":1603247044,
     "wof:name":"Verrieres",
     "wof:parent_id":102069925,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683163,
         102191581,
-        85633147,
-        404359069,
         404227969,
+        404359069,
+        85633147,
         1108826385,
         136253037,
         102066119
@@ -63,6 +63,10 @@
         404359069
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8e33c88fb7bce54a09414f3cddd04ac9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673655,
-    "wof:lastmodified":1539928818,
+    "wof:lastmodified":1603247167,
     "wof:name":"Aubigne",
     "wof:parent_id":102066119,
     "wof:placetype":"locality",

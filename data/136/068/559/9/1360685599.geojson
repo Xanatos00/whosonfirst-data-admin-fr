@@ -9,7 +9,7 @@
     "geom:bbox":"-1.269382,49.678646,-1.269382,49.678646",
     "geom:latitude":49.678646,
     "geom:longitude":-1.269382,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.678646,
     "lbl:longitude":-1.269382,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685599,
-    "wof:lastmodified":1539986872,
+    "wof:lastmodified":1603247037,
     "wof:name":"Qu\u00e9nanville",
     "wof:parent_id":404374551,
     "wof:placetype":"neighbourhood",

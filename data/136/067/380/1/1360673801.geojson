@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404360471,
         404228157,
+        404360471,
+        85633147,
         1108826393,
         136253037,
         102066751
@@ -68,6 +68,11 @@
         404360471
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7f2074c90f736ecf6e72dc457ef47014",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673801,
-    "wof:lastmodified":1539928821,
+    "wof:lastmodified":1603247316,
     "wof:name":"Bois-D'Ennebourg",
     "wof:parent_id":102066751,
     "wof:placetype":"locality",

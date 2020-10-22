@@ -110,6 +110,11 @@
         404354261
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b315a39ad0e619a45fc4c1e740ced5f3",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360673173,
-    "wof:lastmodified":1564126974,
+    "wof:lastmodified":1603247318,
     "wof:name":"Foissac",
     "wof:parent_id":102069137,
     "wof:placetype":"locality",

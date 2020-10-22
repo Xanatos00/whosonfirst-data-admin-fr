@@ -146,6 +146,11 @@
         404417399
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8f3489a1d690cfdbf9098c3e97e212dd",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360679381,
-    "wof:lastmodified":1564125841,
+    "wof:lastmodified":1603247163,
     "wof:name":"Aulas",
     "wof:parent_id":102070979,
     "wof:placetype":"locality",

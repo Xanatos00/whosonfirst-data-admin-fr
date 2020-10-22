@@ -125,6 +125,11 @@
         404427305
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"073f61eb88bb7545bba919c204b5c1de",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360680341,
-    "wof:lastmodified":1564125672,
+    "wof:lastmodified":1603247107,
     "wof:name":"Cernay",
     "wof:parent_id":102069175,
     "wof:placetype":"locality",

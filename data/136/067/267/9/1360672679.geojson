@@ -117,6 +117,10 @@
         404348999
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d0de590d43a54bb7ba8bd61c8cbe1f2c",
     "wof:hierarchy":[
         {
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1360672679,
-    "wof:lastmodified":1564126220,
+    "wof:lastmodified":1603247215,
     "wof:name":"Saint-Julien",
     "wof:parent_id":102067087,
     "wof:placetype":"locality",

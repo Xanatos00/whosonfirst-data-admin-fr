@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683503,
         102191581,
-        85633147,
-        404354255,
         404227993,
+        404354255,
+        85633147,
         1108826395,
         136253037,
         102070163
@@ -63,6 +63,10 @@
         404354255
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"65511328dc5450ecedadde03be4af37b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673171,
-    "wof:lastmodified":1539928795,
+    "wof:lastmodified":1603247318,
     "wof:name":"Epineuil",
     "wof:parent_id":102070163,
     "wof:placetype":"locality",

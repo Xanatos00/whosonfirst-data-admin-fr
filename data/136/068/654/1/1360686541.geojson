@@ -9,7 +9,7 @@
     "geom:bbox":"3.68896,50.168597,3.68896,50.168597",
     "geom:latitude":50.168597,
     "geom:longitude":3.68896,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":50.168597,
     "lbl:longitude":3.68896,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686541,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247110,
     "wof:name":"Maison Foresti\u00e8re d'Hecq",
     "wof:parent_id":404398227,
     "wof:placetype":"neighbourhood",

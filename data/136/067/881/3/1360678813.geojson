@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683431,
         102191581,
-        85633147,
-        404411231,
         404228065,
+        404411231,
+        85633147,
         1108826387,
         136253037,
         102066729
@@ -63,6 +63,10 @@
         404411231
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b7ae68653dae1a2e1ec84a7035163998",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678813,
-    "wof:lastmodified":1539928910,
+    "wof:lastmodified":1603247200,
     "wof:name":"Saint-Bonnet-De-Salendrinque",
     "wof:parent_id":102066729,
     "wof:placetype":"locality",

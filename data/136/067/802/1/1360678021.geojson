@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683261,
         102191581,
-        85633147,
-        404403753,
         404227911,
+        404403753,
+        85633147,
         1108826391,
         136253037,
         102067271
@@ -63,6 +63,10 @@
         404403753
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"af76b59e8ebe9ec6da4bd74b539511c1",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678021,
-    "wof:lastmodified":1539928896,
+    "wof:lastmodified":1603247222,
     "wof:name":"Chatenay-Macheron",
     "wof:parent_id":102067271,
     "wof:placetype":"locality",

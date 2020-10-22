@@ -146,6 +146,11 @@
         404417135
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2c72affcebe5136cbc18ebd112ef86da",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360679345,
-    "wof:lastmodified":1564126581,
+    "wof:lastmodified":1603247266,
     "wof:name":"Jouancy",
     "wof:parent_id":102068245,
     "wof:placetype":"locality",

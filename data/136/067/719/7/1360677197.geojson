@@ -141,6 +141,10 @@
         404394411
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5d2378d5baa69c98f8e1ec66573baabf",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360677197,
-    "wof:lastmodified":1564126940,
+    "wof:lastmodified":1603247313,
     "wof:name":"Marestmontiers",
     "wof:parent_id":102069403,
     "wof:placetype":"locality",

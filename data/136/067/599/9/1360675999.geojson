@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404381939,
         404227883,
+        404381939,
+        85633147,
         1108826395,
         136253037,
         102069347
@@ -63,6 +63,10 @@
         404381939
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"13599974041ada76a6da39b21d3f7a53",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675999,
-    "wof:lastmodified":1539928862,
+    "wof:lastmodified":1603247254,
     "wof:name":"La Balme-D'Epy",
     "wof:parent_id":102069347,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683485,
         102191581,
-        85633147,
-        404368279,
         404227607,
+        404368279,
+        85633147,
         1108826387,
         136253037,
         102069605
@@ -68,6 +68,11 @@
         404368279
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bbf3a9f160e2d0669e38a28d54b34548",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360674631,
-    "wof:lastmodified":1539928838,
+    "wof:lastmodified":1603247210,
     "wof:name":"Payra-Sur-L'Hers",
     "wof:parent_id":102069605,
     "wof:placetype":"locality",

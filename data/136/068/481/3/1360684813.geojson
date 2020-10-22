@@ -9,7 +9,7 @@
     "geom:bbox":"-1.85008,48.7017845,-1.85008,48.7017845",
     "geom:latitude":48.701785,
     "geom:longitude":-1.85008,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.701785,
     "lbl:longitude":-1.85008,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684813,
-    "wof:lastmodified":1539986862,
+    "wof:lastmodified":1603247092,
     "wof:name":"Cancale Port-mer",
     "wof:parent_id":404364561,
     "wof:placetype":"neighbourhood",

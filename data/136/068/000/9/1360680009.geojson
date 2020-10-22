@@ -67,6 +67,11 @@
         404424175
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"58a29580fff992d3c32c0c9b277ba9d4",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360680009,
-    "wof:lastmodified":1539928931,
+    "wof:lastmodified":1603247059,
     "wof:name":"Ports",
     "wof:parent_id":102067963,
     "wof:placetype":"locality",

@@ -329,14 +329,14 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683421,
         102191581,
-        85633147,
-        102067487,
-        136253037,
-        404383191,
         404228015,
+        404383191,
+        85633147,
         1108826389,
-        85683421
+        136253037,
+        102067487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -371,10 +371,7 @@
         }
     ],
     "wof:id":101842817,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163110,
+    "wof:lastmodified":1603247471,
     "wof:name":"Saint-F\u00e9licien",
     "wof:parent_id":404383191,
     "wof:placetype":"locality",

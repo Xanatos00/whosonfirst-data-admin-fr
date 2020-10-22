@@ -138,6 +138,10 @@
         404365933
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"715f9f2fcfaeab3273fcf0f3a49823ee",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360674419,
-    "wof:lastmodified":1564126090,
+    "wof:lastmodified":1603247197,
     "wof:name":"Maleville",
     "wof:parent_id":102067685,
     "wof:placetype":"locality",

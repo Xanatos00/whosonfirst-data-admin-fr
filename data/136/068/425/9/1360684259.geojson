@@ -9,7 +9,7 @@
     "geom:bbox":"6.554686,46.160855,6.554686,46.160855",
     "geom:latitude":46.160855,
     "geom:longitude":6.554686,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.160855,
     "lbl:longitude":6.554686,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684259,
-    "wof:lastmodified":1539986854,
+    "wof:lastmodified":1603247047,
     "wof:name":"Sommand",
     "wof:parent_id":404363805,
     "wof:placetype":"neighbourhood",

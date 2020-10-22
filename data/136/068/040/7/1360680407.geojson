@@ -116,6 +116,11 @@
         404428127
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bc8ed1333039f6c7fcc389f20bce7f26",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360680407,
-    "wof:lastmodified":1564125434,
+    "wof:lastmodified":1603247054,
     "wof:name":"Charmois",
     "wof:parent_id":102065107,
     "wof:placetype":"locality",

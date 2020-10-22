@@ -143,6 +143,11 @@
         404391601
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"959fb41f299fe26a083658dae79bd528",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360676933,
-    "wof:lastmodified":1564126209,
+    "wof:lastmodified":1603247214,
     "wof:name":"Courgeac",
     "wof:parent_id":102068155,
     "wof:placetype":"locality",

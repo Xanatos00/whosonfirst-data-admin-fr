@@ -63,6 +63,9 @@
         101894879
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"087ad7969c11186d0f60887dc348a462",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1175611699,
-    "wof:lastmodified":1541013155,
+    "wof:lastmodified":1603247011,
     "wof:name":"Saint-Pierre-D'Entremont",
     "wof:parent_id":102069625,
     "wof:placetype":"localadmin",

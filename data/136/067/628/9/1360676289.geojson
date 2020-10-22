@@ -116,6 +116,11 @@
         404385169
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bca92c1f00bf646b6dfe07d6859c1604",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360676289,
-    "wof:lastmodified":1564126028,
+    "wof:lastmodified":1603247189,
     "wof:name":"Quilly",
     "wof:parent_id":102066961,
     "wof:placetype":"locality",

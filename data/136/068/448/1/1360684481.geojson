@@ -9,7 +9,7 @@
     "geom:bbox":"-1.730346,43.294949,-1.730346,43.294949",
     "geom:latitude":43.294949,
     "geom:longitude":-1.730346,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.294949,
     "lbl:longitude":-1.730346,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1360684481,
-    "wof:lastmodified":1539986857,
+    "wof:lastmodified":1603247049,
     "wof:name":"Endarlatsa",
     "wof:parent_id":404336183,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,7 @@
     "geom:bbox":"6.8841915,43.505645,6.8841915,43.505645",
     "geom:latitude":43.505645,
     "geom:longitude":6.884192,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.505645,
     "lbl:longitude":6.884192,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687259,
-    "wof:lastmodified":1539986893,
+    "wof:lastmodified":1603247068,
     "wof:name":"St. Jean de Cannes",
     "wof:parent_id":404352311,
     "wof:placetype":"neighbourhood",

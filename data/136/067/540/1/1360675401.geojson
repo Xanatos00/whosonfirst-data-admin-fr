@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683523,
         102191581,
-        85633147,
-        404376233,
         404227851,
+        404376233,
+        85633147,
         1108826389,
         136253037,
         102069337
@@ -63,6 +63,10 @@
         404376233
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d9b3d9bbd584f9ea7f6494105eb88874",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675401,
-    "wof:lastmodified":1539928851,
+    "wof:lastmodified":1603247311,
     "wof:name":"Montauban-Sur-L'Ouveze",
     "wof:parent_id":102069337,
     "wof:placetype":"locality",

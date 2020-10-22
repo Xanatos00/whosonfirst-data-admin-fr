@@ -113,6 +113,11 @@
         404374407
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f0db55c748263ab43330d4774ef6b870",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360675207,
-    "wof:lastmodified":1564126374,
+    "wof:lastmodified":1603247237,
     "wof:name":"Verdon",
     "wof:parent_id":102067447,
     "wof:placetype":"locality",

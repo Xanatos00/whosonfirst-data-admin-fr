@@ -75,9 +75,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404351529,
         404227865,
+        404351529,
+        85633147,
         1108826387,
         136253037,
         102064903
@@ -92,6 +92,11 @@
         404351529
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0677b293d5da3991cd225df2ddeea423",
     "wof:hierarchy":[
         {
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":1360672913,
-    "wof:lastmodified":1539928790,
+    "wof:lastmodified":1603247295,
     "wof:name":"Castillon-De-Larboust",
     "wof:parent_id":102064903,
     "wof:placetype":"locality",

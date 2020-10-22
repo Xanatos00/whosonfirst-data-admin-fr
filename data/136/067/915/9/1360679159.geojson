@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404414835,
         404227973,
+        404414835,
+        85633147,
         1108826399,
         136253037,
         102066533
@@ -77,6 +77,11 @@
         404414835
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2529f6579ff463271e9cdf1add11dcce",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360679159,
-    "wof:lastmodified":1539928916,
+    "wof:lastmodified":1603247229,
     "wof:name":"Frohen-Sur-Authie",
     "wof:parent_id":102066533,
     "wof:placetype":"locality",

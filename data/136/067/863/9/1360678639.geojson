@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404410011,
         404228235,
+        404410011,
+        85633147,
         1108826393,
         136253037,
         102070059
@@ -63,6 +63,10 @@
         404410011
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bac818fe0a6c18633772aeb7a941eed6",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678639,
-    "wof:lastmodified":1539928907,
+    "wof:lastmodified":1603247305,
     "wof:name":"Saint-Clair-Sur-L'Elle",
     "wof:parent_id":102070059,
     "wof:placetype":"locality",

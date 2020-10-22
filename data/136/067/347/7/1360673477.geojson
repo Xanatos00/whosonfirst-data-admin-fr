@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404357197,
         404228015,
+        404357197,
+        85633147,
         1108826389,
         136253037,
         102068251
@@ -63,6 +63,10 @@
         404357197
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6e907416c9ddfb47efa166d4e4131fb2",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673477,
-    "wof:lastmodified":1539928810,
+    "wof:lastmodified":1603247239,
     "wof:name":"Saint-Jeure-D'Ay",
     "wof:parent_id":102068251,
     "wof:placetype":"locality",

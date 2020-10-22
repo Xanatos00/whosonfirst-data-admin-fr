@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404360809,
         404227907,
+        404360809,
+        85633147,
         1108826393,
         136253037,
         102064739
@@ -63,6 +63,10 @@
         404360809
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6f3d56011b5ebf696b1438023a7776cb",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673845,
-    "wof:lastmodified":1539928822,
+    "wof:lastmodified":1603247229,
     "wof:name":"Saint-Pierre-D'Artheglise",
     "wof:parent_id":102064739,
     "wof:placetype":"locality",

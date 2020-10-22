@@ -158,6 +158,11 @@
         404428681
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ce182eb315b86a6f3c8fa7c03491564e",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360680457,
-    "wof:lastmodified":1564125575,
+    "wof:lastmodified":1603247088,
     "wof:name":"Grainville-Langannerie",
     "wof:parent_id":102065515,
     "wof:placetype":"locality",

@@ -143,6 +143,11 @@
         404384417
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f5ddb77140dbaa22cde36d4efa8ec3ea",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360676211,
-    "wof:lastmodified":1564126043,
+    "wof:lastmodified":1603247191,
     "wof:name":"Montbras",
     "wof:parent_id":102068767,
     "wof:placetype":"locality",

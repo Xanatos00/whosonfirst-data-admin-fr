@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404421241,
         404227883,
+        404421241,
+        85633147,
         1108826395,
         136253037,
         102064331
@@ -63,6 +63,10 @@
         404421241
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a88cc348aaaa7d1848c0a2d17932292f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679717,
-    "wof:lastmodified":1539928926,
+    "wof:lastmodified":1603247238,
     "wof:name":"La Ferte",
     "wof:parent_id":102064331,
     "wof:placetype":"locality",

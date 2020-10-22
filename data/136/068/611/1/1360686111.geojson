@@ -9,7 +9,7 @@
     "geom:bbox":"9.333847,42.808936,9.333847,42.808936",
     "geom:latitude":42.808936,
     "geom:longitude":9.333847,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":42.808936,
     "lbl:longitude":9.333847,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686111,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247054,
     "wof:name":"Marina D'albu",
     "wof:parent_id":404384147,
     "wof:placetype":"neighbourhood",

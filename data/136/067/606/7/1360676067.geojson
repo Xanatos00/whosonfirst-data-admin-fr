@@ -99,6 +99,10 @@
         404382679
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bfb27fdba29f6540e81c12987e466f49",
     "wof:hierarchy":[
         {
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1360676067,
-    "wof:lastmodified":1564126790,
+    "wof:lastmodified":1603247293,
     "wof:name":"Lavalette",
     "wof:parent_id":102070779,
     "wof:placetype":"locality",

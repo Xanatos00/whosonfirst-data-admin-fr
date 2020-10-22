@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683413,
         102191581,
-        85633147,
-        404403799,
         404227891,
+        404403799,
+        85633147,
         1108826389,
         136253037,
         102065303
@@ -63,6 +63,10 @@
         404403799
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e8d034b0325107411445b0b969050e41",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678033,
-    "wof:lastmodified":1539928897,
+    "wof:lastmodified":1603247211,
     "wof:name":"Saint-Didier-D'Allier",
     "wof:parent_id":102065303,
     "wof:placetype":"locality",

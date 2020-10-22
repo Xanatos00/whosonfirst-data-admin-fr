@@ -62,6 +62,10 @@
         404368811
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b1141a4a90835c60ab06d4f46453717e",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674681,
-    "wof:lastmodified":1539928839,
+    "wof:lastmodified":1603247297,
     "wof:name":"Saint-Meen",
     "wof:parent_id":102068159,
     "wof:placetype":"locality",

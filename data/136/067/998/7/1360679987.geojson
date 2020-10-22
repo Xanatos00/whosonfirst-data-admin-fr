@@ -149,6 +149,11 @@
         404423977
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"413bb908ca84754775dac8ea326781a9",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360679987,
-    "wof:lastmodified":1564125881,
+    "wof:lastmodified":1603247168,
     "wof:name":"Chemilli",
     "wof:parent_id":102065377,
     "wof:placetype":"locality",

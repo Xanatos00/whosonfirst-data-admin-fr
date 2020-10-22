@@ -11,7 +11,7 @@
     "geom:longitude":55.67823,
     "gn:country":"RE",
     "gn:fcode":"PPL",
-    "gn:pop":10444,
+    "gn:population":10444,
     "iso:country":"RE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -300,7 +300,7 @@
         }
     ],
     "wof:id":890450119,
-    "wof:lastmodified":1563294108,
+    "wof:lastmodified":1603248256,
     "wof:name":"Bras-Panon",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

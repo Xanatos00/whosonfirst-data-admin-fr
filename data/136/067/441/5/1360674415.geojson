@@ -144,6 +144,10 @@
         404365909
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c71d5ce0816aa4dee03c51f8aec5c7d8",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360674415,
-    "wof:lastmodified":1564126093,
+    "wof:lastmodified":1603247198,
     "wof:name":"Saint-Donat",
     "wof:parent_id":102068285,
     "wof:placetype":"locality",

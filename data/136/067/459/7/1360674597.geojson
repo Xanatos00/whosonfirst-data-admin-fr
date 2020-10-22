@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683209,
         102191581,
-        85633147,
-        404367845,
         404227625,
+        404367845,
+        85633147,
         1108826385,
         136253037,
         102065817
@@ -63,6 +63,10 @@
         404367845
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f0bf53e6f1925aa7ab5ea90ed8d5e934",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674597,
-    "wof:lastmodified":1539928837,
+    "wof:lastmodified":1603247299,
     "wof:name":"Saint-Pardoux-L'Ortigier",
     "wof:parent_id":102065817,
     "wof:placetype":"locality",

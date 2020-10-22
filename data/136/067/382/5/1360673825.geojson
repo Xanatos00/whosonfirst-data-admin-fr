@@ -123,6 +123,10 @@
         404360659
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cfa84c01cdb3e8958f85c361af257880",
     "wof:hierarchy":[
         {
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1360673825,
-    "wof:lastmodified":1564126376,
+    "wof:lastmodified":1603247237,
     "wof:name":"Saint-Cyr",
     "wof:parent_id":102068673,
     "wof:placetype":"locality",

@@ -144,6 +144,10 @@
         404365553
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d2942e44ffb4fcf5d099964a0f64df0b",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360674371,
-    "wof:lastmodified":1564126168,
+    "wof:lastmodified":1603247208,
     "wof:name":"Saint-Ovin",
     "wof:parent_id":102072413,
     "wof:placetype":"locality",

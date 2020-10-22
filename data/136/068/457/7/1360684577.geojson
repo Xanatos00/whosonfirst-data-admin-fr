@@ -9,7 +9,7 @@
     "geom:bbox":"6.380739,45.262382,6.380739,45.262382",
     "geom:latitude":45.262382,
     "geom:longitude":6.380739,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.262382,
     "lbl:longitude":6.380739,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684577,
-    "wof:lastmodified":1539986859,
+    "wof:lastmodified":1603247108,
     "wof:name":"Les Resses d'en Bas",
     "wof:parent_id":404355599,
     "wof:placetype":"neighbourhood",

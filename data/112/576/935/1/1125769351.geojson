@@ -9,7 +9,7 @@
     "geom:bbox":"6.45398957742,45.0985691974,6.56390774234,45.2037874028",
     "geom:latitude":45.151903,
     "geom:longitude":6.508316,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.182682,
     "lbl:longitude":6.483478,
@@ -342,7 +342,7 @@
         }
     ],
     "wof:id":1125769351,
-    "wof:lastmodified":1582326120,
+    "wof:lastmodified":1603249140,
     "wof:name":"Valmeinier",
     "wof:parent_id":404350033,
     "wof:placetype":"locality",

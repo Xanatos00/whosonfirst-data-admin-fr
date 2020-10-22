@@ -110,6 +110,11 @@
         404427605
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"73bcfd3ce16a5d50e88754f5b31fecb0",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360680351,
-    "wof:lastmodified":1564125657,
+    "wof:lastmodified":1603247104,
     "wof:name":"La Frette",
     "wof:parent_id":102070605,
     "wof:placetype":"locality",

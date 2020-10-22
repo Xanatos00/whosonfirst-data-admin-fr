@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683503,
         102191581,
-        85633147,
-        404427865,
         404227781,
+        404427865,
+        85633147,
         1108826395,
         136253037,
         102065867
@@ -63,6 +63,10 @@
         404427865
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f0a993f164f73ead1376c11c52605034",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680375,
-    "wof:lastmodified":1539928937,
+    "wof:lastmodified":1603247065,
     "wof:name":"Chichee",
     "wof:parent_id":102065867,
     "wof:placetype":"locality",

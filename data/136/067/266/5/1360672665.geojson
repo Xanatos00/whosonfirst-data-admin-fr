@@ -116,6 +116,11 @@
         404348833
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2d45aef3c93a3190b793f68e93ca63c5",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360672665,
-    "wof:lastmodified":1564126159,
+    "wof:lastmodified":1603247207,
     "wof:name":"Vesly",
     "wof:parent_id":102072349,
     "wof:placetype":"locality",

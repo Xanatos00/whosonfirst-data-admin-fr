@@ -99,6 +99,10 @@
         404388275
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6140de46b57db9d4cd339317ea4cedea",
     "wof:hierarchy":[
         {
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1360676551,
-    "wof:lastmodified":1564126747,
+    "wof:lastmodified":1603247287,
     "wof:name":"Maucourt",
     "wof:parent_id":102067715,
     "wof:placetype":"locality",

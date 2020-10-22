@@ -62,6 +62,10 @@
         404371451
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3fa907f08d6746db06c997d12603087c",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674905,
-    "wof:lastmodified":1539928843,
+    "wof:lastmodified":1603247211,
     "wof:name":"Sant'Andrea-Di-Cotone",
     "wof:parent_id":102067305,
     "wof:placetype":"locality",

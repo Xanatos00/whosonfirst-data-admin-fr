@@ -9,7 +9,7 @@
     "geom:bbox":"-1.4986365,48.616044,-1.4986365,48.616044",
     "geom:latitude":48.616044,
     "geom:longitude":-1.498636,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.616044,
     "lbl:longitude":-1.498636,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686131,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247088,
     "wof:name":"Ardevon Quartier de la Rive",
     "wof:parent_id":404375023,
     "wof:placetype":"neighbourhood",

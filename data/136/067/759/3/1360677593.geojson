@@ -102,6 +102,10 @@
         404398985
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d76a11d85b0f3d59e15a08a826f2ac2c",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360677593,
-    "wof:lastmodified":1564126594,
+    "wof:lastmodified":1603247267,
     "wof:name":"Saint-Hippolyte",
     "wof:parent_id":102068317,
     "wof:placetype":"locality",

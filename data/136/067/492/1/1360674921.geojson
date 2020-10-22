@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404371427,
         404227669,
+        404371427,
+        85633147,
         1108826389,
         136253037,
         102071179
@@ -63,6 +63,10 @@
         404371427
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4a1d75e5d8a5f2138a086f56b5ae9ff3",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674921,
-    "wof:lastmodified":1539928843,
+    "wof:lastmodified":1603247300,
     "wof:name":"Notre-Dame-De-L'Osier",
     "wof:parent_id":102071179,
     "wof:placetype":"locality",

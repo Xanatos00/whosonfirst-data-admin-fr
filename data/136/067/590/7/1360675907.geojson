@@ -101,6 +101,10 @@
         404381059
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"933a9a23a175f7384e64f48cd87a08fe",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":1360675907,
-    "wof:lastmodified":1564126499,
+    "wof:lastmodified":1603247254,
     "wof:name":"Saint-Erblon",
     "wof:parent_id":102068915,
     "wof:placetype":"locality",

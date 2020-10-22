@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404368535,
         404227615,
+        404368535,
+        85633147,
         1108826393,
         136253037,
         102067951
@@ -63,6 +63,10 @@
         404368535
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"84a87ca6429d170747295ee0b4944be7",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674655,
-    "wof:lastmodified":1539928839,
+    "wof:lastmodified":1603247222,
     "wof:name":"Cartigny-L'Epinay",
     "wof:parent_id":102067951,
     "wof:placetype":"locality",

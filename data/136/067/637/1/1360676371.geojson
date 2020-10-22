@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683431,
         102191581,
-        85633147,
-        404386063,
         404228065,
+        404386063,
+        85633147,
         1108826387,
         136253037,
         102069545
@@ -63,6 +63,10 @@
         404386063
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7064959194a97f1dfaabaa5060ad345e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676371,
-    "wof:lastmodified":1539928868,
+    "wof:lastmodified":1603247291,
     "wof:name":"La Cadiere-Et-Cambo",
     "wof:parent_id":102069545,
     "wof:placetype":"locality",

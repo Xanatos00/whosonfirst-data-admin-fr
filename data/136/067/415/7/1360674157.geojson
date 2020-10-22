@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683559,
         102191581,
-        85633147,
-        404363649,
         404227951,
+        404363649,
+        85633147,
         1108826395,
         136253037,
         102065717
@@ -77,6 +77,11 @@
         404363649
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ee6f6744c4d63bfab6e8d3265ffa53bc",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360674157,
-    "wof:lastmodified":1539928829,
+    "wof:lastmodified":1603247199,
     "wof:name":"Vellexon-Queutrey-Et-Vaudey",
     "wof:parent_id":102065717,
     "wof:placetype":"locality",

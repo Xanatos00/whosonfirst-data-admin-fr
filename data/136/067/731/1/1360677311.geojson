@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404395599,
         404227883,
+        404395599,
+        85633147,
         1108826395,
         136253037,
         102069663
@@ -63,6 +63,10 @@
         404395599
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"de02dc2ac183adb186efd0630f0ade5e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677311,
-    "wof:lastmodified":1539928884,
+    "wof:lastmodified":1603247180,
     "wof:name":"Pont-D'Hery",
     "wof:parent_id":102069663,
     "wof:placetype":"locality",

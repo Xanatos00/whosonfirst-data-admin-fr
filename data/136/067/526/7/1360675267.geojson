@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404374943,
         404227669,
+        404374943,
+        85633147,
         1108826389,
         136253037,
         102067193
@@ -63,6 +63,10 @@
         404374943
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"06027adc68bafa4bf1c202cb27b7ed39",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675267,
-    "wof:lastmodified":1539928849,
+    "wof:lastmodified":1603247228,
     "wof:name":"Saint-Baudille-Et-Pipet",
     "wof:parent_id":102067193,
     "wof:placetype":"locality",

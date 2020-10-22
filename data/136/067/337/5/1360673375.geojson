@@ -164,6 +164,11 @@
         404356301
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bfda5afbdb13f05a84e30b8175163f15",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360673375,
-    "wof:lastmodified":1564125917,
+    "wof:lastmodified":1603247174,
     "wof:name":"Montilly",
     "wof:parent_id":102068737,
     "wof:placetype":"locality",

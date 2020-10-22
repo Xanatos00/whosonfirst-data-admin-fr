@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404420165,
         404228113,
+        404420165,
+        85633147,
         1108826391,
         136253037,
         102071087
@@ -63,6 +63,10 @@
         404420165
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"19abd41dbc11ab138058697eff7e859f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679627,
-    "wof:lastmodified":1539928924,
+    "wof:lastmodified":1603247171,
     "wof:name":"Fleville-Devant-Nancy",
     "wof:parent_id":102071087,
     "wof:placetype":"locality",

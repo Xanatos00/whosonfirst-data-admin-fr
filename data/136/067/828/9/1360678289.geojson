@@ -114,6 +114,10 @@
         404406651
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fd1a8a4c76d2bffee4a317dff3b8ad93",
     "wof:hierarchy":[
         {
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1360678289,
-    "wof:lastmodified":1564126069,
+    "wof:lastmodified":1603247194,
     "wof:name":"Thil",
     "wof:parent_id":102071037,
     "wof:placetype":"locality",

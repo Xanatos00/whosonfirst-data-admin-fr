@@ -75,9 +75,9 @@
     "wof:belongsto":[
         85683301,
         102191581,
-        85633147,
-        404390455,
         404228027,
+        404390455,
+        85633147,
         1108826387,
         136253037,
         102066139
@@ -92,6 +92,11 @@
         404390455
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5875d165b7b84c0e9820b1b93a68b35b",
     "wof:hierarchy":[
         {
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":1360676759,
-    "wof:lastmodified":1539928875,
+    "wof:lastmodified":1603247184,
     "wof:name":"Almont-Les-Junies",
     "wof:parent_id":102066139,
     "wof:placetype":"locality",

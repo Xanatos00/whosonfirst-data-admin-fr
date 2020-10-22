@@ -122,6 +122,11 @@
         404416263
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"083601a4bc817cf90a230c83d46a84d7",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360679303,
-    "wof:lastmodified":1564125932,
+    "wof:lastmodified":1603247176,
     "wof:name":"Courcelles",
     "wof:parent_id":102069755,
     "wof:placetype":"locality",

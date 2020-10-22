@@ -9,7 +9,7 @@
     "geom:bbox":"7.346277,43.73439,7.346277,43.73439",
     "geom:latitude":43.73439,
     "geom:longitude":7.346277,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.73439,
     "lbl:longitude":7.346277,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360682365,
-    "wof:lastmodified":1539986830,
+    "wof:lastmodified":1603247102,
     "wof:name":"\u00c8ze le Col",
     "wof:parent_id":404412689,
     "wof:placetype":"neighbourhood",

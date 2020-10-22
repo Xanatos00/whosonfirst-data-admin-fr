@@ -62,6 +62,10 @@
         404407567
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b5c2bd5272e4b0188b3461e1ead6bc6c",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360678373,
-    "wof:lastmodified":1539928903,
+    "wof:lastmodified":1603247296,
     "wof:name":"Chatres",
     "wof:parent_id":102069521,
     "wof:placetype":"locality",

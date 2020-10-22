@@ -9,7 +9,7 @@
     "geom:bbox":"5.161149,43.82835,5.161149,43.82835",
     "geom:latitude":43.82835,
     "geom:longitude":5.161149,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.82835,
     "lbl:longitude":5.161149,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684511,
-    "wof:lastmodified":1539986858,
+    "wof:lastmodified":1603247104,
     "wof:name":"Opp\u00e8de-le-Vieux",
     "wof:parent_id":404377741,
     "wof:placetype":"neighbourhood",

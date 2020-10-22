@@ -9,7 +9,7 @@
     "geom:bbox":"6.3929925,46.3316385,6.3929925,46.3316385",
     "geom:latitude":46.331638,
     "geom:longitude":6.392993,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.331638,
     "lbl:longitude":6.392993,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687477,
-    "wof:lastmodified":1539986896,
+    "wof:lastmodified":1603247071,
     "wof:name":"Bonnatrait",
     "wof:parent_id":404358319,
     "wof:placetype":"neighbourhood",

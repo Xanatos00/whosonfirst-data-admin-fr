@@ -119,6 +119,11 @@
         404380847
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8e1d783161b11190d03a3b492e9386d0",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360675889,
-    "wof:lastmodified":1564126339,
+    "wof:lastmodified":1603247232,
     "wof:name":"Servas",
     "wof:parent_id":102071109,
     "wof:placetype":"locality",

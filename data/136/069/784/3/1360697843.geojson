@@ -36,7 +36,6 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        85683301,
         102191581,
         404227821,
         404354411,
@@ -44,7 +43,8 @@
         1108826387,
         1125916027,
         136253037,
-        102071363
+        102071363,
+        85683301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,10 +69,7 @@
         }
     ],
     "wof:id":1360697843,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1544741725,
+    "wof:lastmodified":1603247140,
     "wof:name":"Ampiac",
     "wof:parent_id":1125916027,
     "wof:placetype":"neighbourhood",

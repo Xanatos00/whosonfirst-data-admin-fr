@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404392537,
         404228055,
+        404392537,
+        85633147,
         1108826393,
         136253037,
         102065749
@@ -63,6 +63,10 @@
         404392537
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8006fee56244c08e3c19acf71aa29d19",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677029,
-    "wof:lastmodified":1539928880,
+    "wof:lastmodified":1603247248,
     "wof:name":"Saint-Nicolas-D'Attez",
     "wof:parent_id":102065749,
     "wof:placetype":"locality",

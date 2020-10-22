@@ -119,6 +119,11 @@
         404425171
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8cbfb0c363fb7b1277b3bf9d6bfd6bf4",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360680087,
-    "wof:lastmodified":1564125476,
+    "wof:lastmodified":1603247064,
     "wof:name":"Barjac",
     "wof:parent_id":102066909,
     "wof:placetype":"locality",

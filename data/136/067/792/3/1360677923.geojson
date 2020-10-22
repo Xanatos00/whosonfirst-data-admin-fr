@@ -191,6 +191,11 @@
         404402773
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9e038bc1fb8bdbf7b3b3862ea6893740",
     "wof:hierarchy":[
         {
@@ -206,7 +211,7 @@
         }
     ],
     "wof:id":1360677923,
-    "wof:lastmodified":1564126585,
+    "wof:lastmodified":1603247266,
     "wof:name":"Senlis",
     "wof:parent_id":102068861,
     "wof:placetype":"locality",

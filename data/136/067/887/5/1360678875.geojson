@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404411839,
         404227751,
+        404411839,
+        85633147,
         1108826393,
         136253037,
         102068557
@@ -63,6 +63,10 @@
         404411839
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"85975a062c33e5c70e8c0735a049d07e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678875,
-    "wof:lastmodified":1539928911,
+    "wof:lastmodified":1603247192,
     "wof:name":"Saint-Michel-D'Halescourt",
     "wof:parent_id":102068557,
     "wof:placetype":"locality",

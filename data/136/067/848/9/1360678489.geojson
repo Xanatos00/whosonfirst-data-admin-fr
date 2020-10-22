@@ -160,6 +160,11 @@
         404408705
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6cb31e1972ade3cf583a75d8a06a53ec",
     "wof:hierarchy":[
         {
@@ -174,7 +179,7 @@
         }
     ],
     "wof:id":1360678489,
-    "wof:lastmodified":1564126632,
+    "wof:lastmodified":1603247273,
     "wof:name":"La Mure-Argens",
     "wof:parent_id":102068373,
     "wof:placetype":"locality",

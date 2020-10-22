@@ -104,6 +104,11 @@
         404425175
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"915a388a5a8c615e6671471a1411993b",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360680095,
-    "wof:lastmodified":1564125458,
+    "wof:lastmodified":1603247059,
     "wof:name":"Heuqueville",
     "wof:parent_id":102064461,
     "wof:placetype":"locality",

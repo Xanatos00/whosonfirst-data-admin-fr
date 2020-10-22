@@ -111,6 +111,10 @@
         404386861
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f3dbbe81ef9e71ce7ea9f14f0d1da80d",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360676419,
-    "wof:lastmodified":1564126703,
+    "wof:lastmodified":1603247283,
     "wof:name":"Montignac",
     "wof:parent_id":102071487,
     "wof:placetype":"locality",

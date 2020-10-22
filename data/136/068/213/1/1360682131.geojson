@@ -9,7 +9,7 @@
     "geom:bbox":"5.887631,45.40541,5.887631,45.40541",
     "geom:latitude":45.40541,
     "geom:longitude":5.887631,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.40541,
     "lbl:longitude":5.887631,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682131,
-    "wof:lastmodified":1539986826,
+    "wof:lastmodified":1603247100,
     "wof:name":"Saint-m\u00eame le Haut",
     "wof:parent_id":404364549,
     "wof:placetype":"neighbourhood",

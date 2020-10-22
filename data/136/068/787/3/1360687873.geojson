@@ -9,7 +9,7 @@
     "geom:bbox":"6.853537,45.5862175,6.853537,45.5862175",
     "geom:latitude":45.586217,
     "geom:longitude":6.853537,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.586217,
     "lbl:longitude":6.853537,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687873,
-    "wof:lastmodified":1539986902,
+    "wof:lastmodified":1603247118,
     "wof:name":"Le Planey",
     "wof:parent_id":404348077,
     "wof:placetype":"neighbourhood",

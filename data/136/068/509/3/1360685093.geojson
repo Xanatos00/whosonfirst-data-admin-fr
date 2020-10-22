@@ -9,7 +9,7 @@
     "geom:bbox":"6.203578,44.933074,6.203578,44.933074",
     "geom:latitude":44.933074,
     "geom:longitude":6.203578,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.933074,
     "lbl:longitude":6.203578,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685093,
-    "wof:lastmodified":1539986866,
+    "wof:lastmodified":1603247084,
     "wof:name":"Champhorent",
     "wof:parent_id":404362645,
     "wof:placetype":"neighbourhood",

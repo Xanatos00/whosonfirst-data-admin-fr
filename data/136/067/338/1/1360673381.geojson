@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683453,
         102191581,
-        85633147,
-        404356345,
         404227691,
+        404356345,
+        85633147,
         1108826387,
         136253037,
         102066613
@@ -63,6 +63,10 @@
         404356345
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"270c9e58c0f0bdf62cc894b9cfc16681",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673381,
-    "wof:lastmodified":1539928805,
+    "wof:lastmodified":1603247161,
     "wof:name":"Saint-Rome-De-Dolan",
     "wof:parent_id":102066613,
     "wof:placetype":"locality",

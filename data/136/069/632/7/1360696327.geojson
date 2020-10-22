@@ -315,11 +315,11 @@
     "wof:belongsto":[
         102191581,
         85633147,
-        102066299,
         404379967,
-        101763815,
         404227855,
         404227461,
+        101763815,
+        102066299,
         85683189
     ],
     "wof:breaches":[],
@@ -348,10 +348,7 @@
         }
     ],
     "wof:id":1360696327,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247136,
     "wof:name":"Arrou",
     "wof:parent_id":404379967,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,7 @@
     "geom:bbox":"2.5736945,43.994747,2.5736945,43.994747",
     "geom:latitude":43.994747,
     "geom:longitude":2.573695,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.994747,
     "lbl:longitude":2.573695,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685983,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247086,
     "wof:name":"Lincou",
     "wof:parent_id":404368127,
     "wof:placetype":"neighbourhood",

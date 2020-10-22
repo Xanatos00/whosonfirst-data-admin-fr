@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404401837,
         404227751,
+        404401837,
+        85633147,
         1108826393,
         136253037,
         102070839
@@ -63,6 +63,10 @@
         404401837
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3a5f884aca9ca343383bf94b023cb67b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677831,
-    "wof:lastmodified":1539928893,
+    "wof:lastmodified":1603247241,
     "wof:name":"Saint-Martin-L'Hortier",
     "wof:parent_id":102070839,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683179,
         102191581,
-        85633147,
-        404349965,
         404227843,
+        404349965,
+        85633147,
         1108826385,
         136253037,
         102065275
@@ -68,6 +68,11 @@
         404349965
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ddbbcec24c80da4e289851c1bd27a9b8",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672757,
-    "wof:lastmodified":1539928787,
+    "wof:lastmodified":1603247203,
     "wof:name":"Le Bourg-D'Hem",
     "wof:parent_id":102065275,
     "wof:placetype":"locality",

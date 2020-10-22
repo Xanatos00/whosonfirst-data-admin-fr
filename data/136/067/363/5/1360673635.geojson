@@ -62,6 +62,10 @@
         404358839
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"21328972715501bf2bca58571d56f8e0",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673635,
-    "wof:lastmodified":1539928817,
+    "wof:lastmodified":1603247181,
     "wof:name":"Lanouee",
     "wof:parent_id":102067061,
     "wof:placetype":"locality",

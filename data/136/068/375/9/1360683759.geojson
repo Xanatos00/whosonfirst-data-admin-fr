@@ -9,7 +9,7 @@
     "geom:bbox":"1.030483,44.316909,1.030483,44.316909",
     "geom:latitude":44.316909,
     "geom:longitude":1.030483,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.316909,
     "lbl:longitude":1.030483,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683759,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247120,
     "wof:name":"Ste.-C\u00e9cile",
     "wof:parent_id":404356913,
     "wof:placetype":"neighbourhood",

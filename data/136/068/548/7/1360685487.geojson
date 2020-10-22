@@ -9,7 +9,7 @@
     "geom:bbox":"6.949217,48.078914,6.949217,48.078914",
     "geom:latitude":48.078914,
     "geom:longitude":6.949217,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.078914,
     "lbl:longitude":6.949217,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685487,
-    "wof:lastmodified":1539986871,
+    "wof:lastmodified":1603247119,
     "wof:name":"La Moineaudi\u00e8re",
     "wof:parent_id":404374237,
     "wof:placetype":"neighbourhood",

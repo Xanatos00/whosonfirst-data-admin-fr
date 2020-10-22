@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404424263,
         404228157,
+        404424263,
+        85633147,
         1108826393,
         136253037,
         102066371
@@ -63,6 +63,10 @@
         404424263
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4ea1f924385884a2917a2f85a95f256e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680007,
-    "wof:lastmodified":1539928931,
+    "wof:lastmodified":1603247059,
     "wof:name":"Cleres",
     "wof:parent_id":102066371,
     "wof:placetype":"locality",

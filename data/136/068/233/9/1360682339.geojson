@@ -9,7 +9,7 @@
     "geom:bbox":"-2.067661,47.101914,-2.067661,47.101914",
     "geom:latitude":47.101914,
     "geom:longitude":-2.067661,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.101914,
     "lbl:longitude":-2.067661,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360682339,
-    "wof:lastmodified":1539986829,
+    "wof:lastmodified":1603247066,
     "wof:name":"La Fontaine-aux-Bretons",
     "wof:parent_id":404361633,
     "wof:placetype":"neighbourhood",

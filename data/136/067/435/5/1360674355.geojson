@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683297,
         102191581,
-        85633147,
-        404365409,
         404227707,
+        404365409,
+        85633147,
         1108826391,
         136253037,
         102068547
@@ -63,6 +63,10 @@
         404365409
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0ee7032c3972d3ef0dda5941f5683fe5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674355,
-    "wof:lastmodified":1539928833,
+    "wof:lastmodified":1603247302,
     "wof:name":"Les Hauts-De-Chee",
     "wof:parent_id":102068547,
     "wof:placetype":"locality",

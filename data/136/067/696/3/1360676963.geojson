@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683163,
         102191581,
-        85633147,
-        404391867,
         404228163,
+        404391867,
+        85633147,
         1108826385,
         136253037,
         102067535
@@ -68,6 +68,11 @@
         404391867
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"89c390c3f211ff8c595e4917776aabaf",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360676963,
-    "wof:lastmodified":1539928878,
+    "wof:lastmodified":1603247297,
     "wof:name":"Les Forges",
     "wof:parent_id":102067535,
     "wof:placetype":"locality",

@@ -146,6 +146,11 @@
         404405561
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fc75a60e4f5ebe2d02c99d160cf13144",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360678193,
-    "wof:lastmodified":1564126089,
+    "wof:lastmodified":1603247197,
     "wof:name":"Nistos",
     "wof:parent_id":102067833,
     "wof:placetype":"locality",

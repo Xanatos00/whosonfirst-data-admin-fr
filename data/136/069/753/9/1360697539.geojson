@@ -132,11 +132,11 @@
     "wof:belongsto":[
         102191581,
         85633147,
-        102064981,
         404385985,
-        101829589,
         404228103,
         404227423,
+        101829589,
+        102064981,
         85683327
     ],
     "wof:breaches":[],
@@ -165,10 +165,7 @@
         }
     ],
     "wof:id":1360697539,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247126,
     "wof:name":"Baug\u00e9",
     "wof:parent_id":404385985,
     "wof:placetype":"neighbourhood",

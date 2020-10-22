@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404403405,
         404227751,
+        404403405,
+        85633147,
         1108826393,
         136253037,
         102068929
@@ -68,6 +68,11 @@
         404403405
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"aebc9c333a4db617d7fee895a1601c18",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677997,
-    "wof:lastmodified":1539928896,
+    "wof:lastmodified":1603247164,
     "wof:name":"Ernemont-La-Villette",
     "wof:parent_id":102068929,
     "wof:placetype":"locality",

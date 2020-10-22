@@ -9,7 +9,7 @@
     "geom:bbox":"-1.836819,49.704444,-1.836819,49.704444",
     "geom:latitude":49.704444,
     "geom:longitude":-1.836819,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.704444,
     "lbl:longitude":-1.836819,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686997,
-    "wof:lastmodified":1539986890,
+    "wof:lastmodified":1603247101,
     "wof:name":"Le H\u00e2ble",
     "wof:parent_id":404371843,
     "wof:placetype":"neighbourhood",

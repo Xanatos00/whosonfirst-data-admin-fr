@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404361613,
         404227669,
+        404361613,
+        85633147,
         1108826389,
         136253037,
         102065037
@@ -68,6 +68,11 @@
         404361613
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"618143b4e2a7491ef0416ceeb972e741",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673945,
-    "wof:lastmodified":1539928824,
+    "wof:lastmodified":1603247262,
     "wof:name":"Le Monestier-Du-Percy",
     "wof:parent_id":102065037,
     "wof:placetype":"locality",

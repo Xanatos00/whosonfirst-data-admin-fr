@@ -9,7 +9,7 @@
     "geom:bbox":"4.264035,45.5082055,4.264035,45.5082055",
     "geom:latitude":45.508206,
     "geom:longitude":4.264035,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.508206,
     "lbl:longitude":4.264035,
@@ -309,7 +309,7 @@
         }
     ],
     "wof:id":1360686209,
-    "wof:lastmodified":1561833914,
+    "wof:lastmodified":1603247053,
     "wof:name":"Saint-just-sur-loire",
     "wof:parent_id":404363247,
     "wof:placetype":"neighbourhood",

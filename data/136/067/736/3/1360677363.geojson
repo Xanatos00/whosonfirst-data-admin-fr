@@ -119,6 +119,11 @@
         404396211
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3f1c84f26a01b7a71e6a1675b15e073b",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360677363,
-    "wof:lastmodified":1564125955,
+    "wof:lastmodified":1603247179,
     "wof:name":"Champfleury",
     "wof:parent_id":102069875,
     "wof:placetype":"locality",

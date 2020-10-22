@@ -170,6 +170,11 @@
         404427475
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"92f5749915b06ba54fcf4e15e8acb4b3",
     "wof:hierarchy":[
         {
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":1360680343,
-    "wof:lastmodified":1564125673,
+    "wof:lastmodified":1603247107,
     "wof:name":"Niedersteinbach",
     "wof:parent_id":404427475,
     "wof:placetype":"locality",

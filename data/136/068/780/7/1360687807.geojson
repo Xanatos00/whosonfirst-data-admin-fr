@@ -9,7 +9,7 @@
     "geom:bbox":"-2.173619,47.22822,-2.173619,47.22822",
     "geom:latitude":47.22822,
     "geom:longitude":-2.173619,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.22822,
     "lbl:longitude":-2.173619,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687807,
-    "wof:lastmodified":1539986901,
+    "wof:lastmodified":1603247118,
     "wof:name":"St.-Brevin-l'Oc\u00e9an",
     "wof:parent_id":404349635,
     "wof:placetype":"neighbourhood",

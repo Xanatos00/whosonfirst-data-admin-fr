@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683169,
         102191581,
-        85633147,
-        404407325,
         404227943,
+        404407325,
+        85633147,
         1108826387,
         136253037,
         102065117
@@ -63,6 +63,10 @@
         404407325
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9037e9dfed2cae374e1aeeab9cfa1022",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678333,
-    "wof:lastmodified":1539928902,
+    "wof:lastmodified":1603247220,
     "wof:name":"Saint-Feliu-D'Amont",
     "wof:parent_id":102065117,
     "wof:placetype":"locality",

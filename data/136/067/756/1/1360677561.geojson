@@ -86,6 +86,11 @@
         404398663
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a6d112ebcd69cc1a686be98010be8730",
     "wof:hierarchy":[
         {
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":1360677561,
-    "wof:lastmodified":1564126501,
+    "wof:lastmodified":1603247255,
     "wof:name":"Catus",
     "wof:parent_id":102065239,
     "wof:placetype":"locality",

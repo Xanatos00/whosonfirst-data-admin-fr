@@ -155,6 +155,11 @@
         404384385
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bae4b1bdcfcf9d478bd527005e168390",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360676199,
-    "wof:lastmodified":1564126049,
+    "wof:lastmodified":1603247192,
     "wof:name":"Ajac",
     "wof:parent_id":102068003,
     "wof:placetype":"locality",

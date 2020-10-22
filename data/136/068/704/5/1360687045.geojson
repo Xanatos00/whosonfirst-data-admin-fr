@@ -9,7 +9,7 @@
     "geom:bbox":"6.558666,44.946697,6.558666,44.946697",
     "geom:latitude":44.946697,
     "geom:longitude":6.558666,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.946697,
     "lbl:longitude":6.558666,
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":1360687045,
-    "wof:lastmodified":1564125558,
+    "wof:lastmodified":1603247085,
     "wof:name":"Villeneuve",
     "wof:parent_id":404348955,
     "wof:placetype":"neighbourhood",

@@ -130,13 +130,13 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633147,
-        102071181,
-        136253037,
-        404373665,
-        101760415,
         404227695,
+        404373665,
+        85633147,
         1108826393,
+        101760415,
+        136253037,
+        102071181,
         85683489
     ],
     "wof:breaches":[],
@@ -166,10 +166,7 @@
         }
     ],
     "wof:id":1360696069,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163122,
+    "wof:lastmodified":1603247152,
     "wof:name":"Sartilly",
     "wof:parent_id":404373665,
     "wof:placetype":"neighbourhood",

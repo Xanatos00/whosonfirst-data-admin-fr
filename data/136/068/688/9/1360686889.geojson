@@ -9,7 +9,7 @@
     "geom:bbox":"6.8615625,47.5607155,6.8615625,47.5607155",
     "geom:latitude":47.560716,
     "geom:longitude":6.861562,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.560716,
     "lbl:longitude":6.861562,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686889,
-    "wof:lastmodified":1539986889,
+    "wof:lastmodified":1603247044,
     "wof:name":"Tr\u00e9venans-Sud",
     "wof:parent_id":404401895,
     "wof:placetype":"neighbourhood",

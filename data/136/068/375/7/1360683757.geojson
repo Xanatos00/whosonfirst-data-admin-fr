@@ -9,7 +9,7 @@
     "geom:bbox":"3.788051,46.1120095,3.788051,46.1120095",
     "geom:latitude":46.112009,
     "geom:longitude":3.788051,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.112009,
     "lbl:longitude":3.788051,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683757,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247120,
     "wof:name":"Trapi\u00e8re",
     "wof:parent_id":404366655,
     "wof:placetype":"neighbourhood",

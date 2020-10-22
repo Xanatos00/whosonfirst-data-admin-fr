@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683221,
         102191581,
-        85633147,
-        404403375,
         404228315,
+        404403375,
+        85633147,
         1108826391,
         136253037,
         102069065
@@ -83,6 +83,11 @@
         404403375
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a73a8e7883ea20a6f162649d20c3dd5a",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360677985,
-    "wof:lastmodified":1539928896,
+    "wof:lastmodified":1603247174,
     "wof:name":"Trimbach",
     "wof:parent_id":102069065,
     "wof:placetype":"locality",

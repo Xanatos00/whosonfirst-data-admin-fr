@@ -9,7 +9,7 @@
     "geom:bbox":"6.676468,45.514286,6.676468,45.514286",
     "geom:latitude":45.514286,
     "geom:longitude":6.676468,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.514286,
     "lbl:longitude":6.676468,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684553,
-    "wof:lastmodified":1539986858,
+    "wof:lastmodified":1603247061,
     "wof:name":"Plagne 1800",
     "wof:parent_id":404352717,
     "wof:placetype":"neighbourhood",

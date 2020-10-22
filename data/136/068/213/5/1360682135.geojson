@@ -9,7 +9,7 @@
     "geom:bbox":"3.44387,43.287202,3.44387,43.287202",
     "geom:latitude":43.287202,
     "geom:longitude":3.44387,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.287202,
     "lbl:longitude":3.44387,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682135,
-    "wof:lastmodified":1539986826,
+    "wof:lastmodified":1603247100,
     "wof:name":"La Tamarissi\u00e8re",
     "wof:parent_id":404375673,
     "wof:placetype":"neighbourhood",

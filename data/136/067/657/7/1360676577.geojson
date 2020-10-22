@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404388579,
         404228049,
+        404388579,
+        85633147,
         1108826385,
         136253037,
         102068805
@@ -63,6 +63,10 @@
         404388579
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"84af3733112e0d5b05cd44db81a66239",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676577,
-    "wof:lastmodified":1539928872,
+    "wof:lastmodified":1603247222,
     "wof:name":"Saint-Louis-En-L'Isle",
     "wof:parent_id":102068805,
     "wof:placetype":"locality",

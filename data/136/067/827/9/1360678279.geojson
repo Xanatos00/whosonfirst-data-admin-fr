@@ -69,6 +69,10 @@
         404406607
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"24cd756c4d13c29c33c1274bdbafeb67",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1360678279,
-    "wof:lastmodified":1564125993,
+    "wof:lastmodified":1603247184,
     "wof:name":"Clery",
     "wof:parent_id":102067015,
     "wof:placetype":"locality",

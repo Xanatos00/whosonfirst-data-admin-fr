@@ -152,6 +152,11 @@
         404375997
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6bebe942aaee84afd71b47a669d26014",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360675367,
-    "wof:lastmodified":1564126556,
+    "wof:lastmodified":1603247262,
     "wof:name":"Bouvante",
     "wof:parent_id":102068807,
     "wof:placetype":"locality",

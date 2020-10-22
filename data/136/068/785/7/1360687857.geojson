@@ -9,7 +9,7 @@
     "geom:bbox":"-2.335968,48.619805,-2.335968,48.619805",
     "geom:latitude":48.619805,
     "geom:longitude":-2.335968,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.619805,
     "lbl:longitude":-2.335968,
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1360687857,
-    "wof:lastmodified":1539986901,
+    "wof:lastmodified":1603247071,
     "wof:name":"Port \u00c0 la Duc",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

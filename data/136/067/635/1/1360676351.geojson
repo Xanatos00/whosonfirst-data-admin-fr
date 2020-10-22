@@ -134,6 +134,11 @@
         404385851
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8fc41e5a698abb0c89013d84e9a4eb54",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360676351,
-    "wof:lastmodified":1564126234,
+    "wof:lastmodified":1603247217,
     "wof:name":"Courtagnon",
     "wof:parent_id":102065581,
     "wof:placetype":"locality",

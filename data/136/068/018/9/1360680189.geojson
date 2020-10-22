@@ -146,6 +146,11 @@
         404426119
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c966383e68b5903121daa26eebe3f468",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360680189,
-    "wof:lastmodified":1564125592,
+    "wof:lastmodified":1603247091,
     "wof:name":"Tourly",
     "wof:parent_id":102065451,
     "wof:placetype":"locality",

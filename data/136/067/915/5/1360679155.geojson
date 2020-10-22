@@ -122,6 +122,11 @@
         404414789
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a82a0c53fd23fda7c8b4f3b525eeb042",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360679155,
-    "wof:lastmodified":1564126324,
+    "wof:lastmodified":1603247229,
     "wof:name":"Campigny",
     "wof:parent_id":102064447,
     "wof:placetype":"locality",

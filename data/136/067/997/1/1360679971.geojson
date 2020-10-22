@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404423823,
         404228015,
+        404423823,
+        85633147,
         1108826389,
         136253037,
         102065359
@@ -68,6 +68,11 @@
         404423823
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ced2fe719f38062adcc9ed6c9b3cf883",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679971,
-    "wof:lastmodified":1539928930,
+    "wof:lastmodified":1603247178,
     "wof:name":"Le Chambon",
     "wof:parent_id":102065359,
     "wof:placetype":"locality",

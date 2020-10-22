@@ -105,6 +105,10 @@
         404354157
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1ef5c566bc6df02255174dc818120b32",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360673151,
-    "wof:lastmodified":1564126348,
+    "wof:lastmodified":1603247233,
     "wof:name":"Saint-Thibault",
     "wof:parent_id":102067403,
     "wof:placetype":"locality",

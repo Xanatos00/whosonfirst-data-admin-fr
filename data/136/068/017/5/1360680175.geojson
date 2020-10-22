@@ -124,6 +124,11 @@
         404425995
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4966473cbcf6a2185262ce17419bbf89",
     "wof:hierarchy":[
         {
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":1360680175,
-    "wof:lastmodified":1564125619,
+    "wof:lastmodified":1603247097,
     "wof:name":"Mirabeau",
     "wof:parent_id":102070011,
     "wof:placetype":"locality",

@@ -146,6 +146,11 @@
         404427089
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f10c952c0dde17c410c2c0b31dab97a0",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360680283,
-    "wof:lastmodified":1564125623,
+    "wof:lastmodified":1603247097,
     "wof:name":"Collanges",
     "wof:parent_id":102071089,
     "wof:placetype":"locality",

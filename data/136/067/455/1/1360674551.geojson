@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683163,
         102191581,
-        85633147,
-        404367455,
         404227759,
+        404367455,
+        85633147,
         1108826385,
         136253037,
         102064523
@@ -63,6 +63,10 @@
         404367455
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"27c8a119e0153663a7f25b35e290b7b9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674551,
-    "wof:lastmodified":1539928837,
+    "wof:lastmodified":1603247213,
     "wof:name":"Bouille-Saint-Paul",
     "wof:parent_id":102064523,
     "wof:placetype":"locality",

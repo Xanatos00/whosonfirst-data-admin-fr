@@ -9,7 +9,7 @@
     "geom:bbox":"-1.264972,45.873576,-1.264972,45.873576",
     "geom:latitude":45.873576,
     "geom:longitude":-1.264972,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":45.873576,
     "lbl:longitude":-1.264972,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1360686737,
-    "wof:lastmodified":1539986887,
+    "wof:lastmodified":1603247052,
     "wof:name":"Trillou",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

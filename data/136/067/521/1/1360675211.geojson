@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404374463,
         404227751,
+        404374463,
+        85633147,
         1108826393,
         136253037,
         102067775
@@ -63,6 +63,10 @@
         404374463
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9870c13d661b358d82d74cf259b339f7",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675211,
-    "wof:lastmodified":1539928848,
+    "wof:lastmodified":1603247227,
     "wof:name":"Saint-Remy-Boscrocourt",
     "wof:parent_id":102067775,
     "wof:placetype":"locality",

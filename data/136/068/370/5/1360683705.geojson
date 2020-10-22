@@ -9,7 +9,7 @@
     "geom:bbox":"-1.572343,48.759003,-1.572343,48.759003",
     "geom:latitude":48.759003,
     "geom:longitude":-1.572343,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":48.759003,
     "lbl:longitude":-1.572343,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683705,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247070,
     "wof:name":"Carolles-Plage",
     "wof:parent_id":404386981,
     "wof:placetype":"neighbourhood",

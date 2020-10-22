@@ -119,6 +119,11 @@
         404355953
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"377c16bc97171a2191fd8c7769739c27",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360673347,
-    "wof:lastmodified":1564126560,
+    "wof:lastmodified":1603247263,
     "wof:name":"Combes",
     "wof:parent_id":102069935,
     "wof:placetype":"locality",

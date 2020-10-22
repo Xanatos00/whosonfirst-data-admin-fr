@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683179,
         102191581,
-        85633147,
-        404415293,
         404227843,
+        404415293,
+        85633147,
         1108826385,
         136253037,
         102066861
@@ -63,6 +63,10 @@
         404415293
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9f4d19ad1b6dad20034344cd51815b31",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679197,
-    "wof:lastmodified":1539928917,
+    "wof:lastmodified":1603247318,
     "wof:name":"Saint-Sebastien",
     "wof:parent_id":102066861,
     "wof:placetype":"locality",

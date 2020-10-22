@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404354837,
         404228035,
+        404354837,
+        85633147,
         1108826385,
         136253037,
         102068061
@@ -63,6 +63,10 @@
         404354837
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a4e54759d832afe4e808027463fda25c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673231,
-    "wof:lastmodified":1539928797,
+    "wof:lastmodified":1603247231,
     "wof:name":"Lesignac-Durand",
     "wof:parent_id":102068061,
     "wof:placetype":"locality",

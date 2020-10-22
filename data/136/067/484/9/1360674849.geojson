@@ -114,6 +114,10 @@
         404370833
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1b060f5d132175670d992e5aec04e43d",
     "wof:hierarchy":[
         {
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1360674849,
-    "wof:lastmodified":1564126067,
+    "wof:lastmodified":1603247194,
     "wof:name":"Louvigny",
     "wof:parent_id":102065177,
     "wof:placetype":"locality",

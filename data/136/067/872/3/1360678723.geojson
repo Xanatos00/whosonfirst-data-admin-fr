@@ -102,6 +102,10 @@
         404410497
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"48d3222e5d533abcdc17f96b7759dba9",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360678723,
-    "wof:lastmodified":1564126100,
+    "wof:lastmodified":1603247199,
     "wof:name":"Montauriol",
     "wof:parent_id":102068563,
     "wof:placetype":"locality",

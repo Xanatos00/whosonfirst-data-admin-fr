@@ -143,6 +143,11 @@
         404407785
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d0e4d66525c0c35c1042ebde80c28745",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360678395,
-    "wof:lastmodified":1564126838,
+    "wof:lastmodified":1603247299,
     "wof:name":"Rougemontiers",
     "wof:parent_id":102069823,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404378723,
         404228049,
+        404378723,
+        85633147,
         1108826385,
         136253037,
         102070429
@@ -63,6 +63,10 @@
         404378723
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"55edba32ba4d38a64e193f572833e215",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675651,
-    "wof:lastmodified":1539928856,
+    "wof:lastmodified":1603247264,
     "wof:name":"Saint-Antoine-D'Auberoche",
     "wof:parent_id":102070429,
     "wof:placetype":"locality",

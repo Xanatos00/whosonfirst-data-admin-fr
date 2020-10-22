@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404412821,
         404227669,
+        404412821,
+        85633147,
         1108826389,
         136253037,
         102065037
@@ -68,6 +68,11 @@
         404412821
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d25d84c10b74902b57ef154bfdce1986",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678969,
-    "wof:lastmodified":1539928913,
+    "wof:lastmodified":1603247291,
     "wof:name":"Percy",
     "wof:parent_id":102065037,
     "wof:placetype":"locality",

@@ -167,6 +167,11 @@
         404365287
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d827e7f715cce92e6a75cc55f21aafbc",
     "wof:hierarchy":[
         {
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":1360674339,
-    "wof:lastmodified":1564126805,
+    "wof:lastmodified":1603247295,
     "wof:name":"Concevreux",
     "wof:parent_id":102068189,
     "wof:placetype":"locality",

@@ -134,6 +134,11 @@
         404393713
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"57f4bc5eb3a75efb82376962517190b4",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360677135,
-    "wof:lastmodified":1564126310,
+    "wof:lastmodified":1603247227,
     "wof:name":"Dommartin",
     "wof:parent_id":102066695,
     "wof:placetype":"locality",

@@ -312,7 +312,7 @@
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"4,830.0",
     "statoids:as_of_date":"2010-01-01",
     "statoids:capital":"",
@@ -359,7 +359,7 @@
         }
     ],
     "wof:id":1091680763,
-    "wof:lastmodified":1563282067,
+    "wof:lastmodified":1603247328,
     "wof:name":"Saint-Laurent-du-Maroni",
     "wof:parent_id":1108805933,
     "wof:placetype":"county",

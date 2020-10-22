@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683531,
         102191581,
-        85633147,
-        404378133,
         404227987,
+        404378133,
+        85633147,
         1108826385,
         136253037,
         102065345
@@ -63,6 +63,10 @@
         404378133
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9a254c85f163c7d1e13dab030af5bd6c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675595,
-    "wof:lastmodified":1539928855,
+    "wof:lastmodified":1603247173,
     "wof:name":"Saint-Meard",
     "wof:parent_id":102065345,
     "wof:placetype":"locality",

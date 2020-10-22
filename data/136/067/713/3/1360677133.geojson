@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683203,
         102191581,
-        85633147,
-        404393673,
         404227729,
+        404393673,
+        85633147,
         1108826387,
         136253037,
         102066445
@@ -63,6 +63,10 @@
         404393673
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2c1d80cf3c2b450fbcfa3d9586f14906",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677133,
-    "wof:lastmodified":1539928881,
+    "wof:lastmodified":1603247227,
     "wof:name":"Saint-Creac",
     "wof:parent_id":102066445,
     "wof:placetype":"locality",

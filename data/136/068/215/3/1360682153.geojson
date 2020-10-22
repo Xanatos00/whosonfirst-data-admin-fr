@@ -9,7 +9,7 @@
     "geom:bbox":"6.50691,46.247567,6.50691,46.247567",
     "geom:latitude":46.247567,
     "geom:longitude":6.50691,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.247567,
     "lbl:longitude":6.50691,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1360682153,
-    "wof:lastmodified":1564125588,
+    "wof:lastmodified":1603247091,
     "wof:name":"Hirmentaz",
     "wof:parent_id":404369079,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683523,
         102191581,
-        85633147,
-        404399793,
         404227851,
+        404399793,
+        85633147,
         1108826389,
         136253037,
         102064723
@@ -63,6 +63,10 @@
         404399793
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1cd3be301a76827c03b47f4921610faf",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677667,
-    "wof:lastmodified":1539928890,
+    "wof:lastmodified":1603247267,
     "wof:name":"La Penne-Sur-L'Ouveze",
     "wof:parent_id":102064723,
     "wof:placetype":"locality",

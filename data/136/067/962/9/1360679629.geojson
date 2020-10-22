@@ -173,6 +173,11 @@
         404420005
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"490f4f8fb996369eb31d7125b95ce259",
     "wof:hierarchy":[
         {
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":1360679629,
-    "wof:lastmodified":1564125897,
+    "wof:lastmodified":1603247171,
     "wof:name":"Auxonne",
     "wof:parent_id":102064717,
     "wof:placetype":"locality",

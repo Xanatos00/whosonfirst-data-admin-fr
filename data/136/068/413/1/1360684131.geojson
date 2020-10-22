@@ -9,7 +9,7 @@
     "geom:bbox":"7.520399,44.072247,7.520399,44.072247",
     "geom:latitude":44.072247,
     "geom:longitude":7.520399,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.072247,
     "lbl:longitude":7.520399,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684131,
-    "wof:lastmodified":1539986853,
+    "wof:lastmodified":1603247048,
     "wof:name":"Mini\u00e8re-de-Vallaure",
     "wof:parent_id":404383825,
     "wof:placetype":"neighbourhood",

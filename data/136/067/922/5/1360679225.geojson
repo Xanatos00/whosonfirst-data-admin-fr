@@ -116,6 +116,11 @@
         404415503
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9f4827a63209c21041b84f336041f283",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360679225,
-    "wof:lastmodified":1564126403,
+    "wof:lastmodified":1603247241,
     "wof:name":"Rouvray",
     "wof:parent_id":102067985,
     "wof:placetype":"locality",

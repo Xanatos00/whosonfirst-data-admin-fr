@@ -162,6 +162,10 @@
         404422595
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c658fccc9d2cd480a35c858a3bf36304",
     "wof:hierarchy":[
         {
@@ -177,7 +181,7 @@
         }
     ],
     "wof:id":1360679847,
-    "wof:lastmodified":1564126300,
+    "wof:lastmodified":1603247226,
     "wof:name":"Saint-Nabor",
     "wof:parent_id":102067725,
     "wof:placetype":"locality",

@@ -108,6 +108,10 @@
         404391309
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3d5816c700db5f2535d9cc097f797ca2",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360676891,
-    "wof:lastmodified":1564126076,
+    "wof:lastmodified":1603247195,
     "wof:name":"Saint-Saturnin",
     "wof:parent_id":102064917,
     "wof:placetype":"locality",

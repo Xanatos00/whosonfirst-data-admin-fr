@@ -149,6 +149,11 @@
         404380883
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5cafbbb5bdbb26043d7a0ad9d6e6b335",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360675893,
-    "wof:lastmodified":1564126412,
+    "wof:lastmodified":1603247242,
     "wof:name":"Seynes",
     "wof:parent_id":102070825,
     "wof:placetype":"locality",

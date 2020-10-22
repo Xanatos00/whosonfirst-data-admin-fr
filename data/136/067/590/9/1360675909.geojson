@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404381085,
         404228035,
+        404381085,
+        85633147,
         1108826385,
         136253037,
         102069177
@@ -63,6 +63,10 @@
         404381085
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0674499c1c8e23959cbdb9a3e2ebc4c8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675909,
-    "wof:lastmodified":1539928860,
+    "wof:lastmodified":1603247254,
     "wof:name":"Mazieres",
     "wof:parent_id":102069177,
     "wof:placetype":"locality",

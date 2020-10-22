@@ -62,6 +62,10 @@
         404354107
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b62955255f3ed92e8b6f1f9155c0bb0b",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673155,
-    "wof:lastmodified":1539928795,
+    "wof:lastmodified":1603247233,
     "wof:name":"Saint-Laurent",
     "wof:parent_id":102069861,
     "wof:placetype":"locality",

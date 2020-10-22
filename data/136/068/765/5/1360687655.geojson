@@ -9,7 +9,7 @@
     "geom:bbox":"-0.101838,45.8469845,-0.101838,45.8469845",
     "geom:latitude":45.846984,
     "geom:longitude":-0.101838,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.846984,
     "lbl:longitude":-0.101838,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687655,
-    "wof:lastmodified":1539986899,
+    "wof:lastmodified":1603247038,
     "wof:name":"La Br\u00e9choire",
     "wof:parent_id":404372855,
     "wof:placetype":"neighbourhood",

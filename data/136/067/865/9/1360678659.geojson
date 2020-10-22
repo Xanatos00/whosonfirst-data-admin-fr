@@ -116,6 +116,11 @@
         404410029
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3b381a942673d32af678c317dabd0626",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360678659,
-    "wof:lastmodified":1564126787,
+    "wof:lastmodified":1603247293,
     "wof:name":"Fos",
     "wof:parent_id":102069623,
     "wof:placetype":"locality",

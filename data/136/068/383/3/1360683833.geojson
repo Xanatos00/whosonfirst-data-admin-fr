@@ -9,7 +9,7 @@
     "geom:bbox":"6.903076,45.269268,6.903076,45.269268",
     "geom:latitude":45.269268,
     "geom:longitude":6.903076,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.269268,
     "lbl:longitude":6.903076,
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1360683833,
-    "wof:lastmodified":1563279759,
+    "wof:lastmodified":1603247069,
     "wof:name":"Val Cenis",
     "wof:parent_id":404422211,
     "wof:placetype":"neighbourhood",

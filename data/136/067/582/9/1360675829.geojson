@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404380209,
         404228049,
+        404380209,
+        85633147,
         1108826385,
         136253037,
         102066347
@@ -63,6 +63,10 @@
         404380209
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d5b5fbf3afb8882996b28b3ec2c38118",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675829,
-    "wof:lastmodified":1539928859,
+    "wof:lastmodified":1603247306,
     "wof:name":"Saint-Raphael",
     "wof:parent_id":102066347,
     "wof:placetype":"locality",

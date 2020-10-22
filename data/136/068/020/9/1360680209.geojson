@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404426487,
         404228055,
+        404426487,
+        85633147,
         1108826393,
         136253037,
         102067303
@@ -67,6 +67,11 @@
         404426487
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4c11c6889dc4c37536562a238ee51669",
     "wof:hierarchy":[
         {
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":1360680209,
-    "wof:lastmodified":1539928934,
+    "wof:lastmodified":1603247090,
     "wof:name":"Sainte-Colombe-La-Commanderie",
     "wof:parent_id":102067303,
     "wof:placetype":"locality",

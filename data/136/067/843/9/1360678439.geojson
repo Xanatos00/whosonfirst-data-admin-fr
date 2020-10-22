@@ -92,6 +92,11 @@
         404408323
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6437ef8355fbdcddc7c435b23f567ee7",
     "wof:hierarchy":[
         {
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":1360678439,
-    "wof:lastmodified":1564126119,
+    "wof:lastmodified":1603247201,
     "wof:name":"Goulet",
     "wof:parent_id":102066321,
     "wof:placetype":"locality",

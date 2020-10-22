@@ -101,6 +101,11 @@
         404390737
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0a973e5424f3da687baff9886ab23013",
     "wof:hierarchy":[
         {
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":1360676805,
-    "wof:lastmodified":1564126081,
+    "wof:lastmodified":1603247196,
     "wof:name":"Sarras",
     "wof:parent_id":102068799,
     "wof:placetype":"locality",

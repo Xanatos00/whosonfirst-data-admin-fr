@@ -115,6 +115,11 @@
         404377901
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"56b59e8bbb2ac8140ed36156dc8bd05b",
     "wof:hierarchy":[
         {
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":1360675565,
-    "wof:lastmodified":1564125831,
+    "wof:lastmodified":1603247161,
     "wof:name":"Gondreville",
     "wof:parent_id":102066441,
     "wof:placetype":"locality",

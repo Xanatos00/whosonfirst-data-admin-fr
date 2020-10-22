@@ -119,6 +119,11 @@
         404426429
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"251743ba10374073d70ac7f05ca140af",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360680217,
-    "wof:lastmodified":1564125637,
+    "wof:lastmodified":1603247100,
     "wof:name":"Grignols",
     "wof:parent_id":102069863,
     "wof:placetype":"locality",

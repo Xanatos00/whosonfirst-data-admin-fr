@@ -133,6 +133,11 @@
         404350593
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9cbcfc1097cf853a5d131f6a7b26f9ba",
     "wof:hierarchy":[
         {
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":1360672831,
-    "wof:lastmodified":1564126607,
+    "wof:lastmodified":1603247269,
     "wof:name":"Cezais",
     "wof:parent_id":102065065,
     "wof:placetype":"locality",

@@ -391,7 +391,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"6530",
     "statoids:as_of_date":"2010-01-01",
     "statoids:capital":"Valence",
@@ -438,7 +438,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1588976241,
+    "wof:lastmodified":1603246957,
     "wof:name":"Dr\u00f4me",
     "wof:parent_id":1108826389,
     "wof:placetype":"region",

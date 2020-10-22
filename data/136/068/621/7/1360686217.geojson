@@ -9,7 +9,7 @@
     "geom:bbox":"0.289077,42.815622,0.289077,42.815622",
     "geom:latitude":42.815622,
     "geom:longitude":0.289077,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.815622,
     "lbl:longitude":0.289077,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686217,
-    "wof:lastmodified":1539986880,
+    "wof:lastmodified":1603247047,
     "wof:name":"Le Pla D'adet",
     "wof:parent_id":404420861,
     "wof:placetype":"neighbourhood",

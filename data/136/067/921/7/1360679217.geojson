@@ -141,6 +141,10 @@
         404415397
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"18c8a9497ffdc4b495d2d173d4de8352",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360679217,
-    "wof:lastmodified":1564126980,
+    "wof:lastmodified":1603247319,
     "wof:name":"Damousies",
     "wof:parent_id":102071353,
     "wof:placetype":"locality",

@@ -98,6 +98,10 @@
         404380741
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ef1d4a5ae73f49044eeb957fc978f6c8",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":1360675883,
-    "wof:lastmodified":1564126339,
+    "wof:lastmodified":1603247232,
     "wof:name":"La Pellerine",
     "wof:parent_id":102066161,
     "wof:placetype":"locality",

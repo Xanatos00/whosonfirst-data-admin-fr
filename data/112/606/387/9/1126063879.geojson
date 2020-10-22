@@ -9,9 +9,9 @@
     "geom:bbox":"7.9663,49.0293,7.9663,49.0293",
     "geom:latitude":49.0293,
     "geom:longitude":7.9663,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FR",
     "lbl:latitude":49.0293,
     "lbl:longitude":7.9663,
@@ -45,7 +45,6 @@
     "woe:name_adm1":"Rheinland-Pfalz",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85683221,
         102191581,
         404228315,
         404358647,
@@ -53,7 +52,8 @@
         1108826391,
         101761061,
         136253037,
-        102070489
+        102070489,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1126063879,
-    "wof:lastmodified":1509410329,
+    "wof:lastmodified":1603249052,
     "wof:name":"Gartenstadt",
     "wof:parent_id":101761061,
     "wof:placetype":"neighbourhood",

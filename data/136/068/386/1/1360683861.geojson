@@ -9,7 +9,7 @@
     "geom:bbox":"-2.467771,47.420538,-2.467771,47.420538",
     "geom:latitude":47.420538,
     "geom:longitude":-2.467771,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.420538,
     "lbl:longitude":-2.467771,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683861,
-    "wof:lastmodified":1539986849,
+    "wof:lastmodified":1603247121,
     "wof:name":"Pointe de Merquel",
     "wof:parent_id":404390549,
     "wof:placetype":"neighbourhood",

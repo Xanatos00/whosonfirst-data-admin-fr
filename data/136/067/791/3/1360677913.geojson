@@ -164,6 +164,11 @@
         404402703
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0f73635a08bbb1da695f5f0d0699d598",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360677913,
-    "wof:lastmodified":1564125927,
+    "wof:lastmodified":1603247175,
     "wof:name":"Dommiers",
     "wof:parent_id":102070595,
     "wof:placetype":"locality",

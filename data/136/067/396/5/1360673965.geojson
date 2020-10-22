@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404361677,
         404228275,
+        404361677,
+        85633147,
         1108826385,
         136253037,
         102068317
@@ -83,6 +83,11 @@
         404361677
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2c72828608c91f9a8ef2616735c36bd2",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360673965,
-    "wof:lastmodified":1539928824,
+    "wof:lastmodified":1603247169,
     "wof:name":"Les Salles-De-Castillon",
     "wof:parent_id":102068317,
     "wof:placetype":"locality",

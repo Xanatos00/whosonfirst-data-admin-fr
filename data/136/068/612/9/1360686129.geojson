@@ -9,7 +9,7 @@
     "geom:bbox":"-2.011613,46.746095,-2.011613,46.746095",
     "geom:latitude":46.746095,
     "geom:longitude":-2.011613,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":46.746095,
     "lbl:longitude":-2.011613,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686129,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247095,
     "wof:name":"Les Mouettes",
     "wof:parent_id":404383799,
     "wof:placetype":"neighbourhood",

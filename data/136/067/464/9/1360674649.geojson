@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683153,
         102191581,
-        85633147,
-        404368489,
         404227797,
+        404368489,
+        85633147,
         1108826389,
         136253037,
         102065667
@@ -83,6 +83,11 @@
         404368489
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ddbbcd5b23a203959939204e3f6a602c",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360674649,
-    "wof:lastmodified":1539928838,
+    "wof:lastmodified":1603247211,
     "wof:name":"Villette-Sur-Ain",
     "wof:parent_id":102065667,
     "wof:placetype":"locality",

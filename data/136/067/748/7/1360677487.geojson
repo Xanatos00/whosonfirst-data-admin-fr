@@ -137,6 +137,11 @@
         404397753
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3aa6c7f3917d79f8075f524ce52ce276",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360677487,
-    "wof:lastmodified":1564126400,
+    "wof:lastmodified":1603247241,
     "wof:name":"Melles",
     "wof:parent_id":404397753,
     "wof:placetype":"locality",

@@ -108,6 +108,10 @@
         404382323
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d062dec8724779b90dab884f30aeb611",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360676047,
-    "wof:lastmodified":1564126212,
+    "wof:lastmodified":1603247214,
     "wof:name":"Avricourt",
     "wof:parent_id":102065313,
     "wof:placetype":"locality",

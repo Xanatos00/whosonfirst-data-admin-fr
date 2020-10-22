@@ -102,6 +102,10 @@
         404423221
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"befa6b6014f487a8b15f51e6ef4d5b94",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360679919,
-    "wof:lastmodified":1564125885,
+    "wof:lastmodified":1603247169,
     "wof:name":"Limon",
     "wof:parent_id":102068281,
     "wof:placetype":"locality",

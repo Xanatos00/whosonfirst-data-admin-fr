@@ -145,6 +145,11 @@
         404365087
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"de689e0964938e10575366f216b752b6",
     "wof:hierarchy":[
         {
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1360674321,
-    "wof:lastmodified":1564126850,
+    "wof:lastmodified":1603247301,
     "wof:name":"Courdimanche",
     "wof:parent_id":102070995,
     "wof:placetype":"locality",

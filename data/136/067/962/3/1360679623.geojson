@@ -128,6 +128,11 @@
         404420105
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"349683602b98de98e7bb47c145ae3b81",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360679623,
-    "wof:lastmodified":1564125898,
+    "wof:lastmodified":1603247171,
     "wof:name":"Beaupuy",
     "wof:parent_id":102066029,
     "wof:placetype":"locality",

@@ -152,6 +152,11 @@
         404367583
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"666d4696d706b613290899de2818f4eb",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360674559,
-    "wof:lastmodified":1564126205,
+    "wof:lastmodified":1603247213,
     "wof:name":"Palisse",
     "wof:parent_id":102067883,
     "wof:placetype":"locality",

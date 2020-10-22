@@ -108,6 +108,10 @@
         404358459
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9d7667981167bf7017fad88c108d931d",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360673597,
-    "wof:lastmodified":1564126446,
+    "wof:lastmodified":1603247247,
     "wof:name":"Saint-Romain",
     "wof:parent_id":102068525,
     "wof:placetype":"locality",

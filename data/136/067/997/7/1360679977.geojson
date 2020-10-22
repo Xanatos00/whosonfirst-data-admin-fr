@@ -141,6 +141,10 @@
         404423867
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"37a18308bf99f3d822bdbc4fdedc990d",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360679977,
-    "wof:lastmodified":1564125951,
+    "wof:lastmodified":1603247178,
     "wof:name":"Juncalas",
     "wof:parent_id":102066445,
     "wof:placetype":"locality",

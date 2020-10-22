@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404347993,
         404227907,
+        404347993,
+        85633147,
         1108826393,
         136253037,
         102065539
@@ -63,6 +63,10 @@
         404347993
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fd035b11f9be0ef6fef84b4929085fef",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672591,
-    "wof:lastmodified":1539928783,
+    "wof:lastmodified":1603247208,
     "wof:name":"L'Etang-Bertrand",
     "wof:parent_id":102065539,
     "wof:placetype":"locality",

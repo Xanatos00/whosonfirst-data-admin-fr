@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404374673,
         404227853,
+        404374673,
+        85633147,
         1108826393,
         136253037,
         102066491
@@ -63,6 +63,10 @@
         404374673
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b13eb777665911de3c6971a1e715352e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675237,
-    "wof:lastmodified":1539928848,
+    "wof:lastmodified":1603247323,
     "wof:name":"Saint-Pierre-De-Cormeilles",
     "wof:parent_id":102066491,
     "wof:placetype":"locality",

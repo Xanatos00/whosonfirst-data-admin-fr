@@ -9,7 +9,7 @@
     "geom:bbox":"6.813969,45.2145295,6.813969,45.2145295",
     "geom:latitude":45.214529,
     "geom:longitude":6.813969,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.214529,
     "lbl:longitude":6.813969,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683341,
-    "wof:lastmodified":1539986842,
+    "wof:lastmodified":1603247085,
     "wof:name":"Staint-Pierre d'Extravache",
     "wof:parent_id":404422211,
     "wof:placetype":"neighbourhood",

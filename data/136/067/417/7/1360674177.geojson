@@ -260,6 +260,11 @@
         404363915
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"99791d440fca228469ef6b4f59a4b4c1",
     "wof:hierarchy":[
         {
@@ -275,7 +280,7 @@
         }
     ],
     "wof:id":1360674177,
-    "wof:lastmodified":1564126622,
+    "wof:lastmodified":1603247271,
     "wof:name":"Champagne",
     "wof:parent_id":102068429,
     "wof:placetype":"locality",

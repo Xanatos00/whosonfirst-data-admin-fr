@@ -62,6 +62,10 @@
         404362407
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d923ee46ef217afe21f68c0c0be18fca",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674053,
-    "wof:lastmodified":1539928826,
+    "wof:lastmodified":1603247291,
     "wof:name":"La Jonchere",
     "wof:parent_id":102067537,
     "wof:placetype":"locality",

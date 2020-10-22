@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404402761,
         404227853,
+        404402761,
+        85633147,
         1108826393,
         136253037,
         102065523
@@ -63,6 +63,10 @@
         404402761
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2a3d0a023627f1052c0841965dd4a23d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677919,
-    "wof:lastmodified":1539928895,
+    "wof:lastmodified":1603247175,
     "wof:name":"Saint-Philbert-Sur-Boissey",
     "wof:parent_id":102065523,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404377077,
         404227657,
+        404377077,
+        85633147,
         1108826385,
         136253037,
         102071303
@@ -63,6 +63,10 @@
         404377077
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"518bc37e74ccbd33e79f8d8b85962cae",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675525,
-    "wof:lastmodified":1539928854,
+    "wof:lastmodified":1603247253,
     "wof:name":"Saint-Vivien-De-Blaye",
     "wof:parent_id":102071303,
     "wof:placetype":"locality",

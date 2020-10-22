@@ -9,7 +9,7 @@
     "geom:bbox":"1.641114,43.418359,1.641114,43.418359",
     "geom:latitude":43.418359,
     "geom:longitude":1.641114,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.418359,
     "lbl:longitude":1.641114,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685489,
-    "wof:lastmodified":1539986871,
+    "wof:lastmodified":1603247119,
     "wof:name":"N\u00e9gra",
     "wof:parent_id":404365631,
     "wof:placetype":"neighbourhood",

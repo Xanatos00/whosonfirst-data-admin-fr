@@ -125,6 +125,11 @@
         404394829
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"37761a99d6d53f6b141eda82a05ef128",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360677251,
-    "wof:lastmodified":1564126296,
+    "wof:lastmodified":1603247225,
     "wof:name":"Avrilly",
     "wof:parent_id":102066047,
     "wof:placetype":"locality",

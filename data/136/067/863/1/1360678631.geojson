@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404409971,
         404228105,
+        404409971,
+        85633147,
         1108826393,
         136253037,
         102066157
@@ -63,6 +63,10 @@
         404409971
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b6401af733e44f4725e4a4b860dde8e9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678631,
-    "wof:lastmodified":1539928907,
+    "wof:lastmodified":1603247305,
     "wof:name":"Guehebert",
     "wof:parent_id":102066157,
     "wof:placetype":"locality",

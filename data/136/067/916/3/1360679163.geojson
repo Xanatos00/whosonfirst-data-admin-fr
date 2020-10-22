@@ -152,6 +152,11 @@
         404414917
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7956e53b1334912b011829ebd5ca98a9",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360679163,
-    "wof:lastmodified":1564126895,
+    "wof:lastmodified":1603247307,
     "wof:name":"Estarvielle",
     "wof:parent_id":102065325,
     "wof:placetype":"locality",

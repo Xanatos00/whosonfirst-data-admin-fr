@@ -161,6 +161,11 @@
         404360877
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"22602f2b328902f08d9b701650d3d1ea",
     "wof:hierarchy":[
         {
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":1360673863,
-    "wof:lastmodified":1564127020,
+    "wof:lastmodified":1603247324,
     "wof:name":"Sorbier",
     "wof:parent_id":102066905,
     "wof:placetype":"locality",

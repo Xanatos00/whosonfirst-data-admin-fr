@@ -391,7 +391,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"5529",
     "statoids:as_of_date":"2010-01-01",
     "statoids:capital":"Privas",
@@ -438,7 +438,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1588976239,
+    "wof:lastmodified":1603246964,
     "wof:name":"Ard\u00e8che",
     "wof:parent_id":1108826389,
     "wof:placetype":"region",

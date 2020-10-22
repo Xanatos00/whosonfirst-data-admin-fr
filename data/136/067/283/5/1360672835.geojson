@@ -148,6 +148,11 @@
         404350513
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"45c401675c173c08b0d0a459a1d0152a",
     "wof:hierarchy":[
         {
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1360672835,
-    "wof:lastmodified":1564126608,
+    "wof:lastmodified":1603247269,
     "wof:name":"Locmalo",
     "wof:parent_id":102066511,
     "wof:placetype":"locality",

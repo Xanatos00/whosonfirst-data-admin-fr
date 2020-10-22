@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683185,
         102191581,
-        85633147,
-        404420127,
         404227775,
+        404420127,
+        85633147,
         1108826385,
         136253037,
         102067597
@@ -63,6 +63,10 @@
         404420127
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2f6576d57afdbf0c1d5848b2cff7a076",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679621,
-    "wof:lastmodified":1539928924,
+    "wof:lastmodified":1603247171,
     "wof:name":"Princay",
     "wof:parent_id":102067597,
     "wof:placetype":"locality",

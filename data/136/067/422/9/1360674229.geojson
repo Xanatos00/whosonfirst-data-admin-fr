@@ -131,6 +131,11 @@
         404364361
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6d1160cd2979aca01bd2a80b5627dab2",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360674229,
-    "wof:lastmodified":1564126024,
+    "wof:lastmodified":1603247188,
     "wof:name":"Lachapelle-Auzac",
     "wof:parent_id":102069557,
     "wof:placetype":"locality",

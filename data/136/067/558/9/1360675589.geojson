@@ -62,6 +62,10 @@
         404378071
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a7572c4483663305638d23fb7d843709",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360675589,
-    "wof:lastmodified":1539928855,
+    "wof:lastmodified":1603247166,
     "wof:name":"La Boissiere",
     "wof:parent_id":102065843,
     "wof:placetype":"locality",

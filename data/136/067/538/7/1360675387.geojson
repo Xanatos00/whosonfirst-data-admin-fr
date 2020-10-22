@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404376113,
         404227659,
+        404376113,
+        85633147,
         1108826387,
         136253037,
         102069079
@@ -63,6 +63,10 @@
         404376113
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9b87f45889e7da35631e44ba4a479a53",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675387,
-    "wof:lastmodified":1539928851,
+    "wof:lastmodified":1603247258,
     "wof:name":"Saint-Etienne-D'Albagnan",
     "wof:parent_id":102069079,
     "wof:placetype":"locality",

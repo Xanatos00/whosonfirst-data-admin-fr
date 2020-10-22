@@ -62,6 +62,10 @@
         404400507
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d00af104ba383103fc407100757ce17a",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677729,
-    "wof:lastmodified":1539928891,
+    "wof:lastmodified":1603247311,
     "wof:name":"Saint-Etienne-De-Chigny",
     "wof:parent_id":102070641,
     "wof:placetype":"locality",

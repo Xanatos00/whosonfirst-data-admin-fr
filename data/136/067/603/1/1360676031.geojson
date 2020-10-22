@@ -102,6 +102,10 @@
         404382107
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6f0ef50c247b3b3d803933f1e9708345",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360676031,
-    "wof:lastmodified":1564126226,
+    "wof:lastmodified":1603247216,
     "wof:name":"Saint-Amans",
     "wof:parent_id":102065019,
     "wof:placetype":"locality",

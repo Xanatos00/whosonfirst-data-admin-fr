@@ -9,7 +9,7 @@
     "geom:bbox":"-2.21371,47.990932,-2.21371,47.990932",
     "geom:latitude":47.990932,
     "geom:longitude":-2.21371,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.990932,
     "lbl:longitude":-2.21371,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683857,
-    "wof:lastmodified":1539986849,
+    "wof:lastmodified":1603247073,
     "wof:name":"Le Chatenay",
     "wof:parent_id":404354371,
     "wof:placetype":"neighbourhood",

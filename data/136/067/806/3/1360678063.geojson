@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404404149,
         404227867,
+        404404149,
+        85633147,
         1108826387,
         136253037,
         102066493
@@ -63,6 +63,10 @@
         404404149
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d7772c99de757d68f9334d388b13e5ac",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678063,
-    "wof:lastmodified":1539928897,
+    "wof:lastmodified":1603247298,
     "wof:name":"Saint-Martin-De-Goyne",
     "wof:parent_id":102066493,
     "wof:placetype":"locality",

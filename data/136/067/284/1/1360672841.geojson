@@ -102,6 +102,10 @@
         404350653
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"331a061aa1278791c4f85a32c8362c85",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360672841,
-    "wof:lastmodified":1564126604,
+    "wof:lastmodified":1603247269,
     "wof:name":"Saint-Chamant",
     "wof:parent_id":102068385,
     "wof:placetype":"locality",

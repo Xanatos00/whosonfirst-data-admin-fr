@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404391557,
         404227637,
+        404391557,
+        85633147,
         1108826395,
         136253037,
         102068337
@@ -63,6 +63,10 @@
         404391557
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"53ac1b349e2ff21628c5d0de46792369",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676917,
-    "wof:lastmodified":1539928878,
+    "wof:lastmodified":1603247297,
     "wof:name":"Breres",
     "wof:parent_id":102068337,
     "wof:placetype":"locality",

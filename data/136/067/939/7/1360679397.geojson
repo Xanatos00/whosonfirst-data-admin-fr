@@ -70,6 +70,11 @@
         404417495
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d321971a9ab05b973b52f96083453080",
     "wof:hierarchy":[
         {
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":1360679397,
-    "wof:lastmodified":1564125914,
+    "wof:lastmodified":1603247173,
     "wof:name":"Sains",
     "wof:parent_id":102069219,
     "wof:placetype":"locality",

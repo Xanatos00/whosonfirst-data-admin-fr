@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683431,
         102191581,
-        85633147,
-        404423789,
         404227651,
+        404423789,
+        85633147,
         1108826387,
         136253037,
         102065027
@@ -63,6 +63,10 @@
         404423789
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a36eeb5d49522af015ed993ba5d07ff5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679961,
-    "wof:lastmodified":1539928930,
+    "wof:lastmodified":1603247170,
     "wof:name":"Saint-Sebastien-D'Aigrefeuille",
     "wof:parent_id":102065027,
     "wof:placetype":"locality",

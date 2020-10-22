@@ -9,7 +9,7 @@
     "geom:bbox":"-1.279907,48.755622,-1.279907,48.755622",
     "geom:latitude":48.755622,
     "geom:longitude":-1.279907,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.755622,
     "lbl:longitude":-1.279907,
@@ -312,7 +312,7 @@
         }
     ],
     "wof:id":1360687449,
-    "wof:lastmodified":1563280193,
+    "wof:lastmodified":1603247113,
     "wof:name":"Le Parc",
     "wof:parent_id":404416293,
     "wof:placetype":"neighbourhood",

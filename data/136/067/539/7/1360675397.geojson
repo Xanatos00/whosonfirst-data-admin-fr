@@ -137,6 +137,11 @@
         404376151
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3b6653c5c113cd7e0bf0a67d26ef037d",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360675397,
-    "wof:lastmodified":1564126459,
+    "wof:lastmodified":1603247249,
     "wof:name":"Nochize",
     "wof:parent_id":102070897,
     "wof:placetype":"locality",

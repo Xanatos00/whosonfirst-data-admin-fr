@@ -81,9 +81,9 @@
     "wof:belongsto":[
         85683169,
         102191581,
-        85633147,
-        404408337,
         404228141,
+        404408337,
+        85633147,
         1108826387,
         136253037,
         102066749
@@ -98,6 +98,11 @@
         404408337
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1075fea5429d721fbe0988ffd1164e79",
     "wof:hierarchy":[
         {
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":1360678443,
-    "wof:lastmodified":1558547718,
+    "wof:lastmodified":1603247202,
     "wof:name":"Latour-De-Carol",
     "wof:parent_id":404408337,
     "wof:placetype":"locality",

@@ -144,6 +144,10 @@
         404414711
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eb232225bc0e6dbb499116a0c82d320b",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360679153,
-    "wof:lastmodified":1564126324,
+    "wof:lastmodified":1603247229,
     "wof:name":"Thoires",
     "wof:parent_id":102068437,
     "wof:placetype":"locality",

@@ -89,6 +89,11 @@
         404388205
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"849e07c49b270081aa1c5b4b2fa1a913",
     "wof:hierarchy":[
         {
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1360676545,
-    "wof:lastmodified":1564126844,
+    "wof:lastmodified":1603247300,
     "wof:name":"Rexingen",
     "wof:parent_id":102065395,
     "wof:placetype":"locality",

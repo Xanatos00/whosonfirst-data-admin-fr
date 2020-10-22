@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404420123,
         404228071,
+        404420123,
+        85633147,
         1108826385,
         136253037,
         102064973
@@ -63,6 +63,10 @@
         404420123
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fc798b9bf518f0d0b0d3e22635057597",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679615,
-    "wof:lastmodified":1539928924,
+    "wof:lastmodified":1603247249,
     "wof:name":"Saint-Come",
     "wof:parent_id":102064973,
     "wof:placetype":"locality",

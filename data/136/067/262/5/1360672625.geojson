@@ -251,6 +251,11 @@
         404348317
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d29a12b1acde5f88fd6413d4d0ee5982",
     "wof:hierarchy":[
         {
@@ -266,7 +271,7 @@
         }
     ],
     "wof:id":1360672625,
-    "wof:lastmodified":1564126794,
+    "wof:lastmodified":1603247294,
     "wof:name":"Montesquieu",
     "wof:parent_id":102069623,
     "wof:placetype":"locality",

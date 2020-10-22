@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404380973,
         404228213,
+        404380973,
+        85633147,
         1108826385,
         136253037,
         102070205
@@ -63,6 +63,10 @@
         404380973
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f1d3dbfeac36e01d1b2141aca026a82b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675901,
-    "wof:lastmodified":1539928860,
+    "wof:lastmodified":1603247254,
     "wof:name":"Bezenac",
     "wof:parent_id":102070205,
     "wof:placetype":"locality",

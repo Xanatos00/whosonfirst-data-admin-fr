@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683405,
         102191581,
-        85633147,
-        404388563,
         404228107,
+        404388563,
+        85633147,
         1108826391,
         136253037,
         102071085
@@ -63,6 +63,10 @@
         404388563
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3bc241a7657f26680e2922abdaec7711",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676569,
-    "wof:lastmodified":1539928871,
+    "wof:lastmodified":1603247211,
     "wof:name":"Saint-Leonard",
     "wof:parent_id":102071085,
     "wof:placetype":"locality",

@@ -140,6 +140,11 @@
         404423149
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3bb2749a1610bfb9206b4115ac2246d7",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360679905,
-    "wof:lastmodified":1564125959,
+    "wof:lastmodified":1603247179,
     "wof:name":"Ceyssat",
     "wof:parent_id":102070547,
     "wof:placetype":"locality",

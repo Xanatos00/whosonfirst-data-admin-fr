@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683341,
         102191581,
-        85633147,
-        404373733,
         404228101,
+        404373733,
+        85633147,
         1108826385,
         136253037,
         102068825
@@ -63,6 +63,10 @@
         404373733
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"27ce0545dbd4015b2cd59d22f9f1f808",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675139,
-    "wof:lastmodified":1539928847,
+    "wof:lastmodified":1603247314,
     "wof:name":"Monsegur",
     "wof:parent_id":102068825,
     "wof:placetype":"locality",

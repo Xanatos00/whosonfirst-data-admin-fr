@@ -89,6 +89,11 @@
         404388131
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2ca9807bbe848a0714395b4115960d4a",
     "wof:hierarchy":[
         {
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1360676535,
-    "wof:lastmodified":1564126834,
+    "wof:lastmodified":1603247299,
     "wof:name":"Tournon",
     "wof:parent_id":102067015,
     "wof:placetype":"locality",

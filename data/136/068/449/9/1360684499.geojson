@@ -9,7 +9,7 @@
     "geom:bbox":"-2.298545,48.668745,-2.298545,48.668745",
     "geom:latitude":48.668745,
     "geom:longitude":-2.298545,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.668745,
     "lbl:longitude":-2.298545,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1360684499,
-    "wof:lastmodified":1539986858,
+    "wof:lastmodified":1603247045,
     "wof:name":"La Latte",
     "wof:parent_id":85683515,
     "wof:placetype":"neighbourhood",

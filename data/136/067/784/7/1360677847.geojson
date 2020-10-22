@@ -130,6 +130,11 @@
         404402035
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d89f6438f4f719002d1e2a3af39abf0f",
     "wof:hierarchy":[
         {
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":1360677847,
-    "wof:lastmodified":1564126418,
+    "wof:lastmodified":1603247243,
     "wof:name":"Le Tablier",
     "wof:parent_id":102070003,
     "wof:placetype":"locality",

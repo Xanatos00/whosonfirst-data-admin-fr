@@ -152,6 +152,11 @@
         404358901
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3ed3db34867aa3b267e89f7c411e15ca",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360673651,
-    "wof:lastmodified":1564125871,
+    "wof:lastmodified":1603247167,
     "wof:name":"Haybes",
     "wof:parent_id":102066015,
     "wof:placetype":"locality",

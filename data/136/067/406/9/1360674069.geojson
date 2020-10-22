@@ -143,6 +143,11 @@
         404362613
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"97ce0061b9aaa2345706835472c78a25",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360674069,
-    "wof:lastmodified":1564126150,
+    "wof:lastmodified":1603247205,
     "wof:name":"Poiseux",
     "wof:parent_id":102069193,
     "wof:placetype":"locality",

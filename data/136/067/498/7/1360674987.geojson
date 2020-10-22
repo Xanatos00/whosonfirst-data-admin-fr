@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404372231,
         404228129,
+        404372231,
+        85633147,
         1108826393,
         136253037,
         102068659
@@ -63,6 +63,10 @@
         404372231
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"23016563b589262cda776be5de968823",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674987,
-    "wof:lastmodified":1539928844,
+    "wof:lastmodified":1603247221,
     "wof:name":"Saint-Langis-Les-Mortagne",
     "wof:parent_id":102068659,
     "wof:placetype":"locality",

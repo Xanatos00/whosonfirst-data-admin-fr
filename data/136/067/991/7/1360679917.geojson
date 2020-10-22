@@ -116,6 +116,11 @@
         404423099
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1cd926a86a9a359a32e88a2b32e9cc96",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360679917,
-    "wof:lastmodified":1564125886,
+    "wof:lastmodified":1603247169,
     "wof:name":"Moulines",
     "wof:parent_id":102070097,
     "wof:placetype":"locality",

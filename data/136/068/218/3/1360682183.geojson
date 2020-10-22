@@ -9,7 +9,7 @@
     "geom:bbox":"5.94326,44.500913,5.94326,44.500913",
     "geom:latitude":44.500913,
     "geom:longitude":5.94326,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.500913,
     "lbl:longitude":5.94326,
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1360682183,
-    "wof:lastmodified":1564125384,
+    "wof:lastmodified":1603247044,
     "wof:name":"C\u00e9\u00fcse",
     "wof:parent_id":404383809,
     "wof:placetype":"neighbourhood",

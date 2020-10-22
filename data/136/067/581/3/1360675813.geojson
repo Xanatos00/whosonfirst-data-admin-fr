@@ -139,6 +139,11 @@
         404380119
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3ede48d1cc98ef714eee65aa1f10469e",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360675813,
-    "wof:lastmodified":1564126334,
+    "wof:lastmodified":1603247231,
     "wof:name":"Orsonville",
     "wof:parent_id":102067849,
     "wof:placetype":"locality",

@@ -125,6 +125,11 @@
         404403965
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7aaa770feba177e247fef7e8c72b2849",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360678045,
-    "wof:lastmodified":1564126181,
+    "wof:lastmodified":1603247210,
     "wof:name":"Massy",
     "wof:parent_id":102070839,
     "wof:placetype":"locality",

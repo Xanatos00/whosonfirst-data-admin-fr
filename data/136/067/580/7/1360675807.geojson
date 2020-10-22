@@ -107,6 +107,11 @@
         404380291
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c593d6b6b246488a29aa3e916fbb8b84",
     "wof:hierarchy":[
         {
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":1360675807,
-    "wof:lastmodified":1564126427,
+    "wof:lastmodified":1603247244,
     "wof:name":"Vieillevigne",
     "wof:parent_id":102070883,
     "wof:placetype":"locality",

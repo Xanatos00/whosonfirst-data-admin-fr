@@ -9,7 +9,7 @@
     "geom:bbox":"-2.292366,48.62364,-2.292366,48.62364",
     "geom:latitude":48.62364,
     "geom:longitude":-2.292366,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.62364,
     "lbl:longitude":-2.292366,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685749,
-    "wof:lastmodified":1539986874,
+    "wof:lastmodified":1603247077,
     "wof:name":"Tr\u00e9celin",
     "wof:parent_id":404360063,
     "wof:placetype":"neighbourhood",

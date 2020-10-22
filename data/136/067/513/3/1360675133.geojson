@@ -146,6 +146,11 @@
         404373701
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"41651ee1838d8dc3e6b91a3f8f7e7053",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360675133,
-    "wof:lastmodified":1564126945,
+    "wof:lastmodified":1603247314,
     "wof:name":"Artigue",
     "wof:parent_id":404373701,
     "wof:placetype":"locality",

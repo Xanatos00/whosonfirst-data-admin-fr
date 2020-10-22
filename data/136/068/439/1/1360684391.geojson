@@ -9,7 +9,7 @@
     "geom:bbox":"5.406303,44.839195,5.406303,44.839195",
     "geom:latitude":44.839195,
     "geom:longitude":5.406303,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.839195,
     "lbl:longitude":5.406303,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684391,
-    "wof:lastmodified":1539986856,
+    "wof:lastmodified":1603247056,
     "wof:name":"Col de Rousset",
     "wof:parent_id":404398119,
     "wof:placetype":"neighbourhood",

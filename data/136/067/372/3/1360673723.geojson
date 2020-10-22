@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404359723,
         404227635,
+        404359723,
+        85633147,
         1108826385,
         136253037,
         102071347
@@ -63,6 +63,10 @@
         404359723
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"751fc9a1b991b7e92b127af266f8ad67",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673723,
-    "wof:lastmodified":1539928819,
+    "wof:lastmodified":1603247325,
     "wof:name":"Eglise-Neuve-D'Issac",
     "wof:parent_id":102071347,
     "wof:placetype":"locality",

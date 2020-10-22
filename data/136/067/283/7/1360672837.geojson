@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683359,
         102191581,
-        85633147,
-        404350561,
         404227925,
+        404350561,
+        85633147,
         1108826395,
         136253037,
         102065113
@@ -68,6 +68,11 @@
         404350561
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f7d22cc883d186d7cc42c0a4cd80efec",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672837,
-    "wof:lastmodified":1539928789,
+    "wof:lastmodified":1603247269,
     "wof:name":"Villiers-Sur-Yonne",
     "wof:parent_id":102065113,
     "wof:placetype":"locality",

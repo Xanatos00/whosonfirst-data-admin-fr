@@ -119,6 +119,11 @@
         404367263
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"80e1e66de5a416c3ee2d4e943b865b08",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360674525,
-    "wof:lastmodified":1564126199,
+    "wof:lastmodified":1603247212,
     "wof:name":"Attigny",
     "wof:parent_id":102066065,
     "wof:placetype":"locality",

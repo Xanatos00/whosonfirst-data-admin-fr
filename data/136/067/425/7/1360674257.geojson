@@ -129,6 +129,10 @@
         404364687
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4a56e54fe66cbf65cbb8e7fbb727f25a",
     "wof:hierarchy":[
         {
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1360674257,
-    "wof:lastmodified":1564126035,
+    "wof:lastmodified":1603247190,
     "wof:name":"Saint-Simon",
     "wof:parent_id":102067627,
     "wof:placetype":"locality",

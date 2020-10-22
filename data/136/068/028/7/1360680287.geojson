@@ -155,6 +155,11 @@
         404427099
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"83af44bd93473a95e6271073e1e4ffdc",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360680287,
-    "wof:lastmodified":1564125622,
+    "wof:lastmodified":1603247097,
     "wof:name":"Glun",
     "wof:parent_id":102068799,
     "wof:placetype":"locality",

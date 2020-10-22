@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.018036,
     "geom:area_square_m":160846736.470836,
-    "geom:bbox":"4.2360791672068,43.74141379068173,4.44962915840551,43.92290847370206",
+    "geom:bbox":"4.23607916721,43.7414137907,4.44962915841,43.9229084737",
     "geom:latitude":43.844589,
     "geom:longitude":4.347636,
     "gn:population":148236,
@@ -523,14 +523,14 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683431,
         102191581,
-        85633147,
-        102072451,
-        136253037,
-        1159321917,
         404227861,
+        1159321917,
+        85633147,
         1108826387,
-        85683431
+        136253037,
+        102072451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -566,10 +566,7 @@
         }
     ],
     "wof:id":101749287,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1594151974,
+    "wof:lastmodified":1603247729,
     "wof:name":"N\u00eemes",
     "wof:parent_id":1159321917,
     "wof:placetype":"locality",

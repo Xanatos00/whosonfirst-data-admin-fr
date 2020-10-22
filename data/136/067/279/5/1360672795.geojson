@@ -143,6 +143,11 @@
         404350279
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ed666586a730125fe4de7fd704ec0dbe",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360672795,
-    "wof:lastmodified":1564126626,
+    "wof:lastmodified":1603247272,
     "wof:name":"Poncins",
     "wof:parent_id":102065433,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"-4.29795,48.160932,-4.29795,48.160932",
     "geom:latitude":48.160932,
     "geom:longitude":-4.29795,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":48.160932,
     "lbl:longitude":-4.29795,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1360684535,
-    "wof:lastmodified":1539986858,
+    "wof:lastmodified":1603247065,
     "wof:name":"Pors-ar-vag",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

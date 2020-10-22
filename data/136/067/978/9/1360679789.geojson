@@ -155,6 +155,11 @@
         404422003
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"50d28320a9e13aacfbb45937ad36f472",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360679789,
-    "wof:lastmodified":1564126373,
+    "wof:lastmodified":1603247236,
     "wof:name":"Aubercourt",
     "wof:parent_id":102069571,
     "wof:placetype":"locality",

@@ -109,6 +109,11 @@
         404416397
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"520254b49ffce8b924ec6b3e513a681c",
     "wof:hierarchy":[
         {
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":1360679309,
-    "wof:lastmodified":1564125931,
+    "wof:lastmodified":1603247175,
     "wof:name":"Thizay",
     "wof:parent_id":102066769,
     "wof:placetype":"locality",

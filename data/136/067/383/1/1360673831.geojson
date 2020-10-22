@@ -146,6 +146,11 @@
         404360733
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4de341da4c59addef9c63e026a2b4a66",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360673831,
-    "wof:lastmodified":1564126305,
+    "wof:lastmodified":1603247227,
     "wof:name":"Mary",
     "wof:parent_id":102070649,
     "wof:placetype":"locality",

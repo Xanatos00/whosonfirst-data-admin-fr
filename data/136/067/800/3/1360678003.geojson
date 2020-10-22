@@ -113,6 +113,11 @@
         404403569
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a978e9da3d9029bcba9c671b6d271ac0",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360678003,
-    "wof:lastmodified":1564126743,
+    "wof:lastmodified":1603247287,
     "wof:name":"Le Favril",
     "wof:parent_id":102070401,
     "wof:placetype":"locality",

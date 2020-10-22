@@ -9,7 +9,7 @@
     "geom:bbox":"2.964076,45.772252,2.964076,45.772252",
     "geom:latitude":45.772252,
     "geom:longitude":2.964076,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.772252,
     "lbl:longitude":2.964076,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683211,
-    "wof:lastmodified":1539986841,
+    "wof:lastmodified":1603247120,
     "wof:name":"Laschamp",
     "wof:parent_id":404348279,
     "wof:placetype":"neighbourhood",

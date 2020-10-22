@@ -119,6 +119,11 @@
         404420001
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"59431fa5368ed15a185e5565e9e37260",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360679609,
-    "wof:lastmodified":1564126529,
+    "wof:lastmodified":1603247258,
     "wof:name":"Bagnols",
     "wof:parent_id":102065327,
     "wof:placetype":"locality",

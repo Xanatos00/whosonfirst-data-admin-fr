@@ -113,6 +113,11 @@
         404408723
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"117405205a12c4e826d4370cb36da581",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360678493,
-    "wof:lastmodified":1564126671,
+    "wof:lastmodified":1603247278,
     "wof:name":"Vincelles",
     "wof:parent_id":102066465,
     "wof:placetype":"locality",

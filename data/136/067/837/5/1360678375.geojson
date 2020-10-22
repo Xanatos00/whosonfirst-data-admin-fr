@@ -155,6 +155,11 @@
         404407645
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bd84cfc491de8d19cce89263b4fffa7d",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360678375,
-    "wof:lastmodified":1564126810,
+    "wof:lastmodified":1603247296,
     "wof:name":"Neuflize",
     "wof:parent_id":102066653,
     "wof:placetype":"locality",

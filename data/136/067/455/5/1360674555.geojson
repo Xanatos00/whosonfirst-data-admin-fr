@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683179,
         102191581,
-        85633147,
-        404367539,
         404227843,
+        404367539,
+        85633147,
         1108826385,
         136253037,
         102064319
@@ -63,6 +63,10 @@
         404367539
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fba2ac69a764dd6d6b72206e4e6177f4",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674555,
-    "wof:lastmodified":1539928837,
+    "wof:lastmodified":1603247214,
     "wof:name":"Lepinas",
     "wof:parent_id":102064319,
     "wof:placetype":"locality",

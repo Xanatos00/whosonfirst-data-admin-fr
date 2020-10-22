@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404371507,
         404228031,
+        404371507,
+        85633147,
         1108826393,
         136253037,
         102071521
@@ -63,6 +63,10 @@
         404371507
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"97c8da34d0003e5d263f556195b007ab",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674895,
-    "wof:lastmodified":1539928843,
+    "wof:lastmodified":1603247285,
     "wof:name":"Saint-Jean-De-Livet",
     "wof:parent_id":102071521,
     "wof:placetype":"locality",

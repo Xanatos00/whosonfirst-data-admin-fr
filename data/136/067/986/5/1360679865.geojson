@@ -152,6 +152,11 @@
         404422805
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ec4103d0484dcee171f6822ba518bbd9",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360679865,
-    "wof:lastmodified":1564127052,
+    "wof:lastmodified":1603247328,
     "wof:name":"Le Landin",
     "wof:parent_id":102069823,
     "wof:placetype":"locality",

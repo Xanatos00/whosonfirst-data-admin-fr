@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404351627,
         404227833,
+        404351627,
+        85633147,
         1108826385,
         136253037,
         102070741
@@ -63,6 +63,10 @@
         404351627
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"86695daf82d8383fa1fb17fa8a6c368b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672927,
-    "wof:lastmodified":1539928791,
+    "wof:lastmodified":1603247206,
     "wof:name":"Saint-Pierre-D'Amilly",
     "wof:parent_id":102070741,
     "wof:placetype":"locality",

@@ -62,6 +62,10 @@
         404407681
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"32b1ab79716819b16b95be9495579f39",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360678377,
-    "wof:lastmodified":1539928903,
+    "wof:lastmodified":1603247296,
     "wof:name":"Cherisay",
     "wof:parent_id":102069673,
     "wof:placetype":"locality",

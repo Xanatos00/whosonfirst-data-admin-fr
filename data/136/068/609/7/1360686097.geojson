@@ -9,7 +9,7 @@
     "geom:bbox":"2.694429,43.316025,2.694429,43.316025",
     "geom:latitude":43.316025,
     "geom:longitude":2.694429,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.316025,
     "lbl:longitude":2.694429,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686097,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247112,
     "wof:name":"La Mignarde",
     "wof:parent_id":404348489,
     "wof:placetype":"neighbourhood",

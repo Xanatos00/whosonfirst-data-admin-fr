@@ -147,6 +147,10 @@
         404396085
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b6e5b6fda7ca58df0686dbb8f67ff35d",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360677349,
-    "wof:lastmodified":1564126463,
+    "wof:lastmodified":1603247249,
     "wof:name":"Saint-Solve",
     "wof:parent_id":102066413,
     "wof:placetype":"locality",

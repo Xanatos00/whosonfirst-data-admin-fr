@@ -125,6 +125,11 @@
         404376275
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1208468787faaca7d0764ef3258547f0",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360675425,
-    "wof:lastmodified":1564126416,
+    "wof:lastmodified":1603247243,
     "wof:name":"Monfaucon",
     "wof:parent_id":102067187,
     "wof:placetype":"locality",

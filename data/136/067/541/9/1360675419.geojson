@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683431,
         102191581,
-        85633147,
-        404376285,
         404228065,
+        404376285,
+        85633147,
         1108826387,
         136253037,
         102070435
@@ -63,6 +63,10 @@
         404376285
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3151043fc0e48cd1660e3dcc74eaf3a1",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675419,
-    "wof:lastmodified":1539928852,
+    "wof:lastmodified":1603247317,
     "wof:name":"Treves",
     "wof:parent_id":102070435,
     "wof:placetype":"locality",

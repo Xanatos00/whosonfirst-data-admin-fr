@@ -131,6 +131,11 @@
         404428323
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"513e67bb30841e2e3c3ef3a81bae5ec3",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360680429,
-    "wof:lastmodified":1564125568,
+    "wof:lastmodified":1603247087,
     "wof:name":"Grigny",
     "wof:parent_id":102071005,
     "wof:placetype":"locality",

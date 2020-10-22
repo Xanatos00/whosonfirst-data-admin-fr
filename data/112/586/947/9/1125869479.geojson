@@ -9,7 +9,7 @@
     "geom:bbox":"5.78138275921,45.7804151676,5.81846767397,45.8297888838",
     "geom:latitude":45.804135,
     "geom:longitude":5.796579,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.809059,
     "lbl:longitude":5.79297,
@@ -339,7 +339,7 @@
         }
     ],
     "wof:id":1125869479,
-    "wof:lastmodified":1582325844,
+    "wof:lastmodified":1603248814,
     "wof:name":"Chanaz",
     "wof:parent_id":404394839,
     "wof:placetype":"locality",

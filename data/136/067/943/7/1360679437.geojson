@@ -125,6 +125,11 @@
         404417939
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c1decccc4b64126f55ea22296188c790",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360679437,
-    "wof:lastmodified":1564127027,
+    "wof:lastmodified":1603247325,
     "wof:name":"Mont",
     "wof:parent_id":102064791,
     "wof:placetype":"locality",

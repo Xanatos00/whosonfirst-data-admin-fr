@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683163,
         102191581,
-        85633147,
-        404351573,
         404227969,
+        404351573,
+        85633147,
         1108826385,
         136253037,
         102065723
@@ -63,6 +63,10 @@
         404351573
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3d1a84633516168bb07766768975f92f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672917,
-    "wof:lastmodified":1539928790,
+    "wof:lastmodified":1603247295,
     "wof:name":"La Chapelle-Baton",
     "wof:parent_id":102065723,
     "wof:placetype":"locality",

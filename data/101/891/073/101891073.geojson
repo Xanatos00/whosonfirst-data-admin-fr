@@ -328,14 +328,14 @@
     "src:population":"geonames",
     "wd:wordcount":160,
     "wof:belongsto":[
+        85683293,
         102191581,
-        85633147,
-        102066905,
-        136253037,
-        404351171,
         404228011,
+        404351171,
+        85633147,
         1108826389,
-        85683293
+        136253037,
+        102066905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -369,10 +369,7 @@
         }
     ],
     "wof:id":101891073,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163110,
+    "wof:lastmodified":1603248106,
     "wof:name":"Saint-L\u00e9on",
     "wof:parent_id":404351171,
     "wof:placetype":"locality",

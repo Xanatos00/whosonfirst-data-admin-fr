@@ -134,6 +134,11 @@
         404353351
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e96773e391a52d0026f2218872452daf",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360673071,
-    "wof:lastmodified":1564125821,
+    "wof:lastmodified":1603247160,
     "wof:name":"Long",
     "wof:parent_id":102064875,
     "wof:placetype":"locality",

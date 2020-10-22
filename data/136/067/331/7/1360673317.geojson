@@ -146,6 +146,11 @@
         404355603
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1148229238c1be3872bd8604b063d275",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360673317,
-    "wof:lastmodified":1564125858,
+    "wof:lastmodified":1603247165,
     "wof:name":"Chaulieu",
     "wof:parent_id":102071237,
     "wof:placetype":"locality",

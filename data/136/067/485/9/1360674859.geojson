@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404370925,
         404227825,
+        404370925,
+        85633147,
         1108826393,
         136253037,
         102068951
@@ -63,6 +63,10 @@
         404370925
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6f595b61581992c7536fb4f0fbfe817b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674859,
-    "wof:lastmodified":1539928842,
+    "wof:lastmodified":1603247186,
     "wof:name":"Perrieres",
     "wof:parent_id":102068951,
     "wof:placetype":"locality",

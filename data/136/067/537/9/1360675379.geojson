@@ -151,6 +151,11 @@
         404376159
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2e9484b00554b1187c3a53207ce611a7",
     "wof:hierarchy":[
         {
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":1360675379,
-    "wof:lastmodified":1564126442,
+    "wof:lastmodified":1603247246,
     "wof:name":"Mallemort",
     "wof:parent_id":102065887,
     "wof:placetype":"locality",

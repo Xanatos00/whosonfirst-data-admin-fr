@@ -9,7 +9,6 @@
     "geom:bbox":"2.280489,48.825188,2.312895,48.843728",
     "geom:latitude":48.834327,
     "geom:longitude":2.296872,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.834783,
     "lbl:longitude":2.297977,
@@ -87,12 +86,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894263,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894263,
         85683497
     ],
     "wof:breaches":[],
@@ -120,10 +119,7 @@
         }
     ],
     "wof:id":85873963,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592441,
+    "wof:lastmodified":1603246970,
     "wof:name":"Saint-Lambert",
     "wof:parent_id":1158894263,
     "wof:placetype":"neighbourhood",

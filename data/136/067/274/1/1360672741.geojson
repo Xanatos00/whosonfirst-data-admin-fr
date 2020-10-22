@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683453,
         102191581,
-        85633147,
-        404349817,
         404227691,
+        404349817,
+        85633147,
         1108826387,
         136253037,
         102064489
@@ -63,6 +63,10 @@
         404349817
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a3b7c646d8b6d3995fa0638249a0fbc9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672741,
-    "wof:lastmodified":1539928786,
+    "wof:lastmodified":1603247189,
     "wof:name":"Saint-Julien-D'Arpaon",
     "wof:parent_id":102064489,
     "wof:placetype":"locality",

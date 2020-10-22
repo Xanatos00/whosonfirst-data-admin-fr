@@ -83,6 +83,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526509150,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"223ec2dae90e14c6da51ef1688ba5c9e",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1360680485,
-    "wof:lastmodified":1564125402,
+    "wof:lastmodified":1603247047,
     "wof:name":"Ch\u00e9zeaux",
     "wof:parent_id":102069143,
     "wof:placetype":"locality",

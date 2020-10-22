@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683153,
         102191581,
-        85633147,
-        404401619,
         404228195,
+        404401619,
+        85633147,
         1108826389,
         136253037,
         102068675
@@ -63,6 +63,10 @@
         404401619
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1ca1df7584570b4b6170e96ca71d54ec",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677811,
-    "wof:lastmodified":1539928893,
+    "wof:lastmodified":1603247310,
     "wof:name":"Echallon",
     "wof:parent_id":102068675,
     "wof:placetype":"locality",

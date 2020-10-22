@@ -68,6 +68,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526508781,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"a74a1f9c874bf223ef592d8a9cb7f4d6",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1360680509,
-    "wof:lastmodified":1564125664,
+    "wof:lastmodified":1603247105,
     "wof:name":"Saint-Lucien",
     "wof:parent_id":102064285,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683301,
         102191581,
-        85633147,
-        404382697,
         404228027,
+        404382697,
+        85633147,
         1108826387,
         136253037,
         102065361
@@ -63,6 +63,10 @@
         404382697
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2372da42f8ddf1a744c9bcfe3281aab4",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676069,
-    "wof:lastmodified":1539928863,
+    "wof:lastmodified":1603247293,
     "wof:name":"Causse-Et-Diege",
     "wof:parent_id":102065361,
     "wof:placetype":"locality",

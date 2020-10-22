@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683559,
         102191581,
-        85633147,
-        404392855,
         404227951,
+        404392855,
+        85633147,
         1108826395,
         136253037,
         102066113
@@ -68,6 +68,11 @@
         404392855
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eb4a71893d8852ca936bd47ef9a6d814",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677067,
-    "wof:lastmodified":1539928880,
+    "wof:lastmodified":1603247168,
     "wof:name":"Vaux-Le-Moncelot",
     "wof:parent_id":102066113,
     "wof:placetype":"locality",

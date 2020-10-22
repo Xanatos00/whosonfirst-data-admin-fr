@@ -143,6 +143,11 @@
         404395977
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0e02f564dabe6a656048bc89085d974d",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360677343,
-    "wof:lastmodified":1564126464,
+    "wof:lastmodified":1603247250,
     "wof:name":"Cathervielle",
     "wof:parent_id":102064903,
     "wof:placetype":"locality",

@@ -9,7 +9,6 @@
     "geom:bbox":"-1.544442,47.253764,-1.544442,47.253764",
     "geom:latitude":47.253764,
     "geom:longitude":-1.544442,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":47.253764,
     "lbl:longitude":-1.544442,
@@ -105,10 +104,7 @@
         }
     ],
     "wof:id":85863269,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322802,
+    "wof:lastmodified":1603246971,
     "wof:name":"La Joneliere",
     "wof:parent_id":101749589,
     "wof:placetype":"neighbourhood",

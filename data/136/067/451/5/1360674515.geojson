@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404367143,
         404227907,
+        404367143,
+        85633147,
         1108826393,
         136253037,
         102071127
@@ -63,6 +63,10 @@
         404367143
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b10c8a7c0d394f71faaa4d900811fabc",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674515,
-    "wof:lastmodified":1539928836,
+    "wof:lastmodified":1603247290,
     "wof:name":"Saint-Jacques-De-Nehou",
     "wof:parent_id":102071127,
     "wof:placetype":"locality",

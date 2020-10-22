@@ -149,6 +149,11 @@
         404392865
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5e0d61daece6e0ad5677440af00b8adb",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360677071,
-    "wof:lastmodified":1564125975,
+    "wof:lastmodified":1603247181,
     "wof:name":"Zetting",
     "wof:parent_id":102071585,
     "wof:placetype":"locality",

@@ -137,6 +137,11 @@
         404367683
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ff90d0114ae4abbce3d2ba41fb3274d8",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360674571,
-    "wof:lastmodified":1564126825,
+    "wof:lastmodified":1603247298,
     "wof:name":"Villeparois",
     "wof:parent_id":102069155,
     "wof:placetype":"locality",

@@ -98,6 +98,11 @@
         404364851
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"02c6ae28b86146f14542e9e24c5b3264",
     "wof:hierarchy":[
         {
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":1360674275,
-    "wof:lastmodified":1564126700,
+    "wof:lastmodified":1603247282,
     "wof:name":"Saussay",
     "wof:parent_id":102071679,
     "wof:placetype":"locality",

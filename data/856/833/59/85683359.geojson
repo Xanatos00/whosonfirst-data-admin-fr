@@ -385,7 +385,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"6817",
     "statoids:as_of_date":"2010-01-01",
     "statoids:capital":"Nevers",
@@ -432,7 +432,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1588976238,
+    "wof:lastmodified":1603246960,
     "wof:name":"Ni\u00e8vre",
     "wof:parent_id":1108826395,
     "wof:placetype":"region",

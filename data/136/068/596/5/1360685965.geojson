@@ -9,7 +9,7 @@
     "geom:bbox":"-1.375507,46.7402795,-1.375507,46.7402795",
     "geom:latitude":46.740279,
     "geom:longitude":-1.375507,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.740279,
     "lbl:longitude":-1.375507,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685965,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247085,
     "wof:name":"La Girardi\u00e8re",
     "wof:parent_id":404362189,
     "wof:placetype":"neighbourhood",

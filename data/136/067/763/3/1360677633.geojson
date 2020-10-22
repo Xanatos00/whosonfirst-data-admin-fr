@@ -170,6 +170,11 @@
         404399463
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9f9e5e1a8010ba20c732e3bc03b8c7cf",
     "wof:hierarchy":[
         {
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":1360677633,
-    "wof:lastmodified":1564125823,
+    "wof:lastmodified":1603247160,
     "wof:name":"Niedermodern",
     "wof:parent_id":102065001,
     "wof:placetype":"locality",

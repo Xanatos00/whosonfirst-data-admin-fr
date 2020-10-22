@@ -136,6 +136,11 @@
         404361547
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"deff2d355467e50a1130e29277e4d66a",
     "wof:hierarchy":[
         {
@@ -150,7 +155,7 @@
         }
     ],
     "wof:id":1360673935,
-    "wof:lastmodified":1564126546,
+    "wof:lastmodified":1603247261,
     "wof:name":"Seur",
     "wof:parent_id":102064843,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"5.6563815,46.272016,5.6563815,46.272016",
     "geom:latitude":46.272016,
     "geom:longitude":5.656382,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.272016,
     "lbl:longitude":5.656382,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685959,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247037,
     "wof:name":"Sous-Tamas",
     "wof:parent_id":404378283,
     "wof:placetype":"neighbourhood",

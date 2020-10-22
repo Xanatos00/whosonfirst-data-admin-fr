@@ -164,6 +164,11 @@
         404348937
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5c372ceb8ed286143b462c81382d9ebe",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360672671,
-    "wof:lastmodified":1564126221,
+    "wof:lastmodified":1603247215,
     "wof:name":"Tignes",
     "wof:parent_id":102065467,
     "wof:placetype":"locality",

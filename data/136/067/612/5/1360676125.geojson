@@ -125,6 +125,11 @@
         404383151
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ba3fe2c42ca2e2aafadb540a76225f07",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360676125,
-    "wof:lastmodified":1564126685,
+    "wof:lastmodified":1603247280,
     "wof:name":"Marigny",
     "wof:parent_id":102069319,
     "wof:placetype":"locality",

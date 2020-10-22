@@ -9,7 +9,7 @@
     "geom:bbox":"-1.276813,45.952629,-1.276813,45.952629",
     "geom:latitude":45.952629,
     "geom:longitude":-1.276813,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.952629,
     "lbl:longitude":-1.276813,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686473,
-    "wof:lastmodified":1539986883,
+    "wof:lastmodified":1603247092,
     "wof:name":"Sauzelle",
     "wof:parent_id":404383011,
     "wof:placetype":"neighbourhood",

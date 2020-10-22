@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404361753,
         404227867,
+        404361753,
+        85633147,
         1108826387,
         136253037,
         102068395
@@ -68,6 +68,11 @@
         404361753
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a73853897278400e898a59785f2ddb92",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673977,
-    "wof:lastmodified":1539928825,
+    "wof:lastmodified":1603247181,
     "wof:name":"Monlezun-D'Armagnac",
     "wof:parent_id":102068395,
     "wof:placetype":"locality",

@@ -128,6 +128,11 @@
         404424457
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fbebee3dbf5b796b27aa9a21b7d3fcee",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360680019,
-    "wof:lastmodified":1564125483,
+    "wof:lastmodified":1603247066,
     "wof:name":"Bouillac",
     "wof:parent_id":102065419,
     "wof:placetype":"locality",

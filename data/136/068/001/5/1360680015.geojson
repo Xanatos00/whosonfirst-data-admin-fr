@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404424213,
         404227915,
+        404424213,
+        85633147,
         1108826391,
         136253037,
         102065313
@@ -63,6 +63,10 @@
         404424213
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"288b527d764209c3eee18911d0e287fd",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680015,
-    "wof:lastmodified":1539928931,
+    "wof:lastmodified":1603247066,
     "wof:name":"Reclonville",
     "wof:parent_id":102065313,
     "wof:placetype":"locality",

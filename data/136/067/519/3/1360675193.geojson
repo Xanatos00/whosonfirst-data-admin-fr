@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404374353,
         404227865,
+        404374353,
+        85633147,
         1108826387,
         136253037,
         102064903
@@ -63,6 +63,10 @@
         404374353
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5fcf81d61ba580b4549e582391556067",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675193,
-    "wof:lastmodified":1539928847,
+    "wof:lastmodified":1603247229,
     "wof:name":"Billiere",
     "wof:parent_id":102064903,
     "wof:placetype":"locality",

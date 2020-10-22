@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683359,
         102191581,
-        85633147,
-        404418803,
         404227925,
+        404418803,
+        85633147,
         1108826395,
         136253037,
         102064355
@@ -63,6 +63,10 @@
         404418803
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e666528de2812eb38ea4e1c4b3fcca57",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679497,
-    "wof:lastmodified":1539928922,
+    "wof:lastmodified":1603247239,
     "wof:name":"Hery",
     "wof:parent_id":102064355,
     "wof:placetype":"locality",

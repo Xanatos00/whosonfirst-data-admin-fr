@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404401729,
         404227915,
+        404401729,
+        85633147,
         1108826391,
         136253037,
         102065107
@@ -68,6 +68,11 @@
         404401729
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9b7f9a8d15a91b680eb9ca561407eb31",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677823,
-    "wof:lastmodified":1539928893,
+    "wof:lastmodified":1603247234,
     "wof:name":"Domptail-En-L'Air",
     "wof:parent_id":102065107,
     "wof:placetype":"locality",

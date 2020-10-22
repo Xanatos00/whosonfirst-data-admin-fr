@@ -9,7 +9,7 @@
     "geom:bbox":"-0.186767,47.322112,-0.186767,47.322112",
     "geom:latitude":47.322112,
     "geom:longitude":-0.186767,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.322112,
     "lbl:longitude":-0.186767,
@@ -310,7 +310,7 @@
         }
     ],
     "wof:id":1360686709,
-    "wof:lastmodified":1561833937,
+    "wof:lastmodified":1603247099,
     "wof:name":"Tr\u00e8ves-Cunault",
     "wof:parent_id":404428405,
     "wof:placetype":"neighbourhood",

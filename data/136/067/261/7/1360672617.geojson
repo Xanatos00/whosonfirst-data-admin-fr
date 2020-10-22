@@ -137,6 +137,11 @@
         404348213
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e8d622a8fda014bacc94569fd2ec74ac",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360672617,
-    "wof:lastmodified":1564126172,
+    "wof:lastmodified":1603247209,
     "wof:name":"Faverney",
     "wof:parent_id":102064361,
     "wof:placetype":"locality",

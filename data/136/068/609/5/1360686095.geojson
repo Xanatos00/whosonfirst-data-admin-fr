@@ -9,7 +9,7 @@
     "geom:bbox":"6.539976,45.67258,6.539976,45.67258",
     "geom:latitude":45.67258,
     "geom:longitude":6.539976,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.67258,
     "lbl:longitude":6.539976,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686095,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247112,
     "wof:name":"Le Planay",
     "wof:parent_id":404397739,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404384051,
         404227955,
+        404384051,
+        85633147,
         1108826395,
         136253037,
         102064939
@@ -63,6 +63,10 @@
         404384051
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0f79f4cc22a143dcd5b944f0c1624488",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676191,
-    "wof:lastmodified":1539928865,
+    "wof:lastmodified":1603247192,
     "wof:name":"Saint-Martin-D'Auxy",
     "wof:parent_id":102064939,
     "wof:placetype":"locality",

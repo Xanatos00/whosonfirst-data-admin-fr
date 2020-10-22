@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404378525,
         404228157,
+        404378525,
+        85633147,
         1108826393,
         136253037,
         102071679
@@ -68,6 +68,11 @@
         404378525
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ec17973fddba5c60d83853cbb673dfc0",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360675627,
-    "wof:lastmodified":1539928855,
+    "wof:lastmodified":1603247263,
     "wof:name":"Ectot-L'Auber",
     "wof:parent_id":102071679,
     "wof:placetype":"locality",

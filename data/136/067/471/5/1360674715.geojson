@@ -119,6 +119,11 @@
         404369231
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f9ffc949d8e3fa9cc742451f4f1f5996",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360674715,
-    "wof:lastmodified":1564126005,
+    "wof:lastmodified":1603247186,
     "wof:name":"Chazeuil",
     "wof:parent_id":102064355,
     "wof:placetype":"locality",

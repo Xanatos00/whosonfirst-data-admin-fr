@@ -482,6 +482,11 @@
         404419853
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9c93a7a895969433126980afb8727701",
     "wof:hierarchy":[
         {
@@ -497,7 +502,7 @@
         }
     ],
     "wof:id":1360679593,
-    "wof:lastmodified":1564126479,
+    "wof:lastmodified":1603247251,
     "wof:name":"Brain",
     "wof:parent_id":102070769,
     "wof:placetype":"locality",

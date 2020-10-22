@@ -147,6 +147,10 @@
         404352539
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c57da5bcdbb6e49fda8e164859ac01d0",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360673005,
-    "wof:lastmodified":1564125834,
+    "wof:lastmodified":1603247162,
     "wof:name":"Cavron-Saint-Martin",
     "wof:parent_id":102069233,
     "wof:placetype":"locality",

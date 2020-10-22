@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683389,
         102191581,
-        85633147,
-        404398261,
         404227687,
+        404398261,
+        85633147,
         1108826387,
         136253037,
         102068543
@@ -63,6 +63,10 @@
         404398261
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a7423e27b39ee52a666deaf56f1bfa17",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677527,
-    "wof:lastmodified":1539928888,
+    "wof:lastmodified":1603247163,
     "wof:name":"Serignac",
     "wof:parent_id":102068543,
     "wof:placetype":"locality",

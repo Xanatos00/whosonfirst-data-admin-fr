@@ -62,6 +62,10 @@
         404428771
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b35b460362edd519661b1f397b6a8a77",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360680469,
-    "wof:lastmodified":1539928939,
+    "wof:lastmodified":1603247046,
     "wof:name":"Gasville-Oiseme",
     "wof:parent_id":102065425,
     "wof:placetype":"locality",

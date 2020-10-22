@@ -92,6 +92,11 @@
         404387337
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6fb9fff808f739282b8e2a98ce30255b",
     "wof:hierarchy":[
         {
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":1360676465,
-    "wof:lastmodified":1564126708,
+    "wof:lastmodified":1603247283,
     "wof:name":"Maure",
     "wof:parent_id":102068467,
     "wof:placetype":"locality",

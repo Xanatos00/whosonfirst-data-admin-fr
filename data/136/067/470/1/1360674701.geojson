@@ -106,6 +106,11 @@
         404369049
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6221381d47877e2e33ba8d35e8a00a59",
     "wof:hierarchy":[
         {
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":1360674701,
-    "wof:lastmodified":1564126074,
+    "wof:lastmodified":1603247195,
     "wof:name":"La Chapelle-Neuve",
     "wof:parent_id":102064541,
     "wof:placetype":"locality",

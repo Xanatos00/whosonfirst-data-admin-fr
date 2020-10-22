@@ -9,7 +9,7 @@
     "geom:bbox":"2.28835,43.237261,2.28835,43.237261",
     "geom:latitude":43.237261,
     "geom:longitude":2.28835,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.237261,
     "lbl:longitude":2.28835,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684513,
-    "wof:lastmodified":1539986858,
+    "wof:lastmodified":1603247104,
     "wof:name":"Herminis",
     "wof:parent_id":404351021,
     "wof:placetype":"neighbourhood",

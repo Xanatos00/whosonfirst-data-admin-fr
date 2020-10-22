@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404420675,
         404227839,
+        404420675,
+        85633147,
         1108826395,
         136253037,
         102069817
@@ -68,6 +68,11 @@
         404420675
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1c625711661c5dbb8135ed8d6cf3324a",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679659,
-    "wof:lastmodified":1539928925,
+    "wof:lastmodified":1603247169,
     "wof:name":"Poncey-Sur-L'Ignon",
     "wof:parent_id":102069817,
     "wof:placetype":"locality",

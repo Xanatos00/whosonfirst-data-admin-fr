@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404413637,
         404228071,
+        404413637,
+        85633147,
         1108826385,
         136253037,
         102071281
@@ -63,6 +63,10 @@
         404413637
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"655e3f269270b7bdd25528682307f88f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679051,
-    "wof:lastmodified":1539928915,
+    "wof:lastmodified":1603247263,
     "wof:name":"Saint-Laurent-Du-Plan",
     "wof:parent_id":102071281,
     "wof:placetype":"locality",

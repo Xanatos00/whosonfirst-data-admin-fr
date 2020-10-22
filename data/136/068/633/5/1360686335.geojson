@@ -9,7 +9,7 @@
     "geom:bbox":"1.869907,48.62803,1.869907,48.62803",
     "geom:latitude":48.62803,
     "geom:longitude":1.869907,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.62803,
     "lbl:longitude":1.869907,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686335,
-    "wof:lastmodified":1539986882,
+    "wof:lastmodified":1603247055,
     "wof:name":"St.-R\u00e9my-des-Landes",
     "wof:parent_id":404359307,
     "wof:placetype":"neighbourhood",

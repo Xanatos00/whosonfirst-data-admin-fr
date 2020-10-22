@@ -111,6 +111,10 @@
         404355365
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5d547c198ff7c2772e0723b60d2324ff",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360673297,
-    "wof:lastmodified":1564126918,
+    "wof:lastmodified":1603247310,
     "wof:name":"Saint-Sylvestre",
     "wof:parent_id":102064517,
     "wof:placetype":"locality",

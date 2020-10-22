@@ -110,6 +110,11 @@
         404378999
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"475ebdc559c376f1c0d06bbc0f493763",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360675687,
-    "wof:lastmodified":1564125933,
+    "wof:lastmodified":1603247176,
     "wof:name":"Fenioux",
     "wof:parent_id":102070351,
     "wof:placetype":"locality",

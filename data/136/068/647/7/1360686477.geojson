@@ -9,7 +9,7 @@
     "geom:bbox":"6.614198,44.361905,6.614198,44.361905",
     "geom:latitude":44.361905,
     "geom:longitude":6.614198,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.361905,
     "lbl:longitude":6.614198,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686477,
-    "wof:lastmodified":1539986883,
+    "wof:lastmodified":1603247092,
     "wof:name":"Molan\u00e8s",
     "wof:parent_id":404363111,
     "wof:placetype":"neighbourhood",

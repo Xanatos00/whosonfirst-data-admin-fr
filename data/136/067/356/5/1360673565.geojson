@@ -155,6 +155,11 @@
         404358193
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"81c8fa5de470228abc3e493a5ef8e8cf",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360673565,
-    "wof:lastmodified":1564126527,
+    "wof:lastmodified":1603247258,
     "wof:name":"Le Mont-Dieu",
     "wof:parent_id":102068255,
     "wof:placetype":"locality",

@@ -105,6 +105,10 @@
         404360483
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1bf38ff1c288556d98729f75aaeb6890",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360673795,
-    "wof:lastmodified":1564126293,
+    "wof:lastmodified":1603247225,
     "wof:name":"Saint-Maixant",
     "wof:parent_id":102064457,
     "wof:placetype":"locality",

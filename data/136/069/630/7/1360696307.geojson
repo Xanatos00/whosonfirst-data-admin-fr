@@ -310,13 +310,13 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633147,
-        102069347,
-        136253037,
-        404399257,
-        101892973,
         404227883,
+        404399257,
+        85633147,
         1108826395,
+        101892973,
+        136253037,
+        102069347,
         85683173
     ],
     "wof:breaches":[],
@@ -346,10 +346,7 @@
         }
     ],
     "wof:id":1360696307,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247151,
     "wof:name":"Saint-Julien",
     "wof:parent_id":404399257,
     "wof:placetype":"neighbourhood",

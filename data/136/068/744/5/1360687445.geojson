@@ -9,7 +9,7 @@
     "geom:bbox":"1.647713,45.620145,1.647713,45.620145",
     "geom:latitude":45.620145,
     "geom:longitude":1.647713,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.620145,
     "lbl:longitude":1.647713,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687445,
-    "wof:lastmodified":1539986896,
+    "wof:lastmodified":1603247113,
     "wof:name":"For\u00eat-Haute",
     "wof:parent_id":404361817,
     "wof:placetype":"neighbourhood",

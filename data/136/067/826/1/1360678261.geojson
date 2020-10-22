@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404406303,
         404228271,
+        404406303,
+        85633147,
         1108826385,
         136253037,
         102069755
@@ -63,6 +63,10 @@
         404406303
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e6523eba3a5098cb250658716f3caa29",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678261,
-    "wof:lastmodified":1539928901,
+    "wof:lastmodified":1603247198,
     "wof:name":"Les Eglises-D'Argenteuil",
     "wof:parent_id":102069755,
     "wof:placetype":"locality",

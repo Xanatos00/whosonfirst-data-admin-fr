@@ -154,6 +154,11 @@
         404354683
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fbc60c342cce76c8323f2806a57a5788",
     "wof:hierarchy":[
         {
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":1360673205,
-    "wof:lastmodified":1564126890,
+    "wof:lastmodified":1603247307,
     "wof:name":"Montlaux",
     "wof:parent_id":102068677,
     "wof:placetype":"locality",

@@ -167,6 +167,11 @@
         404420179
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e54001695e61a9d212f536ffd84fe137",
     "wof:hierarchy":[
         {
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":1360679631,
-    "wof:lastmodified":1564125949,
+    "wof:lastmodified":1603247178,
     "wof:name":"Scheibenhard",
     "wof:parent_id":404420179,
     "wof:placetype":"locality",

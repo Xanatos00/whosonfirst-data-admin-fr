@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683297,
         102191581,
-        85633147,
-        404367733,
         404228117,
+        404367733,
+        85633147,
         1108826391,
         136253037,
         102067711
@@ -63,6 +63,10 @@
         404367733
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"748074b5c9c8168f2e796d74c0d7e149",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674577,
-    "wof:lastmodified":1539928837,
+    "wof:lastmodified":1603247298,
     "wof:name":"Nixeville-Blercourt",
     "wof:parent_id":102067711,
     "wof:placetype":"locality",

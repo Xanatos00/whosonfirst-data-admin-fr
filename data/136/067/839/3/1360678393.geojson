@@ -136,6 +136,11 @@
         404407869
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9b09a7c6be80c36dc522821be4cd0192",
     "wof:hierarchy":[
         {
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":1360678393,
-    "wof:lastmodified":1564126837,
+    "wof:lastmodified":1603247299,
     "wof:name":"Jozerand",
     "wof:parent_id":102066965,
     "wof:placetype":"locality",

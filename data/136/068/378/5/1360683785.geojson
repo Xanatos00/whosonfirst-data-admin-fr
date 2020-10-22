@@ -9,7 +9,7 @@
     "geom:bbox":"6.1365,45.596666,6.1365,45.596666",
     "geom:latitude":45.596666,
     "geom:longitude":6.1365,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.596666,
     "lbl:longitude":6.1365,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683785,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247075,
     "wof:name":"Routhennes",
     "wof:parent_id":404402461,
     "wof:placetype":"neighbourhood",

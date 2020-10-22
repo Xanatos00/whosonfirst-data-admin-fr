@@ -9,7 +9,7 @@
     "geom:bbox":"-4.300374,48.657804,-4.300374,48.657804",
     "geom:latitude":48.657804,
     "geom:longitude":-4.300374,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.657804,
     "lbl:longitude":-4.300374,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1360685879,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247077,
     "wof:name":"K\u00e9rurus",
     "wof:parent_id":102068159,
     "wof:placetype":"neighbourhood",

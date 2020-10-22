@@ -9,7 +9,7 @@
     "geom:bbox":"3.033391,44.179001,3.033391,44.179001",
     "geom:latitude":44.179001,
     "geom:longitude":3.033391,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.179001,
     "lbl:longitude":3.033391,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685751,
-    "wof:lastmodified":1539986874,
+    "wof:lastmodified":1603247071,
     "wof:name":"Conclus",
     "wof:parent_id":404358689,
     "wof:placetype":"neighbourhood",

@@ -139,6 +139,11 @@
         404382615
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"365134db63d321330ebda6f49a014c6d",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360676059,
-    "wof:lastmodified":1564126169,
+    "wof:lastmodified":1603247208,
     "wof:name":"Soulvache",
     "wof:parent_id":102070375,
     "wof:placetype":"locality",

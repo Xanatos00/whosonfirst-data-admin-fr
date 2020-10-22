@@ -104,6 +104,11 @@
         404381513
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7e4303e9b19cfc46483596aa04d8267f",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360675955,
-    "wof:lastmodified":1564125914,
+    "wof:lastmodified":1603247173,
     "wof:name":"Gommerville",
     "wof:parent_id":102071483,
     "wof:placetype":"locality",

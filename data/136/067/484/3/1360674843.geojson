@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404370749,
         404228207,
+        404370749,
+        85633147,
         1108826393,
         136253037,
         102066565
@@ -63,6 +63,10 @@
         404370749
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4668b9b0e83c35d831cbb679ccf03675",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674843,
-    "wof:lastmodified":1539928842,
+    "wof:lastmodified":1603247194,
     "wof:name":"Perigny",
     "wof:parent_id":102066565,
     "wof:placetype":"locality",

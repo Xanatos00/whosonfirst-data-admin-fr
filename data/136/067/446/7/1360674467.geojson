@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683523,
         102191581,
-        85633147,
-        404366477,
         404228053,
+        404366477,
+        85633147,
         1108826389,
         136253037,
         102070569
@@ -63,6 +63,10 @@
         404366477
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2359a4dd3e59ef97003c7959983a525e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674467,
-    "wof:lastmodified":1539928835,
+    "wof:lastmodified":1603247196,
     "wof:name":"Saint-Laurent-D'Onay",
     "wof:parent_id":102070569,
     "wof:placetype":"locality",

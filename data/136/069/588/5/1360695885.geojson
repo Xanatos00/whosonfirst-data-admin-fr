@@ -324,13 +324,13 @@
     "wd:wordcount":29,
     "wof:belongsto":[
         102191581,
-        85633147,
-        102065257,
-        136253037,
-        404348395,
-        101887037,
         404227781,
+        404348395,
+        85633147,
         1108826395,
+        101887037,
+        136253037,
+        102065257,
         85683503
     ],
     "wof:breaches":[],
@@ -360,10 +360,7 @@
         }
     ],
     "wof:id":1360695885,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163122,
+    "wof:lastmodified":1603247139,
     "wof:name":"Saint-Priv\u00e9",
     "wof:parent_id":404348395,
     "wof:placetype":"neighbourhood",

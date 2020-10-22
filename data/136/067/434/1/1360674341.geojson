@@ -113,6 +113,11 @@
         404365357
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e5a9a6c3c284b45ffbe7da444469b0e8",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360674341,
-    "wof:lastmodified":1564126792,
+    "wof:lastmodified":1603247293,
     "wof:name":"Paulhac",
     "wof:parent_id":102065039,
     "wof:placetype":"locality",

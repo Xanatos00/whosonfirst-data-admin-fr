@@ -277,6 +277,11 @@
         404352985
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"59a811958344fd2ee93466a20db09d33",
     "wof:hierarchy":[
         {
@@ -291,7 +296,7 @@
         }
     ],
     "wof:id":1360673045,
-    "wof:lastmodified":1564126493,
+    "wof:lastmodified":1603247253,
     "wof:name":"Bourges",
     "wof:parent_id":102072239,
     "wof:placetype":"locality",

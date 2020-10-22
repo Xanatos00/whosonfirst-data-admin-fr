@@ -109,6 +109,11 @@
         404351723
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ee76807c2d62628c684dccc3580e7a1c",
     "wof:hierarchy":[
         {
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":1360672937,
-    "wof:lastmodified":1564126227,
+    "wof:lastmodified":1603247216,
     "wof:name":"Osmoy",
     "wof:parent_id":102064825,
     "wof:placetype":"locality",

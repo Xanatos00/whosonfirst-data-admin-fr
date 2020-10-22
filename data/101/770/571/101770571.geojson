@@ -9,9 +9,8 @@
     "geom:bbox":"5.00965209427,45.313625184,5.07853081551,45.3614504274",
     "geom:latitude":45.336594,
     "geom:longitude":5.043529,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4213,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":4213,
     "iso:country":"FR",
     "lbl:latitude":45.339335,
@@ -382,10 +381,7 @@
         }
     ],
     "wof:id":101770571,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323414,
+    "wof:lastmodified":1603247756,
     "wof:name":"Beaurepaire",
     "wof:parent_id":404422167,
     "wof:placetype":"locality",

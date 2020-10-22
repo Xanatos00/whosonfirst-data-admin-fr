@@ -9,7 +9,7 @@
     "geom:bbox":"5.880212,45.11442,5.880212,45.11442",
     "geom:latitude":45.11442,
     "geom:longitude":5.880212,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.11442,
     "lbl:longitude":5.880212,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685401,
-    "wof:lastmodified":1539986870,
+    "wof:lastmodified":1603247115,
     "wof:name":"Roche-B\u00e9ranger",
     "wof:parent_id":1159321895,
     "wof:placetype":"neighbourhood",

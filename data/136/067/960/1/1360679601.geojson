@@ -62,6 +62,10 @@
         404419969
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"43d1f8c614ccf41a4bd15ae88d60e347",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360679601,
-    "wof:lastmodified":1539928924,
+    "wof:lastmodified":1603247258,
     "wof:name":"Mezieres-Au-Perche",
     "wof:parent_id":102065281,
     "wof:placetype":"locality",

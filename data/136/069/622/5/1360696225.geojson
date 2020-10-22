@@ -221,13 +221,13 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633147,
-        102064741,
-        136253037,
-        404374913,
-        101762643,
         404227909,
+        404374913,
+        85633147,
         1108826391,
+        101762643,
+        136253037,
+        102064741,
         85683405
     ],
     "wof:breaches":[],
@@ -256,10 +256,7 @@
         }
     ],
     "wof:id":1360696225,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247145,
     "wof:name":"Ay",
     "wof:parent_id":404374913,
     "wof:placetype":"neighbourhood",

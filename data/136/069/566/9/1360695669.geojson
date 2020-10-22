@@ -315,13 +315,13 @@
     "wd:wordcount":26,
     "wof:belongsto":[
         102191581,
-        85633147,
-        102064301,
-        136253037,
-        404368663,
-        101885809,
         404227781,
+        404368663,
+        85633147,
         1108826395,
+        101885809,
+        136253037,
+        102064301,
         85683503
     ],
     "wof:breaches":[],
@@ -351,10 +351,7 @@
         }
     ],
     "wof:id":1360695669,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163122,
+    "wof:lastmodified":1603247125,
     "wof:name":"Neuilly",
     "wof:parent_id":404368663,
     "wof:placetype":"neighbourhood",

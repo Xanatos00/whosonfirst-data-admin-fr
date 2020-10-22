@@ -9,7 +9,7 @@
     "geom:bbox":"6.106338,45.119326,6.106338,45.119326",
     "geom:latitude":45.119326,
     "geom:longitude":6.106338,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.119326,
     "lbl:longitude":6.106338,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686193,
-    "wof:lastmodified":1539986880,
+    "wof:lastmodified":1603247048,
     "wof:name":"Oz-en-oisans-station",
     "wof:parent_id":404389579,
     "wof:placetype":"neighbourhood",

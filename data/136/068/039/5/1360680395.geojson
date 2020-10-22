@@ -62,6 +62,10 @@
         404428093
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e8a4752913be9de1b84e775af189691a",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360680395,
-    "wof:lastmodified":1539928938,
+    "wof:lastmodified":1603247067,
     "wof:name":"Touet-De-L'Escarene",
     "wof:parent_id":102065885,
     "wof:placetype":"locality",

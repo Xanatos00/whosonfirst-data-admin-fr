@@ -149,6 +149,11 @@
         404410477
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4f46c2faa122ca499160199aa960a6d3",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360678705,
-    "wof:lastmodified":1564126619,
+    "wof:lastmodified":1603247271,
     "wof:name":"Tayac",
     "wof:parent_id":102070073,
     "wof:placetype":"locality",

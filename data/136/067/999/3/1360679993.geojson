@@ -119,6 +119,11 @@
         404424159
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4c335ae13c639fb4a761ca41832e884a",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360679993,
-    "wof:lastmodified":1564125972,
+    "wof:lastmodified":1603247181,
     "wof:name":"Plaisance",
     "wof:parent_id":102070617,
     "wof:placetype":"locality",

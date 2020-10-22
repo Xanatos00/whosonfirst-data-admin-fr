@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683359,
         102191581,
-        85633147,
-        404426461,
         404227925,
+        404426461,
+        85633147,
         1108826395,
         136253037,
         102064355
@@ -68,6 +68,11 @@
         404426461
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"231ed317b0513633ac2400fbd2200ec4",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360680211,
-    "wof:lastmodified":1539928934,
+    "wof:lastmodified":1603247100,
     "wof:name":"Bussy-La-Pesle",
     "wof:parent_id":102064355,
     "wof:placetype":"locality",

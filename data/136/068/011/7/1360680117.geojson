@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683247,
         102191581,
-        85633147,
-        404425441,
         404228009,
+        404425441,
+        85633147,
         1108826399,
         136253037,
         102069001
@@ -68,6 +68,11 @@
         404425441
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5e99a42ee48dd0593eab3b43f713df8c",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360680117,
-    "wof:lastmodified":1539928933,
+    "wof:lastmodified":1603247092,
     "wof:name":"Mont-D'Origny",
     "wof:parent_id":102069001,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404411237,
         404227599,
+        404411237,
+        85633147,
         1108826389,
         136253037,
         102065809
@@ -63,6 +63,10 @@
         404411237
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4b4f0ab7e9185f5b758fe928bf463852",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678819,
-    "wof:lastmodified":1539928910,
+    "wof:lastmodified":1603247200,
     "wof:name":"Saint-Genest-De-Beauzon",
     "wof:parent_id":102065809,
     "wof:placetype":"locality",

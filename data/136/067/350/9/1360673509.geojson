@@ -104,6 +104,11 @@
         404357591
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"aa8f43bc774ff0443f7d29bb70336ce7",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360673509,
-    "wof:lastmodified":1564126461,
+    "wof:lastmodified":1603247249,
     "wof:name":"Montcel",
     "wof:parent_id":102070155,
     "wof:placetype":"locality",

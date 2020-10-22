@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683603,
         102191581,
-        85633147,
-        404364931,
         404227763,
+        404364931,
+        85633147,
         1108826387,
         136253037,
         102070115
@@ -63,6 +63,10 @@
         404364931
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b7b7e154c1b4716416293f53f82c345a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674285,
-    "wof:lastmodified":1539928831,
+    "wof:lastmodified":1603247271,
     "wof:name":"Saint-Gregoire",
     "wof:parent_id":102070115,
     "wof:placetype":"locality",

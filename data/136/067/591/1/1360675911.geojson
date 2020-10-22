@@ -182,6 +182,11 @@
         404381107
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0cfba6ed6d33fc3d91b8a50e1b2836e5",
     "wof:hierarchy":[
         {
@@ -197,7 +202,7 @@
         }
     ],
     "wof:id":1360675911,
-    "wof:lastmodified":1564126570,
+    "wof:lastmodified":1603247264,
     "wof:name":"Beaumont",
     "wof:parent_id":102068295,
     "wof:placetype":"locality",

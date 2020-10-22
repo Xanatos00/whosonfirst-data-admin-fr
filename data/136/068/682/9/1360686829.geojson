@@ -9,9 +9,9 @@
     "geom:bbox":"5.48432,43.29757,5.48432,43.29757",
     "geom:latitude":43.29757,
     "geom:longitude":5.48432,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FR",
     "lbl:latitude":43.29757,
     "lbl:longitude":5.48432,
@@ -42,14 +42,14 @@
     "woe:name_adm1":"Provence-Alpes-C\u00f4te d'Azur",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85683441,
         102191581,
         85633147,
         404228029,
         404227445,
         101749199,
         1360698457,
-        102072499
+        102072499,
+        85683441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686829,
-    "wof:lastmodified":1545176983,
+    "wof:lastmodified":1603247090,
     "wof:name":"La Valentine",
     "wof:parent_id":1360698457,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404422297,
         404228129,
+        404422297,
+        85633147,
         1108826393,
         136253037,
         102067917
@@ -63,6 +63,10 @@
         404422297
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b81f2f2d6f352095d1f0938521c53bb7",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679821,
-    "wof:lastmodified":1539928928,
+    "wof:lastmodified":1603247240,
     "wof:name":"Le Pas-Saint-L'Homer",
     "wof:parent_id":102067917,
     "wof:placetype":"locality",

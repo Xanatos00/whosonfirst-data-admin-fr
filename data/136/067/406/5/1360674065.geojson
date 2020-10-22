@@ -141,6 +141,10 @@
         404362477
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"50a8afa00cc77e08c5c52ca85c192f91",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360674065,
-    "wof:lastmodified":1564126151,
+    "wof:lastmodified":1603247206,
     "wof:name":"Saint-Silvain-Bellegarde",
     "wof:parent_id":102064831,
     "wof:placetype":"locality",

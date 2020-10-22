@@ -149,6 +149,11 @@
         404383985
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7fff1fef35cc263bf4712f3d49b96d1d",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360676183,
-    "wof:lastmodified":1564126098,
+    "wof:lastmodified":1603247198,
     "wof:name":"Oissy",
     "wof:parent_id":102069159,
     "wof:placetype":"locality",

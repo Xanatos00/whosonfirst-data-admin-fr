@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404376601,
         404227831,
+        404376601,
+        85633147,
         1108826385,
         136253037,
         102070265
@@ -63,6 +63,10 @@
         404376601
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f3be77ce933eaf33d823879b6c7ba93b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675439,
-    "wof:lastmodified":1539928852,
+    "wof:lastmodified":1603247232,
     "wof:name":"Louzac-Saint-Andre",
     "wof:parent_id":102070265,
     "wof:placetype":"locality",

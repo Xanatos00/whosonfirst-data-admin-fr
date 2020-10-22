@@ -146,6 +146,11 @@
         404394585
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bed6062a2b1ffed0dcb4be09a08de45a",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360677221,
-    "wof:lastmodified":1564126288,
+    "wof:lastmodified":1603247224,
     "wof:name":"Beaufin",
     "wof:parent_id":102065233,
     "wof:placetype":"locality",

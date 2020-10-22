@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404362291,
         404227619,
+        404362291,
+        85633147,
         1108826385,
         136253037,
         102068155
@@ -63,6 +63,10 @@
         404362291
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"92a40c45e3a48836a767a5734a6424fe",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674033,
-    "wof:lastmodified":1539928826,
+    "wof:lastmodified":1603247304,
     "wof:name":"Saint-Laurent-De-Belzagot",
     "wof:parent_id":102068155,
     "wof:placetype":"locality",

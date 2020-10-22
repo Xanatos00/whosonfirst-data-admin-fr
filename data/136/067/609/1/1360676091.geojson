@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683413,
         102191581,
-        85633147,
-        404382977,
         404227891,
+        404382977,
+        85633147,
         1108826389,
         136253037,
         102066499
@@ -63,6 +63,10 @@
         404382977
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"47c2998cd549841d9f0f8e5eea417f61",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676091,
-    "wof:lastmodified":1539928863,
+    "wof:lastmodified":1603247305,
     "wof:name":"Saint-Jean-De-Nay",
     "wof:parent_id":102066499,
     "wof:placetype":"locality",

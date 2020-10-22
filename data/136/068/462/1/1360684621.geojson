@@ -9,7 +9,7 @@
     "geom:bbox":"6.790924,43.472308,6.790924,43.472308",
     "geom:latitude":43.472308,
     "geom:longitude":6.790924,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.472308,
     "lbl:longitude":6.790924,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684621,
-    "wof:lastmodified":1539986859,
+    "wof:lastmodified":1603247067,
     "wof:name":"Les Bastides des Darboussieres",
     "wof:parent_id":404352311,
     "wof:placetype":"neighbourhood",

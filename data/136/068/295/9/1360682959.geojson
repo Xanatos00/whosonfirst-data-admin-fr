@@ -9,7 +9,7 @@
     "geom:bbox":"6.367263,45.418154,6.367263,45.418154",
     "geom:latitude":45.418154,
     "geom:longitude":6.367263,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.418154,
     "lbl:longitude":6.367263,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682959,
-    "wof:lastmodified":1539986838,
+    "wof:lastmodified":1603247057,
     "wof:name":"Longchamp 1650",
     "wof:parent_id":404369975,
     "wof:placetype":"neighbourhood",

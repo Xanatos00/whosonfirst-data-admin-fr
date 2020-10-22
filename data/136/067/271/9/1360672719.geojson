@@ -67,6 +67,11 @@
         404349627
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c57fd433e8c7e9d799d3ad75d8068f32",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360672719,
-    "wof:lastmodified":1539928786,
+    "wof:lastmodified":1603247281,
     "wof:name":"Le Plan-De-La-Tour",
     "wof:parent_id":102066835,
     "wof:placetype":"locality",

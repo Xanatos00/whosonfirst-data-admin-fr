@@ -155,6 +155,11 @@
         404415163
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"37bbbb0075a1bbb65e94bde09b8c4f38",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360679191,
-    "wof:lastmodified":1564126976,
+    "wof:lastmodified":1603247318,
     "wof:name":"Vonges",
     "wof:parent_id":102068957,
     "wof:placetype":"locality",

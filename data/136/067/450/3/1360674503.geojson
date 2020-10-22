@@ -149,6 +149,11 @@
         404367069
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"95c649dda1229adbcdaac92e3b8c8330",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360674503,
-    "wof:lastmodified":1564126812,
+    "wof:lastmodified":1603247296,
     "wof:name":"Laborel",
     "wof:parent_id":102069337,
     "wof:placetype":"locality",

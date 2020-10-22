@@ -9,7 +9,7 @@
     "geom:bbox":"9.055433,42.659189,9.055433,42.659189",
     "geom:latitude":42.659189,
     "geom:longitude":9.055433,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.659189,
     "lbl:longitude":9.055433,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683901,
-    "wof:lastmodified":1539986850,
+    "wof:lastmodified":1603247041,
     "wof:name":"Lozari",
     "wof:parent_id":404354461,
     "wof:placetype":"neighbourhood",

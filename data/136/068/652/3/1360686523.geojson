@@ -9,7 +9,7 @@
     "geom:bbox":"3.0384225,42.802076,3.0384225,42.802076",
     "geom:latitude":42.802076,
     "geom:longitude":3.038422,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.802076,
     "lbl:longitude":3.038422,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686523,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247102,
     "wof:name":"Port-Barcar\u00e8s",
     "wof:parent_id":404370935,
     "wof:placetype":"neighbourhood",

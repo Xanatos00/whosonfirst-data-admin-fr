@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683405,
         102191581,
-        85633147,
-        404354603,
         404228237,
+        404354603,
+        85633147,
         1108826391,
         136253037,
         102069583
@@ -68,6 +68,11 @@
         404354603
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"66b8c2d2f36fd80e764bcf4a36dcd341",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673201,
-    "wof:lastmodified":1539928796,
+    "wof:lastmodified":1603247307,
     "wof:name":"Moncetz-L'Abbaye",
     "wof:parent_id":102069583,
     "wof:placetype":"locality",

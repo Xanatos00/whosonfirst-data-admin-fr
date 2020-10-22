@@ -67,6 +67,11 @@
         404393151
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bb5a827bc36982d87efacc67b5348e56",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360677089,
-    "wof:lastmodified":1539928880,
+    "wof:lastmodified":1603247170,
     "wof:name":"Valle-D'Orezza",
     "wof:parent_id":102070777,
     "wof:placetype":"locality",

@@ -111,6 +111,10 @@
         404412283
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8f2bf085b19e79ae18336ea2b50fc006",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360678917,
-    "wof:lastmodified":1564126789,
+    "wof:lastmodified":1603247293,
     "wof:name":"Saint-Palais",
     "wof:parent_id":102071017,
     "wof:placetype":"locality",

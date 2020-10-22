@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404415611,
         404227867,
+        404415611,
+        85633147,
         1108826387,
         136253037,
         102068395
@@ -63,6 +63,10 @@
         404415611
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d53ec2b6e8426e97b0f8ecfe4c32d30a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679239,
-    "wof:lastmodified":1539928918,
+    "wof:lastmodified":1603247233,
     "wof:name":"Saint-Martin-D'Armagnac",
     "wof:parent_id":102068395,
     "wof:placetype":"locality",

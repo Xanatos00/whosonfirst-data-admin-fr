@@ -173,6 +173,11 @@
         404388195
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2571ff78a2737f2da95e63801f807d32",
     "wof:hierarchy":[
         {
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":1360676539,
-    "wof:lastmodified":1564126832,
+    "wof:lastmodified":1603247299,
     "wof:name":"Neugartheim-Ittlenheim",
     "wof:parent_id":102070075,
     "wof:placetype":"locality",

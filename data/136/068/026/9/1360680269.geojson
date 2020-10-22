@@ -120,6 +120,10 @@
         404426947
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cca4423c0137d57a16a716df5dd123b5",
     "wof:hierarchy":[
         {
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":1360680269,
-    "wof:lastmodified":1564125629,
+    "wof:lastmodified":1603247098,
     "wof:name":"Saint-Loup",
     "wof:parent_id":102070915,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683183,
         102191581,
-        85633147,
-        404350721,
         404227885,
+        404350721,
+        85633147,
         1108826385,
         136253037,
         102069491
@@ -68,6 +68,11 @@
         404350721
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3cb7835b04e55c281bc6264a84148eb8",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672843,
-    "wof:lastmodified":1539928789,
+    "wof:lastmodified":1603247269,
     "wof:name":"Arthez-D'Armagnac",
     "wof:parent_id":102069491,
     "wof:placetype":"locality",

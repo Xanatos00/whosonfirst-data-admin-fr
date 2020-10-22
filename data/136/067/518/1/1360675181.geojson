@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404374297,
         404227637,
+        404374297,
+        85633147,
         1108826395,
         136253037,
         102066601
@@ -63,6 +63,10 @@
         404374297
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7dc4a39cecc0328af2f3ab395a2ae8e0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675181,
-    "wof:lastmodified":1539928847,
+    "wof:lastmodified":1603247236,
     "wof:name":"La Breteniere",
     "wof:parent_id":102066601,
     "wof:placetype":"locality",

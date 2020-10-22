@@ -137,6 +137,11 @@
         404356951
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e7f98cbfe9e250b064593762f4b9e2bf",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360673447,
-    "wof:lastmodified":1564127031,
+    "wof:lastmodified":1603247325,
     "wof:name":"Le Monestier",
     "wof:parent_id":102070631,
     "wof:placetype":"locality",

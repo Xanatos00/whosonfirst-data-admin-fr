@@ -135,6 +135,10 @@
         404355765
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9c8644d0b8bbc80a58057adda4881b45",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360673321,
-    "wof:lastmodified":1564126503,
+    "wof:lastmodified":1603247255,
     "wof:name":"Thun-Saint-Amand",
     "wof:parent_id":102071717,
     "wof:placetype":"locality",

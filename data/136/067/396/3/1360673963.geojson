@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683453,
         102191581,
-        85633147,
-        404361631,
         404227903,
+        404361631,
+        85633147,
         1108826387,
         136253037,
         102066107
@@ -63,6 +63,10 @@
         404361631
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"056a1fa4ab5a757535ad2dc5de53703d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673963,
-    "wof:lastmodified":1539928824,
+    "wof:lastmodified":1603247169,
     "wof:name":"Cheylard-L'Eveque",
     "wof:parent_id":102066107,
     "wof:placetype":"locality",

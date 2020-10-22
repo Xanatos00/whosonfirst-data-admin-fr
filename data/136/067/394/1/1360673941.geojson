@@ -128,6 +128,11 @@
         404361555
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3304a1ee514c22db97cbaa4b51f67967",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360673941,
-    "wof:lastmodified":1564126550,
+    "wof:lastmodified":1603247261,
     "wof:name":"Bailleul",
     "wof:parent_id":102068561,
     "wof:placetype":"locality",

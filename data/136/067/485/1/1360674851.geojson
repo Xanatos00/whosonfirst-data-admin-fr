@@ -119,6 +119,11 @@
         404370867
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1566974d3154f8be3e7491244b58af4a",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360674851,
-    "wof:lastmodified":1564126007,
+    "wof:lastmodified":1603247186,
     "wof:name":"Le Breuil",
     "wof:parent_id":102065327,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683503,
         102191581,
-        85633147,
-        404396907,
         404227781,
+        404396907,
+        85633147,
         1108826395,
         136253037,
         102064301
@@ -63,6 +63,10 @@
         404396907
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"33cc4349a16a5b793a4348feb01279c5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677423,
-    "wof:lastmodified":1539928886,
+    "wof:lastmodified":1603247321,
     "wof:name":"Saint-Maurice-Le-Vieil",
     "wof:parent_id":102064301,
     "wof:placetype":"locality",

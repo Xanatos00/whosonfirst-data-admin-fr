@@ -9,7 +9,7 @@
     "geom:bbox":"6.019027,46.369489,6.019027,46.369489",
     "geom:latitude":46.369489,
     "geom:longitude":6.019027,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.369489,
     "lbl:longitude":6.019027,
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1360686229,
-    "wof:lastmodified":1564125581,
+    "wof:lastmodified":1603247089,
     "wof:name":"Col de la Faucille",
     "wof:parent_id":404390621,
     "wof:placetype":"neighbourhood",

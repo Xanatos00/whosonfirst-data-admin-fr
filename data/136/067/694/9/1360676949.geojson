@@ -138,6 +138,10 @@
         404391675
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eae125214639de132059c3ecde7ea1a3",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360676949,
-    "wof:lastmodified":1564126196,
+    "wof:lastmodified":1603247212,
     "wof:name":"Saint-Loube",
     "wof:parent_id":102066605,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"4.938048,44.55143,4.938048,44.55143",
     "geom:latitude":44.55143,
     "geom:longitude":4.938048,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.55143,
     "lbl:longitude":4.938048,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682179,
-    "wof:lastmodified":1539986827,
+    "wof:lastmodified":1603247051,
     "wof:name":"Ch\u00e2teauneuf-de-Mazenc",
     "wof:parent_id":404359325,
     "wof:placetype":"neighbourhood",

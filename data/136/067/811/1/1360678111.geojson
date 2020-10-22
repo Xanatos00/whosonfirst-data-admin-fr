@@ -140,6 +140,11 @@
         404404737
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"24acc4372ad2fd8099bb2e080335fa50",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360678111,
-    "wof:lastmodified":1564126018,
+    "wof:lastmodified":1603247187,
     "wof:name":"Voingt",
     "wof:parent_id":102069751,
     "wof:placetype":"locality",

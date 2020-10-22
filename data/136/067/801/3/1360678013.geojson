@@ -152,6 +152,11 @@
         404403713
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"95ef4797cb5376b5fa648282d5141eea",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360678013,
-    "wof:lastmodified":1564126840,
+    "wof:lastmodified":1603247300,
     "wof:name":"Eynesse",
     "wof:parent_id":102071165,
     "wof:placetype":"locality",

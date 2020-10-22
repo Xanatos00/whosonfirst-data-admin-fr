@@ -72,9 +72,9 @@
     "wof:belongsto":[
         85683153,
         102191581,
-        85633147,
-        404395651,
         404227585,
+        404395651,
+        85633147,
         1108826389,
         136253037,
         102064817
@@ -89,6 +89,11 @@
         404395651
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"49152ebb17529f182d7fdf19358241e9",
     "wof:hierarchy":[
         {
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1360677315,
-    "wof:lastmodified":1539928884,
+    "wof:lastmodified":1603247180,
     "wof:name":"Andert-Et-Condon",
     "wof:parent_id":102064817,
     "wof:placetype":"locality",

@@ -9,7 +9,6 @@
     "geom:bbox":"2.341195,48.829557,2.355582,48.838356",
     "geom:latitude":48.833755,
     "geom:longitude":2.34772,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.833646,
     "lbl:longitude":2.34772,
@@ -69,12 +68,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894257,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894257,
         85683497
     ],
     "wof:breaches":[],
@@ -101,10 +100,7 @@
         }
     ],
     "wof:id":85873917,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592442,
+    "wof:lastmodified":1603246970,
     "wof:name":"Croulebarbe",
     "wof:parent_id":1158894257,
     "wof:placetype":"neighbourhood",

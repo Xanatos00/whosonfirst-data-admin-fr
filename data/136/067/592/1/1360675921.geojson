@@ -149,6 +149,11 @@
         404381143
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ef89fbda1ea774fbca803cd79964c856",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360675921,
-    "wof:lastmodified":1564125909,
+    "wof:lastmodified":1603247172,
     "wof:name":"Les Genettes",
     "wof:parent_id":102069023,
     "wof:placetype":"locality",

@@ -152,6 +152,11 @@
         404413099
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b5459a178990e0fa063f87f7e86dcc48",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360678997,
-    "wof:lastmodified":1564126857,
+    "wof:lastmodified":1603247302,
     "wof:name":"Angomont",
     "wof:parent_id":102064925,
     "wof:placetype":"locality",

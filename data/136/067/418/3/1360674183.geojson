@@ -154,6 +154,11 @@
         404363971
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f0f2cf140010f97a551f0e3a582a9aea",
     "wof:hierarchy":[
         {
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":1360674183,
-    "wof:lastmodified":1564126693,
+    "wof:lastmodified":1603247281,
     "wof:name":"Jans",
     "wof:parent_id":102066245,
     "wof:placetype":"locality",

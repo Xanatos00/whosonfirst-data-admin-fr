@@ -9,7 +9,7 @@
     "geom:bbox":"6.599693,43.266331,6.599693,43.266331",
     "geom:latitude":43.266331,
     "geom:longitude":6.599693,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.266331,
     "lbl:longitude":6.599693,
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1360686445,
-    "wof:lastmodified":1539986883,
+    "wof:lastmodified":1603247045,
     "wof:name":"Les Marines-de-Cogolin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

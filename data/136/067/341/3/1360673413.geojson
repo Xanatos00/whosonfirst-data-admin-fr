@@ -119,6 +119,11 @@
         404356691
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bc89691ddcf60ed5803aeeb8747bb0a4",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360673413,
-    "wof:lastmodified":1564126299,
+    "wof:lastmodified":1603247226,
     "wof:name":"Marcy",
     "wof:parent_id":102068983,
     "wof:placetype":"locality",

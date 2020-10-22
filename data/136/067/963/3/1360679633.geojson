@@ -119,6 +119,11 @@
         404420217
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5fd969d2a115a79d7b535fbce22a2f63",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360679633,
-    "wof:lastmodified":1564125949,
+    "wof:lastmodified":1603247178,
     "wof:name":"Berlancourt",
     "wof:parent_id":102067715,
     "wof:placetype":"locality",

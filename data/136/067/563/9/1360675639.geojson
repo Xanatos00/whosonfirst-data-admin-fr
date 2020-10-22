@@ -116,6 +116,11 @@
         404378607
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5a56e8bf603e4848d1444ae9df2499e6",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360675639,
-    "wof:lastmodified":1564126509,
+    "wof:lastmodified":1603247256,
     "wof:name":"Avillers",
     "wof:parent_id":102065069,
     "wof:placetype":"locality",

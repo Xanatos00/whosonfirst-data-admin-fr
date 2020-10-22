@@ -9,7 +9,7 @@
     "geom:bbox":"2.1225,50.985666,2.1225,50.985666",
     "geom:latitude":50.985666,
     "geom:longitude":2.1225,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":50.985666,
     "lbl:longitude":2.1225,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686183,
-    "wof:lastmodified":1539986880,
+    "wof:lastmodified":1603247052,
     "wof:name":"Le Clair Marais",
     "wof:parent_id":404359233,
     "wof:placetype":"neighbourhood",

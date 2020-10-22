@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404384925,
         404227869,
+        404384925,
+        85633147,
         1108826385,
         136253037,
         102069343
@@ -63,6 +63,10 @@
         404384925
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"562a7bfbac32a707d0a5a69d65b56e92",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676273,
-    "wof:lastmodified":1539928867,
+    "wof:lastmodified":1603247199,
     "wof:name":"Saint-Medard-D'Eyrans",
     "wof:parent_id":102069343,
     "wof:placetype":"locality",

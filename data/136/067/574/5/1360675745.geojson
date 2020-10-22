@@ -140,6 +140,11 @@
         404379547
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ff75a82d6df585a3319e5c00c05b8712",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360675745,
-    "wof:lastmodified":1564126426,
+    "wof:lastmodified":1603247244,
     "wof:name":"Rizaucourt-Buchey",
     "wof:parent_id":102066807,
     "wof:placetype":"locality",

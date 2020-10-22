@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404353605,
         404227867,
+        404353605,
+        85633147,
         1108826387,
         136253037,
         102068395
@@ -67,6 +67,11 @@
         404353605
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"508ac01e27ff2c2aaeeca092e782e71e",
     "wof:hierarchy":[
         {
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":1360673101,
-    "wof:lastmodified":1539928794,
+    "wof:lastmodified":1603247319,
     "wof:name":"Sainte-Christie-D'Armagnac",
     "wof:parent_id":102068395,
     "wof:placetype":"locality",

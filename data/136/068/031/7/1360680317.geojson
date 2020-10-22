@@ -62,6 +62,10 @@
         404427131
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"81361ded54f83247ea93b17cd75ac80d",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360680317,
-    "wof:lastmodified":1539928936,
+    "wof:lastmodified":1603247060,
     "wof:name":"Loscouet-Sur-Meu",
     "wof:parent_id":102068899,
     "wof:placetype":"locality",

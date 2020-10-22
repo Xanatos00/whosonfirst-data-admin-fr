@@ -9,7 +9,7 @@
     "geom:bbox":"6.255728,43.119184,6.255728,43.119184",
     "geom:latitude":43.119184,
     "geom:longitude":6.255728,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.119184,
     "lbl:longitude":6.255728,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687487,
-    "wof:lastmodified":1539986896,
+    "wof:lastmodified":1603247075,
     "wof:name":"L\u00e9oube",
     "wof:parent_id":404357071,
     "wof:placetype":"neighbourhood",

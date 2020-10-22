@@ -9,7 +9,7 @@
     "geom:bbox":"1.45918766755,45.1583159865,1.56465243017,45.2167264054",
     "geom:latitude":45.190123,
     "geom:longitude":1.511595,
-    "geonames:id":"2971305,2971306",
+    "gn:id":"2971305,2971306",
     "gn:population":3365,
     "iso:country":"FR",
     "lbl:latitude":45.192506,
@@ -347,7 +347,7 @@
         }
     ],
     "wof:id":101769279,
-    "wof:lastmodified":1582323455,
+    "wof:lastmodified":1603247803,
     "wof:name":"Ussac",
     "wof:parent_id":404365097,
     "wof:placetype":"locality",

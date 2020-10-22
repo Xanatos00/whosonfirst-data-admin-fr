@@ -119,6 +119,11 @@
         404354729
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"022b8751b1a70730c8d919a01f37cecc",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360673213,
-    "wof:lastmodified":1564127001,
+    "wof:lastmodified":1603247322,
     "wof:name":"Mauvezin",
     "wof:parent_id":102066323,
     "wof:placetype":"locality",

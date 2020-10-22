@@ -132,6 +132,10 @@
         404391139
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"635d192708eb6f9ea6e7b147e2440591",
     "wof:hierarchy":[
         {
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":1360676869,
-    "wof:lastmodified":1564125988,
+    "wof:lastmodified":1603247183,
     "wof:name":"Saint-Michel",
     "wof:parent_id":102070517,
     "wof:placetype":"locality",

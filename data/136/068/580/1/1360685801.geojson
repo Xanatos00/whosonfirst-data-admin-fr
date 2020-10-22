@@ -9,7 +9,7 @@
     "geom:bbox":"-1.244888,43.133938,-1.244888,43.133938",
     "geom:latitude":43.133938,
     "geom:longitude":-1.244888,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.133938,
     "lbl:longitude":-1.244888,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685801,
-    "wof:lastmodified":1539986875,
+    "wof:lastmodified":1603247077,
     "wof:name":"Hountto",
     "wof:parent_id":404422475,
     "wof:placetype":"neighbourhood",

@@ -140,6 +140,11 @@
         404425945
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eb159e24a544e862b411eeec3b43ab55",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360680173,
-    "wof:lastmodified":1564125618,
+    "wof:lastmodified":1603247097,
     "wof:name":"Daubeuf-Serville",
     "wof:parent_id":102068787,
     "wof:placetype":"locality",

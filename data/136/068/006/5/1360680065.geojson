@@ -173,6 +173,11 @@
         404424929
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"977a5f26820cc6f3f046974719d35299",
     "wof:hierarchy":[
         {
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":1360680065,
-    "wof:lastmodified":1564125491,
+    "wof:lastmodified":1603247067,
     "wof:name":"Villeneuve",
     "wof:parent_id":102064961,
     "wof:placetype":"locality",

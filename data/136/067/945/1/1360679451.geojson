@@ -151,6 +151,11 @@
         404418013
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f08f355da25c1d9b93da38f2b605cb1d",
     "wof:hierarchy":[
         {
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":1360679451,
-    "wof:lastmodified":1564126968,
+    "wof:lastmodified":1603247317,
     "wof:name":"Fouillouse",
     "wof:parent_id":102068573,
     "wof:placetype":"locality",

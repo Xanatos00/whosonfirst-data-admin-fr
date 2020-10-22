@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404392697,
         404227615,
+        404392697,
+        85633147,
         1108826393,
         136253037,
         102070225
@@ -63,6 +63,10 @@
         404392697
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8ecf603b719a3b0ea3e6729d7a0ee331",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677059,
-    "wof:lastmodified":1539928880,
+    "wof:lastmodified":1603247246,
     "wof:name":"Louvieres",
     "wof:parent_id":102070225,
     "wof:placetype":"locality",

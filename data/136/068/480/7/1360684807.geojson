@@ -9,7 +9,7 @@
     "geom:bbox":"5.277557,44.174078,5.277557,44.174078",
     "geom:latitude":44.174078,
     "geom:longitude":5.277557,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.174078,
     "lbl:longitude":5.277557,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684807,
-    "wof:lastmodified":1539986862,
+    "wof:lastmodified":1603247098,
     "wof:name":"Le Mont-serein",
     "wof:parent_id":404401821,
     "wof:placetype":"neighbourhood",

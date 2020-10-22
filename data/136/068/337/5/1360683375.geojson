@@ -9,7 +9,7 @@
     "geom:bbox":"-1.119918,46.003639,-1.119918,46.003639",
     "geom:latitude":46.003639,
     "geom:longitude":-1.119918,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":46.003639,
     "lbl:longitude":-1.119918,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683375,
-    "wof:lastmodified":1539986843,
+    "wof:lastmodified":1603247038,
     "wof:name":"La Fum\u00e9e",
     "wof:parent_id":404398111,
     "wof:placetype":"neighbourhood",

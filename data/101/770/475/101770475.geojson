@@ -322,14 +322,14 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683517,
         102191581,
-        85633147,
-        102067561,
-        136253037,
-        404382795,
         404227617,
+        404382795,
+        85633147,
         1108826389,
-        85683517
+        136253037,
+        102067561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -364,10 +364,7 @@
         }
     ],
     "wof:id":101770475,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163110,
+    "wof:lastmodified":1603247754,
     "wof:name":"Saint-Cernin",
     "wof:parent_id":404382795,
     "wof:placetype":"locality",

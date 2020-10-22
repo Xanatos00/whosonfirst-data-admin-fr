@@ -9,7 +9,7 @@
     "geom:bbox":"-1.765623,46.66004,-1.765623,46.66004",
     "geom:latitude":46.66004,
     "geom:longitude":-1.765623,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.66004,
     "lbl:longitude":-1.765623,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686995,
-    "wof:lastmodified":1539986890,
+    "wof:lastmodified":1603247101,
     "wof:name":"La Baudri\u00e8re",
     "wof:parent_id":404410745,
     "wof:placetype":"neighbourhood",

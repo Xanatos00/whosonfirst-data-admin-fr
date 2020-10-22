@@ -212,6 +212,11 @@
         404404313
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"da21f4228bab992a8e66b34cbd62f6bc",
     "wof:hierarchy":[
         {
@@ -227,7 +232,7 @@
         }
     ],
     "wof:id":1360678079,
-    "wof:lastmodified":1564126751,
+    "wof:lastmodified":1603247287,
     "wof:name":"Beaune",
     "wof:parent_id":102072243,
     "wof:placetype":"locality",

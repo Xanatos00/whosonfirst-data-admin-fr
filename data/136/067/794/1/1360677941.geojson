@@ -127,6 +127,11 @@
         404402845
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b0f00e697ee2499eb57414f7fe013517",
     "wof:hierarchy":[
         {
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":1360677941,
-    "wof:lastmodified":1564126489,
+    "wof:lastmodified":1603247253,
     "wof:name":"Sainte-Radegonde",
     "wof:parent_id":102070819,
     "wof:placetype":"locality",

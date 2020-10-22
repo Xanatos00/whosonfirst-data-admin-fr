@@ -9,7 +9,7 @@
     "geom:bbox":"2.70092,43.266928,2.70092,43.266928",
     "geom:latitude":43.266928,
     "geom:longitude":2.70092,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.266928,
     "lbl:longitude":2.70092,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685067,
-    "wof:lastmodified":1539986865,
+    "wof:lastmodified":1603247079,
     "wof:name":"Hameau de Jouarres",
     "wof:parent_id":404375455,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683163,
         102191581,
-        85633147,
-        404383111,
         404227969,
+        404383111,
+        85633147,
         1108826385,
         136253037,
         102067283
@@ -63,6 +63,10 @@
         404383111
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"786aed87366cedeceb0bcf47b620a8c5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676123,
-    "wof:lastmodified":1539928864,
+    "wof:lastmodified":1603247280,
     "wof:name":"Saint-Leger-De-La-Martiniere",
     "wof:parent_id":102067283,
     "wof:placetype":"locality",

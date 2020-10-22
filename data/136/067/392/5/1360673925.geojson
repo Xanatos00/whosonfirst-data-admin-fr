@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404361419,
         404228045,
+        404361419,
+        85633147,
         1108826395,
         136253037,
         102065747
@@ -68,6 +68,11 @@
         404361419
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"751b8c1cfc23a3436fc9e22dee7e184b",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673925,
-    "wof:lastmodified":1539928823,
+    "wof:lastmodified":1603247248,
     "wof:name":"Chemin-D'Aisey",
     "wof:parent_id":102065747,
     "wof:placetype":"locality",

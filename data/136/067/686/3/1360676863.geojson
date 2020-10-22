@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404391171,
         404227599,
+        404391171,
+        85633147,
         1108826389,
         136253037,
         102065809
@@ -63,6 +63,10 @@
         404391171
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7656440e041c45aa8e6fa5e9972e8698",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676863,
-    "wof:lastmodified":1539928877,
+    "wof:lastmodified":1603247183,
     "wof:name":"Faugeres",
     "wof:parent_id":102065809,
     "wof:placetype":"locality",

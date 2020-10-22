@@ -146,6 +146,11 @@
         404352213
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7157107dda6771aca54a1176a1cc499b",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360672999,
-    "wof:lastmodified":1564126880,
+    "wof:lastmodified":1603247305,
     "wof:name":"Aurelle-Verlac",
     "wof:parent_id":102070393,
     "wof:placetype":"locality",

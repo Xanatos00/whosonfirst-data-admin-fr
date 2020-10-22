@@ -62,6 +62,10 @@
         404406571
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"598ae4473a47eae46ab70a13b4e0c16e",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360678277,
-    "wof:lastmodified":1539928901,
+    "wof:lastmodified":1603247184,
     "wof:name":"Saint-Denis-Des-Coudrais",
     "wof:parent_id":102070153,
     "wof:placetype":"locality",

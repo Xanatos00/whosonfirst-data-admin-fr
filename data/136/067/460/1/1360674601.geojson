@@ -108,6 +108,10 @@
         404367881
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"71e40b84edae5b1131ba9db6a1f28950",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360674601,
-    "wof:lastmodified":1564126754,
+    "wof:lastmodified":1603247288,
     "wof:name":"Saint-Angel",
     "wof:parent_id":102067943,
     "wof:placetype":"locality",

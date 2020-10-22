@@ -62,6 +62,10 @@
         404404161
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"efef6a74b52b32c540f933bc37522438",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360678055,
-    "wof:lastmodified":1539928897,
+    "wof:lastmodified":1603247223,
     "wof:name":"Le Pont-Chretien-Chabenet",
     "wof:parent_id":102064731,
     "wof:placetype":"locality",

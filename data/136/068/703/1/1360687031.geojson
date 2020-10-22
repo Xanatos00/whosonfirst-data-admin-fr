@@ -9,7 +9,7 @@
     "geom:bbox":"0.30281,47.255815,0.30281,47.255815",
     "geom:latitude":47.255815,
     "geom:longitude":0.30281,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.255815,
     "lbl:longitude":0.30281,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687031,
-    "wof:lastmodified":1539986890,
+    "wof:lastmodified":1603247084,
     "wof:name":"La Croix-de-Rigny",
     "wof:parent_id":404389007,
     "wof:placetype":"neighbourhood",

@@ -62,6 +62,10 @@
         404410439
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8b7edfb7fcc5ef230b4fad6fdc72a221",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360678701,
-    "wof:lastmodified":1539928908,
+    "wof:lastmodified":1603247271,
     "wof:name":"Souge",
     "wof:parent_id":102065293,
     "wof:placetype":"locality",

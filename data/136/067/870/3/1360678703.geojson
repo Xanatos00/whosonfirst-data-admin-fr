@@ -93,6 +93,10 @@
         404410471
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"88e606f12f248c66b441837303860f37",
     "wof:hierarchy":[
         {
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1360678703,
-    "wof:lastmodified":1564126618,
+    "wof:lastmodified":1603247271,
     "wof:name":"Saillans",
     "wof:parent_id":102068871,
     "wof:placetype":"locality",

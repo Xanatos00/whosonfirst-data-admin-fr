@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683247,
         102191581,
-        85633147,
-        404419307,
         404227587,
+        404419307,
+        85633147,
         1108826399,
         136253037,
         102065611
@@ -63,6 +63,10 @@
         404419307
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f43e808d87e8330d7f07423a28448d8b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679541,
-    "wof:lastmodified":1539928923,
+    "wof:lastmodified":1603247166,
     "wof:name":"Mont-Saint-Pere",
     "wof:parent_id":102065611,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"3.527748,43.293825,3.527748,43.293825",
     "geom:latitude":43.293825,
     "geom:longitude":3.527748,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.293825,
     "lbl:longitude":3.527748,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684543,
-    "wof:lastmodified":1539986858,
+    "wof:lastmodified":1603247064,
     "wof:name":"Port-Ambonne",
     "wof:parent_id":404375673,
     "wof:placetype":"neighbourhood",

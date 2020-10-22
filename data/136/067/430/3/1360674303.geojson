@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404364999,
         404227831,
+        404364999,
+        85633147,
         1108826385,
         136253037,
         102065271
@@ -63,6 +63,10 @@
         404364999
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"585cbd3f07d6ae491dfa4526dcc5b9a7",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674303,
-    "wof:lastmodified":1539928832,
+    "wof:lastmodified":1603247207,
     "wof:name":"Saint-Palais-Du-Ne",
     "wof:parent_id":102065271,
     "wof:placetype":"locality",

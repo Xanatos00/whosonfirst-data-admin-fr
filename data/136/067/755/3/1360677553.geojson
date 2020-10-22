@@ -122,6 +122,11 @@
         404398595
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"62d9105668b5cd0c877b030d8c468c73",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360677553,
-    "wof:lastmodified":1564125855,
+    "wof:lastmodified":1603247165,
     "wof:name":"Boisset",
     "wof:parent_id":102066023,
     "wof:placetype":"locality",

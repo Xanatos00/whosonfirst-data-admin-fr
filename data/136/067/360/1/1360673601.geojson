@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683431,
         102191581,
-        85633147,
-        404358505,
         404227861,
+        404358505,
+        85633147,
         1108826387,
         136253037,
         102068587
@@ -68,6 +68,11 @@
         404358505
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2e12d488935f0e0dc9a37dae445d6899",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673601,
-    "wof:lastmodified":1539928816,
+    "wof:lastmodified":1603247262,
     "wof:name":"Laudun-L'Ardoise",
     "wof:parent_id":102068587,
     "wof:placetype":"locality",

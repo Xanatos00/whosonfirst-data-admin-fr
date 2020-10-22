@@ -137,6 +137,11 @@
         404356371
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"adf2f0359f647b953f30102fa71cefcc",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360673383,
-    "wof:lastmodified":1564125827,
+    "wof:lastmodified":1603247161,
     "wof:name":"Ganties",
     "wof:parent_id":102064325,
     "wof:placetype":"locality",

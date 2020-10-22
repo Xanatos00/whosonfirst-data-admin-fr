@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683261,
         102191581,
-        85633147,
-        404359351,
         404227911,
+        404359351,
+        85633147,
         1108826391,
         136253037,
         102064745
@@ -77,6 +77,11 @@
         404359351
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d92cf3534c9eaf5d442a41f10f1517f9",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360673681,
-    "wof:lastmodified":1539928818,
+    "wof:lastmodified":1603247250,
     "wof:name":"Vals-Des-Tilles",
     "wof:parent_id":102064745,
     "wof:placetype":"locality",

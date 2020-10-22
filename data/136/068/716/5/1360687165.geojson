@@ -9,7 +9,7 @@
     "geom:bbox":"9.26774,41.472294,9.26774,41.472294",
     "geom:latitude":41.472294,
     "geom:longitude":9.26774,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":41.472294,
     "lbl:longitude":9.26774,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687165,
-    "wof:lastmodified":1539986892,
+    "wof:lastmodified":1603247121,
     "wof:name":"Suartone",
     "wof:parent_id":404420783,
     "wof:placetype":"neighbourhood",

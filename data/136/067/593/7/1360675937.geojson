@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683261,
         102191581,
-        85633147,
-        404381357,
         404228109,
+        404381357,
+        85633147,
         1108826391,
         136253037,
         102066159
@@ -63,6 +63,10 @@
         404381357
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3855efea3fca01e7aa68b771a117424b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675937,
-    "wof:lastmodified":1539928860,
+    "wof:lastmodified":1603247164,
     "wof:name":"Cerisieres",
     "wof:parent_id":102066159,
     "wof:placetype":"locality",

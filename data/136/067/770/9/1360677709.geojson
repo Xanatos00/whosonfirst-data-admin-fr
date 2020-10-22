@@ -105,6 +105,10 @@
         404400257
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"18239c663f41ca2f45fd71e658f6a33b",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360677709,
-    "wof:lastmodified":1564126413,
+    "wof:lastmodified":1603247242,
     "wof:name":"Lachapelle",
     "wof:parent_id":102064747,
     "wof:placetype":"locality",

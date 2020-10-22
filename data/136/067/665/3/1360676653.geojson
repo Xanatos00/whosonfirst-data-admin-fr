@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683431,
         102191581,
-        85633147,
-        404389281,
         404227651,
+        404389281,
+        85633147,
         1108826387,
         136253037,
         102068715
@@ -63,6 +63,10 @@
         404389281
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b55746b82918a436960e91d34e5491da",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676653,
-    "wof:lastmodified":1539928873,
+    "wof:lastmodified":1603247298,
     "wof:name":"Saint-Denis",
     "wof:parent_id":102068715,
     "wof:placetype":"locality",

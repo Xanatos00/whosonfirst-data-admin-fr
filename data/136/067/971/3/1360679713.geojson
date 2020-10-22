@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404421243,
         404227871,
+        404421243,
+        85633147,
         1108826387,
         136253037,
         102066671
@@ -63,6 +63,10 @@
         404421243
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f550924c1a4f07e2bfe5d40a28e408b0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679713,
-    "wof:lastmodified":1539928926,
+    "wof:lastmodified":1603247238,
     "wof:name":"Moules-Et-Baucels",
     "wof:parent_id":102066671,
     "wof:placetype":"locality",

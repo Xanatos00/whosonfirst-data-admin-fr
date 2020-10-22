@@ -9,7 +9,7 @@
     "geom:bbox":"5.713333,44.0223225,5.713333,44.0223225",
     "geom:latitude":44.022323,
     "geom:longitude":5.713333,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.022323,
     "lbl:longitude":5.713333,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683769,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247073,
     "wof:name":"Le Rocher d'Ongles",
     "wof:parent_id":404406093,
     "wof:placetype":"neighbourhood",

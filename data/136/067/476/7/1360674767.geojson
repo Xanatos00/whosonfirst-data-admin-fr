@@ -102,6 +102,10 @@
         404369945
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7c9a97e60222971bb20585ea7c3580c6",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360674767,
-    "wof:lastmodified":1564126015,
+    "wof:lastmodified":1603247187,
     "wof:name":"Mortiers",
     "wof:parent_id":102066223,
     "wof:placetype":"locality",

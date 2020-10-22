@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683381,
         102191581,
-        85633147,
-        404414063,
         404228255,
+        404414063,
+        85633147,
         1108826391,
         136253037,
         102066391
@@ -83,6 +83,11 @@
         404414063
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ee8620fb0082330b27521ad61a677ffd",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360679093,
-    "wof:lastmodified":1539928915,
+    "wof:lastmodified":1603247160,
     "wof:name":"Michelbach-Le-Haut",
     "wof:parent_id":102066391,
     "wof:placetype":"locality",

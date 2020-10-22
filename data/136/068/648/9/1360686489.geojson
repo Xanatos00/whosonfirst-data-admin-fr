@@ -9,7 +9,7 @@
     "geom:bbox":"2.702057,45.026283,2.702057,45.026283",
     "geom:latitude":45.026283,
     "geom:longitude":2.702057,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.026283,
     "lbl:longitude":2.702057,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686489,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247100,
     "wof:name":"Nierev\u00e8ze",
     "wof:parent_id":404382971,
     "wof:placetype":"neighbourhood",

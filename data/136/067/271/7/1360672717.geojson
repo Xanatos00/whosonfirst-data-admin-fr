@@ -101,6 +101,10 @@
         404349655
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bce605ca93c41a421ccde02aa319fe86",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":1360672717,
-    "wof:lastmodified":1564126696,
+    "wof:lastmodified":1603247281,
     "wof:name":"Saint-Fiacre",
     "wof:parent_id":102070531,
     "wof:placetype":"locality",

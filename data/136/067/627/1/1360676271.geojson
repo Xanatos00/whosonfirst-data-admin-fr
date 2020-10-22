@@ -155,6 +155,11 @@
         404384905
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"23e7d2b595df8c93d9a17945a5ca775c",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360676271,
-    "wof:lastmodified":1564126106,
+    "wof:lastmodified":1603247199,
     "wof:name":"Rougefay",
     "wof:parent_id":102065453,
     "wof:placetype":"locality",

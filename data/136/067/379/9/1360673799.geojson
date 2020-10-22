@@ -67,6 +67,11 @@
         404360527
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c720e61b8ed0e4fadddcbb5d5f9fb14d",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360673799,
-    "wof:lastmodified":1539928821,
+    "wof:lastmodified":1603247225,
     "wof:name":"Savines-Le-Lac",
     "wof:parent_id":102068191,
     "wof:placetype":"locality",

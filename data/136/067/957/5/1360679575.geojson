@@ -125,6 +125,11 @@
         404419705
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8d7c945bfcab58bec9755cb5ad3829fd",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360679575,
-    "wof:lastmodified":1564126448,
+    "wof:lastmodified":1603247247,
     "wof:name":"Montaut",
     "wof:parent_id":102066787,
     "wof:placetype":"locality",

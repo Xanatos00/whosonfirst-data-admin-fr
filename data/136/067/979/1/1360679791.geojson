@@ -134,6 +134,11 @@
         404422009
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f93561688b53235663725fa1ca2e9e3f",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360679791,
-    "wof:lastmodified":1564126307,
+    "wof:lastmodified":1603247227,
     "wof:name":"Jouhe",
     "wof:parent_id":102068717,
     "wof:placetype":"locality",

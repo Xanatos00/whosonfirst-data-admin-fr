@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683301,
         102191581,
-        85633147,
-        404370965,
         404228027,
+        404370965,
+        85633147,
         1108826387,
         136253037,
         102065361
@@ -68,6 +68,11 @@
         404370965
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b7654ba6fbcea6d28a1faa8329999eaf",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360674861,
-    "wof:lastmodified":1539928842,
+    "wof:lastmodified":1603247277,
     "wof:name":"Balaguier-D'Olt",
     "wof:parent_id":102065361,
     "wof:placetype":"locality",

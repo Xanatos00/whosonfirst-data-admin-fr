@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404375529,
         404228213,
+        404375529,
+        85633147,
         1108826385,
         136253037,
         102066193
@@ -63,6 +63,10 @@
         404375529
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6f75d9ab6eff62467924414b0fd7c156",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675319,
-    "wof:lastmodified":1539928850,
+    "wof:lastmodified":1603247260,
     "wof:name":"Cenac-Et-Saint-Julien",
     "wof:parent_id":102066193,
     "wof:placetype":"locality",

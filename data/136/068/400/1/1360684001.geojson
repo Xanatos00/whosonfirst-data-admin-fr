@@ -9,7 +9,7 @@
     "geom:bbox":"1.427536,44.46783,1.427536,44.46783",
     "geom:latitude":44.46783,
     "geom:longitude":1.427536,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.46783,
     "lbl:longitude":1.427536,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684001,
-    "wof:lastmodified":1539986851,
+    "wof:lastmodified":1603247063,
     "wof:name":"St.-\u00c9ienne",
     "wof:parent_id":1159321937,
     "wof:placetype":"neighbourhood",

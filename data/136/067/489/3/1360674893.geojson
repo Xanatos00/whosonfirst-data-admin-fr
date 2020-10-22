@@ -158,6 +158,11 @@
         404371385
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"845370fc5cfc9fa7fc9ac42b4389998a",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360674893,
-    "wof:lastmodified":1564126722,
+    "wof:lastmodified":1603247285,
     "wof:name":"Peyraud",
     "wof:parent_id":102068429,
     "wof:placetype":"locality",

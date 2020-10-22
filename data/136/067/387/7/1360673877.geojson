@@ -164,6 +164,11 @@
         404360979
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"92321a9f70fff6dad0fcdb695b02ffc4",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360673877,
-    "wof:lastmodified":1564126955,
+    "wof:lastmodified":1603247315,
     "wof:name":"Allerey",
     "wof:parent_id":102064453,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683255,
         102191581,
-        85633147,
-        404408125,
         404228249,
+        404408125,
+        85633147,
         1108826399,
         136253037,
         102071005
@@ -63,6 +63,10 @@
         404408125
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"48bf67eb7665c49b55dfc5c524410778",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678423,
-    "wof:lastmodified":1539928904,
+    "wof:lastmodified":1603247189,
     "wof:name":"Noyelles-Les-Humieres",
     "wof:parent_id":102071005,
     "wof:placetype":"locality",

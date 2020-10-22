@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404398057,
         404228045,
+        404398057,
+        85633147,
         1108826395,
         136253037,
         102069537
@@ -63,6 +63,10 @@
         404398057
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a1359fe6ec4f41e80f76c119e90a8b7d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677511,
-    "wof:lastmodified":1539928888,
+    "wof:lastmodified":1603247256,
     "wof:name":"Terrefondree",
     "wof:parent_id":102069537,
     "wof:placetype":"locality",

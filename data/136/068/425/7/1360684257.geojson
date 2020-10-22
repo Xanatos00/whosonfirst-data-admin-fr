@@ -9,7 +9,7 @@
     "geom:bbox":"0.0133035,42.8186675,0.0133035,42.8186675",
     "geom:latitude":42.818667,
     "geom:longitude":0.013303,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.818667,
     "lbl:longitude":0.013303,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684257,
-    "wof:lastmodified":1539986854,
+    "wof:lastmodified":1603247047,
     "wof:name":"Pragn\u00e8res",
     "wof:parent_id":404365429,
     "wof:placetype":"neighbourhood",

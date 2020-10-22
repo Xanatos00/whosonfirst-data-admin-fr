@@ -129,6 +129,10 @@
         404361727
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"59cbe9da9ab6eb2cd675c8b1eb32fa7e",
     "wof:hierarchy":[
         {
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1360673967,
-    "wof:lastmodified":1564125883,
+    "wof:lastmodified":1603247168,
     "wof:name":"Saint-Victor-Montvianeix",
     "wof:parent_id":102071291,
     "wof:placetype":"locality",

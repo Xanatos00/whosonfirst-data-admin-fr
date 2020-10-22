@@ -9,7 +9,7 @@
     "geom:bbox":"6.297226,43.110257,6.297226,43.110257",
     "geom:latitude":43.110257,
     "geom:longitude":6.297226,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.110257,
     "lbl:longitude":6.297226,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686539,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247108,
     "wof:name":"Port Miramar",
     "wof:parent_id":404366721,
     "wof:placetype":"neighbourhood",

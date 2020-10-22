@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404364991,
         404227599,
+        404364991,
+        85633147,
         1108826389,
         136253037,
         102064435
@@ -63,6 +63,10 @@
         404364991
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"49057bd2c0a84ec45909689c289889b6",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674299,
-    "wof:lastmodified":1539928831,
+    "wof:lastmodified":1603247278,
     "wof:name":"Labastide-Sur-Besorgues",
     "wof:parent_id":102064435,
     "wof:placetype":"locality",

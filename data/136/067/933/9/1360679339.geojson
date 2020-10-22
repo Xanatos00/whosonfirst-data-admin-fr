@@ -113,6 +113,11 @@
         404417015
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"80299e1d4660625bab589aaac0fed289",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360679339,
-    "wof:lastmodified":1564126591,
+    "wof:lastmodified":1603247267,
     "wof:name":"Marsas",
     "wof:parent_id":102064931,
     "wof:placetype":"locality",

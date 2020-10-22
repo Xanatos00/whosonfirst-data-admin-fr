@@ -113,6 +113,11 @@
         404362933
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f53e00c52f817c78bee062635f36ec56",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360674093,
-    "wof:lastmodified":1564126219,
+    "wof:lastmodified":1603247215,
     "wof:name":"Roussines",
     "wof:parent_id":102068061,
     "wof:placetype":"locality",

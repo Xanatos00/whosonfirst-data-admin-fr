@@ -9,7 +9,7 @@
     "geom:bbox":"4.599494,43.605256,4.599494,43.605256",
     "geom:latitude":43.605256,
     "geom:longitude":4.599494,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.605256,
     "lbl:longitude":4.599494,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686263,
-    "wof:lastmodified":1539986881,
+    "wof:lastmodified":1603247048,
     "wof:name":"Gageron",
     "wof:parent_id":1159321919,
     "wof:placetype":"neighbourhood",

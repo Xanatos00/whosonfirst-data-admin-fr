@@ -138,6 +138,10 @@
         404360251
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3741849661c306f4d0973a5f6a1030c7",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360673777,
-    "wof:lastmodified":1564126308,
+    "wof:lastmodified":1603247227,
     "wof:name":"Saint-Pierre-Colamine",
     "wof:parent_id":102065173,
     "wof:placetype":"locality",

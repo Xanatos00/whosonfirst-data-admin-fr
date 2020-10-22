@@ -63,9 +63,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404425579,
         404227831,
+        404425579,
+        85633147,
         1108826385,
         136253037,
         102065271
@@ -80,6 +80,11 @@
         404425579
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"77e50037154555d028e06f9fb0757748",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360680137,
-    "wof:lastmodified":1539928933,
+    "wof:lastmodified":1603247049,
     "wof:name":"Barret",
     "wof:parent_id":102065271,
     "wof:placetype":"locality",

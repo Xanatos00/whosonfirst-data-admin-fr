@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404422723,
         404227907,
+        404422723,
+        85633147,
         1108826393,
         136253037,
         102064739
@@ -63,6 +63,10 @@
         404422723
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9def5f85a18736f2426b715ca0b0316b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679855,
-    "wof:lastmodified":1539928928,
+    "wof:lastmodified":1603247239,
     "wof:name":"Saint-Jean-De-La-Riviere",
     "wof:parent_id":102064739,
     "wof:placetype":"locality",

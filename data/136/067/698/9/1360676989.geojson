@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683183,
         102191581,
-        85633147,
-        404392163,
         404227673,
+        404392163,
+        85633147,
         1108826385,
         136253037,
         102064841
@@ -63,6 +63,10 @@
         404392163
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"99ff549d5888e3a103c08ee61b8c212d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676989,
-    "wof:lastmodified":1539928879,
+    "wof:lastmodified":1603247298,
     "wof:name":"Tethieu",
     "wof:parent_id":102064841,
     "wof:placetype":"locality",

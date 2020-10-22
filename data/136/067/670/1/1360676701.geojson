@@ -158,6 +158,11 @@
         404389771
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cb6ac95f8a1057f95a2baf996c441fde",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360676701,
-    "wof:lastmodified":1564126715,
+    "wof:lastmodified":1603247284,
     "wof:name":"Bonviller",
     "wof:parent_id":102067453,
     "wof:placetype":"locality",

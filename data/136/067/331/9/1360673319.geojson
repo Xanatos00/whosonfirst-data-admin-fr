@@ -144,6 +144,10 @@
         404355677
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d699baa88277efa61dbdb9baa69586f5",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360673319,
-    "wof:lastmodified":1564125857,
+    "wof:lastmodified":1603247165,
     "wof:name":"Saint-Santin",
     "wof:parent_id":102066139,
     "wof:placetype":"locality",

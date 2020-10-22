@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683539,
         102191581,
-        85633147,
-        404412487,
         404227727,
+        404412487,
+        85633147,
         1108826385,
         136253037,
         102066443
@@ -63,6 +63,10 @@
         404412487
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5ee72253913d060fdc3388ff6827af6b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678933,
-    "wof:lastmodified":1539928912,
+    "wof:lastmodified":1603247219,
     "wof:name":"Saint-Martin-D'Arberoue",
     "wof:parent_id":102066443,
     "wof:placetype":"locality",

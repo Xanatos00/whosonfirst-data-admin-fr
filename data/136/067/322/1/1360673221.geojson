@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404354751,
         404227973,
+        404354751,
+        85633147,
         1108826399,
         136253037,
         102068993
@@ -68,6 +68,11 @@
         404354751
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a726d23d92ed6f5446d562b0a289108d",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673221,
-    "wof:lastmodified":1539928796,
+    "wof:lastmodified":1603247244,
     "wof:name":"Hornoy-Le-Bourg",
     "wof:parent_id":102068993,
     "wof:placetype":"locality",

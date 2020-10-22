@@ -101,6 +101,11 @@
         404381135
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4a2a7f34b3d3c6c8e487ad6a878f339f",
     "wof:hierarchy":[
         {
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":1360675919,
-    "wof:lastmodified":1564126570,
+    "wof:lastmodified":1603247264,
     "wof:name":"Nonville",
     "wof:parent_id":102067419,
     "wof:placetype":"locality",

@@ -130,6 +130,11 @@
         404375621
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b954c9ce04df20e84442cbd71af7c624",
     "wof:hierarchy":[
         {
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":1360675329,
-    "wof:lastmodified":1564125983,
+    "wof:lastmodified":1603247182,
     "wof:name":"Cogners",
     "wof:parent_id":102069519,
     "wof:placetype":"locality",

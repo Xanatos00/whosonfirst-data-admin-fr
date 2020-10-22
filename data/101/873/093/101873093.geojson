@@ -9,9 +9,8 @@
     "geom:bbox":"-6.82055,61.838836,-6.82055,61.838836",
     "geom:latitude":61.838836,
     "geom:longitude":-6.82055,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":608,
+    "gn:country":"FO",
+    "gn:fcode":"PPLA",
     "gn:population":608,
     "iso:country":"FO",
     "lbl:latitude":61.838836,
@@ -156,10 +155,7 @@
         }
     ],
     "wof:id":101873093,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1582323204,
+    "wof:lastmodified":1603247540,
     "wof:name":"Sandur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

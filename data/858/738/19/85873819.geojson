@@ -9,7 +9,6 @@
     "geom:bbox":"2.348529,48.843639,2.362556,48.852078",
     "geom:latitude":48.847632,
     "geom:longitude":2.354125,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.847344,
     "lbl:longitude":2.353991,
@@ -90,13 +89,13 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894239,
         102191581,
-        85633147,
-        1159322569,
-        101751119,
         1158894275,
+        1159322569,
+        85633147,
         404227465,
+        101751119,
+        1158894239,
         85683497
     ],
     "wof:breaches":[],
@@ -125,10 +124,7 @@
         }
     ],
     "wof:id":85873819,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592442,
+    "wof:lastmodified":1603246971,
     "wof:name":"Saint-Victor",
     "wof:parent_id":1158894275,
     "wof:placetype":"neighbourhood",

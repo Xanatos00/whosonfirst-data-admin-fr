@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404374467,
         404227751,
+        404374467,
+        85633147,
         1108826393,
         136253037,
         102065061
@@ -63,6 +63,10 @@
         404374467
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b2f818674bae63040349d62d139769d8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675213,
-    "wof:lastmodified":1539928848,
+    "wof:lastmodified":1603247228,
     "wof:name":"Saint-Riquier-En-Riviere",
     "wof:parent_id":102065061,
     "wof:placetype":"locality",

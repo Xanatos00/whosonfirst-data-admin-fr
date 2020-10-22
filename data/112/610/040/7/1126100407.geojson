@@ -9,9 +9,9 @@
     "geom:bbox":"5.95035,45.94742,5.95035,45.94742",
     "geom:latitude":45.94742,
     "geom:longitude":5.95035,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":859,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
+    "gn:population":859,
     "iso:country":"FR",
     "lbl:latitude":45.94742,
     "lbl:longitude":5.95035,
@@ -46,7 +46,6 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85683227,
         102191581,
         404227747,
         404379597,
@@ -54,7 +53,8 @@
         1108826389,
         101893765,
         136253037,
-        102067589
+        102067589,
+        85683227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1126100407,
-    "wof:lastmodified":1509412089,
+    "wof:lastmodified":1603248645,
     "wof:name":"Bethusy",
     "wof:parent_id":101893765,
     "wof:placetype":"neighbourhood",

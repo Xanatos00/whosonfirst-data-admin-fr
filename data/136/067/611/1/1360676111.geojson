@@ -101,6 +101,11 @@
         404383139
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"51543375a87a1660765526678c0e1e2b",
     "wof:hierarchy":[
         {
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":1360676111,
-    "wof:lastmodified":1564126131,
+    "wof:lastmodified":1603247202,
     "wof:name":"Gras",
     "wof:parent_id":102064893,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"5.669589,46.466595,5.669589,46.466595",
     "geom:latitude":46.466595,
     "geom:longitude":5.669589,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.466595,
     "lbl:longitude":5.669589,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682157,
-    "wof:lastmodified":1539986827,
+    "wof:lastmodified":1603247091,
     "wof:name":"La Louvati\u00e8re",
     "wof:parent_id":404351375,
     "wof:placetype":"neighbourhood",

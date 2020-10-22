@@ -9,7 +9,7 @@
     "geom:bbox":"8.912658,41.746341,8.912658,41.746341",
     "geom:latitude":41.746341,
     "geom:longitude":8.912658,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":41.746341,
     "lbl:longitude":8.912658,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687849,
-    "wof:lastmodified":1539986901,
+    "wof:lastmodified":1603247076,
     "wof:name":"Calvese",
     "wof:parent_id":404391129,
     "wof:placetype":"neighbourhood",

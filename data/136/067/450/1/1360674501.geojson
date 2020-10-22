@@ -79,6 +79,11 @@
         404367067
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b20d99d160ac64a630cb747f2b8ccffd",
     "wof:hierarchy":[
         {
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":1360674501,
-    "wof:lastmodified":1539928836,
+    "wof:lastmodified":1603247296,
     "wof:name":"Claret",
     "wof:parent_id":102067339,
     "wof:placetype":"locality",

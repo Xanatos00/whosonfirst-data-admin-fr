@@ -143,6 +143,11 @@
         404393973
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2edc7f8ad8718cf11c17d874473e8ce0",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360677165,
-    "wof:lastmodified":1564127026,
+    "wof:lastmodified":1603247324,
     "wof:name":"Laymont",
     "wof:parent_id":102066605,
     "wof:placetype":"locality",

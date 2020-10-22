@@ -128,6 +128,11 @@
         404366633
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d0c1d7028e564b304aba5622c90c4895",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360674481,
-    "wof:lastmodified":1564126066,
+    "wof:lastmodified":1603247194,
     "wof:name":"Plan",
     "wof:parent_id":102069083,
     "wof:placetype":"locality",

@@ -152,6 +152,11 @@
         404353825
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3201f116ce537e824e46f0b553b59eeb",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360673125,
-    "wof:lastmodified":1564126355,
+    "wof:lastmodified":1603247234,
     "wof:name":"Vissac-Auteyrac",
     "wof:parent_id":102066037,
     "wof:placetype":"locality",

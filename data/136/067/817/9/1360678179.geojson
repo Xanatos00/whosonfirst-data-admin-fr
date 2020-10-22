@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683503,
         102191581,
-        85633147,
-        404405457,
         404228181,
+        404405457,
+        85633147,
         1108826395,
         136253037,
         102069213
@@ -63,6 +63,10 @@
         404405457
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"856b82f8b4ddaaf529d84b216f932704",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678179,
-    "wof:lastmodified":1539928899,
+    "wof:lastmodified":1603247195,
     "wof:name":"Saint-Loup-D'Ordon",
     "wof:parent_id":102069213,
     "wof:placetype":"locality",

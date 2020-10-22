@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404380267,
         404228049,
+        404380267,
+        85633147,
         1108826385,
         136253037,
         102064967
@@ -63,6 +63,10 @@
         404380267
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5106430dfea4b2ff6dc86416ea867c7b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675805,
-    "wof:lastmodified":1539928858,
+    "wof:lastmodified":1603247244,
     "wof:name":"Saint-Julien-De-Bourdeilles",
     "wof:parent_id":102064967,
     "wof:placetype":"locality",

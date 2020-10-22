@@ -116,6 +116,11 @@
         404426113
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"372c3f197e597a393366f5900cf3eb18",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360680185,
-    "wof:lastmodified":1564125593,
+    "wof:lastmodified":1603247092,
     "wof:name":"Coux",
     "wof:parent_id":102067373,
     "wof:placetype":"locality",

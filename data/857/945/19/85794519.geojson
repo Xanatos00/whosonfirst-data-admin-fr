@@ -9,7 +9,6 @@
     "geom:bbox":"2.045625,48.967035,2.045625,48.967035",
     "geom:latitude":48.967035,
     "geom:longitude":2.045625,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.967035,
     "lbl:longitude":2.045625,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85794519,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322792,
+    "wof:lastmodified":1603246954,
     "wof:name":"Denouval",
     "wof:parent_id":101749087,
     "wof:placetype":"neighbourhood",

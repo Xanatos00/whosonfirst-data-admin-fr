@@ -137,6 +137,11 @@
         404352057
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3a627253cf9d55d44cac51e2745bf327",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360672967,
-    "wof:lastmodified":1564126798,
+    "wof:lastmodified":1603247294,
     "wof:name":"Anglars",
     "wof:parent_id":102066679,
     "wof:placetype":"locality",

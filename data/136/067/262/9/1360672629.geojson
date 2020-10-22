@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683603,
         102191581,
-        85633147,
-        404348277,
         404227763,
+        404348277,
+        85633147,
         1108826387,
         136253037,
         102066451
@@ -68,6 +68,11 @@
         404348277
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"284e70bdfed843485dea111ae16ba291",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672629,
-    "wof:lastmodified":1539928784,
+    "wof:lastmodified":1603247293,
     "wof:name":"Castanet",
     "wof:parent_id":102066451,
     "wof:placetype":"locality",

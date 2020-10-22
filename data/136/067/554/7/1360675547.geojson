@@ -128,6 +128,11 @@
         404377591
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"079084cec2a1558e49da6c6301c64dc4",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360675547,
-    "wof:lastmodified":1564126586,
+    "wof:lastmodified":1603247266,
     "wof:name":"Bures",
     "wof:parent_id":102064351,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404407727,
         404227839,
+        404407727,
+        85633147,
         1108826395,
         136253037,
         102067033
@@ -63,6 +63,10 @@
         404407727
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"66144132e5c25de698d628e40e6b1b6e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678379,
-    "wof:lastmodified":1539928903,
+    "wof:lastmodified":1603247296,
     "wof:name":"L'Etang-Vergy",
     "wof:parent_id":102067033,
     "wof:placetype":"locality",

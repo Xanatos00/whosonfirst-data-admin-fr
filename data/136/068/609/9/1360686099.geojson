@@ -9,7 +9,7 @@
     "geom:bbox":"4.370729,44.084814,4.370729,44.084814",
     "geom:latitude":44.084814,
     "geom:longitude":4.370729,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.084814,
     "lbl:longitude":4.370729,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686099,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247112,
     "wof:name":"Le Mas de la Vielle-Eglise",
     "wof:parent_id":404386869,
     "wof:placetype":"neighbourhood",

@@ -152,6 +152,11 @@
         404415985
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b6a2d3fdfc1371684845c4b6c82db10f",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360679273,
-    "wof:lastmodified":1564126921,
+    "wof:lastmodified":1603247311,
     "wof:name":"Neufmaison",
     "wof:parent_id":102069431,
     "wof:placetype":"locality",

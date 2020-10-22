@@ -102,6 +102,10 @@
         404379977
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c0568dde2b73164324f4c1454535d172",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360675785,
-    "wof:lastmodified":1564126908,
+    "wof:lastmodified":1603247309,
     "wof:name":"Artix",
     "wof:parent_id":102067799,
     "wof:placetype":"locality",

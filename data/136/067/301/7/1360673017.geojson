@@ -67,6 +67,11 @@
         404352647
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"77d4eaa7ca4154db098caac40a152cfb",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360673017,
-    "wof:lastmodified":1539928792,
+    "wof:lastmodified":1603247175,
     "wof:name":"Val-De-Chalvagne",
     "wof:parent_id":102065881,
     "wof:placetype":"locality",

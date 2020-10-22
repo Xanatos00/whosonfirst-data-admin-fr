@@ -146,6 +146,11 @@
         404351247
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4c9ea08519c539dba2f7548d2cdfbd3e",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360672887,
-    "wof:lastmodified":1564126101,
+    "wof:lastmodified":1603247199,
     "wof:name":"Ventenac",
     "wof:parent_id":102067799,
     "wof:placetype":"locality",

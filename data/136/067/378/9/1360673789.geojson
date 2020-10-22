@@ -62,6 +62,10 @@
         404360221
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e7da0d0f67e1ab377782cb59849bcaca",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673789,
-    "wof:lastmodified":1539928821,
+    "wof:lastmodified":1603247240,
     "wof:name":"L'Epine",
     "wof:parent_id":102068375,
     "wof:placetype":"locality",

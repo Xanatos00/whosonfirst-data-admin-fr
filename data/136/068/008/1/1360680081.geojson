@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404425129,
         404228293,
+        404425129,
+        85633147,
         1108826395,
         136253037,
         102066589
@@ -63,6 +63,10 @@
         404425129
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"151fe334deb9c6c8c7a8d2ba427ae443",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680081,
-    "wof:lastmodified":1539928932,
+    "wof:lastmodified":1603247064,
     "wof:name":"Saint-Vincent-Des-Pres",
     "wof:parent_id":102066589,
     "wof:placetype":"locality",

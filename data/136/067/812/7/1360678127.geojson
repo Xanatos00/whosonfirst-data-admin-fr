@@ -116,6 +116,11 @@
         404404985
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b1e49787a9097c1f9d2289798bb3a324",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360678127,
-    "wof:lastmodified":1564126655,
+    "wof:lastmodified":1603247276,
     "wof:name":"Rances",
     "wof:parent_id":102065213,
     "wof:placetype":"locality",

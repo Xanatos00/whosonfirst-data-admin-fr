@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683603,
         102191581,
-        85633147,
-        404352957,
         404227975,
+        404352957,
+        85633147,
         1108826387,
         136253037,
         102068789
@@ -63,6 +63,10 @@
         404352957
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2be827f66ac1ad4c24e58890fd05508a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673041,
-    "wof:lastmodified":1539928793,
+    "wof:lastmodified":1603247253,
     "wof:name":"Saint-Germain-Des-Pres",
     "wof:parent_id":102068789,
     "wof:placetype":"locality",

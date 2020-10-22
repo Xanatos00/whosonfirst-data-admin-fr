@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404385445,
         404227635,
+        404385445,
+        85633147,
         1108826385,
         136253037,
         102071173
@@ -63,6 +63,10 @@
         404385445
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e229a81e7d043f1beda3a7713586d0ee",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676319,
-    "wof:lastmodified":1539928867,
+    "wof:lastmodified":1603247304,
     "wof:name":"Bonneville-Et-Saint-Avit-De-Fumadieres",
     "wof:parent_id":102071173,
     "wof:placetype":"locality",

@@ -112,6 +112,11 @@
         404367215
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"993a40874ca24e2abf265244e39e4aa0",
     "wof:hierarchy":[
         {
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":1360674523,
-    "wof:lastmodified":1564126198,
+    "wof:lastmodified":1603247212,
     "wof:name":"Boussay",
     "wof:parent_id":102067703,
     "wof:placetype":"locality",

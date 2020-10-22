@@ -111,6 +111,10 @@
         404379565
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2d4afa8edc6f93fd0b245e00ad8970b8",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360675749,
-    "wof:lastmodified":1564126425,
+    "wof:lastmodified":1603247244,
     "wof:name":"Lavau",
     "wof:parent_id":102068627,
     "wof:placetype":"locality",

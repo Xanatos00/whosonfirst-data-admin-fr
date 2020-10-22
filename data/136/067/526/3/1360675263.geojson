@@ -110,6 +110,11 @@
         404374881
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"da1a446babc9ae6c9c2c64b5159caed8",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360675263,
-    "wof:lastmodified":1564126314,
+    "wof:lastmodified":1603247228,
     "wof:name":"Arue",
     "wof:parent_id":102067815,
     "wof:placetype":"locality",

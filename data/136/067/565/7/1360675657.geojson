@@ -119,6 +119,11 @@
         404378809
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7326f4e32126eec121a366efc20bc593",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360675657,
-    "wof:lastmodified":1564126567,
+    "wof:lastmodified":1603247264,
     "wof:name":"Vix",
     "wof:parent_id":102065747,
     "wof:placetype":"locality",

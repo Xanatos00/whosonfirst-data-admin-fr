@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683297,
         102191581,
-        85633147,
-        404419315,
         404228117,
+        404419315,
+        85633147,
         1108826391,
         136253037,
         102064985
@@ -68,6 +68,11 @@
         404419315
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"754315fb774550b07eccfd8ac9fdfe5a",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679543,
-    "wof:lastmodified":1539928923,
+    "wof:lastmodified":1603247166,
     "wof:name":"Brocourt-En-Argonne",
     "wof:parent_id":102064985,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"1.856775,48.651319,1.856775,48.651319",
     "geom:latitude":48.651319,
     "geom:longitude":1.856775,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.651319,
     "lbl:longitude":1.856775,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686081,
-    "wof:lastmodified":1539986878,
+    "wof:lastmodified":1603247105,
     "wof:name":"Le P\u00e2tis",
     "wof:parent_id":404411277,
     "wof:placetype":"neighbourhood",

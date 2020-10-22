@@ -137,6 +137,11 @@
         404381527
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"44b9d47f70c0956802f279df0c2b5e7b",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360675943,
-    "wof:lastmodified":1564125847,
+    "wof:lastmodified":1603247164,
     "wof:name":"Lafox",
     "wof:parent_id":102069631,
     "wof:placetype":"locality",

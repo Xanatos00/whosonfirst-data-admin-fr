@@ -113,6 +113,11 @@
         404419225
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d87d670568402fcb09b4e5eeb256997c",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360679521,
-    "wof:lastmodified":1564125968,
+    "wof:lastmodified":1603247180,
     "wof:name":"La Chaux",
     "wof:parent_id":102065645,
     "wof:placetype":"locality",

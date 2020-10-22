@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683265,
         102191581,
-        85633147,
-        404377295,
         404227959,
+        404377295,
+        85633147,
         1108826389,
         136253037,
         102068413
@@ -63,6 +63,10 @@
         404377295
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"056ad877e870d15f29860e7b8471e715",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675511,
-    "wof:lastmodified":1539928853,
+    "wof:lastmodified":1603247160,
     "wof:name":"Etable",
     "wof:parent_id":102068413,
     "wof:placetype":"locality",

@@ -110,6 +110,11 @@
         404377237
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6f4dbd8d8f6f3adc4093fe7e8bf461a7",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360675487,
-    "wof:lastmodified":1564126998,
+    "wof:lastmodified":1603247321,
     "wof:name":"Romain",
     "wof:parent_id":102066931,
     "wof:placetype":"locality",

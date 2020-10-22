@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683359,
         102191581,
-        85633147,
-        404426959,
         404228123,
+        404426959,
+        85633147,
         1108826395,
         136253037,
         102069193
@@ -63,6 +63,10 @@
         404426959
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"13549e6bfe5103e0671bd38e46cff430",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680267,
-    "wof:lastmodified":1539928935,
+    "wof:lastmodified":1603247098,
     "wof:name":"Saint-Martin-D'Heuille",
     "wof:parent_id":102069193,
     "wof:placetype":"locality",

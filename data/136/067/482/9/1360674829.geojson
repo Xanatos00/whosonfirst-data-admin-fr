@@ -125,6 +125,11 @@
         404370637
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"caa66ff4f4b37d3b344efb151a50ccc6",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360674829,
-    "wof:lastmodified":1564126011,
+    "wof:lastmodified":1603247187,
     "wof:name":"Caumont",
     "wof:parent_id":102068817,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404368527,
         404227865,
+        404368527,
+        85633147,
         1108826387,
         136253037,
         102065089
@@ -63,6 +63,10 @@
         404368527
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d6f3c1b5b0c22b43e77e22c283283112",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674651,
-    "wof:lastmodified":1539928839,
+    "wof:lastmodified":1603247222,
     "wof:name":"Saint-Pe-D'Ardet",
     "wof:parent_id":102065089,
     "wof:placetype":"locality",

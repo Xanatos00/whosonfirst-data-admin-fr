@@ -146,6 +146,11 @@
         404386035
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4de0daae35dbcb784c68048861f504d2",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360676365,
-    "wof:lastmodified":1564126875,
+    "wof:lastmodified":1603247305,
     "wof:name":"Les Places",
     "wof:parent_id":102070401,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404356727,
         404228129,
+        404356727,
+        85633147,
         1108826393,
         136253037,
         102065171
@@ -63,6 +63,10 @@
         404356727
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f1a614e7e3c23bacd7043a386a114b95",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673421,
-    "wof:lastmodified":1539928807,
+    "wof:lastmodified":1603247312,
     "wof:name":"La Mesniere",
     "wof:parent_id":102065171,
     "wof:placetype":"locality",

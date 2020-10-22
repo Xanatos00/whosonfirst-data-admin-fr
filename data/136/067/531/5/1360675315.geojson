@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404375345,
         404227669,
+        404375345,
+        85633147,
         1108826389,
         136253037,
         102070371
@@ -63,6 +63,10 @@
         404375345
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8a085a8064e9ef84b7e64eb6f907c221",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675315,
-    "wof:lastmodified":1539928850,
+    "wof:lastmodified":1603247260,
     "wof:name":"Saint-Bernard",
     "wof:parent_id":102070371,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"-3.150984,47.893046,-3.150984,47.893046",
     "geom:latitude":47.893046,
     "geom:longitude":-3.150984,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.893046,
     "lbl:longitude":-3.150984,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683699,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247082,
     "wof:name":"Poul-F\u00e9tan",
     "wof:parent_id":404396257,
     "wof:placetype":"neighbourhood",

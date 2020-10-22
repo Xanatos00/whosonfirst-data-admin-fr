@@ -67,6 +67,11 @@
         404399085
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"be86604236f878fcce67f8c22e13df19",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360677595,
-    "wof:lastmodified":1539928889,
+    "wof:lastmodified":1603247267,
     "wof:name":"Varennes-Sur-Fouzon",
     "wof:parent_id":102067739,
     "wof:placetype":"locality",

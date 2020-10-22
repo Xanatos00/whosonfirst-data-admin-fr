@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683301,
         102191581,
-        85633147,
-        404362991,
         404228027,
+        404362991,
+        85633147,
         1108826387,
         136253037,
         102065361
@@ -63,6 +63,10 @@
         404362991
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d7b05a615e6ab99310f6b6a12edd5e6e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674097,
-    "wof:lastmodified":1539928827,
+    "wof:lastmodified":1603247215,
     "wof:name":"Asprieres",
     "wof:parent_id":102065361,
     "wof:placetype":"locality",

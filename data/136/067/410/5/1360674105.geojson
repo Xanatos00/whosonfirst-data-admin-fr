@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404363039,
         404227669,
+        404363039,
+        85633147,
         1108826389,
         136253037,
         102069779
@@ -63,6 +63,10 @@
         404363039
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7c7306b5b8a881e0c700ec9923943a2f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674105,
-    "wof:lastmodified":1539928828,
+    "wof:lastmodified":1603247272,
     "wof:name":"Chevrieres",
     "wof:parent_id":102069779,
     "wof:placetype":"locality",

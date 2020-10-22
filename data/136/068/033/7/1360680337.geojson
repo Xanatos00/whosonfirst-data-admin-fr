@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683193,
         102191581,
-        85633147,
-        404427439,
         404227605,
+        404427439,
+        85633147,
         1108826391,
         136253037,
         102068147
@@ -68,6 +68,11 @@
         404427439
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5d24217f74c6fc7db06ecc1a0a52b057",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360680337,
-    "wof:lastmodified":1539928937,
+    "wof:lastmodified":1603247108,
     "wof:name":"La Ville-Aux-Bois",
     "wof:parent_id":102068147,
     "wof:placetype":"locality",

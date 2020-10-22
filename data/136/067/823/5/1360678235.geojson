@@ -140,6 +140,11 @@
         404405881
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3c8a6942ca8f7e883fb04dde3c9f3293",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360678235,
-    "wof:lastmodified":1564126638,
+    "wof:lastmodified":1603247274,
     "wof:name":"La Longeville",
     "wof:parent_id":102067115,
     "wof:placetype":"locality",

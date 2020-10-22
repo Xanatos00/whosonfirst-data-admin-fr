@@ -170,6 +170,11 @@
         404417813
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dafc42cacf6e4bd616ae8ce3673aa3c6",
     "wof:hierarchy":[
         {
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":1360679421,
-    "wof:lastmodified":1564126958,
+    "wof:lastmodified":1603247316,
     "wof:name":"Dehlingen",
     "wof:parent_id":102068131,
     "wof:placetype":"locality",

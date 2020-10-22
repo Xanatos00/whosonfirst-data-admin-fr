@@ -9,7 +9,7 @@
     "geom:bbox":"2.074324,45.063488,2.074324,45.063488",
     "geom:latitude":45.063488,
     "geom:longitude":2.074324,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.063488,
     "lbl:longitude":2.074324,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683709,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247070,
     "wof:name":"Tours de Merle",
     "wof:parent_id":404361301,
     "wof:placetype":"neighbourhood",

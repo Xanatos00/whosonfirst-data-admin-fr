@@ -147,6 +147,10 @@
         404396491
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c9dc637b955584523175590b8ac9ddca",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360677379,
-    "wof:lastmodified":1564125902,
+    "wof:lastmodified":1603247171,
     "wof:name":"Boisroger",
     "wof:parent_id":102070673,
     "wof:placetype":"locality",

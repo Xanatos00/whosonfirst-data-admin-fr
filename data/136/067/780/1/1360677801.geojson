@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404401589,
         404227671,
+        404401589,
+        85633147,
         1108826395,
         136253037,
         102069937
@@ -68,6 +68,11 @@
         404401589
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9fda6aed6bedbe225a1474051fc8694a",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677801,
-    "wof:lastmodified":1539928893,
+    "wof:lastmodified":1603247319,
     "wof:name":"Villeneuve-D'Aval",
     "wof:parent_id":102069937,
     "wof:placetype":"locality",

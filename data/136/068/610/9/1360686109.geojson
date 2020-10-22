@@ -9,7 +9,7 @@
     "geom:bbox":"4.209222,44.39957,4.209222,44.39957",
     "geom:latitude":44.39957,
     "geom:longitude":4.209222,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.39957,
     "lbl:longitude":4.209222,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686109,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247046,
     "wof:name":"Les Borels Casteljau",
     "wof:parent_id":404348003,
     "wof:placetype":"neighbourhood",

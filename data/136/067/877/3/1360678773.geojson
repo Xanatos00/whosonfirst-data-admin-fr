@@ -275,6 +275,11 @@
         404410953
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c13f0e7c3487b9d35192a3cc91df5dbd",
     "wof:hierarchy":[
         {
@@ -290,7 +295,7 @@
         }
     ],
     "wof:id":1360678773,
-    "wof:lastmodified":1564126624,
+    "wof:lastmodified":1603247272,
     "wof:name":"Montreux",
     "wof:parent_id":102065313,
     "wof:placetype":"locality",

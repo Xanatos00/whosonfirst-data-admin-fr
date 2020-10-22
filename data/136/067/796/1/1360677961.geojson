@@ -139,6 +139,11 @@
         404403181
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3bfbfdb1fefd36c86495ae6c547fc670",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360677961,
-    "wof:lastmodified":1564125941,
+    "wof:lastmodified":1603247177,
     "wof:name":"Jouars-Pontchartrain",
     "wof:parent_id":102067077,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683341,
         102191581,
-        85633147,
-        404406613,
         404228231,
+        404406613,
+        85633147,
         1108826385,
         136253037,
         102068497
@@ -63,6 +63,10 @@
         404406613
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4338f98c775fa649a5ae1094d6132394",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678291,
-    "wof:lastmodified":1539928902,
+    "wof:lastmodified":1603247185,
     "wof:name":"Reaup-Lisse",
     "wof:parent_id":102068497,
     "wof:placetype":"locality",

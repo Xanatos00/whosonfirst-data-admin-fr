@@ -95,6 +95,10 @@
         404364311
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b37ba1274cfff6e89842fb090ffc03f7",
     "wof:hierarchy":[
         {
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1360674211,
-    "wof:lastmodified":1564126611,
+    "wof:lastmodified":1603247270,
     "wof:name":"Conde",
     "wof:parent_id":102066769,
     "wof:placetype":"locality",

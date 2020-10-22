@@ -9,9 +9,8 @@
     "geom:bbox":"0.781534,43.701068,0.862945,43.738243",
     "geom:latitude":43.720068,
     "geom:longitude":0.822213,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":135,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":135,
     "iso:country":"FR",
     "lbl:latitude":43.7219,
@@ -313,14 +312,14 @@
     "woe:name_adm1":"Midi-Pyr\u00e9n\u00e9es",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683467,
         102191581,
-        85633147,
-        102067257,
-        136253037,
-        404359181,
         404227867,
+        404359181,
+        85633147,
         1108826387,
-        85683467
+        136253037,
+        102067257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -352,7 +351,7 @@
         }
     ],
     "wof:id":1125932435,
-    "wof:lastmodified":1587163114,
+    "wof:lastmodified":1603248561,
     "wof:name":"St.-Antonin",
     "wof:parent_id":404359181,
     "wof:placetype":"locality",

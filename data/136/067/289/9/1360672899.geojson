@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683413,
         102191581,
-        85633147,
-        404351291,
         404227679,
+        404351291,
+        85633147,
         1108826389,
         136253037,
         102068913
@@ -63,6 +63,10 @@
         404351291
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b56ff2efcf6b97035b37af18fa1486c3",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672899,
-    "wof:lastmodified":1539928790,
+    "wof:lastmodified":1603247192,
     "wof:name":"Saint-Christophe-D'Allier",
     "wof:parent_id":102068913,
     "wof:placetype":"locality",

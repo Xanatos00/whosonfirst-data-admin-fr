@@ -132,6 +132,10 @@
         404403979
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7151221981078820b864cb6fc1f8b1f8",
     "wof:hierarchy":[
         {
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":1360678049,
-    "wof:lastmodified":1564126179,
+    "wof:lastmodified":1603247209,
     "wof:name":"Gerbamont",
     "wof:parent_id":102068935,
     "wof:placetype":"locality",

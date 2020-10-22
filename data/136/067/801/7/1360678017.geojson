@@ -62,6 +62,10 @@
         404403703
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0ab1348de2c11ca56f02639b7fc4332a",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360678017,
-    "wof:lastmodified":1539928896,
+    "wof:lastmodified":1603247300,
     "wof:name":"Argentieres",
     "wof:parent_id":102068419,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"-2.441225,48.6468605,-2.441225,48.6468605",
     "geom:latitude":48.646861,
     "geom:longitude":-2.441225,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.646861,
     "lbl:longitude":-2.441225,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687497,
-    "wof:lastmodified":1539986897,
+    "wof:lastmodified":1603247072,
     "wof:name":"Les H\u00f4pitaux",
     "wof:parent_id":404350163,
     "wof:placetype":"neighbourhood",

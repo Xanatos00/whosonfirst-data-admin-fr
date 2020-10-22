@@ -131,6 +131,11 @@
         404383299
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c9e863fd881cca70e3dce71c2fb4880d",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360676135,
-    "wof:lastmodified":1564126610,
+    "wof:lastmodified":1603247270,
     "wof:name":"Beauregard",
     "wof:parent_id":102067397,
     "wof:placetype":"locality",

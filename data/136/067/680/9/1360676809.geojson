@@ -89,6 +89,11 @@
         404390767
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e82b660f8d9784c6b8f1dd09deed6bff",
     "wof:hierarchy":[
         {
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1360676809,
-    "wof:lastmodified":1564126079,
+    "wof:lastmodified":1603247196,
     "wof:name":"Montferrand",
     "wof:parent_id":102066017,
     "wof:placetype":"locality",

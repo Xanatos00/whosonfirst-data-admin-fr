@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683223,
         102191581,
-        85633147,
-        404355113,
         404227779,
+        404355113,
+        85633147,
         1108826391,
         136253037,
         102067781
@@ -68,6 +68,11 @@
         404355113
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8299b9d6e7af513c0d826a5f4eb993b2",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673255,
-    "wof:lastmodified":1539928799,
+    "wof:lastmodified":1603247246,
     "wof:name":"Girmont-Val-D'Ajol",
     "wof:parent_id":102067781,
     "wof:placetype":"locality",

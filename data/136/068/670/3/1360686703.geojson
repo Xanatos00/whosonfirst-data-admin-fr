@@ -9,7 +9,7 @@
     "geom:bbox":"6.781482,46.217257,6.781482,46.217257",
     "geom:latitude":46.217257,
     "geom:longitude":6.781482,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.217257,
     "lbl:longitude":6.781482,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686703,
-    "wof:lastmodified":1539986886,
+    "wof:lastmodified":1603247099,
     "wof:name":"Pr\u00e8s-de-la-Joux",
     "wof:parent_id":404409097,
     "wof:placetype":"neighbourhood",

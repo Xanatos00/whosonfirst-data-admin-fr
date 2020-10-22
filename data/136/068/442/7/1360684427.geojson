@@ -9,7 +9,7 @@
     "geom:bbox":"6.169198,46.12959,6.169198,46.12959",
     "geom:latitude":46.12959,
     "geom:longitude":6.169198,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.12959,
     "lbl:longitude":6.169198,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684427,
-    "wof:lastmodified":1539986857,
+    "wof:lastmodified":1603247099,
     "wof:name":"Croix de Rozon",
     "wof:parent_id":404399977,
     "wof:placetype":"neighbourhood",

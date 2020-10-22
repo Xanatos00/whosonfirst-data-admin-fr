@@ -134,6 +134,11 @@
         404422233
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d4af5b215fee4b778b6f6b8fdc515833",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360679803,
-    "wof:lastmodified":1564126950,
+    "wof:lastmodified":1603247314,
     "wof:name":"Fonbeauzard",
     "wof:parent_id":102071527,
     "wof:placetype":"locality",

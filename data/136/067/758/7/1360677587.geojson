@@ -125,6 +125,11 @@
         404399001
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"16005070d13c3a341885e25c7ea7a300",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360677587,
-    "wof:lastmodified":1564126488,
+    "wof:lastmodified":1603247253,
     "wof:name":"Givry",
     "wof:parent_id":102070559,
     "wof:placetype":"locality",

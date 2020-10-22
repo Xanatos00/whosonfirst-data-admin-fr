@@ -9,7 +9,7 @@
     "geom:bbox":"5.762586,43.246265,5.762586,43.246265",
     "geom:latitude":43.246265,
     "geom:longitude":5.762586,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.246265,
     "lbl:longitude":5.762586,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684133,
-    "wof:lastmodified":1539986853,
+    "wof:lastmodified":1603247048,
     "wof:name":"Sainte-Anne du Castellet",
     "wof:parent_id":404382747,
     "wof:placetype":"neighbourhood",

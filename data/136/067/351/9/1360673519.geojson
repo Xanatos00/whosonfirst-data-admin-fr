@@ -117,6 +117,10 @@
         404357671
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5281717f8c7a225e5043918b42fc0564",
     "wof:hierarchy":[
         {
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1360673519,
-    "wof:lastmodified":1564126531,
+    "wof:lastmodified":1603247259,
     "wof:name":"Saint-Flour",
     "wof:parent_id":102070967,
     "wof:placetype":"locality",

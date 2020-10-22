@@ -119,6 +119,11 @@
         404396925
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"beea5ca82e903dd49e67bbe340bc13b1",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360677427,
-    "wof:lastmodified":1564126993,
+    "wof:lastmodified":1603247320,
     "wof:name":"Mametz",
     "wof:parent_id":102065399,
     "wof:placetype":"locality",

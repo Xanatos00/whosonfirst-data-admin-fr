@@ -86,6 +86,11 @@
         404385927
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a5980609a2f452019bcf16066e0e1daa",
     "wof:hierarchy":[
         {
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":1360676357,
-    "wof:lastmodified":1564126233,
+    "wof:lastmodified":1603247217,
     "wof:name":"Marques",
     "wof:parent_id":102064519,
     "wof:placetype":"locality",

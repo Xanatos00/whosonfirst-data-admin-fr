@@ -9,7 +9,7 @@
     "geom:bbox":"6.246611,46.305261,6.246611,46.305261",
     "geom:latitude":46.305261,
     "geom:longitude":6.246611,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.305261,
     "lbl:longitude":6.246611,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684245,
-    "wof:lastmodified":1539986854,
+    "wof:lastmodified":1603247054,
     "wof:name":"Chens-le-Pont",
     "wof:parent_id":404348887,
     "wof:placetype":"neighbourhood",

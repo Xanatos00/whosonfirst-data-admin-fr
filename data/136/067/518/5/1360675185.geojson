@@ -149,6 +149,11 @@
         404374243
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"946a21fc248efc2d97061959c48a5e48",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360675185,
-    "wof:lastmodified":1564126370,
+    "wof:lastmodified":1603247236,
     "wof:name":"Pommiers-Moulons",
     "wof:parent_id":102067373,
     "wof:placetype":"locality",

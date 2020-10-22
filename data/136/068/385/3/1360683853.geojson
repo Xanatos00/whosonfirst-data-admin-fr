@@ -9,7 +9,7 @@
     "geom:bbox":"-1.999168,48.493667,-1.999168,48.493667",
     "geom:latitude":48.493667,
     "geom:longitude":-1.999168,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.493667,
     "lbl:longitude":-1.999168,
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1360683853,
-    "wof:lastmodified":1539986849,
+    "wof:lastmodified":1603247073,
     "wof:name":"La Hisse",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

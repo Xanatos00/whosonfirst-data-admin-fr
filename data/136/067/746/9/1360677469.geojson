@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683389,
         102191581,
-        85633147,
-        404397411,
         404227897,
+        404397411,
+        85633147,
         1108826387,
         136253037,
         102065705
@@ -63,6 +63,10 @@
         404397411
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5be46bf52e8c437e446824907295823a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677469,
-    "wof:lastmodified":1539928887,
+    "wof:lastmodified":1603247244,
     "wof:name":"Saint-Felix",
     "wof:parent_id":102065705,
     "wof:placetype":"locality",

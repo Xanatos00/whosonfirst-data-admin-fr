@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683227,
         102191581,
-        85633147,
-        404365151,
         404227961,
+        404365151,
+        85633147,
         1108826389,
         136253037,
         102067469
@@ -63,6 +63,10 @@
         404365151
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"380f858db7a5c1c132c13ccad8cb6fe5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674313,
-    "wof:lastmodified":1539928832,
+    "wof:lastmodified":1603247216,
     "wof:name":"Saint-Pierre-En-Faucigny",
     "wof:parent_id":102067469,
     "wof:placetype":"locality",

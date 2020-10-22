@@ -9,7 +9,7 @@
     "geom:bbox":"6.496662,48.144012,6.496662,48.144012",
     "geom:latitude":48.144012,
     "geom:longitude":6.496662,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.144012,
     "lbl:longitude":6.496662,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683665,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247079,
     "wof:name":"Le Qu\u00e9qu\u00e9ment",
     "wof:parent_id":404393637,
     "wof:placetype":"neighbourhood",

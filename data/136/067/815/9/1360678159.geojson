@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683413,
         102191581,
-        85633147,
-        404405247,
         404227679,
+        404405247,
+        85633147,
         1108826389,
         136253037,
         102065039
@@ -63,6 +63,10 @@
         404405247
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"95a4bbea99859f9b6f324bad13f2b884",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678159,
-    "wof:lastmodified":1539928899,
+    "wof:lastmodified":1603247277,
     "wof:name":"Saint-Geron",
     "wof:parent_id":102065039,
     "wof:placetype":"locality",

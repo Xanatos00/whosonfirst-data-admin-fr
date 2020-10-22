@@ -9,7 +9,7 @@
     "geom:bbox":"-0.399799,42.887033,-0.399799,42.887033",
     "geom:latitude":42.887033,
     "geom:longitude":-0.399799,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.887033,
     "lbl:longitude":-0.399799,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686149,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247088,
     "wof:name":"Artouste",
     "wof:parent_id":404361745,
     "wof:placetype":"neighbourhood",

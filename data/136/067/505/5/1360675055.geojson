@@ -167,6 +167,11 @@
         404372957
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bda2ece9b6e9c487b13e67269ccb14d0",
     "wof:hierarchy":[
         {
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":1360675055,
-    "wof:lastmodified":1564125902,
+    "wof:lastmodified":1603247171,
     "wof:name":"Courtes",
     "wof:parent_id":102069651,
     "wof:placetype":"locality",

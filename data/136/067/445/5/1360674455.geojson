@@ -164,6 +164,11 @@
         404366341
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d5d130813eaa0aa91ea7aad968afa3b6",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360674455,
-    "wof:lastmodified":1564126727,
+    "wof:lastmodified":1603247285,
     "wof:name":"Bogy",
     "wof:parent_id":102068429,
     "wof:placetype":"locality",

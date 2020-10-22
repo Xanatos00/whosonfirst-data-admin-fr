@@ -9,7 +9,6 @@
     "geom:bbox":"-1.527311,47.254838,-1.527311,47.254838",
     "geom:latitude":47.254838,
     "geom:longitude":-1.527311,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":47.254838,
     "lbl:longitude":-1.527311,
@@ -102,10 +101,7 @@
         }
     ],
     "wof:id":85897705,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322802,
+    "wof:lastmodified":1603246972,
     "wof:name":"Nantes-Erdre",
     "wof:parent_id":101749589,
     "wof:placetype":"neighbourhood",

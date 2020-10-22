@@ -105,6 +105,10 @@
         404387057
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bb8702c0c4cb8042488937ff86fb38c0",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360676449,
-    "wof:lastmodified":1564126013,
+    "wof:lastmodified":1603247187,
     "wof:name":"Saint-Avit",
     "wof:parent_id":102069179,
     "wof:placetype":"locality",

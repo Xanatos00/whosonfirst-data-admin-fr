@@ -9,7 +9,7 @@
     "geom:bbox":"7.132833,44.193666,7.132833,44.193666",
     "geom:latitude":44.193666,
     "geom:longitude":7.132833,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.193666,
     "lbl:longitude":7.132833,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686531,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247108,
     "wof:name":"G\u00e9nisserie de Verps",
     "wof:parent_id":404398049,
     "wof:placetype":"neighbourhood",

@@ -62,6 +62,10 @@
         404360227
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d94c186c02babdca3b33a21989b63358",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673787,
-    "wof:lastmodified":1539928821,
+    "wof:lastmodified":1603247240,
     "wof:name":"Longue-Jumelles",
     "wof:parent_id":102067519,
     "wof:placetype":"locality",

@@ -62,6 +62,10 @@
         404372573
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cc3a7670f2fc859367ec0ee80698fbeb",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360675009,
-    "wof:lastmodified":1539928844,
+    "wof:lastmodified":1603247257,
     "wof:name":"Neuille",
     "wof:parent_id":102069391,
     "wof:placetype":"locality",

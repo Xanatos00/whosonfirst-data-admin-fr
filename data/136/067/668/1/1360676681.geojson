@@ -107,6 +107,10 @@
         404389649
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"03803799eb0494836124db4b285a931c",
     "wof:hierarchy":[
         {
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":1360676681,
-    "wof:lastmodified":1564126269,
+    "wof:lastmodified":1603247222,
     "wof:name":"Flavigny",
     "wof:parent_id":102068195,
     "wof:placetype":"locality",

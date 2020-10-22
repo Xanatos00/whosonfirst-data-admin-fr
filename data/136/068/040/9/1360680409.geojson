@@ -69,9 +69,9 @@
     "wof:belongsto":[
         85683153,
         102191581,
-        85633147,
-        404428201,
         404227585,
+        404428201,
+        85633147,
         1108826389,
         136253037,
         102070613
@@ -86,6 +86,11 @@
         404428201
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d7766d86800982890fa1a3b73f050032",
     "wof:hierarchy":[
         {
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":1360680409,
-    "wof:lastmodified":1539928938,
+    "wof:lastmodified":1603247054,
     "wof:name":"Cheignieu-La-Balme",
     "wof:parent_id":102070613,
     "wof:placetype":"locality",

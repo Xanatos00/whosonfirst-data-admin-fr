@@ -119,6 +119,11 @@
         404407419
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5bae34d3393519e835c7b59d3604b222",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360678339,
-    "wof:lastmodified":1564126254,
+    "wof:lastmodified":1603247220,
     "wof:name":"Savigneux",
     "wof:parent_id":102069805,
     "wof:placetype":"locality",

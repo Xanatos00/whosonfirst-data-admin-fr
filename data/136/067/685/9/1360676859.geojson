@@ -149,6 +149,11 @@
         404391115
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ec90eb236c7939b0e76a38094b368f6e",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360676859,
-    "wof:lastmodified":1564126640,
+    "wof:lastmodified":1603247274,
     "wof:name":"Fraisse",
     "wof:parent_id":102067187,
     "wof:placetype":"locality",

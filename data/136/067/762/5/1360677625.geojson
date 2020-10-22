@@ -116,6 +116,11 @@
         404399311
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"535493a8f8a7380c3f2deea521535d55",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360677625,
-    "wof:lastmodified":1564125940,
+    "wof:lastmodified":1603247177,
     "wof:name":"Franqueville",
     "wof:parent_id":102065903,
     "wof:placetype":"locality",

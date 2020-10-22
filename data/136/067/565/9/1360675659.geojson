@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404378833,
         404227621,
+        404378833,
+        85633147,
         1108826385,
         136253037,
         102069255
@@ -63,6 +63,10 @@
         404378833
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"78f85b603a19ea380e3b7d53559ad03a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675659,
-    "wof:lastmodified":1539928856,
+    "wof:lastmodified":1603247264,
     "wof:name":"Saint-Gregoire-D'Ardennes",
     "wof:parent_id":102069255,
     "wof:placetype":"locality",

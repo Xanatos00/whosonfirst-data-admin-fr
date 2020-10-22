@@ -139,6 +139,11 @@
         404361543
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"478e2ff357858300610b3369344385fb",
     "wof:hierarchy":[
         {
@@ -154,7 +159,7 @@
         }
     ],
     "wof:id":1360673939,
-    "wof:lastmodified":1564126545,
+    "wof:lastmodified":1603247261,
     "wof:name":"Sauvagnat",
     "wof:parent_id":102067637,
     "wof:placetype":"locality",

@@ -63,9 +63,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404385013,
         404227825,
+        404385013,
+        85633147,
         1108826393,
         136253037,
         102067607
@@ -80,6 +80,11 @@
         404385013
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"93407650e4de240c44d481c6105069bd",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360676279,
-    "wof:lastmodified":1539928867,
+    "wof:lastmodified":1603247199,
     "wof:name":"Villy-Lez-Falaise",
     "wof:parent_id":102067607,
     "wof:placetype":"locality",

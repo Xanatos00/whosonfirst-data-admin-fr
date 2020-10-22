@@ -137,6 +137,11 @@
         404384269
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"18eae9800000aab0d32755adb0926fb6",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360676201,
-    "wof:lastmodified":1564126117,
+    "wof:lastmodified":1603247200,
     "wof:name":"Renaucourt",
     "wof:parent_id":102065329,
     "wof:placetype":"locality",

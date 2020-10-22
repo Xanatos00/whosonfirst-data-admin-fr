@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683523,
         102191581,
-        85633147,
-        404417005,
         404227851,
+        404417005,
+        85633147,
         1108826389,
         136253037,
         102070271
@@ -77,6 +77,11 @@
         404417005
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fa9ed4ab2af7240bbbe62ae0d46822aa",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360679341,
-    "wof:lastmodified":1539928920,
+    "wof:lastmodified":1603247266,
     "wof:name":"Rochefort-En-Valdaine",
     "wof:parent_id":102070271,
     "wof:placetype":"locality",

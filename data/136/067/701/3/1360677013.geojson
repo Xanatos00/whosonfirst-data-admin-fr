@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404392269,
         404228157,
+        404392269,
+        85633147,
         1108826393,
         136253037,
         102065777
@@ -63,6 +63,10 @@
         404392269
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0908bd2eea7686251b3fc3ebc12c93da",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677013,
-    "wof:lastmodified":1539928879,
+    "wof:lastmodified":1603247167,
     "wof:name":"Bosc-Edeline",
     "wof:parent_id":102065777,
     "wof:placetype":"locality",

@@ -118,6 +118,11 @@
         404410895
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d43b051f124a50781f2580fe89bc6541",
     "wof:hierarchy":[
         {
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":1360678775,
-    "wof:lastmodified":1564126625,
+    "wof:lastmodified":1603247272,
     "wof:name":"Murs",
     "wof:parent_id":102065695,
     "wof:placetype":"locality",

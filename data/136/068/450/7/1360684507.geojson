@@ -9,7 +9,7 @@
     "geom:bbox":"9.021406,42.213643,9.021406,42.213643",
     "geom:latitude":42.213643,
     "geom:longitude":9.021406,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.213643,
     "lbl:longitude":9.021406,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684507,
-    "wof:lastmodified":1539986858,
+    "wof:lastmodified":1603247107,
     "wof:name":"Bergerie de Bellebone",
     "wof:parent_id":1159322011,
     "wof:placetype":"neighbourhood",

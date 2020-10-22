@@ -120,11 +120,11 @@
     "wof:belongsto":[
         102191581,
         85633147,
-        102068051,
         404391427,
-        101765427,
         404227983,
         404227423,
+        101765427,
+        102068051,
         85683409
     ],
     "wof:breaches":[],
@@ -152,10 +152,7 @@
         }
     ],
     "wof:id":1360696485,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247149,
     "wof:name":"Saligny",
     "wof:parent_id":404391427,
     "wof:placetype":"neighbourhood",

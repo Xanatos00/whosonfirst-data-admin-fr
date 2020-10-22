@@ -9,7 +9,7 @@
     "geom:bbox":"0.0848,43.006279,0.0848,43.006279",
     "geom:latitude":43.006279,
     "geom:longitude":0.0848,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.006279,
     "lbl:longitude":0.0848,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685891,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247076,
     "wof:name":"Soulagnets",
     "wof:parent_id":404353807,
     "wof:placetype":"neighbourhood",

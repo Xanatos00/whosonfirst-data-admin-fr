@@ -9,7 +9,6 @@
     "geom:bbox":"-0.556768,44.885758,-0.556768,44.885758",
     "geom:latitude":44.885758,
     "geom:longitude":-0.556768,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":44.885758,
     "lbl:longitude":-0.556768,
@@ -97,10 +96,7 @@
         }
     ],
     "wof:id":85897673,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322803,
+    "wof:lastmodified":1603246972,
     "wof:name":"Bordeaux Maritime",
     "wof:parent_id":101748979,
     "wof:placetype":"neighbourhood",

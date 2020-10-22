@@ -83,6 +83,11 @@
         404387021
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5e5354b188ac8a56556a74bf2fc59d16",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360676441,
-    "wof:lastmodified":1564126013,
+    "wof:lastmodified":1603247187,
     "wof:name":"Bussac",
     "wof:parent_id":102064967,
     "wof:placetype":"locality",

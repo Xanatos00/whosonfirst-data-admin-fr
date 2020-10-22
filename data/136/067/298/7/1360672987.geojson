@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683405,
         102191581,
-        85633147,
-        404352257,
         404228237,
+        404352257,
+        85633147,
         1108826391,
         136253037,
         102070343
@@ -63,6 +63,10 @@
         404352257
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c02f8549a347db5bbc2abcdee73c9a93",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672987,
-    "wof:lastmodified":1539928792,
+    "wof:lastmodified":1603247291,
     "wof:name":"Aulnay-L'Aitre",
     "wof:parent_id":102070343,
     "wof:placetype":"locality",

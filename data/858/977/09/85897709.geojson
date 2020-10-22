@@ -9,7 +9,6 @@
     "geom:bbox":"7.791159,48.575245,7.791159,48.575245",
     "geom:latitude":48.575245,
     "geom:longitude":7.791159,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.575245,
     "lbl:longitude":7.791159,
@@ -119,10 +118,7 @@
         }
     ],
     "wof:id":85897709,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322803,
+    "wof:lastmodified":1603246972,
     "wof:name":"Port du Rhin",
     "wof:parent_id":101751113,
     "wof:placetype":"neighbourhood",

@@ -102,6 +102,10 @@
         404378329
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"41f05c50e77cd57f42e558eff1c5ec14",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360675619,
-    "wof:lastmodified":1564125919,
+    "wof:lastmodified":1603247174,
     "wof:name":"Maurens",
     "wof:parent_id":102069015,
     "wof:placetype":"locality",

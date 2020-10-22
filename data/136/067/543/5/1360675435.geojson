@@ -155,6 +155,11 @@
         404376463
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7c0de1cdb59ad3606f143f9a1fcafcfe",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360675435,
-    "wof:lastmodified":1564126345,
+    "wof:lastmodified":1603247233,
     "wof:name":"Boussey",
     "wof:parent_id":102070769,
     "wof:placetype":"locality",

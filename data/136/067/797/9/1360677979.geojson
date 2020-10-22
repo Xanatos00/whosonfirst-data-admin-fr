@@ -141,6 +141,10 @@
         404403283
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b692aab7f64ca5872337fb2783dba6de",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360677979,
-    "wof:lastmodified":1564125817,
+    "wof:lastmodified":1603247159,
     "wof:name":"Saint-Cricq",
     "wof:parent_id":102065029,
     "wof:placetype":"locality",

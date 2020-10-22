@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404426825,
         404227865,
+        404426825,
+        85633147,
         1108826387,
         136253037,
         102065287
@@ -63,6 +63,10 @@
         404426825
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cd56762e62da4c2b2c7749f2e5fb1307",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680253,
-    "wof:lastmodified":1539928935,
+    "wof:lastmodified":1603247052,
     "wof:name":"Montgaillard-Sur-Save",
     "wof:parent_id":102065287,
     "wof:placetype":"locality",

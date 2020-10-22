@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683485,
         102191581,
-        85633147,
-        404379037,
         404228023,
+        404379037,
+        85633147,
         1108826387,
         136253037,
         102067109
@@ -63,6 +63,10 @@
         404379037
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9b9e3e63bbf29530c70e67835778732d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675677,
-    "wof:lastmodified":1539928856,
+    "wof:lastmodified":1603247165,
     "wof:name":"Jonquieres",
     "wof:parent_id":102067109,
     "wof:placetype":"locality",

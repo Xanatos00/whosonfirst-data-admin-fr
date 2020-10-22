@@ -67,6 +67,11 @@
         404364485
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ee3b816b90ef58a4475df48c7af381d9",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360674237,
-    "wof:lastmodified":1539928830,
+    "wof:lastmodified":1603247203,
     "wof:name":"Villeneuve-D'Entraunes",
     "wof:parent_id":102066289,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"2.948391,49.336868,2.948391,49.336868",
     "geom:latitude":49.336868,
     "geom:longitude":2.948391,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.336868,
     "lbl:longitude":2.948391,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684631,
-    "wof:lastmodified":1539986859,
+    "wof:lastmodified":1603247058,
     "wof:name":"Palesne",
     "wof:parent_id":404369857,
     "wof:placetype":"neighbourhood",

@@ -96,13 +96,13 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894237,
         102191581,
-        85633147,
-        1159322569,
-        101751119,
         1158894289,
+        1159322569,
+        85633147,
         404227465,
+        101751119,
+        1158894237,
         85683497
     ],
     "wof:breaches":[],
@@ -133,10 +133,7 @@
         }
     ],
     "wof:id":85873813,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592439,
+    "wof:lastmodified":1603246971,
     "wof:name":"Saint-Merri",
     "wof:parent_id":1158894289,
     "wof:placetype":"neighbourhood",

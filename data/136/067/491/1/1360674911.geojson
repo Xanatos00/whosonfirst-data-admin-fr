@@ -135,6 +135,10 @@
         404371545
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"85a41429ca1428461a615583ab6cbe9c",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360674911,
-    "wof:lastmodified":1564126274,
+    "wof:lastmodified":1603247223,
     "wof:name":"Saint-Just",
     "wof:parent_id":102070955,
     "wof:placetype":"locality",

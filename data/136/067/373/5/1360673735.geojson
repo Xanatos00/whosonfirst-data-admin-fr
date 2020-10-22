@@ -130,6 +130,11 @@
         404359859
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8538f852ef3bb205cf7779769dc420e8",
     "wof:hierarchy":[
         {
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":1360673735,
-    "wof:lastmodified":1564126954,
+    "wof:lastmodified":1603247315,
     "wof:name":"Chalais",
     "wof:parent_id":102064837,
     "wof:placetype":"locality",

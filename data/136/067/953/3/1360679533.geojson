@@ -135,6 +135,10 @@
         404419245
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4028f5bca8f911d56b6ac9e5b3ed3c35",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360679533,
-    "wof:lastmodified":1564125875,
+    "wof:lastmodified":1603247167,
     "wof:name":"Lurbe-Saint-Christau",
     "wof:parent_id":102069357,
     "wof:placetype":"locality",

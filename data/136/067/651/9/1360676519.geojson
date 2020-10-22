@@ -110,6 +110,11 @@
         404387897
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e51e825e303c0c035bf4e3dfe91be601",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360676519,
-    "wof:lastmodified":1564126182,
+    "wof:lastmodified":1603247210,
     "wof:name":"Fourneaux",
     "wof:parent_id":102067527,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"6.0977095,44.874093,6.0977095,44.874093",
     "geom:latitude":44.874093,
     "geom:longitude":6.097709,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.874093,
     "lbl:longitude":6.097709,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685955,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247037,
     "wof:name":"Le D\u00e9sert-en-valjouffrey",
     "wof:parent_id":404365111,
     "wof:placetype":"neighbourhood",

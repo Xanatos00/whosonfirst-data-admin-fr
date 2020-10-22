@@ -116,6 +116,11 @@
         404376269
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f14cc0070d1214ae93b5b496ab076ae8",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360675421,
-    "wof:lastmodified":1564126415,
+    "wof:lastmodified":1603247243,
     "wof:name":"Lussac",
     "wof:parent_id":102069177,
     "wof:placetype":"locality",

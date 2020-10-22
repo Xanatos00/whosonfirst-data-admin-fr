@@ -140,6 +140,11 @@
         404392791
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9e6cb612fac57057c228617bbbb620b0",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360677065,
-    "wof:lastmodified":1564125878,
+    "wof:lastmodified":1603247168,
     "wof:name":"Hautefond",
     "wof:parent_id":102070897,
     "wof:placetype":"locality",

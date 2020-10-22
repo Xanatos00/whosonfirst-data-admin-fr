@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683301,
         102191581,
-        85633147,
-        404380983,
         404227609,
+        404380983,
+        85633147,
         1108826387,
         136253037,
         102068151
@@ -68,6 +68,11 @@
         404380983
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cb89358d3d5a6e8f7d4ea4b376d324f9",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360675903,
-    "wof:lastmodified":1539928860,
+    "wof:lastmodified":1603247254,
     "wof:name":"L'Hospitalet-Du-Larzac",
     "wof:parent_id":102068151,
     "wof:placetype":"locality",

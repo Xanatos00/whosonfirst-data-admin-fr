@@ -89,6 +89,11 @@
         404379737
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1edbac46a9ae7a3d5115081825719a0b",
     "wof:hierarchy":[
         {
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1360675763,
-    "wof:lastmodified":1564126893,
+    "wof:lastmodified":1603247307,
     "wof:name":"Angoville",
     "wof:parent_id":102069979,
     "wof:placetype":"locality",

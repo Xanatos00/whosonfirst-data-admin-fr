@@ -125,6 +125,11 @@
         404376227
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"40be99e447a9530aa3ccea84360f365f",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360675403,
-    "wof:lastmodified":1564126925,
+    "wof:lastmodified":1603247311,
     "wof:name":"Dampierre",
     "wof:parent_id":102066433,
     "wof:placetype":"locality",

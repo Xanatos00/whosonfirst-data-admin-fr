@@ -62,6 +62,10 @@
         404379069
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1ccbd70b99cb636145b6b989fba7d267",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360675679,
-    "wof:lastmodified":1539928856,
+    "wof:lastmodified":1603247165,
     "wof:name":"Reclainville",
     "wof:parent_id":102068711,
     "wof:placetype":"locality",

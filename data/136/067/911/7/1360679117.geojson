@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404414337,
         404227907,
+        404414337,
+        85633147,
         1108826393,
         136253037,
         102064739
@@ -68,6 +68,11 @@
         404414337
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"92ecbf0b611cf68784963a89c01d121a",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679117,
-    "wof:lastmodified":1539928916,
+    "wof:lastmodified":1603247306,
     "wof:name":"La Haye-D'Ectot",
     "wof:parent_id":102064739,
     "wof:placetype":"locality",

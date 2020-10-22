@@ -9,7 +9,7 @@
     "geom:bbox":"2.965021,45.772731,2.965021,45.772731",
     "geom:latitude":45.772731,
     "geom:longitude":2.965021,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.772731,
     "lbl:longitude":2.965021,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686493,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247091,
     "wof:name":"La Font-de-l'Arbre",
     "wof:parent_id":404348279,
     "wof:placetype":"neighbourhood",

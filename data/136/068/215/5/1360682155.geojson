@@ -9,7 +9,7 @@
     "geom:bbox":"6.653809,46.364758,6.653809,46.364758",
     "geom:latitude":46.364758,
     "geom:longitude":6.653809,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.364758,
     "lbl:longitude":6.653809,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682155,
-    "wof:lastmodified":1539986827,
+    "wof:lastmodified":1603247091,
     "wof:name":"La Beunaz",
     "wof:parent_id":404372897,
     "wof:placetype":"neighbourhood",

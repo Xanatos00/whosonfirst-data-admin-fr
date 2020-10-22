@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404356813,
         404228049,
+        404356813,
+        85633147,
         1108826385,
         136253037,
         102068805
@@ -63,6 +63,10 @@
         404356813
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c832b16a2d71e58936d4ac445985757e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673427,
-    "wof:lastmodified":1539928808,
+    "wof:lastmodified":1603247312,
     "wof:name":"Saint-Martin-L'Astier",
     "wof:parent_id":102068805,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"3.045444,42.5517515,3.045444,42.5517515",
     "geom:latitude":42.551752,
     "geom:longitude":3.045444,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.551752,
     "lbl:longitude":3.045444,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682447,
-    "wof:lastmodified":1539986831,
+    "wof:lastmodified":1603247053,
     "wof:name":"Plage d'Argel\u00e8s",
     "wof:parent_id":404366087,
     "wof:placetype":"neighbourhood",

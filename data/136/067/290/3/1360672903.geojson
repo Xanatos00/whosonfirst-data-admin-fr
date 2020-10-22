@@ -154,6 +154,11 @@
         404351471
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7d091a8741fd056795ca1dbeb6419ee2",
     "wof:hierarchy":[
         {
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":1360672903,
-    "wof:lastmodified":1564126852,
+    "wof:lastmodified":1603247301,
     "wof:name":"Montjustin",
     "wof:parent_id":102068115,
     "wof:placetype":"locality",

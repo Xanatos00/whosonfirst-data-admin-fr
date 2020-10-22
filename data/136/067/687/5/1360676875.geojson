@@ -113,6 +113,11 @@
         404391253
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"52cabee914b1bd6762c214b2020e83cd",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360676875,
-    "wof:lastmodified":1564126096,
+    "wof:lastmodified":1603247198,
     "wof:name":"Segonzac",
     "wof:parent_id":102064451,
     "wof:placetype":"locality",

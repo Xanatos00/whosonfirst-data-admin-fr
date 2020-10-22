@@ -9,7 +9,7 @@
     "geom:bbox":"-2.884898,48.58413,-2.884898,48.58413",
     "geom:latitude":48.58413,
     "geom:longitude":-2.884898,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.58413,
     "lbl:longitude":-2.884898,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684531,
-    "wof:lastmodified":1539986858,
+    "wof:lastmodified":1603247065,
     "wof:name":"Tr\u00e9venais",
     "wof:parent_id":404365313,
     "wof:placetype":"neighbourhood",

@@ -83,6 +83,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526508733,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"4b98099b90c8b59a6cc844bfe3defc67",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1360680503,
-    "wof:lastmodified":1564125665,
+    "wof:lastmodified":1603247105,
     "wof:name":"Laneuville-\u00e0-R\u00e9my",
     "wof:parent_id":102067709,
     "wof:placetype":"locality",

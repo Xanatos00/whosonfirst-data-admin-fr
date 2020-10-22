@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404373247,
         404227955,
+        404373247,
+        85633147,
         1108826395,
         136253037,
         102064939
@@ -63,6 +63,10 @@
         404373247
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d7f0cc00be0902c10629e1f30caf0ea8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675093,
-    "wof:lastmodified":1539928846,
+    "wof:lastmodified":1603247261,
     "wof:name":"Sainte-Helene",
     "wof:parent_id":102064939,
     "wof:placetype":"locality",

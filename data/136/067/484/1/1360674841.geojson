@@ -101,6 +101,10 @@
         404370723
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"657b70d8d8a4cb0616754cf92a51a3f5",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":1360674841,
-    "wof:lastmodified":1564126068,
+    "wof:lastmodified":1603247194,
     "wof:name":"Saint-Sigismond",
     "wof:parent_id":102066459,
     "wof:placetype":"locality",

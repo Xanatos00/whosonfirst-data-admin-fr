@@ -54,9 +54,9 @@
     "wof:belongsto":[
         85683503,
         102191581,
-        85633147,
-        404408809,
         404227781,
+        404408809,
+        85633147,
         1108826395,
         136253037,
         102070387
@@ -71,6 +71,11 @@
         404408809
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"346c34ebb949d2cbd26df2521a39bc7c",
     "wof:hierarchy":[
         {
@@ -86,7 +91,7 @@
         }
     ],
     "wof:id":1360678499,
-    "wof:lastmodified":1539928905,
+    "wof:lastmodified":1603247278,
     "wof:name":"Bois-D'Arcy",
     "wof:parent_id":102070387,
     "wof:placetype":"locality",

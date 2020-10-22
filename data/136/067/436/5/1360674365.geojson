@@ -122,6 +122,11 @@
         404365551
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"69411de444b48a0777c6f52716376e10",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360674365,
-    "wof:lastmodified":1564126215,
+    "wof:lastmodified":1603247214,
     "wof:name":"La Garde",
     "wof:parent_id":102064655,
     "wof:placetype":"locality",

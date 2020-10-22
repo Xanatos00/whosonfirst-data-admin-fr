@@ -146,6 +146,11 @@
         404392789
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dc5e54e3796d329991cce898b2704896",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360677063,
-    "wof:lastmodified":1564125878,
+    "wof:lastmodified":1603247168,
     "wof:name":"Siouville-Hague",
     "wof:parent_id":102069501,
     "wof:placetype":"locality",

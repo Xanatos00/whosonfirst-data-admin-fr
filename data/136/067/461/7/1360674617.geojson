@@ -113,6 +113,10 @@
         404368043
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1646c1bdc9e2cf87693d02886b9b9b21",
     "wof:hierarchy":[
         {
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":1360674617,
-    "wof:lastmodified":1564126835,
+    "wof:lastmodified":1603247299,
     "wof:name":"Saint-Aignan",
     "wof:parent_id":102065111,
     "wof:placetype":"locality",

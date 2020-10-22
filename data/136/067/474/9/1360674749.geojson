@@ -109,6 +109,11 @@
         404369773
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f7bdd3ae505e5f32568b32cade6fbff9",
     "wof:hierarchy":[
         {
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":1360674749,
-    "wof:lastmodified":1564126708,
+    "wof:lastmodified":1603247283,
     "wof:name":"Liez",
     "wof:parent_id":102066459,
     "wof:placetype":"locality",

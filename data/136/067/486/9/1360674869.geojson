@@ -143,6 +143,11 @@
         404371183
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7b66bb089419cde368644a6d2266f4ee",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360674869,
-    "wof:lastmodified":1564126660,
+    "wof:lastmodified":1603247277,
     "wof:name":"Tanconville",
     "wof:parent_id":102065929,
     "wof:placetype":"locality",

@@ -134,6 +134,11 @@
         404403977
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"602d4fa31b29d51a4c46a2ef61fd0fc9",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360678051,
-    "wof:lastmodified":1564126276,
+    "wof:lastmodified":1603247223,
     "wof:name":"Annay",
     "wof:parent_id":102070061,
     "wof:placetype":"locality",

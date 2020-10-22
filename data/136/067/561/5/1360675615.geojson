@@ -134,6 +134,11 @@
         404378337
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"86e4760f7d56d51ff28003984dd34628",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360675615,
-    "wof:lastmodified":1564125920,
+    "wof:lastmodified":1603247174,
     "wof:name":"Lagarde",
     "wof:parent_id":102066493,
     "wof:placetype":"locality",

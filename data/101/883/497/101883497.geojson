@@ -9,7 +9,7 @@
     "geom:bbox":"1.85844830869,48.3028038566,1.92557759613,48.3455193005",
     "geom:latitude":48.326162,
     "geom:longitude":1.889436,
-    "geonames:id":"3034562,3034563",
+    "gn:id":"3034562,3034563",
     "iso:country":"FR",
     "lbl:latitude":48.332136,
     "lbl:longitude":1.905721,
@@ -342,7 +342,7 @@
         }
     ],
     "wof:id":101883497,
-    "wof:lastmodified":1582323598,
+    "wof:lastmodified":1603247962,
     "wof:name":"Baudreville",
     "wof:parent_id":404404171,
     "wof:placetype":"locality",

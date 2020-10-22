@@ -9,7 +9,7 @@
     "geom:bbox":"-4.05035,47.855128,-4.05035,47.855128",
     "geom:latitude":47.855128,
     "geom:longitude":-4.05035,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.855128,
     "lbl:longitude":-4.05035,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687001,
-    "wof:lastmodified":1539986890,
+    "wof:lastmodified":1603247041,
     "wof:name":"Menez-Groas",
     "wof:parent_id":404422343,
     "wof:placetype":"neighbourhood",

@@ -180,12 +180,12 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1077,
     "wof:belongsto":[
-        1158894231,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894231,
         85683497
     ],
     "wof:breaches":[],
@@ -208,10 +208,7 @@
         }
     ],
     "wof:id":85873785,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592440,
+    "wof:lastmodified":1603246970,
     "wof:name":"Des Halles",
     "wof:parent_id":1158894231,
     "wof:placetype":"neighbourhood",

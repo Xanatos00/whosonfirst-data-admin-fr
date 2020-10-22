@@ -119,6 +119,11 @@
         404356693
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6d11711b99beff32eaa6eb03f385e1fe",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360673411,
-    "wof:lastmodified":1564126299,
+    "wof:lastmodified":1603247226,
     "wof:name":"Verneuil",
     "wof:parent_id":102065767,
     "wof:placetype":"locality",

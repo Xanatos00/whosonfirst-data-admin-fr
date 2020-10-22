@@ -9,7 +9,7 @@
     "geom:bbox":"5.992269,46.411913,5.992269,46.411913",
     "geom:latitude":46.411913,
     "geom:longitude":5.992269,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.411913,
     "lbl:longitude":5.992269,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686505,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247067,
     "wof:name":"Combe du Lac",
     "wof:parent_id":404355527,
     "wof:placetype":"neighbourhood",

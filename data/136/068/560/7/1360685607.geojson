@@ -9,7 +9,7 @@
     "geom:bbox":"5.43718,49.188407,5.43718,49.188407",
     "geom:latitude":49.188407,
     "geom:longitude":5.43718,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.188407,
     "lbl:longitude":5.43718,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685607,
-    "wof:lastmodified":1539986872,
+    "wof:lastmodified":1603247033,
     "wof:name":"Fort de Souville",
     "wof:parent_id":404428497,
     "wof:placetype":"neighbourhood",

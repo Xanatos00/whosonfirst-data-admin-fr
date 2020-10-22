@@ -132,6 +132,10 @@
         404427239
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6d47abb8be0c7e2bd299b9bb3a957dd4",
     "wof:hierarchy":[
         {
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":1360680303,
-    "wof:lastmodified":1564125475,
+    "wof:lastmodified":1603247064,
     "wof:name":"Vienville",
     "wof:parent_id":102065779,
     "wof:placetype":"locality",

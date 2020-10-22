@@ -149,6 +149,11 @@
         404366077
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fb9988605d05a591db86c574a707ef1a",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360674431,
-    "wof:lastmodified":1564126643,
+    "wof:lastmodified":1603247274,
     "wof:name":"Lacropte",
     "wof:parent_id":102071273,
     "wof:placetype":"locality",

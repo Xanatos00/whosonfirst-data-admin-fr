@@ -62,6 +62,10 @@
         404352591
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"50e27e1d9e1fdfd3f25e8d2533425ed9",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673011,
-    "wof:lastmodified":1539928792,
+    "wof:lastmodified":1603247175,
     "wof:name":"Beaumont-Pied-De-Boeuf",
     "wof:parent_id":102066619,
     "wof:placetype":"locality",

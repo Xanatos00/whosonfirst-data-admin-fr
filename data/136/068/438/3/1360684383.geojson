@@ -9,7 +9,7 @@
     "geom:bbox":"3.1644055,44.13134,3.1644055,44.13134",
     "geom:latitude":44.13134,
     "geom:longitude":3.164405,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.13134,
     "lbl:longitude":3.164405,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684383,
-    "wof:lastmodified":1539986856,
+    "wof:lastmodified":1603247063,
     "wof:name":"Longuiers",
     "wof:parent_id":404348401,
     "wof:placetype":"neighbourhood",

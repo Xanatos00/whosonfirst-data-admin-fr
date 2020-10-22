@@ -125,6 +125,11 @@
         404361751
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1664311f5774f3953d46b880980a0e1c",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360673975,
-    "wof:lastmodified":1564125970,
+    "wof:lastmodified":1603247181,
     "wof:name":"Cassagnoles",
     "wof:parent_id":102069265,
     "wof:placetype":"locality",

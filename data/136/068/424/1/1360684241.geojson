@@ -9,7 +9,7 @@
     "geom:bbox":"6.046772,45.272712,6.046772,45.272712",
     "geom:latitude":45.272712,
     "geom:longitude":6.046772,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.272712,
     "lbl:longitude":6.046772,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684241,
-    "wof:lastmodified":1539986854,
+    "wof:lastmodified":1603247054,
     "wof:name":"Le Pleynet-les-Sept-Laux",
     "wof:parent_id":404356929,
     "wof:placetype":"neighbourhood",

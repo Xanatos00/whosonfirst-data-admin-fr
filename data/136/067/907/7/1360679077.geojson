@@ -122,6 +122,11 @@
         404413917
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a01948d13c6fb0ce2fa7c540183f08ae",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360679077,
-    "wof:lastmodified":1564125849,
+    "wof:lastmodified":1603247164,
     "wof:name":"La Haye",
     "wof:parent_id":102064299,
     "wof:placetype":"locality",

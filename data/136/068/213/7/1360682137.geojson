@@ -9,7 +9,7 @@
     "geom:bbox":"6.615228,46.305586,6.615228,46.305586",
     "geom:latitude":46.305586,
     "geom:longitude":6.615228,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.305586,
     "lbl:longitude":6.615228,
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1360682137,
-    "wof:lastmodified":1539986826,
+    "wof:lastmodified":1603247100,
     "wof:name":"Le Jotty",
     "wof:parent_id":-4,
     "wof:placetype":"neighbourhood",

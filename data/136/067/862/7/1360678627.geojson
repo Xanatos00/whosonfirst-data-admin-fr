@@ -113,6 +113,11 @@
         404409941
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"712e80b0bca117a302b4a850e675efbb",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360678627,
-    "wof:lastmodified":1564126780,
+    "wof:lastmodified":1603247291,
     "wof:name":"Vaux",
     "wof:parent_id":102065343,
     "wof:placetype":"locality",

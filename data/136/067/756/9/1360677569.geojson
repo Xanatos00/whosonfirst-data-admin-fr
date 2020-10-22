@@ -119,6 +119,11 @@
         404398695
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"efdcf5dbf68fc8dc0afc3d168b74c724",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360677569,
-    "wof:lastmodified":1564126501,
+    "wof:lastmodified":1603247254,
     "wof:name":"Rives",
     "wof:parent_id":102070577,
     "wof:placetype":"locality",

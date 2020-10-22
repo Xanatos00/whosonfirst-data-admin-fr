@@ -119,6 +119,11 @@
         404389839
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f32a7634e5470d3206fba54aaf77b99b",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360676715,
-    "wof:lastmodified":1564126646,
+    "wof:lastmodified":1603247275,
     "wof:name":"Janville",
     "wof:parent_id":102065977,
     "wof:placetype":"locality",

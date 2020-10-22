@@ -9,7 +9,6 @@
     "geom:bbox":"2.352469,48.851685,2.364232,48.860038",
     "geom:latitude":48.8557,
     "geom:longitude":2.358162,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.855624,
     "lbl:longitude":2.358074,
@@ -84,13 +83,13 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894237,
         102191581,
-        85633147,
-        1159322569,
-        101751119,
         1158894289,
+        1159322569,
+        85633147,
         404227465,
+        101751119,
+        1158894237,
         85683497
     ],
     "wof:breaches":[],
@@ -119,10 +118,7 @@
         }
     ],
     "wof:id":85873811,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592440,
+    "wof:lastmodified":1603246970,
     "wof:name":"Saint-Gervais",
     "wof:parent_id":1158894289,
     "wof:placetype":"neighbourhood",

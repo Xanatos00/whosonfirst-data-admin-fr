@@ -102,6 +102,10 @@
         404352379
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2bac4a3ad3792562c3e53a9c7af89826",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360672993,
-    "wof:lastmodified":1564126881,
+    "wof:lastmodified":1603247305,
     "wof:name":"La Chapelle-Saint-Sauveur",
     "wof:parent_id":102071009,
     "wof:placetype":"locality",

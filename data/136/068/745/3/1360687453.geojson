@@ -9,7 +9,7 @@
     "geom:bbox":"0.2914885,46.2410815,0.2914885,46.2410815",
     "geom:latitude":46.241081,
     "geom:longitude":0.291488,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.241081,
     "lbl:longitude":0.291488,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687453,
-    "wof:lastmodified":1539986896,
+    "wof:lastmodified":1603247120,
     "wof:name":"Br\u00e9hus",
     "wof:parent_id":404359693,
     "wof:placetype":"neighbourhood",

@@ -66,6 +66,11 @@
         404370475
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"106a6e0b2ff7bc9db057533fcc360071",
     "wof:hierarchy":[
         {
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":1360674813,
-    "wof:lastmodified":1539928841,
+    "wof:lastmodified":1603247275,
     "wof:name":"Sainte-Marie-Du-Bois",
     "wof:parent_id":102067313,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404403623,
         404228071,
+        404403623,
+        85633147,
         1108826385,
         136253037,
         102069547
@@ -63,6 +63,10 @@
         404403623
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2a3782b0319b7faf9779a655b5d8d1a0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678009,
-    "wof:lastmodified":1539928896,
+    "wof:lastmodified":1603247286,
     "wof:name":"Saint-Pardon-De-Conques",
     "wof:parent_id":102069547,
     "wof:placetype":"locality",

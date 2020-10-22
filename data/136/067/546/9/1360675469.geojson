@@ -122,6 +122,11 @@
         404376931
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8fc85caf51ce59938d6f8c472ecfcd60",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360675469,
-    "wof:lastmodified":1564126986,
+    "wof:lastmodified":1603247320,
     "wof:name":"Doux",
     "wof:parent_id":102068579,
     "wof:placetype":"locality",

@@ -146,6 +146,11 @@
         404391027
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"51e1c55df90c3bdf1c1d213bd91a9ac2",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360676849,
-    "wof:lastmodified":1564126718,
+    "wof:lastmodified":1603247284,
     "wof:name":"Morainville-Jouveaux",
     "wof:parent_id":102066491,
     "wof:placetype":"locality",

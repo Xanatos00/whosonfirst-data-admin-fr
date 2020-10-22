@@ -9,7 +9,7 @@
     "geom:bbox":"5.81601191588,45.9333348541,5.83506577448,45.9619054533",
     "geom:latitude":45.948043,
     "geom:longitude":5.826121,
-    "geonames:id":"2974649,2974650",
+    "gn:id":"2974649,2974650",
     "gn:population":918,
     "iso:country":"FR",
     "lbl:latitude":45.956703,
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":101767979,
-    "wof:lastmodified":1582323422,
+    "wof:lastmodified":1603247765,
     "wof:name":"Seyssel",
     "wof:parent_id":404388713,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683301,
         102191581,
-        85633147,
-        404375123,
         404227821,
+        404375123,
+        85633147,
         1108826387,
         136253037,
         102070123
@@ -68,6 +68,11 @@
         404375123
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"26b5e241af9cecb7802d1e0febc4dac6",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360675295,
-    "wof:lastmodified":1539928849,
+    "wof:lastmodified":1603247239,
     "wof:name":"Condom-D'Aubrac",
     "wof:parent_id":102070123,
     "wof:placetype":"locality",

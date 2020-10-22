@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683405,
         102191581,
-        85633147,
-        404372829,
         404228279,
+        404372829,
+        85633147,
         1108826391,
         136253037,
         102068693
@@ -63,6 +63,10 @@
         404372829
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c341a77650afb86c01c13a4c757e4e58",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675043,
-    "wof:lastmodified":1539928845,
+    "wof:lastmodified":1603247179,
     "wof:name":"Elise-Daucourt",
     "wof:parent_id":102068693,
     "wof:placetype":"locality",

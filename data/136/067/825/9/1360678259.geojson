@@ -89,6 +89,11 @@
         404406237
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"df31605cce5b8f08be47759b2b159807",
     "wof:hierarchy":[
         {
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1360678259,
-    "wof:lastmodified":1564126719,
+    "wof:lastmodified":1603247285,
     "wof:name":"Antin",
     "wof:parent_id":102068835,
     "wof:placetype":"locality",

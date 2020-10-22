@@ -161,6 +161,11 @@
         404367047
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8c7bacb231e4316ad9c82b9cc9839642",
     "wof:hierarchy":[
         {
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":1360674507,
-    "wof:lastmodified":1564126811,
+    "wof:lastmodified":1603247296,
     "wof:name":"Auriolles",
     "wof:parent_id":102070437,
     "wof:placetype":"locality",

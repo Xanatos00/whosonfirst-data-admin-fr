@@ -158,6 +158,11 @@
         404363117
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"de860174652a63d80797b5654fe7fd0b",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360674113,
-    "wof:lastmodified":1564126670,
+    "wof:lastmodified":1603247278,
     "wof:name":"Ucel",
     "wof:parent_id":102070221,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"1.750388,44.858379,1.750388,44.858379",
     "geom:latitude":44.858379,
     "geom:longitude":1.750388,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.858379,
     "lbl:longitude":1.750388,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686255,
-    "wof:lastmodified":1539986881,
+    "wof:lastmodified":1603247089,
     "wof:name":"Le Gouffre",
     "wof:parent_id":404406935,
     "wof:placetype":"neighbourhood",

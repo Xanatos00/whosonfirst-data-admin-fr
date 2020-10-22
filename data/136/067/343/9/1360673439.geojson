@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404356899,
         404227599,
+        404356899,
+        85633147,
         1108826389,
         136253037,
         102066407
@@ -68,6 +68,11 @@
         404356899
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"be6d0f62c430aedc1750011ba185c237",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673439,
-    "wof:lastmodified":1539928808,
+    "wof:lastmodified":1603247327,
     "wof:name":"Mazan-L'Abbaye",
     "wof:parent_id":102066407,
     "wof:placetype":"locality",

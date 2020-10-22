@@ -62,6 +62,10 @@
         404387585
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3b925fb4b34854406f7f187d4cfd5737",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360676485,
-    "wof:lastmodified":1539928870,
+    "wof:lastmodified":1603247286,
     "wof:name":"Ferrieres-En-Brie",
     "wof:parent_id":102070607,
     "wof:placetype":"locality",

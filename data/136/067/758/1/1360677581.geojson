@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683335,
         102191581,
-        85633147,
-        404398813,
         404227603,
+        404398813,
+        85633147,
         1108826387,
         136253037,
         102064245
@@ -68,6 +68,11 @@
         404398813
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3aa35afca850ff81fca4f6bd22145883",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360677581,
-    "wof:lastmodified":1539928889,
+    "wof:lastmodified":1603247253,
     "wof:name":"Savignac-Les-Ormeaux",
     "wof:parent_id":102064245,
     "wof:placetype":"locality",

@@ -119,6 +119,11 @@
         404422045
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"70cd3fd7d136742ce63e098129a1f7f5",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360679795,
-    "wof:lastmodified":1564126307,
+    "wof:lastmodified":1603247227,
     "wof:name":"Beauvoisin",
     "wof:parent_id":102064723,
     "wof:placetype":"locality",

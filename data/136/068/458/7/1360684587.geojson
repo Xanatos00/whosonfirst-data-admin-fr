@@ -9,7 +9,7 @@
     "geom:bbox":"6.59729,45.3395965,6.59729,45.3395965",
     "geom:latitude":45.339596,
     "geom:longitude":6.59729,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.339596,
     "lbl:longitude":6.59729,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684587,
-    "wof:lastmodified":1539986859,
+    "wof:lastmodified":1603247100,
     "wof:name":"Plan du Tu\u00e9da",
     "wof:parent_id":404364381,
     "wof:placetype":"neighbourhood",

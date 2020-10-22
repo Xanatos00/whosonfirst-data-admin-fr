@@ -120,6 +120,10 @@
         404421753
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7150ceffe3a7205b5fcfcec2dd234f1f",
     "wof:hierarchy":[
         {
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":1360679767,
-    "wof:lastmodified":1564126398,
+    "wof:lastmodified":1603247240,
     "wof:name":"Suzanne",
     "wof:parent_id":102069901,
     "wof:placetype":"locality",

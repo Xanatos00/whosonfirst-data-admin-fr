@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404348257,
         404227669,
+        404348257,
+        85633147,
         1108826389,
         136253037,
         102065831
@@ -63,6 +63,10 @@
         404348257
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1917ad08492f904e8249fc97555b46e4",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672621,
-    "wof:lastmodified":1539928784,
+    "wof:lastmodified":1603247294,
     "wof:name":"Sainte-Agnes",
     "wof:parent_id":102065831,
     "wof:placetype":"locality",

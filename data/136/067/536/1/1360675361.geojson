@@ -96,6 +96,10 @@
         404375935
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"78edf01d7da2d95b0c02f52861e45d40",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1360675361,
-    "wof:lastmodified":1564126556,
+    "wof:lastmodified":1603247262,
     "wof:name":"Maire",
     "wof:parent_id":102067981,
     "wof:placetype":"locality",

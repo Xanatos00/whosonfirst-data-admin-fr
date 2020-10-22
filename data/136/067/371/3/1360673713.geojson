@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404359759,
         404227963,
+        404359759,
+        85633147,
         1108826393,
         136253037,
         102071483
@@ -63,6 +63,10 @@
         404359759
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6cbff33e974906b0799e0f92fba35352",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673713,
-    "wof:lastmodified":1539928819,
+    "wof:lastmodified":1603247235,
     "wof:name":"Saint-Vigor-D'Ymonville",
     "wof:parent_id":102071483,
     "wof:placetype":"locality",

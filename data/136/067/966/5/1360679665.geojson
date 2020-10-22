@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404420825,
         404227721,
+        404420825,
+        85633147,
         1108826393,
         136253037,
         102070833
@@ -63,6 +63,10 @@
         404420825
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3014373d5d1c1e1e625f51b225abdedf",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679665,
-    "wof:lastmodified":1539928925,
+    "wof:lastmodified":1603247250,
     "wof:name":"Larre",
     "wof:parent_id":102070833,
     "wof:placetype":"locality",

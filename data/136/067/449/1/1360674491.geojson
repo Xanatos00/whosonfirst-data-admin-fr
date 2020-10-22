@@ -110,6 +110,11 @@
         404366857
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"be707b45be7ecbc864128eb2777fb022",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360674491,
-    "wof:lastmodified":1564126020,
+    "wof:lastmodified":1603247188,
     "wof:name":"Sancourt",
     "wof:parent_id":102067955,
     "wof:placetype":"locality",

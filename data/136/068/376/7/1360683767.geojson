@@ -9,7 +9,7 @@
     "geom:bbox":"-1.187403,46.209952,-1.187403,46.209952",
     "geom:latitude":46.209952,
     "geom:longitude":-1.187403,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.209952,
     "lbl:longitude":-1.187403,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683767,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247073,
     "wof:name":"Lauzi\u00e8res",
     "wof:parent_id":404403897,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"5.892341,43.115544,5.892341,43.115544",
     "geom:latitude":43.115544,
     "geom:longitude":5.892341,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":43.115544,
     "lbl:longitude":5.892341,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85863283,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322802,
+    "wof:lastmodified":1603246971,
     "wof:name":"La Beaucaire",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -122,6 +122,11 @@
         404348281
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6e1d98d38715db1598873396b7dea89b",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360672619,
-    "wof:lastmodified":1564126171,
+    "wof:lastmodified":1603247209,
     "wof:name":"Gignac",
     "wof:parent_id":102069557,
     "wof:placetype":"locality",

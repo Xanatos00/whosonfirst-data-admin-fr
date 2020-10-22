@@ -9,7 +9,7 @@
     "geom:bbox":"6.641063,46.405,6.641063,46.405",
     "geom:latitude":46.405,
     "geom:longitude":6.641063,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.405,
     "lbl:longitude":6.641063,
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":1360682879,
-    "wof:lastmodified":1564125399,
+    "wof:lastmodified":1603247047,
     "wof:name":"Torrent",
     "wof:parent_id":404420125,
     "wof:placetype":"neighbourhood",

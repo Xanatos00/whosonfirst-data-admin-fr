@@ -134,6 +134,11 @@
         404405115
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"91ff160627875150e9851586436f782a",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360678139,
-    "wof:lastmodified":1564126712,
+    "wof:lastmodified":1603247284,
     "wof:name":"Torcy",
     "wof:parent_id":102068861,
     "wof:placetype":"locality",

@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683431,
         102191581,
-        85633147,
-        404380049,
         404227651,
+        404380049,
+        85633147,
         1108826387,
         136253037,
         102065027
@@ -83,6 +83,11 @@
         404380049
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"50fa88c5392d2668bcc6ac788365840c",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360675835,
-    "wof:lastmodified":1539928859,
+    "wof:lastmodified":1603247322,
     "wof:name":"Ribaute-Les-Tavernes",
     "wof:parent_id":102065027,
     "wof:placetype":"locality",

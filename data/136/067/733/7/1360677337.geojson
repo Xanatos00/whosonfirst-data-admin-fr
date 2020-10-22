@@ -62,6 +62,10 @@
         404395951
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"aad4b54496eb01942fc6b8bb922d06d2",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677337,
-    "wof:lastmodified":1539928885,
+    "wof:lastmodified":1603247251,
     "wof:name":"Saint-Herve",
     "wof:parent_id":102071499,
     "wof:placetype":"locality",

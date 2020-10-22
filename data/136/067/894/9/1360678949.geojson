@@ -137,6 +137,11 @@
         404412563
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b43922d49987c436b490a744d1037d66",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360678949,
-    "wof:lastmodified":1564126239,
+    "wof:lastmodified":1603247218,
     "wof:name":"Saudrupt",
     "wof:parent_id":102064273,
     "wof:placetype":"locality",

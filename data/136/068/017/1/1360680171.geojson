@@ -118,6 +118,11 @@
         404425921
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b51d7443fff5b809ec020e2ce7b05a9d",
     "wof:hierarchy":[
         {
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":1360680171,
-    "wof:lastmodified":1564125618,
+    "wof:lastmodified":1603247097,
     "wof:name":"La Rochette",
     "wof:parent_id":102065077,
     "wof:placetype":"locality",

@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683471,
         102191581,
-        85633147,
-        404426941,
         404227725,
+        404426941,
+        85633147,
         1108826389,
         136253037,
         102064867
@@ -83,6 +83,11 @@
         404426941
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7f5d62f377da2a69c74866636209699f",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360680265,
-    "wof:lastmodified":1539928935,
+    "wof:lastmodified":1603247098,
     "wof:name":"Chaumont-Le-Bourg",
     "wof:parent_id":102064867,
     "wof:placetype":"locality",

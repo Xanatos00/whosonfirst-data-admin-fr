@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404392033,
         404228271,
+        404392033,
+        85633147,
         1108826385,
         136253037,
         102066581
@@ -63,6 +63,10 @@
         404392033
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"563245194d9be0eddbd171cbd8772085",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676973,
-    "wof:lastmodified":1539928879,
+    "wof:lastmodified":1603247290,
     "wof:name":"Saint-Pierre-De-L'Isle",
     "wof:parent_id":102066581,
     "wof:placetype":"locality",

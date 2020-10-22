@@ -139,6 +139,11 @@
         404352731
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dd34a4d0dd2dca13a7d28878baf17863",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360673025,
-    "wof:lastmodified":1564126591,
+    "wof:lastmodified":1603247267,
     "wof:name":"Villemardy",
     "wof:parent_id":102068593,
     "wof:placetype":"locality",

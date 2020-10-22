@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683539,
         102191581,
-        85633147,
-        404376109,
         404227939,
+        404376109,
+        85633147,
         1108826385,
         136253037,
         102064357
@@ -63,6 +63,10 @@
         404376109
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"49b9ca35d4ac397b32c199d50bd2dc22",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675373,
-    "wof:lastmodified":1539928851,
+    "wof:lastmodified":1603247246,
     "wof:name":"Lees-Athas",
     "wof:parent_id":102064357,
     "wof:placetype":"locality",

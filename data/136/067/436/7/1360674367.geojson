@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404365511,
         404227865,
+        404365511,
+        85633147,
         1108826387,
         136253037,
         102065089
@@ -68,6 +68,11 @@
         404365511
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"46e369a6c686c65b3a1edf3a22709fbd",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360674367,
-    "wof:lastmodified":1539928833,
+    "wof:lastmodified":1603247214,
     "wof:name":"Lourde",
     "wof:parent_id":102065089,
     "wof:placetype":"locality",

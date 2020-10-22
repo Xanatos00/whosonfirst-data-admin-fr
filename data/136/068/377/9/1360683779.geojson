@@ -9,7 +9,7 @@
     "geom:bbox":"5.048217,44.656015,5.048217,44.656015",
     "geom:latitude":44.656015,
     "geom:longitude":5.048217,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.656015,
     "lbl:longitude":5.048217,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683779,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247069,
     "wof:name":"Bi\u00e8gue",
     "wof:parent_id":404362141,
     "wof:placetype":"neighbourhood",

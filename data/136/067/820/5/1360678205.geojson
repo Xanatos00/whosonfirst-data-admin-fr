@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683503,
         102191581,
-        85633147,
-        404405653,
         404227993,
+        404405653,
+        85633147,
         1108826395,
         136253037,
         102067089
@@ -63,6 +63,10 @@
         404405653
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"288f705425a41d23cbb95b03b17e2ef2",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678205,
-    "wof:lastmodified":1539928900,
+    "wof:lastmodified":1603247185,
     "wof:name":"Melisey",
     "wof:parent_id":102067089,
     "wof:placetype":"locality",

@@ -9,7 +9,6 @@
     "geom:bbox":"7.778962,48.584913,7.778962,48.584913",
     "geom:latitude":48.584913,
     "geom:longitude":7.778962,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.584913,
     "lbl:longitude":7.778962,
@@ -104,10 +103,7 @@
         }
     ],
     "wof:id":85897721,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322803,
+    "wof:lastmodified":1603246972,
     "wof:name":"Quartier des XV",
     "wof:parent_id":101751113,
     "wof:placetype":"neighbourhood",

@@ -155,6 +155,11 @@
         404391091
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a79dfa8fafc06f19172e4df9ca281405",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360676855,
-    "wof:lastmodified":1564126642,
+    "wof:lastmodified":1603247274,
     "wof:name":"Mittlach",
     "wof:parent_id":102067639,
     "wof:placetype":"locality",

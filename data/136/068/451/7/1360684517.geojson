@@ -9,7 +9,7 @@
     "geom:bbox":"2.1675125,42.5058705,2.1675125,42.5058705",
     "geom:latitude":42.505871,
     "geom:longitude":2.167512,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.505871,
     "lbl:longitude":2.167512,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684517,
-    "wof:lastmodified":1539986858,
+    "wof:lastmodified":1603247104,
     "wof:name":"St.-Thomas-les-Bains",
     "wof:parent_id":404375659,
     "wof:placetype":"neighbourhood",

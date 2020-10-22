@@ -9,7 +9,7 @@
     "geom:bbox":"5.575883,43.302832,5.575883,43.302832",
     "geom:latitude":43.302832,
     "geom:longitude":5.575883,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.302832,
     "lbl:longitude":5.575883,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685953,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247037,
     "wof:name":"Beaudinard",
     "wof:parent_id":1159322057,
     "wof:placetype":"neighbourhood",

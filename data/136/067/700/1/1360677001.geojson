@@ -142,6 +142,11 @@
         404392223
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7e694510be73d35c3019d91631a1039c",
     "wof:hierarchy":[
         {
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":1360677001,
-    "wof:lastmodified":1564125981,
+    "wof:lastmodified":1603247182,
     "wof:name":"Vinon",
     "wof:parent_id":102068897,
     "wof:placetype":"locality",

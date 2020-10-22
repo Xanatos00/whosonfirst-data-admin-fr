@@ -125,6 +125,11 @@
         404379841
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2e20a39bbb08ce63a44281446fcbf6eb",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360675771,
-    "wof:lastmodified":1564127003,
+    "wof:lastmodified":1603247322,
     "wof:name":"Canapville",
     "wof:parent_id":102069373,
     "wof:placetype":"locality",

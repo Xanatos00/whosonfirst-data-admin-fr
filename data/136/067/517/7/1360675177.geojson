@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683227,
         102191581,
-        85633147,
-        404374235,
         404227747,
+        404374235,
+        85633147,
         1108826389,
         136253037,
         102064517
@@ -77,6 +77,11 @@
         404374235
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"645c54eef41491f313a7413dd268ab0b",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360675177,
-    "wof:lastmodified":1539928847,
+    "wof:lastmodified":1603247225,
     "wof:name":"Chainaz-Les-Frasses",
     "wof:parent_id":102064517,
     "wof:placetype":"locality",

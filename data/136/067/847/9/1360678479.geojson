@@ -118,6 +118,11 @@
         404408677
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2f39aefbcb6e2b65c5ccc9c9659eb41a",
     "wof:hierarchy":[
         {
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":1360678479,
-    "wof:lastmodified":1564126680,
+    "wof:lastmodified":1603247279,
     "wof:name":"Assigny",
     "wof:parent_id":102069439,
     "wof:placetype":"locality",

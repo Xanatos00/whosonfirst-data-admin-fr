@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683377,
         102191581,
-        85633147,
-        404391761,
         404227677,
+        404391761,
+        85633147,
         1108826389,
         136253037,
         102065835
@@ -63,6 +63,10 @@
         404391761
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ee39e8069886c520cda3db228f860ab8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676955,
-    "wof:lastmodified":1539928878,
+    "wof:lastmodified":1603247222,
     "wof:name":"Saint-Paul-D'Uzore",
     "wof:parent_id":102065835,
     "wof:placetype":"locality",

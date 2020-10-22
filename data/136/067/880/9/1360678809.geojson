@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404411095,
         404228147,
+        404411095,
+        85633147,
         1108826395,
         136253037,
         102071427
@@ -68,6 +68,11 @@
         404411095
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"35ea9ff6e22035270fd6e77edec450ea",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678809,
-    "wof:lastmodified":1539928910,
+    "wof:lastmodified":1603247191,
     "wof:name":"Varenne-L'Arconce",
     "wof:parent_id":102071427,
     "wof:placetype":"locality",

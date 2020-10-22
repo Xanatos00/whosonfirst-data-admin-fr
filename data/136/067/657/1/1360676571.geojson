@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404388547,
         404228165,
+        404388547,
+        85633147,
         1108826399,
         136253037,
         102070903
@@ -63,6 +63,10 @@
         404388547
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0f324e946b988768399719a78d82ee81",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676571,
-    "wof:lastmodified":1539928871,
+    "wof:lastmodified":1603247222,
     "wof:name":"Verpillieres",
     "wof:parent_id":102070903,
     "wof:placetype":"locality",

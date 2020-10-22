@@ -144,6 +144,10 @@
         404423571
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e738de390b10ec7fe2993b685743ff1a",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360679947,
-    "wof:lastmodified":1564126530,
+    "wof:lastmodified":1603247258,
     "wof:name":"Viller",
     "wof:parent_id":102066941,
     "wof:placetype":"locality",

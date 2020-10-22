@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404348043,
         404227751,
+        404348043,
+        85633147,
         1108826393,
         136253037,
         102067775
@@ -68,6 +68,11 @@
         404348043
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7b80c8360b840a9b1fc9fed9651e972b",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672589,
-    "wof:lastmodified":1539928783,
+    "wof:lastmodified":1603247217,
     "wof:name":"Ponts-Et-Marais",
     "wof:parent_id":102067775,
     "wof:placetype":"locality",

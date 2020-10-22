@@ -9,7 +9,7 @@
     "geom:bbox":"6.991424,45.446162,6.991424,45.446162",
     "geom:latitude":45.446162,
     "geom:longitude":6.991424,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.446162,
     "lbl:longitude":6.991424,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686279,
-    "wof:lastmodified":1539986881,
+    "wof:lastmodified":1603247052,
     "wof:name":"Le Laisinant",
     "wof:parent_id":404382439,
     "wof:placetype":"neighbourhood",

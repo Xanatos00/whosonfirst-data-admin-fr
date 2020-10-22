@@ -9,7 +9,7 @@
     "geom:bbox":"-4.486241,48.086565,-4.486241,48.086565",
     "geom:latitude":48.086565,
     "geom:longitude":-4.486241,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.086565,
     "lbl:longitude":-4.486241,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686089,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247105,
     "wof:name":"Pors-Piron",
     "wof:parent_id":404382801,
     "wof:placetype":"neighbourhood",

@@ -139,6 +139,11 @@
         404377071
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6c2133503bfe70479d200c982d935b0f",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360675499,
-    "wof:lastmodified":1564126884,
+    "wof:lastmodified":1603247306,
     "wof:name":"Dadonville",
     "wof:parent_id":102069709,
     "wof:placetype":"locality",

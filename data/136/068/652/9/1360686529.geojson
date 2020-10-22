@@ -9,7 +9,7 @@
     "geom:bbox":"1.731204,42.848156,1.731204,42.848156",
     "geom:latitude":42.848156,
     "geom:longitude":1.731204,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.848156,
     "lbl:longitude":1.731204,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686529,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247102,
     "wof:name":"Les Monts d'Olmos",
     "wof:parent_id":404383063,
     "wof:placetype":"neighbourhood",

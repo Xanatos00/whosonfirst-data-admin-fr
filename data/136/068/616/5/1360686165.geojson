@@ -9,7 +9,7 @@
     "geom:bbox":"1.815823,43.859515,1.815823,43.859515",
     "geom:latitude":43.859515,
     "geom:longitude":1.815823,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.859515,
     "lbl:longitude":1.815823,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686165,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247054,
     "wof:name":"Puech du Taur",
     "wof:parent_id":404367443,
     "wof:placetype":"neighbourhood",

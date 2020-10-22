@@ -9,7 +9,7 @@
     "geom:bbox":"-1.407623,46.607646,-1.407623,46.607646",
     "geom:latitude":46.607646,
     "geom:longitude":-1.407623,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.607646,
     "lbl:longitude":-1.407623,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683701,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247070,
     "wof:name":"La Domang\u00e8re",
     "wof:parent_id":404361987,
     "wof:placetype":"neighbourhood",

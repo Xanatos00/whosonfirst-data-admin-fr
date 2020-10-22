@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404353003,
         404227867,
+        404353003,
+        85633147,
         1108826387,
         136253037,
         102064907
@@ -68,6 +68,11 @@
         404353003
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c7cfc182e2749ea356ab9fdbd949230f",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673049,
-    "wof:lastmodified":1539928793,
+    "wof:lastmodified":1603247253,
     "wof:name":"Lias-D'Armagnac",
     "wof:parent_id":102064907,
     "wof:placetype":"locality",

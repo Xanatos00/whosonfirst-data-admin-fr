@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683389,
         102191581,
-        85633147,
-        404398841,
         404227897,
+        404398841,
+        85633147,
         1108826387,
         136253037,
         102066679
@@ -63,6 +63,10 @@
         404398841
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c5ea639375c968023ff36d31984e08c2",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677583,
-    "wof:lastmodified":1539928889,
+    "wof:lastmodified":1603247253,
     "wof:name":"Molieres",
     "wof:parent_id":102066679,
     "wof:placetype":"locality",

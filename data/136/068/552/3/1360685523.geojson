@@ -9,7 +9,7 @@
     "geom:bbox":"6.675052,45.505655,6.675052,45.505655",
     "geom:latitude":45.505655,
     "geom:longitude":6.675052,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.505655,
     "lbl:longitude":6.675052,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685523,
-    "wof:lastmodified":1539986871,
+    "wof:lastmodified":1603247081,
     "wof:name":"Plagne Centre",
     "wof:parent_id":404352717,
     "wof:placetype":"neighbourhood",

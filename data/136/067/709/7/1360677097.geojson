@@ -146,6 +146,11 @@
         404393343
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"47dd1210db36379f4689e52aa1bb4e71",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360677097,
-    "wof:lastmodified":1564125946,
+    "wof:lastmodified":1603247177,
     "wof:name":"Crollon",
     "wof:parent_id":102066617,
     "wof:placetype":"locality",

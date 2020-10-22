@@ -72,9 +72,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404360439,
         404227865,
+        404360439,
+        85633147,
         1108826387,
         136253037,
         102064903
@@ -89,6 +89,11 @@
         404360439
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"28a11880484849eaaad709c4ee96191a",
     "wof:hierarchy":[
         {
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1360673815,
-    "wof:lastmodified":1539928821,
+    "wof:lastmodified":1603247323,
     "wof:name":"Cazeaux-De-Larboust",
     "wof:parent_id":102064903,
     "wof:placetype":"locality",

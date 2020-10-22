@@ -57,9 +57,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404398581,
         404228147,
+        404398581,
+        85633147,
         1108826395,
         136253037,
         102071495
@@ -74,6 +74,11 @@
         404398581
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"349b81781cbcd84d6b718df84da07fcc",
     "wof:hierarchy":[
         {
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":1360677549,
-    "wof:lastmodified":1539928888,
+    "wof:lastmodified":1603247172,
     "wof:name":"Sanvignes-Les-Mines",
     "wof:parent_id":102071495,
     "wof:placetype":"locality",

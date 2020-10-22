@@ -125,6 +125,11 @@
         404360011
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"955b53bf7dcd9a7a6a7d025503304791",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360673765,
-    "wof:lastmodified":1564126372,
+    "wof:lastmodified":1603247236,
     "wof:name":"Marignac",
     "wof:parent_id":102069485,
     "wof:placetype":"locality",

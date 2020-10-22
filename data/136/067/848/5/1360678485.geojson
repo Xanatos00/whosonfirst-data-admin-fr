@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683203,
         102191581,
-        85633147,
-        404408687,
         404227729,
+        404408687,
+        85633147,
         1108826387,
         136253037,
         102066629
@@ -63,6 +63,10 @@
         404408687
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5f9760424e805f24c5172e25da7ccce8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678485,
-    "wof:lastmodified":1539928905,
+    "wof:lastmodified":1603247273,
     "wof:name":"Cheze",
     "wof:parent_id":102066629,
     "wof:placetype":"locality",

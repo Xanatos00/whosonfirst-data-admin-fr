@@ -9,9 +9,8 @@
     "geom:bbox":"0.825838,44.668979,0.867992,44.691014",
     "geom:latitude":44.679409,
     "geom:longitude":0.845407,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":36,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":36,
     "iso:country":"FR",
     "lbl:latitude":44.68586,
@@ -313,14 +312,14 @@
     "woe:name_adm1":"Aquitaine",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683331,
         102191581,
-        85633147,
-        102067953,
-        136253037,
-        404401369,
         404227635,
+        404401369,
+        85633147,
         1108826385,
-        85683331
+        136253037,
+        102067953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -352,7 +351,7 @@
         }
     ],
     "wof:id":1125808969,
-    "wof:lastmodified":1587163113,
+    "wof:lastmodified":1603248928,
     "wof:name":"St.-Cassien",
     "wof:parent_id":404401369,
     "wof:placetype":"locality",

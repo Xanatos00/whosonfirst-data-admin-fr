@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683223,
         102191581,
-        85633147,
-        404380609,
         404228179,
+        404380609,
+        85633147,
         1108826391,
         136253037,
         102069211
@@ -63,6 +63,10 @@
         404380609
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bb08fa3de66cd6bbb0ba790089f9801e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675861,
-    "wof:lastmodified":1539928859,
+    "wof:lastmodified":1603247230,
     "wof:name":"Saint-Jean-D'Ormont",
     "wof:parent_id":102069211,
     "wof:placetype":"locality",

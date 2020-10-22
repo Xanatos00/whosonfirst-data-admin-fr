@@ -134,6 +134,11 @@
         404356943
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d839d82eb9ef87ff9a6167297582a5ee",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360673449,
-    "wof:lastmodified":1564127030,
+    "wof:lastmodified":1603247325,
     "wof:name":"Livers-Cazelles",
     "wof:parent_id":102065861,
     "wof:placetype":"locality",

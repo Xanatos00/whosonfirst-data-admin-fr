@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404386219,
         404228049,
+        404386219,
+        85633147,
         1108826385,
         136253037,
         102066347
@@ -68,6 +68,11 @@
         404386219
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9d5f0105ed425b246a44b636d0310169",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360676363,
-    "wof:lastmodified":1539928868,
+    "wof:lastmodified":1603247305,
     "wof:name":"Preyssac-D'Excideuil",
     "wof:parent_id":102066347,
     "wof:placetype":"locality",

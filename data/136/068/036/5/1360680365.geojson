@@ -127,6 +127,11 @@
         404427715
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bf8675c5ec1827f30028e79112119e60",
     "wof:hierarchy":[
         {
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":1360680365,
-    "wof:lastmodified":1564125461,
+    "wof:lastmodified":1603247060,
     "wof:name":"Sainte-Marie",
     "wof:parent_id":102068655,
     "wof:placetype":"locality",

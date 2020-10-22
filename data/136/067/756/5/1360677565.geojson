@@ -113,6 +113,11 @@
         404398667
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"99ae910b2b12731146e435233a2d28e4",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360677565,
-    "wof:lastmodified":1564126502,
+    "wof:lastmodified":1603247255,
     "wof:name":"Brassac",
     "wof:parent_id":102064687,
     "wof:placetype":"locality",

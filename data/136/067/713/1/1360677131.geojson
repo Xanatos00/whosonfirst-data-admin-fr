@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404393655,
         404227669,
+        404393655,
+        85633147,
         1108826389,
         136253037,
         102067575
@@ -63,6 +63,10 @@
         404393655
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"023459ca3ffc31279874567151732bbd",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677131,
-    "wof:lastmodified":1539928881,
+    "wof:lastmodified":1603247227,
     "wof:name":"Saint-Martin-De-La-Cluze",
     "wof:parent_id":102067575,
     "wof:placetype":"locality",

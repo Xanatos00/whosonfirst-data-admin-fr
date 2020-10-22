@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404408793,
         404228049,
+        404408793,
+        85633147,
         1108826385,
         136253037,
         102070429
@@ -63,6 +63,10 @@
         404408793
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5b58b6f5639642465c9cf6afab61269a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678497,
-    "wof:lastmodified":1539928905,
+    "wof:lastmodified":1603247278,
     "wof:name":"Saint-Crepin-D'Auberoche",
     "wof:parent_id":102070429,
     "wof:placetype":"locality",

@@ -66,6 +66,11 @@
         404391329
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"44723788b7cbcf23edf50c1361b01af7",
     "wof:hierarchy":[
         {
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":1360676879,
-    "wof:lastmodified":1539928877,
+    "wof:lastmodified":1603247198,
     "wof:name":"Meulan-En-Yvelines",
     "wof:parent_id":102066829,
     "wof:placetype":"locality",

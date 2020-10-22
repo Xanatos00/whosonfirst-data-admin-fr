@@ -107,6 +107,11 @@
         404391541
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a4c71eade7853ffb31f2666ce5d18b02",
     "wof:hierarchy":[
         {
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":1360676919,
-    "wof:lastmodified":1564126821,
+    "wof:lastmodified":1603247297,
     "wof:name":"Vion",
     "wof:parent_id":102068799,
     "wof:placetype":"locality",

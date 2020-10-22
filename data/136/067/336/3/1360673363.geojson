@@ -108,6 +108,10 @@
         404356013
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ef76b84f11717a686e600f5e82d4bf58",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360673363,
-    "wof:lastmodified":1564125840,
+    "wof:lastmodified":1603247163,
     "wof:name":"Saint-Vallier",
     "wof:parent_id":102065677,
     "wof:placetype":"locality",

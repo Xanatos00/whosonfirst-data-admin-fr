@@ -54,9 +54,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404360043,
         404228045,
+        404360043,
+        85633147,
         1108826395,
         136253037,
         102069537
@@ -71,6 +71,11 @@
         404360043
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9ff3cfc7a1361b132e01680d32f9c864",
     "wof:hierarchy":[
         {
@@ -86,7 +91,7 @@
         }
     ],
     "wof:id":1360673745,
-    "wof:lastmodified":1539928820,
+    "wof:lastmodified":1603247316,
     "wof:name":"Lucey",
     "wof:parent_id":102069537,
     "wof:placetype":"locality",

@@ -125,6 +125,11 @@
         404356979
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4622d98aaf25d476bc58a99a7e5d54e6",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360673453,
-    "wof:lastmodified":1564126942,
+    "wof:lastmodified":1603247313,
     "wof:name":"Monestier",
     "wof:parent_id":102070823,
     "wof:placetype":"locality",

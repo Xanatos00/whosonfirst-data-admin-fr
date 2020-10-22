@@ -110,6 +110,11 @@
         404376429
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8297de4f18e5f208bede7bb43167255b",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360675433,
-    "wof:lastmodified":1564126344,
+    "wof:lastmodified":1603247233,
     "wof:name":"Offoy",
     "wof:parent_id":102068869,
     "wof:placetype":"locality",

@@ -155,6 +155,11 @@
         404367751
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"19a7698585ff6f9dc12a159b31a348ca",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360674581,
-    "wof:lastmodified":1564126740,
+    "wof:lastmodified":1603247286,
     "wof:name":"Champigneulle",
     "wof:parent_id":102066563,
     "wof:placetype":"locality",

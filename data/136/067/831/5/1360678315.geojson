@@ -124,6 +124,11 @@
         404406885
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"62b40a97b7157987cbdff0415b78e87a",
     "wof:hierarchy":[
         {
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":1360678315,
-    "wof:lastmodified":1564126761,
+    "wof:lastmodified":1603247289,
     "wof:name":"Braux",
     "wof:parent_id":102064539,
     "wof:placetype":"locality",

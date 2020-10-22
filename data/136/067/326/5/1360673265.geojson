@@ -67,6 +67,11 @@
         404355013
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a765d45287b7201e5927696ba9f4d0f2",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360673265,
-    "wof:lastmodified":1539928799,
+    "wof:lastmodified":1603247321,
     "wof:name":"Molines-En-Queyras",
     "wof:parent_id":102064241,
     "wof:placetype":"locality",

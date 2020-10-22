@@ -63,9 +63,9 @@
     "wof:belongsto":[
         85683471,
         102191581,
-        85633147,
-        404359771,
         404227937,
+        404359771,
+        85633147,
         1108826389,
         136253037,
         102070757
@@ -80,6 +80,11 @@
         404359771
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9667de009efab7897dd03a95bdf7a2f8",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360673711,
-    "wof:lastmodified":1539928819,
+    "wof:lastmodified":1603247235,
     "wof:name":"Saulzet-Le-Froid",
     "wof:parent_id":102070757,
     "wof:placetype":"locality",

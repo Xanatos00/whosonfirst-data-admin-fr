@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683289,
         102191581,
-        85633147,
-        404389833,
         404227717,
+        404389833,
+        85633147,
         1108826399,
         136253037,
         102069457
@@ -68,6 +68,11 @@
         404389833
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"547b4ff82a4e495f52543d1d7e3f169f",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360676711,
-    "wof:lastmodified":1539928874,
+    "wof:lastmodified":1603247275,
     "wof:name":"La Neuville-D'Aumont",
     "wof:parent_id":102069457,
     "wof:placetype":"locality",

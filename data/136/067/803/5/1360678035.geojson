@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404403803,
         404227883,
+        404403803,
+        85633147,
         1108826395,
         136253037,
         102065297
@@ -68,6 +68,11 @@
         404403803
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8c3407abeacf415756ed6c6af4800fae",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678035,
-    "wof:lastmodified":1539928897,
+    "wof:lastmodified":1603247211,
     "wof:name":"Montigny-Sur-L'Ain",
     "wof:parent_id":102065297,
     "wof:placetype":"locality",

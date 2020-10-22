@@ -119,6 +119,11 @@
         404360193
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fdb3f150b6d60eb7884eeea1a672ddf4",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360673755,
-    "wof:lastmodified":1564127009,
+    "wof:lastmodified":1603247323,
     "wof:name":"Mortefontaine",
     "wof:parent_id":102070475,
     "wof:placetype":"locality",

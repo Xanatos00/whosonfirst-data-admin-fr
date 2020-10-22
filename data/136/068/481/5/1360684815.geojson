@@ -9,7 +9,7 @@
     "geom:bbox":"3.290147,44.0375035,3.290147,44.0375035",
     "geom:latitude":44.037503,
     "geom:longitude":3.290147,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.037503,
     "lbl:longitude":3.290147,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684815,
-    "wof:lastmodified":1539986862,
+    "wof:lastmodified":1603247092,
     "wof:name":"Les Cuns",
     "wof:parent_id":404369007,
     "wof:placetype":"neighbourhood",

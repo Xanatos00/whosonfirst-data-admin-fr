@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404392673,
         404227915,
+        404392673,
+        85633147,
         1108826391,
         136253037,
         102064925
@@ -63,6 +63,10 @@
         404392673
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"044f349b1ac9a0cc169f2e01ec9f0672",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677057,
-    "wof:lastmodified":1539928880,
+    "wof:lastmodified":1603247246,
     "wof:name":"Neuviller-Les-Badonviller",
     "wof:parent_id":102064925,
     "wof:placetype":"locality",

@@ -102,6 +102,10 @@
         404355409
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3370640118e07fe5dcb085ccf909a73b",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360673281,
-    "wof:lastmodified":1564126971,
+    "wof:lastmodified":1603247317,
     "wof:name":"Saint-Astier",
     "wof:parent_id":102066313,
     "wof:placetype":"locality",

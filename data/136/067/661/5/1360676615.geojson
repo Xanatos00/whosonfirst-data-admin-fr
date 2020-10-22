@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683309,
         102191581,
-        85633147,
-        404389123,
         404228201,
+        404389123,
+        85633147,
         1108826391,
         136253037,
         102066563
@@ -63,6 +63,10 @@
         404389123
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"acfdeedafed43c46afeb69eda23b92d6",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676615,
-    "wof:lastmodified":1539928872,
+    "wof:lastmodified":1603247221,
     "wof:name":"Fleville",
     "wof:parent_id":102066563,
     "wof:placetype":"locality",

@@ -119,6 +119,11 @@
         404350951
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2a10f4c4476dee0bdcbab0544e46ba27",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360672867,
-    "wof:lastmodified":1564126121,
+    "wof:lastmodified":1603247201,
     "wof:name":"Espinasse",
     "wof:parent_id":102071225,
     "wof:placetype":"locality",

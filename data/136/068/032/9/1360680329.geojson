@@ -113,6 +113,11 @@
         404427311
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7f95887e54c2d5abcfd2cd5528db528f",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360680329,
-    "wof:lastmodified":1564125650,
+    "wof:lastmodified":1603247102,
     "wof:name":"Le Chesne",
     "wof:parent_id":102065749,
     "wof:placetype":"locality",

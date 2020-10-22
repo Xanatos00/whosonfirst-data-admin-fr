@@ -131,6 +131,11 @@
         404391583
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"346e92a836bf67efc182e59e51ca2590",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360676927,
-    "wof:lastmodified":1564126256,
+    "wof:lastmodified":1603247220,
     "wof:name":"Croisilles",
     "wof:parent_id":102069979,
     "wof:placetype":"locality",

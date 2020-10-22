@@ -110,6 +110,11 @@
         404358245
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a9718017e0ca88bfed8bf0ba30db269c",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360673573,
-    "wof:lastmodified":1564126475,
+    "wof:lastmodified":1603247251,
     "wof:name":"Villefort",
     "wof:parent_id":102066293,
     "wof:placetype":"locality",

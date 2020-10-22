@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404356067,
         404227659,
+        404356067,
+        85633147,
         1108826387,
         136253037,
         102068905
@@ -63,6 +63,10 @@
         404356067
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9cf6ddf82ea74e980451ea9c10c3aa1a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673357,
-    "wof:lastmodified":1539928804,
+    "wof:lastmodified":1603247255,
     "wof:name":"Saint-Genies-De-Fontedit",
     "wof:parent_id":102068905,
     "wof:placetype":"locality",

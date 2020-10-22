@@ -62,6 +62,10 @@
         404366107
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"476889b31394890a0c55060e3e8a02cd",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674427,
-    "wof:lastmodified":1539928834,
+    "wof:lastmodified":1603247284,
     "wof:name":"Saint-Benoit",
     "wof:parent_id":102064539,
     "wof:placetype":"locality",

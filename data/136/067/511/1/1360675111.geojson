@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683173,
         102191581,
-        85633147,
-        404373457,
         404228085,
+        404373457,
+        85633147,
         1108826395,
         136253037,
         102069553
@@ -77,6 +77,11 @@
         404373457
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5fbb356da9e4be2f3e15b5685a087f94",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360675111,
-    "wof:lastmodified":1539928846,
+    "wof:lastmodified":1603247240,
     "wof:name":"Lac-Des-Rouges-Truites",
     "wof:parent_id":102069553,
     "wof:placetype":"locality",

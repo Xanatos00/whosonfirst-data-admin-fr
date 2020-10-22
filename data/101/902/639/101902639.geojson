@@ -9,9 +9,8 @@
     "geom:bbox":"3.09067028431,49.5418018339,3.13388532698,49.5729041946",
     "geom:latitude":49.560361,
     "geom:longitude":3.115118,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":351,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":351,
     "iso:country":"FR",
     "lbl:latitude":49.567173,
@@ -376,10 +375,7 @@
         }
     ],
     "wof:id":101902639,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323490,
+    "wof:lastmodified":1603247841,
     "wof:name":"Br\u00e9tigny",
     "wof:parent_id":404370429,
     "wof:placetype":"locality",

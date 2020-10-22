@@ -9,7 +9,7 @@
     "geom:bbox":"2.983658,45.812442,2.983658,45.812442",
     "geom:latitude":45.812442,
     "geom:longitude":2.983658,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.812442,
     "lbl:longitude":2.983658,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684151,
-    "wof:lastmodified":1539986853,
+    "wof:lastmodified":1603247053,
     "wof:name":"La Mouteyre",
     "wof:parent_id":404348279,
     "wof:placetype":"neighbourhood",

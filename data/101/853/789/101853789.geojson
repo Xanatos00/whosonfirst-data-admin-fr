@@ -308,13 +308,13 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683349,
         102191581,
         85633147,
-        102069493,
         404370097,
         404227887,
         404227461,
-        85683349
+        102069493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -348,10 +348,7 @@
         }
     ],
     "wof:id":101853789,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163110,
+    "wof:lastmodified":1603248134,
     "wof:name":"Saint-Ouen",
     "wof:parent_id":404370097,
     "wof:placetype":"locality",

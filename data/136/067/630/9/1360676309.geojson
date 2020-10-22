@@ -140,6 +140,11 @@
         404385281
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b161591d89d2694747c8d169fb7f233d",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360676309,
-    "wof:lastmodified":1564126783,
+    "wof:lastmodified":1603247292,
     "wof:name":"Rougegoutte",
     "wof:parent_id":102064879,
     "wof:placetype":"locality",

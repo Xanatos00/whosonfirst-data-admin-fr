@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683153,
         102191581,
-        85633147,
-        404409889,
         404227797,
+        404409889,
+        85633147,
         1108826389,
         136253037,
         102069317
@@ -63,6 +63,10 @@
         404409889
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c19676c895e8876c67c07c94be21a0bf",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678619,
-    "wof:lastmodified":1539928907,
+    "wof:lastmodified":1603247206,
     "wof:name":"Saint-Andre-D'Huiriat",
     "wof:parent_id":102069317,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404368001,
         404227659,
+        404368001,
+        85633147,
         1108826387,
         136253037,
         102069079
@@ -63,6 +63,10 @@
         404368001
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a73baa2781bd9f3c1cbd6cb9c3c1c0b0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674615,
-    "wof:lastmodified":1539928838,
+    "wof:lastmodified":1603247299,
     "wof:name":"Saint-Vincent-D'Olargues",
     "wof:parent_id":102069079,
     "wof:placetype":"locality",

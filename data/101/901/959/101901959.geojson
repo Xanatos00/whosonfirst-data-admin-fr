@@ -9,9 +9,8 @@
     "geom:bbox":"0.478173615794,49.5995812524,0.520705501235,49.6554136078",
     "geom:latitude":49.626259,
     "geom:longitude":0.4983,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":525,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":525,
     "iso:country":"FR",
     "lbl:latitude":49.616295,
@@ -355,10 +354,7 @@
         }
     ],
     "wof:id":101901959,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323043,
+    "wof:lastmodified":1603247387,
     "wof:name":"Rouville",
     "wof:parent_id":404389289,
     "wof:placetype":"locality",

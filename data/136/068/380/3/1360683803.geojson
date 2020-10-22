@@ -9,7 +9,7 @@
     "geom:bbox":"3.432712,50.396782,3.432712,50.396782",
     "geom:latitude":50.396782,
     "geom:longitude":3.432712,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":50.396782,
     "lbl:longitude":3.432712,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683803,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247117,
     "wof:name":"Wallers-Arenberg",
     "wof:parent_id":404358353,
     "wof:placetype":"neighbourhood",

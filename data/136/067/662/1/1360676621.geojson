@@ -146,6 +146,11 @@
         404389063
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"29356e41dbf461f835795c4a62a377ef",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360676621,
-    "wof:lastmodified":1564126813,
+    "wof:lastmodified":1603247296,
     "wof:name":"Tragny",
     "wof:parent_id":102068683,
     "wof:placetype":"locality",

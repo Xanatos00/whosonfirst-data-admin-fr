@@ -9,7 +9,7 @@
     "geom:bbox":"-1.381187,43.240325,-1.381187,43.240325",
     "geom:latitude":43.240325,
     "geom:longitude":-1.381187,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.240325,
     "lbl:longitude":-1.381187,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1360683763,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247073,
     "wof:name":"Chapatend\u00e9guia",
     "wof:parent_id":404339557,
     "wof:placetype":"neighbourhood",

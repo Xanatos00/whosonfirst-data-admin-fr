@@ -9,7 +9,7 @@
     "geom:bbox":"-2.613329,48.506682,-2.613329,48.506682",
     "geom:latitude":48.506682,
     "geom:longitude":-2.613329,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.506682,
     "lbl:longitude":-2.613329,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683745,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247117,
     "wof:name":"Les Ponts Neufs",
     "wof:parent_id":404352359,
     "wof:placetype":"neighbourhood",

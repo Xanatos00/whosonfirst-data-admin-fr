@@ -111,6 +111,10 @@
         404354953
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a9914e10409f664c77c3014315d4f842",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360673239,
-    "wof:lastmodified":1564126334,
+    "wof:lastmodified":1603247231,
     "wof:name":"Canchy",
     "wof:parent_id":102067951,
     "wof:placetype":"locality",

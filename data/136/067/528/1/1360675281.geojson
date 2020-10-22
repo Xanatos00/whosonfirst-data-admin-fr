@@ -154,6 +154,11 @@
         404375119
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f448eacea631973df675714a42856544",
     "wof:hierarchy":[
         {
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":1360675281,
-    "wof:lastmodified":1564126303,
+    "wof:lastmodified":1603247226,
     "wof:name":"Arro",
     "wof:parent_id":102071593,
     "wof:placetype":"locality",

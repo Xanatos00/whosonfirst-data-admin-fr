@@ -303,11 +303,11 @@
     "wof:belongsto":[
         102191581,
         85633147,
-        102065311,
         404354843,
-        101765775,
         404227905,
         404227423,
+        101765775,
+        102065311,
         85683327
     ],
     "wof:breaches":[],
@@ -336,10 +336,7 @@
         }
     ],
     "wof:id":1360696519,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247134,
     "wof:name":"Andrez\u00e9",
     "wof:parent_id":404354843,
     "wof:placetype":"neighbourhood",

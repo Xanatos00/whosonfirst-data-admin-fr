@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404423689,
         404227761,
+        404423689,
+        85633147,
         1108826399,
         136253037,
         102066265
@@ -68,6 +68,11 @@
         404423689
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"74ed8201032f616ec4ea6f55132aabae",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679959,
-    "wof:lastmodified":1539928930,
+    "wof:lastmodified":1603247248,
     "wof:name":"Mers-Les-Bains",
     "wof:parent_id":102066265,
     "wof:placetype":"locality",

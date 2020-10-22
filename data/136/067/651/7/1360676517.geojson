@@ -127,6 +127,11 @@
         404387893
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"15b0325bb6661c06881bbff5deb4287d",
     "wof:hierarchy":[
         {
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":1360676517,
-    "wof:lastmodified":1564126182,
+    "wof:lastmodified":1603247210,
     "wof:name":"Baye",
     "wof:parent_id":102070699,
     "wof:placetype":"locality",

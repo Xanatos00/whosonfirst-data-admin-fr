@@ -9,7 +9,7 @@
     "geom:bbox":"-1.561646,48.956326,-1.561646,48.956326",
     "geom:latitude":48.956326,
     "geom:longitude":-1.561646,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.956326,
     "lbl:longitude":-1.561646,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686613,
-    "wof:lastmodified":1539986885,
+    "wof:lastmodified":1603247065,
     "wof:name":"Lingreville-Plage",
     "wof:parent_id":404420075,
     "wof:placetype":"neighbourhood",

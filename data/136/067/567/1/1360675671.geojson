@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404378945,
         404227641,
+        404378945,
+        85633147,
         1108826393,
         136253037,
         102066791
@@ -63,6 +63,10 @@
         404378945
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c709d030295d0cca05de9694d942bdbf",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675671,
-    "wof:lastmodified":1539928856,
+    "wof:lastmodified":1603247165,
     "wof:name":"Heubecourt-Haricourt",
     "wof:parent_id":102066791,
     "wof:placetype":"locality",

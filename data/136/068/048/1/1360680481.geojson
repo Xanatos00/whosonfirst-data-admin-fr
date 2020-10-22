@@ -131,6 +131,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526511270,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"836d40cd22fdb0297dba516f6538f93a",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1360680481,
-    "wof:lastmodified":1564125400,
+    "wof:lastmodified":1603247047,
     "wof:name":"Oissel",
     "wof:parent_id":102071831,
     "wof:placetype":"locality",

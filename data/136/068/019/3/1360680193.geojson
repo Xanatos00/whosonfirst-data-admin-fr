@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404426135,
         404228069,
+        404426135,
+        85633147,
         1108826387,
         136253037,
         102068067
@@ -63,6 +63,10 @@
         404426135
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dc4a1e6dc1afb3a576323e016220d793",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680193,
-    "wof:lastmodified":1539928934,
+    "wof:lastmodified":1603247099,
     "wof:name":"Castelnau-D'Angles",
     "wof:parent_id":102068067,
     "wof:placetype":"locality",

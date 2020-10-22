@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683247,
         102191581,
-        85633147,
-        404406025,
         404227587,
+        404406025,
+        85633147,
         1108826399,
         136253037,
         102065405
@@ -63,6 +63,10 @@
         404406025
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ed089d9aa76c3a7c16608247db03320b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678243,
-    "wof:lastmodified":1539928901,
+    "wof:lastmodified":1603247275,
     "wof:name":"L'Epine-Aux-Bois",
     "wof:parent_id":102065405,
     "wof:placetype":"locality",

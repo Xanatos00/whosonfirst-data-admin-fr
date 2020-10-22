@@ -114,6 +114,10 @@
         404362453
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d6349c8f729f4f57facf847dc27a1e6c",
     "wof:hierarchy":[
         {
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1360674059,
-    "wof:lastmodified":1564126773,
+    "wof:lastmodified":1603247290,
     "wof:name":"Livry",
     "wof:parent_id":102066217,
     "wof:placetype":"locality",

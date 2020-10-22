@@ -128,6 +128,11 @@
         404385709
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d4180e65f2ebe5bd716e43cd779157ac",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360676335,
-    "wof:lastmodified":1564126143,
+    "wof:lastmodified":1603247204,
     "wof:name":"Bray",
     "wof:parent_id":102066589,
     "wof:placetype":"locality",

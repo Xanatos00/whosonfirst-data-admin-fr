@@ -9,7 +9,7 @@
     "geom:bbox":"6.607503,44.661815,6.607503,44.661815",
     "geom:latitude":44.661815,
     "geom:longitude":6.607503,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.661815,
     "lbl:longitude":6.607503,
@@ -153,7 +153,7 @@
         }
     ],
     "wof:id":1360684027,
-    "wof:lastmodified":1564125663,
+    "wof:lastmodified":1603247105,
     "wof:name":"Saint-Guillaume",
     "wof:parent_id":404364169,
     "wof:placetype":"neighbourhood",

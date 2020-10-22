@@ -62,6 +62,10 @@
         404359819
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5932bb7dd57034c2d976681d27ab0f2e",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673729,
-    "wof:lastmodified":1539928819,
+    "wof:lastmodified":1603247325,
     "wof:name":"Zerubia",
     "wof:parent_id":102071697,
     "wof:placetype":"locality",

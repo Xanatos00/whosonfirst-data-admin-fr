@@ -134,6 +134,11 @@
         404367655
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a4c826daef03dd31275b45ea5de3cd3a",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360674579,
-    "wof:lastmodified":1564126824,
+    "wof:lastmodified":1603247298,
     "wof:name":"Pouzol",
     "wof:parent_id":102069053,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683471,
         102191581,
-        85633147,
-        404403103,
         404228251,
+        404403103,
+        85633147,
         1108826389,
         136253037,
         102071225
@@ -63,6 +63,10 @@
         404403103
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b800034db4ef6f576784ccba3af1003d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677959,
-    "wof:lastmodified":1539928895,
+    "wof:lastmodified":1603247266,
     "wof:name":"Saint-Julien-La-Geneste",
     "wof:parent_id":102071225,
     "wof:placetype":"locality",

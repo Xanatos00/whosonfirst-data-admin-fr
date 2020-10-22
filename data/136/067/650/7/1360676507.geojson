@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404387799,
         404227915,
+        404387799,
+        85633147,
         1108826391,
         136253037,
         102064351
@@ -63,6 +63,10 @@
         404387799
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c1f25f3623aacfe23fe1193d6f08c254",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676507,
-    "wof:lastmodified":1539928870,
+    "wof:lastmodified":1603247223,
     "wof:name":"Bathelemont-Les-Bauzemont",
     "wof:parent_id":102064351,
     "wof:placetype":"locality",

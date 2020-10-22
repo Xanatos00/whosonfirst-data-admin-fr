@@ -119,6 +119,11 @@
         404423167
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"67f1acff282db11e65b1d115e32b8df3",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360679911,
-    "wof:lastmodified":1564125886,
+    "wof:lastmodified":1603247169,
     "wof:name":"Tilly",
     "wof:parent_id":102066791,
     "wof:placetype":"locality",

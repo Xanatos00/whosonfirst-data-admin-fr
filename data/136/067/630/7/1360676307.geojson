@@ -140,6 +140,11 @@
         404385329
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8dadd1e35555dece5b2475e9ba7df98e",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360676307,
-    "wof:lastmodified":1564126784,
+    "wof:lastmodified":1603247292,
     "wof:name":"Repel",
     "wof:parent_id":102067289,
     "wof:placetype":"locality",

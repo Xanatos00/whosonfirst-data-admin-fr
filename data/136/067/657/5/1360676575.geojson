@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404388573,
         404227867,
+        404388573,
+        85633147,
         1108826387,
         136253037,
         102065529
@@ -63,6 +63,10 @@
         404388573
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4a10778604b8f75fa2b72c2627112017",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676575,
-    "wof:lastmodified":1539928871,
+    "wof:lastmodified":1603247222,
     "wof:name":"Mourede",
     "wof:parent_id":102065529,
     "wof:placetype":"locality",

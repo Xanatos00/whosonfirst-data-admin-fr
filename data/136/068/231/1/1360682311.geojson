@@ -9,7 +9,7 @@
     "geom:bbox":"6.121616,45.007049,6.121616,45.007049",
     "geom:latitude":45.007049,
     "geom:longitude":6.121616,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.007049,
     "lbl:longitude":6.121616,
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1360682311,
-    "wof:lastmodified":1563280080,
+    "wof:lastmodified":1603247101,
     "wof:name":"Les DEUX-ALPE",
     "wof:parent_id":404412051,
     "wof:placetype":"neighbourhood",

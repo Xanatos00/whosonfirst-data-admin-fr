@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683603,
         102191581,
-        85633147,
-        404391041,
         404227763,
+        404391041,
+        85633147,
         1108826387,
         136253037,
         102069101
@@ -63,6 +63,10 @@
         404391041
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e18e7b8933548789c74382e9d902483c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676845,
-    "wof:lastmodified":1539928876,
+    "wof:lastmodified":1603247285,
     "wof:name":"Roumegoux",
     "wof:parent_id":102069101,
     "wof:placetype":"locality",

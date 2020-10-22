@@ -140,6 +140,11 @@
         404374109
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e277c1f58c1e99d327ccaa99a5f40f3d",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360675171,
-    "wof:lastmodified":1564126297,
+    "wof:lastmodified":1603247225,
     "wof:name":"Blye",
     "wof:parent_id":102066305,
     "wof:placetype":"locality",

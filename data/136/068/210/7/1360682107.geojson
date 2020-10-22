@@ -9,7 +9,7 @@
     "geom:bbox":"6.679998,43.354138,6.679998,43.354138",
     "geom:latitude":43.354138,
     "geom:longitude":6.679998,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.354138,
     "lbl:longitude":6.679998,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360682107,
-    "wof:lastmodified":1539986826,
+    "wof:lastmodified":1603247051,
     "wof:name":"Val d'Esqui\u00e8res",
     "wof:parent_id":404347989,
     "wof:placetype":"neighbourhood",

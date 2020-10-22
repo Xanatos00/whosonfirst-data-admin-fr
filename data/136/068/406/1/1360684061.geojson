@@ -9,7 +9,7 @@
     "geom:bbox":"-1.789516,43.341561,-1.789516,43.341561",
     "geom:latitude":43.341561,
     "geom:longitude":-1.789516,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.341561,
     "lbl:longitude":-1.789516,
@@ -210,10 +210,10 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        85633129,
         404336183,
-        1125876235,
+        85633129,
         404227393,
+        1125876235,
         85682741
     ],
     "wof:breaches":[],
@@ -237,7 +237,7 @@
         }
     ],
     "wof:id":1360684061,
-    "wof:lastmodified":1587163122,
+    "wof:lastmodified":1603247056,
     "wof:name":"Irun",
     "wof:parent_id":404336183,
     "wof:placetype":"neighbourhood",

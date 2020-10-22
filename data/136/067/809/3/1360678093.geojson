@@ -134,6 +134,11 @@
         404404541
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"50b44d5c147b2633226198b75453ec47",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360678093,
-    "wof:lastmodified":1564126773,
+    "wof:lastmodified":1603247290,
     "wof:name":"Aubusson",
     "wof:parent_id":102067067,
     "wof:placetype":"locality",

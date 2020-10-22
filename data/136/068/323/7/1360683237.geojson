@@ -9,7 +9,7 @@
     "geom:bbox":"3.033943,42.767241,3.033943,42.767241",
     "geom:latitude":42.767241,
     "geom:longitude":3.033943,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.767241,
     "lbl:longitude":3.033943,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683237,
-    "wof:lastmodified":1539986841,
+    "wof:lastmodified":1603247071,
     "wof:name":"Torreilles-Plage",
     "wof:parent_id":404399195,
     "wof:placetype":"neighbourhood",

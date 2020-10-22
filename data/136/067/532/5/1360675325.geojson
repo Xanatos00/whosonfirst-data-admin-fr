@@ -110,6 +110,11 @@
         404375467
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ea200beeb2e03059edcca6d030592974",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360675325,
-    "wof:lastmodified":1564125984,
+    "wof:lastmodified":1603247182,
     "wof:name":"Marolles",
     "wof:parent_id":102065197,
     "wof:placetype":"locality",

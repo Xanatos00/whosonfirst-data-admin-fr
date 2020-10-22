@@ -104,6 +104,11 @@
         404350849
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ed4f5612580be5c43d38a89580eeeca9",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360672855,
-    "wof:lastmodified":1564126696,
+    "wof:lastmodified":1603247281,
     "wof:name":"Thoiry",
     "wof:parent_id":102070417,
     "wof:placetype":"locality",

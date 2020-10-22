@@ -9,7 +9,7 @@
     "geom:bbox":"2.8252185,42.8764135,2.8252185,42.8764135",
     "geom:latitude":42.876413,
     "geom:longitude":2.825219,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.876413,
     "lbl:longitude":2.825219,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686197,
-    "wof:lastmodified":1539986880,
+    "wof:lastmodified":1603247048,
     "wof:name":"La Vall Oriole",
     "wof:parent_id":404422159,
     "wof:placetype":"neighbourhood",

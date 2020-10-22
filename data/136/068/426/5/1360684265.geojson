@@ -9,7 +9,7 @@
     "geom:bbox":"-1.433587,47.246989,-1.433587,47.246989",
     "geom:latitude":47.246989,
     "geom:longitude":-1.433587,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.246989,
     "lbl:longitude":-1.433587,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684265,
-    "wof:lastmodified":1539986855,
+    "wof:lastmodified":1603247088,
     "wof:name":"Boire-Courant",
     "wof:parent_id":404414691,
     "wof:placetype":"neighbourhood",

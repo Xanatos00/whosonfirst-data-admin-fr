@@ -9,7 +9,6 @@
     "geom:bbox":"2.321607,48.831737,2.342083,48.843676",
     "geom:latitude":48.837617,
     "geom:longitude":2.331822,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.837533,
     "lbl:longitude":2.330966,
@@ -182,12 +181,12 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1951,
     "wof:belongsto":[
-        1158894259,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894259,
         85683497
     ],
     "wof:breaches":[],
@@ -216,10 +215,7 @@
         }
     ],
     "wof:id":85873945,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592443,
+    "wof:lastmodified":1603246970,
     "wof:name":"Montparnasse",
     "wof:parent_id":1158894259,
     "wof:placetype":"neighbourhood",

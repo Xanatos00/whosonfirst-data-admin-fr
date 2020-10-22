@@ -147,6 +147,10 @@
         404379609
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"972567c8abafccf9c0e52af824aee5fc",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360675751,
-    "wof:lastmodified":1564126336,
+    "wof:lastmodified":1603247231,
     "wof:name":"Vieil-Hesdin",
     "wof:parent_id":102071005,
     "wof:placetype":"locality",

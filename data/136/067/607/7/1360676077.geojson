@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683503,
         102191581,
-        85633147,
-        404382783,
         404227993,
+        404382783,
+        85633147,
         1108826395,
         136253037,
         102068623
@@ -63,6 +63,10 @@
         404382783
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"51c0b5fadfc9e8209adae715862ddda0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676077,
-    "wof:lastmodified":1539928863,
+    "wof:lastmodified":1603247302,
     "wof:name":"Bussieres",
     "wof:parent_id":102068623,
     "wof:placetype":"locality",

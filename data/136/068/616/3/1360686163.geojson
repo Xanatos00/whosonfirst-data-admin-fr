@@ -9,7 +9,7 @@
     "geom:bbox":"1.640331,42.907531,1.640331,42.907531",
     "geom:latitude":42.907531,
     "geom:longitude":1.640331,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.907531,
     "lbl:longitude":1.640331,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686163,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247054,
     "wof:name":"Ginabat",
     "wof:parent_id":404389227,
     "wof:placetype":"neighbourhood",

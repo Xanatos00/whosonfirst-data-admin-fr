@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404383227,
         404227635,
+        404383227,
+        85633147,
         1108826385,
         136253037,
         102071389
@@ -63,6 +63,10 @@
         404383227
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bb15c4c828cb2e6dd7354fc87b293816",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676117,
-    "wof:lastmodified":1539928864,
+    "wof:lastmodified":1603247202,
     "wof:name":"Saint-Remy",
     "wof:parent_id":102071389,
     "wof:placetype":"locality",

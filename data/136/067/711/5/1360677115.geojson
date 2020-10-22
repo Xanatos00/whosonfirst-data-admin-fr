@@ -169,6 +169,11 @@
         404393519
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2d52dbd82c6cb49c0ee32c2db3192662",
     "wof:hierarchy":[
         {
@@ -183,7 +188,7 @@
         }
     ],
     "wof:id":1360677115,
-    "wof:lastmodified":1564127011,
+    "wof:lastmodified":1603247323,
     "wof:name":"Caussols",
     "wof:parent_id":102064433,
     "wof:placetype":"locality",

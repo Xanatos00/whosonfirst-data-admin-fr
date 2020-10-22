@@ -110,6 +110,11 @@
         404357183
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"995dcd813f0c68d15abfd16c766fb394",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360673479,
-    "wof:lastmodified":1564126390,
+    "wof:lastmodified":1603247239,
     "wof:name":"Bannes",
     "wof:parent_id":102068763,
     "wof:placetype":"locality",

@@ -163,6 +163,11 @@
         404380733
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"77e8f2c595756d22176ac857afb4e80b",
     "wof:hierarchy":[
         {
@@ -177,7 +182,7 @@
         }
     ],
     "wof:id":1360675879,
-    "wof:lastmodified":1564126430,
+    "wof:lastmodified":1603247245,
     "wof:name":"Bendejun",
     "wof:parent_id":102065505,
     "wof:placetype":"locality",

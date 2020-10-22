@@ -9,7 +9,7 @@
     "geom:bbox":"2.962263,43.600408,2.962263,43.600408",
     "geom:latitude":43.600408,
     "geom:longitude":2.962263,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.600408,
     "lbl:longitude":2.962263,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686221,
-    "wof:lastmodified":1539986880,
+    "wof:lastmodified":1603247089,
     "wof:name":"Douch",
     "wof:parent_id":404383433,
     "wof:placetype":"neighbourhood",

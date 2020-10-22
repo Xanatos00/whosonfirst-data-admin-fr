@@ -312,7 +312,7 @@
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"137.0",
     "statoids:as_of_date":"2010-01-01",
     "statoids:capital":"",
@@ -359,7 +359,7 @@
         }
     ],
     "wof:id":1091680751,
-    "wof:lastmodified":1563282074,
+    "wof:lastmodified":1603247329,
     "wof:name":"Matoury",
     "wof:parent_id":1108805929,
     "wof:placetype":"county",

@@ -9,7 +9,7 @@
     "geom:bbox":"6.677198,46.155414,6.677198,46.155414",
     "geom:latitude":46.155414,
     "geom:longitude":6.677198,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.155414,
     "lbl:longitude":6.677198,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684369,
-    "wof:lastmodified":1539986856,
+    "wof:lastmodified":1603247061,
     "wof:name":"Gibbanaz",
     "wof:parent_id":404413575,
     "wof:placetype":"neighbourhood",

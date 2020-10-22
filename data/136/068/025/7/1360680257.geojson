@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404426849,
         404227619,
+        404426849,
+        85633147,
         1108826385,
         136253037,
         102069763
@@ -63,6 +63,10 @@
         404426849
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d416f4c1b75a82287afcad2c8b16477f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680257,
-    "wof:lastmodified":1539928935,
+    "wof:lastmodified":1603247051,
     "wof:name":"Voeuil-Et-Giget",
     "wof:parent_id":102069763,
     "wof:placetype":"locality",

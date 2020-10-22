@@ -9,7 +9,7 @@
     "geom:bbox":"-2.987594,47.708721,-2.987594,47.708721",
     "geom:latitude":47.708721,
     "geom:longitude":-2.987594,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.708721,
     "lbl:longitude":-2.987594,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683025,
-    "wof:lastmodified":1539986838,
+    "wof:lastmodified":1603247087,
     "wof:name":"St.-D\u00e9gan",
     "wof:parent_id":404423849,
     "wof:placetype":"neighbourhood",

@@ -62,6 +62,10 @@
         404383809
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3be30f0c74f4706ba5cead32d9aeb896",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360676173,
-    "wof:lastmodified":1539928865,
+    "wof:lastmodified":1603247190,
     "wof:name":"Chateauneuf-D'Oze",
     "wof:parent_id":102068741,
     "wof:placetype":"locality",

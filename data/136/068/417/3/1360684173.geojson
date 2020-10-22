@@ -9,7 +9,7 @@
     "geom:bbox":"2.47982,42.836199,2.47982,42.836199",
     "geom:latitude":42.836199,
     "geom:longitude":2.47982,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.836199,
     "lbl:longitude":2.47982,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684173,
-    "wof:lastmodified":1539986853,
+    "wof:lastmodified":1603247089,
     "wof:name":"Saint-martin-de-fenouillet",
     "wof:parent_id":404414925,
     "wof:placetype":"neighbourhood",

@@ -9,9 +9,8 @@
     "geom:bbox":"-6.81287,61.990364,-6.7502795,62.038922",
     "geom:latitude":62.01661,
     "geom:longitude":-6.778911,
-    "gn:gn_country":"FO",
-    "gn:gn_fcode":"PPLC",
-    "gn:gn_pop":13200,
+    "gn:country":"FO",
+    "gn:fcode":"PPLC",
     "gn:population":13200,
     "iso:country":"FO",
     "lbl:latitude":62.021448,
@@ -398,10 +397,7 @@
         }
     ],
     "wof:id":101749171,
-    "wof:lang":[
-        "dan"
-    ],
-    "wof:lastmodified":1563287453,
+    "wof:lastmodified":1603247744,
     "wof:name":"T\u00f3rshavn",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

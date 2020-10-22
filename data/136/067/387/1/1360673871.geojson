@@ -135,6 +135,10 @@
         404360935
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6bce03dc21b7cbbf6d61069c06a3c50b",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360673871,
-    "wof:lastmodified":1564126956,
+    "wof:lastmodified":1603247315,
     "wof:name":"Saint-Jean-Lagineste",
     "wof:parent_id":102068763,
     "wof:placetype":"locality",

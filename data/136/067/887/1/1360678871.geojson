@@ -110,6 +110,11 @@
         404411705
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b484342e98e95d45d8134de2851c785b",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360678871,
-    "wof:lastmodified":1564126047,
+    "wof:lastmodified":1603247192,
     "wof:name":"Vrigny",
     "wof:parent_id":102068773,
     "wof:placetype":"locality",

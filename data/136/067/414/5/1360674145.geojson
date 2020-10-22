@@ -147,6 +147,10 @@
         404363569
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bfd86428124cad88c185b2ff736335d4",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360674145,
-    "wof:lastmodified":1564126054,
+    "wof:lastmodified":1603247193,
     "wof:name":"Lugos",
     "wof:parent_id":102065203,
     "wof:placetype":"locality",

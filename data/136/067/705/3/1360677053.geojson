@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683297,
         102191581,
-        85633147,
-        404392661,
         404228117,
+        404392661,
+        85633147,
         1108826391,
         136253037,
         102065975
@@ -63,6 +63,10 @@
         404392661
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5a7f39df5b4d8cea6083f46e2269263f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677053,
-    "wof:lastmodified":1539928880,
+    "wof:lastmodified":1603247247,
     "wof:name":"Saulx-Les-Champlon",
     "wof:parent_id":102065975,
     "wof:placetype":"locality",

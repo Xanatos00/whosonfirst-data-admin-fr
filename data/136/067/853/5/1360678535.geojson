@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404409237,
         404227721,
+        404409237,
+        85633147,
         1108826393,
         136253037,
         102069951
@@ -63,6 +63,10 @@
         404409237
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1226b1e609442a475e90e9bad6842b10",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678535,
-    "wof:lastmodified":1539928906,
+    "wof:lastmodified":1603247294,
     "wof:name":"Saint-Hilaire-La-Gerard",
     "wof:parent_id":102069951,
     "wof:placetype":"locality",

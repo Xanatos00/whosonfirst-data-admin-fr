@@ -9,7 +9,7 @@
     "geom:bbox":"3.726124,47.345831,3.726124,47.345831",
     "geom:latitude":47.345831,
     "geom:longitude":3.726124,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.345831,
     "lbl:longitude":3.726124,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687433,
-    "wof:lastmodified":1539986896,
+    "wof:lastmodified":1603247113,
     "wof:name":"Vignes le Haut",
     "wof:parent_id":404350649,
     "wof:placetype":"neighbourhood",

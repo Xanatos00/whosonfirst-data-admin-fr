@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404358205,
         404227931,
+        404358205,
+        85633147,
         1108826393,
         136253037,
         102067277
@@ -63,6 +63,10 @@
         404358205
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"10ead15eb1b9948388246e4ae4c1821e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673571,
-    "wof:lastmodified":1539928815,
+    "wof:lastmodified":1603247251,
     "wof:name":"Orgeres",
     "wof:parent_id":102067277,
     "wof:placetype":"locality",

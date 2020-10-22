@@ -119,6 +119,10 @@
         404371821
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6f0fc88d3078b77c852878e661dfe59d",
     "wof:hierarchy":[
         {
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":1360674935,
-    "wof:lastmodified":1564126746,
+    "wof:lastmodified":1603247287,
     "wof:name":"Aspremont",
     "wof:parent_id":102064705,
     "wof:placetype":"locality",

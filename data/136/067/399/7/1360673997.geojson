@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683531,
         102191581,
-        85633147,
-        404361817,
         404227987,
+        404361817,
+        85633147,
         1108826385,
         136253037,
         102065345
@@ -63,6 +63,10 @@
         404361817
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"73593894620157c048bb3c1fab862fa2",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673997,
-    "wof:lastmodified":1539928825,
+    "wof:lastmodified":1603247178,
     "wof:name":"Saint-Gilles-Les-Forets",
     "wof:parent_id":102065345,
     "wof:placetype":"locality",

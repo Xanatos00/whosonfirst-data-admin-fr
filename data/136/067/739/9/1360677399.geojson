@@ -85,6 +85,11 @@
         404396715
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"237104499556c71b141123fbfe48b370",
     "wof:hierarchy":[
         {
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":1360677399,
-    "wof:lastmodified":1564125872,
+    "wof:lastmodified":1603247167,
     "wof:name":"Pontis",
     "wof:parent_id":102066405,
     "wof:placetype":"locality",

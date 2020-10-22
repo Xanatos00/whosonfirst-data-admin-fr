@@ -141,6 +141,10 @@
         404357451
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eb50671a70d653a0fde06c1925257b02",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360673497,
-    "wof:lastmodified":1564126379,
+    "wof:lastmodified":1603247237,
     "wof:name":"Beautot",
     "wof:parent_id":102071149,
     "wof:placetype":"locality",

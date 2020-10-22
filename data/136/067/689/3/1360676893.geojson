@@ -137,6 +137,11 @@
         404391295
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d42a74a84c1ac5cbd900502db8b913cb",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360676893,
-    "wof:lastmodified":1564126076,
+    "wof:lastmodified":1603247195,
     "wof:name":"Gasques",
     "wof:parent_id":102068365,
     "wof:placetype":"locality",

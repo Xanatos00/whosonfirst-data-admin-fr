@@ -150,6 +150,10 @@
         404390603
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"014f10f0066cd47629bc7ac531ba9620",
     "wof:hierarchy":[
         {
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":1360676785,
-    "wof:lastmodified":1564126657,
+    "wof:lastmodified":1603247276,
     "wof:name":"Francaltroff",
     "wof:parent_id":102064353,
     "wof:placetype":"locality",

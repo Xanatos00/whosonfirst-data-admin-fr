@@ -9,7 +9,7 @@
     "geom:bbox":"-1.738371,43.321415,-1.738371,43.321415",
     "geom:latitude":43.321415,
     "geom:longitude":-1.738371,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.321415,
     "lbl:longitude":-1.738371,
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1360685823,
-    "wof:lastmodified":1539986875,
+    "wof:lastmodified":1603247112,
     "wof:name":"Deskarga",
     "wof:parent_id":-4,
     "wof:placetype":"neighbourhood",

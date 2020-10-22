@@ -9,7 +9,7 @@
     "geom:bbox":"0.258092,42.833111,0.258092,42.833111",
     "geom:latitude":42.833111,
     "geom:longitude":0.258092,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.833111,
     "lbl:longitude":0.258092,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683035,
-    "wof:lastmodified":1539986839,
+    "wof:lastmodified":1603247081,
     "wof:name":"Espiaube",
     "wof:parent_id":404420861,
     "wof:placetype":"neighbourhood",

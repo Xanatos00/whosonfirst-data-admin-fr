@@ -9,7 +9,7 @@
     "geom:bbox":"6.39187,46.340928,6.39187,46.340928",
     "geom:latitude":46.340928,
     "geom:longitude":6.39187,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.340928,
     "lbl:longitude":6.39187,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683289,
-    "wof:lastmodified":1539986842,
+    "wof:lastmodified":1603247117,
     "wof:name":"Port de Sciez",
     "wof:parent_id":404358319,
     "wof:placetype":"neighbourhood",

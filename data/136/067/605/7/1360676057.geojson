@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404382391,
         404227867,
+        404382391,
+        85633147,
         1108826387,
         136253037,
         102064907
@@ -63,6 +63,10 @@
         404382391
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dff51cb5969e86e3510e720590f97101",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676057,
-    "wof:lastmodified":1539928863,
+    "wof:lastmodified":1603247208,
     "wof:name":"Mauleon-D'Armagnac",
     "wof:parent_id":102064907,
     "wof:placetype":"locality",

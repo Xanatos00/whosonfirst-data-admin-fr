@@ -9,7 +9,7 @@
     "geom:bbox":"5.969266,43.104993,5.969266,43.104993",
     "geom:latitude":43.104993,
     "geom:longitude":5.969266,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.104993,
     "lbl:longitude":5.969266,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360682461,
-    "wof:lastmodified":1539986831,
+    "wof:lastmodified":1603247090,
     "wof:name":"Cap Brun",
     "wof:parent_id":1159322023,
     "wof:placetype":"neighbourhood",

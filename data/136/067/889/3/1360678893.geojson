@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683539,
         102191581,
-        85633147,
-        404412033,
         404228137,
+        404412033,
+        85633147,
         1108826385,
         136253037,
         102069025
@@ -63,6 +63,10 @@
         404412033
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"67a19678efed4ebfac617c37d55014dd",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678893,
-    "wof:lastmodified":1539928912,
+    "wof:lastmodified":1603247190,
     "wof:name":"Borderes",
     "wof:parent_id":102069025,
     "wof:placetype":"locality",

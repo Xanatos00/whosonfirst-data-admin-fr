@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683289,
         102191581,
-        85633147,
-        404404243,
         404227929,
+        404404243,
+        85633147,
         1108826399,
         136253037,
         102068031
@@ -63,6 +63,10 @@
         404404243
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"80a4e90db0c1a723a12864c7412d9493",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678065,
-    "wof:lastmodified":1539928897,
+    "wof:lastmodified":1603247298,
     "wof:name":"Labruyere",
     "wof:parent_id":102068031,
     "wof:placetype":"locality",

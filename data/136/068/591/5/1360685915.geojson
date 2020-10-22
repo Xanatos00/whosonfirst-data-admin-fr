@@ -9,7 +9,7 @@
     "geom:bbox":"-2.87095,47.539107,-2.87095,47.539107",
     "geom:latitude":47.539107,
     "geom:longitude":-2.87095,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.539107,
     "lbl:longitude":-2.87095,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685915,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247086,
     "wof:name":"Tumiac",
     "wof:parent_id":404367323,
     "wof:placetype":"neighbourhood",

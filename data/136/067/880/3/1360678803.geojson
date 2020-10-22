@@ -122,6 +122,11 @@
         404411055
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"071477d8b459a454d7e86494a058810b",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360678803,
-    "wof:lastmodified":1564126042,
+    "wof:lastmodified":1603247191,
     "wof:name":"Boismont",
     "wof:parent_id":102070727,
     "wof:placetype":"locality",

@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404373061,
         404227871,
+        404373061,
+        85633147,
         1108826387,
         136253037,
         102070135
@@ -83,6 +83,11 @@
         404373061
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8e65a50bba901d43205229d08bf67779",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360675073,
-    "wof:lastmodified":1539928845,
+    "wof:lastmodified":1603247259,
     "wof:name":"Viols-En-Laval",
     "wof:parent_id":102070135,
     "wof:placetype":"locality",

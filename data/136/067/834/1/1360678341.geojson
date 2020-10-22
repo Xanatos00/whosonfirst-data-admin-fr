@@ -155,6 +155,11 @@
         404407103
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1678ef0faba606ee2512514920c31849",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360678341,
-    "wof:lastmodified":1564126261,
+    "wof:lastmodified":1603247221,
     "wof:name":"Courvaudon",
     "wof:parent_id":102070739,
     "wof:placetype":"locality",

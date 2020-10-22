@@ -173,6 +173,11 @@
         404384699
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ce1a225bd2d23fc04dbfbad300e0574c",
     "wof:hierarchy":[
         {
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":1360676235,
-    "wof:lastmodified":1564126669,
+    "wof:lastmodified":1603247278,
     "wof:name":"Belmont",
     "wof:parent_id":102067391,
     "wof:placetype":"locality",

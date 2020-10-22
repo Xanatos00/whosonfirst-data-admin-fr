@@ -9,7 +9,7 @@
     "geom:bbox":"6.578793,43.286495,6.578793,43.286495",
     "geom:latitude":43.286495,
     "geom:longitude":6.578793,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.286495,
     "lbl:longitude":6.578793,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687243,
-    "wof:lastmodified":1539986893,
+    "wof:lastmodified":1603247074,
     "wof:name":"Cogolin Plage",
     "wof:parent_id":404390321,
     "wof:placetype":"neighbourhood",

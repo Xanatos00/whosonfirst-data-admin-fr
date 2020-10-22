@@ -144,6 +144,10 @@
         404360239
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b0f05e3e259d461b7b17a5b598bbf5b2",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360673767,
-    "wof:lastmodified":1564126371,
+    "wof:lastmodified":1603247236,
     "wof:name":"Saint-Germain-Village",
     "wof:parent_id":102069339,
     "wof:placetype":"locality",

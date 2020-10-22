@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404384723,
         404227635,
+        404384723,
+        85633147,
         1108826385,
         136253037,
         102071347
@@ -63,6 +63,10 @@
         404384723
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"622cc3b453930884cc20934ee790007d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676251,
-    "wof:lastmodified":1539928866,
+    "wof:lastmodified":1603247271,
     "wof:name":"Saint-Hilaire-D'Estissac",
     "wof:parent_id":102071347,
     "wof:placetype":"locality",

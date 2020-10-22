@@ -9,7 +9,7 @@
     "geom:bbox":"6.730499,46.350808,6.730499,46.350808",
     "geom:latitude":46.350808,
     "geom:longitude":6.730499,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.350808,
     "lbl:longitude":6.730499,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687013,
-    "wof:lastmodified":1539986890,
+    "wof:lastmodified":1603247035,
     "wof:name":"Darbon",
     "wof:parent_id":404397997,
     "wof:placetype":"neighbourhood",

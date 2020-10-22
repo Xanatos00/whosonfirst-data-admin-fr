@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683405,
         102191581,
-        85633147,
-        404390957,
         404228237,
+        404390957,
+        85633147,
         1108826391,
         136253037,
         102067153
@@ -63,6 +63,10 @@
         404390957
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"19f7a06ee08cfe764607b43f0db35201",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676839,
-    "wof:lastmodified":1539928876,
+    "wof:lastmodified":1603247285,
     "wof:name":"Val-De-Viere",
     "wof:parent_id":102067153,
     "wof:placetype":"locality",

@@ -149,6 +149,11 @@
         404425459
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b61bbecf8cd24762347003da6e49d50e",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360680107,
-    "wof:lastmodified":1564125626,
+    "wof:lastmodified":1603247098,
     "wof:name":"Gervans",
     "wof:parent_id":102069541,
     "wof:placetype":"locality",

@@ -116,6 +116,11 @@
         404364243
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2c7755251659d3c707a358c76f843f7e",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360674195,
-    "wof:lastmodified":1564126597,
+    "wof:lastmodified":1603247268,
     "wof:name":"La Barre",
     "wof:parent_id":102067467,
     "wof:placetype":"locality",

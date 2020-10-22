@@ -137,6 +137,11 @@
         404407297
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"67a8ce485de1620a69ad46ea4898d860",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360678327,
-    "wof:lastmodified":1564126203,
+    "wof:lastmodified":1603247213,
     "wof:name":"Traize",
     "wof:parent_id":102069677,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404414053,
         404228055,
+        404414053,
+        85633147,
         1108826393,
         136253037,
         102066725
@@ -68,6 +68,11 @@
         404414053
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"119e681376bcea75a8df3145ffaf79bf",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679091,
-    "wof:lastmodified":1539928915,
+    "wof:lastmodified":1603247160,
     "wof:name":"Sylvains-Les-Moulins",
     "wof:parent_id":102066725,
     "wof:placetype":"locality",

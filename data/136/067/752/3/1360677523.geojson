@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683185,
         102191581,
-        85633147,
-        404398237,
         404227985,
+        404398237,
+        85633147,
         1108826385,
         136253037,
         102065137
@@ -63,6 +63,10 @@
         404398237
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e807880e5b796b836777f4fdb3d779be",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677523,
-    "wof:lastmodified":1539928888,
+    "wof:lastmodified":1603247163,
     "wof:name":"Saint-Pierre-D'Exideuil",
     "wof:parent_id":102065137,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"4.21034529368,45.9469786351,4.27574419408,45.9867235985",
     "geom:latitude":45.968308,
     "geom:longitude":4.240707,
-    "geonames:id":"2976805,3005416",
+    "gn:id":"2976805,3005416",
     "gn:population":663,
     "iso:country":"FR",
     "lbl:latitude":45.951885,
@@ -345,7 +345,7 @@
         }
     ],
     "wof:id":101893451,
-    "wof:lastmodified":1582323374,
+    "wof:lastmodified":1603247712,
     "wof:name":"Lay",
     "wof:parent_id":404357867,
     "wof:placetype":"locality",

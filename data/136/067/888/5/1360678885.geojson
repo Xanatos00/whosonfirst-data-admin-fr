@@ -109,6 +109,11 @@
         404412011
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"07998ce84b69a4d90551c43019d621cb",
     "wof:hierarchy":[
         {
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":1360678885,
-    "wof:lastmodified":1564126124,
+    "wof:lastmodified":1603247201,
     "wof:name":"Santilly",
     "wof:parent_id":102067189,
     "wof:placetype":"locality",

@@ -148,6 +148,11 @@
         404365591
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b2f4c1e06b5bd1a6f52c2d211117cd6d",
     "wof:hierarchy":[
         {
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1360674379,
-    "wof:lastmodified":1564126167,
+    "wof:lastmodified":1603247208,
     "wof:name":"Piobetta",
     "wof:parent_id":102070777,
     "wof:placetype":"locality",

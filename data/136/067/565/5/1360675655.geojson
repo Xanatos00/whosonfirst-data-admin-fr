@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683405,
         102191581,
-        85633147,
-        404378771,
         404228237,
+        404378771,
+        85633147,
         1108826391,
         136253037,
         102069583
@@ -63,6 +63,10 @@
         404378771
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e59f61610295121964a321f8b2e609c0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675655,
-    "wof:lastmodified":1539928856,
+    "wof:lastmodified":1603247264,
     "wof:name":"Reims-La-Brulee",
     "wof:parent_id":102069583,
     "wof:placetype":"locality",

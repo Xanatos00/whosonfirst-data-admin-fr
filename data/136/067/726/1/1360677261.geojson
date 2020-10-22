@@ -102,6 +102,10 @@
         404394947
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"629cd10ab306af9438b2efa25218b713",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360677261,
-    "wof:lastmodified":1564126932,
+    "wof:lastmodified":1603247312,
     "wof:name":"Saint-Remimont",
     "wof:parent_id":102066935,
     "wof:placetype":"locality",

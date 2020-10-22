@@ -9,7 +9,7 @@
     "geom:bbox":"7.413153,44.0623795,7.413153,44.0623795",
     "geom:latitude":44.062379,
     "geom:longitude":7.413153,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.062379,
     "lbl:longitude":7.413153,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684239,
-    "wof:lastmodified":1539986854,
+    "wof:lastmodified":1603247054,
     "wof:name":"St. Grat",
     "wof:parent_id":404411335,
     "wof:placetype":"neighbourhood",

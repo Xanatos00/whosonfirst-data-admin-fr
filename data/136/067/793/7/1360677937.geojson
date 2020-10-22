@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404402851,
         404228105,
+        404402851,
+        85633147,
         1108826393,
         136253037,
         102066551
@@ -63,6 +63,10 @@
         404402851
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5635b4adc670cd3c60558be528991e6d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677937,
-    "wof:lastmodified":1539928895,
+    "wof:lastmodified":1603247252,
     "wof:name":"Saint-Pierre-De-Coutances",
     "wof:parent_id":102066551,
     "wof:placetype":"locality",

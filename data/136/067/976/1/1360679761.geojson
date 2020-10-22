@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404421617,
         404228073,
+        404421617,
+        85633147,
         1108826387,
         136253037,
         102067699
@@ -63,6 +63,10 @@
         404421617
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"084e850670096b19f90bba70e86d7e1e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679761,
-    "wof:lastmodified":1539928927,
+    "wof:lastmodified":1603247240,
     "wof:name":"Saint-Clement-De-Riviere",
     "wof:parent_id":102067699,
     "wof:placetype":"locality",

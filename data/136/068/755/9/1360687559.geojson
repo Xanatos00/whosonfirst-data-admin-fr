@@ -9,7 +9,7 @@
     "geom:bbox":"6.6325,45.855765,6.6325,45.855765",
     "geom:latitude":45.855765,
     "geom:longitude":6.6325,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.855765,
     "lbl:longitude":6.6325,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687559,
-    "wof:lastmodified":1539986897,
+    "wof:lastmodified":1603247034,
     "wof:name":"Les Pettoreaux",
     "wof:parent_id":404413171,
     "wof:placetype":"neighbourhood",

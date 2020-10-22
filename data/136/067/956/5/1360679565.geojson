@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683523,
         102191581,
-        85633147,
-        404419697,
         404228053,
+        404419697,
+        85633147,
         1108826389,
         136253037,
         102068637
@@ -68,6 +68,11 @@
         404419697
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"165de2f3b4385b2f58dfbd32c213bd79",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679565,
-    "wof:lastmodified":1539928923,
+    "wof:lastmodified":1603247259,
     "wof:name":"Bren",
     "wof:parent_id":102068637,
     "wof:placetype":"locality",

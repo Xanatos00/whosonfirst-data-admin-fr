@@ -152,6 +152,11 @@
         404364327
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"20b11a5116957003076b68a1c5ae4998",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360674215,
-    "wof:lastmodified":1564126612,
+    "wof:lastmodified":1603247270,
     "wof:name":"Mont-Laurent",
     "wof:parent_id":102068579,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404400883,
         404228031,
+        404400883,
+        85633147,
         1108826393,
         136253037,
         102068257
@@ -63,6 +63,10 @@
         404400883
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d970f5a1045108d65346eedef50ad4a2",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677755,
-    "wof:lastmodified":1539928892,
+    "wof:lastmodified":1603247310,
     "wof:name":"L'Hotellerie",
     "wof:parent_id":102068257,
     "wof:placetype":"locality",

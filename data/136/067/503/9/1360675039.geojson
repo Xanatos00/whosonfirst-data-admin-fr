@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404372775,
         404228213,
+        404372775,
+        85633147,
         1108826385,
         136253037,
         102070205
@@ -63,6 +63,10 @@
         404372775
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a190ecb3b103a2a0c36dd9a988104512",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675039,
-    "wof:lastmodified":1539928845,
+    "wof:lastmodified":1603247179,
     "wof:name":"Saint-Vincent-De-Cosse",
     "wof:parent_id":102070205,
     "wof:placetype":"locality",

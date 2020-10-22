@@ -118,6 +118,11 @@
         404397561
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bdd9870e8bab835e99833ff8bd09cba5",
     "wof:hierarchy":[
         {
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":1360677475,
-    "wof:lastmodified":1564126338,
+    "wof:lastmodified":1603247232,
     "wof:name":"Bonson",
     "wof:parent_id":102067995,
     "wof:placetype":"locality",

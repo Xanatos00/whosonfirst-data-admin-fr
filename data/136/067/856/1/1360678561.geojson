@@ -104,6 +104,11 @@
         404409349
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a8d908fb8f31e0837bd94e8a30635f60",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360678561,
-    "wof:lastmodified":1564126229,
+    "wof:lastmodified":1603247217,
     "wof:name":"Janvry",
     "wof:parent_id":102070033,
     "wof:placetype":"locality",

@@ -9,9 +9,9 @@
     "geom:bbox":"6.76845,45.94093,6.76845,45.94093",
     "geom:latitude":45.94093,
     "geom:longitude":6.76845,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"FR",
     "lbl:latitude":45.94093,
     "lbl:longitude":6.76845,
@@ -45,7 +45,6 @@
     "woe:name_adm1":"Canton de Vaud",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85683227,
         102191581,
         404227961,
         404393145,
@@ -53,7 +52,8 @@
         1108826389,
         101893787,
         136253037,
-        102065943
+        102065943,
+        85683227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1126095587,
-    "wof:lastmodified":1531265478,
+    "wof:lastmodified":1603249102,
     "wof:name":"Le Motty",
     "wof:parent_id":101893787,
     "wof:placetype":"neighbourhood",

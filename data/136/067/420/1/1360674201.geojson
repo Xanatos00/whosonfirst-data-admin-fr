@@ -134,6 +134,11 @@
         404364237
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"571a9c25c3352449c5780f215c0c7706",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360674201,
-    "wof:lastmodified":1564126681,
+    "wof:lastmodified":1603247280,
     "wof:name":"Allons",
     "wof:parent_id":102066963,
     "wof:placetype":"locality",

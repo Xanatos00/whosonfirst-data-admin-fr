@@ -9,7 +9,7 @@
     "geom:bbox":"-2.27570762185,47.8048964532,-2.19028619154,47.8549540244",
     "geom:latitude":47.832808,
     "geom:longitude":-2.229134,
-    "geonames:id":"2972023,2969230",
+    "gn:id":"2972023,2969230",
     "gn:population":710,
     "iso:country":"FR",
     "lbl:latitude":47.837829,
@@ -352,7 +352,7 @@
         }
     ],
     "wof:id":101884769,
-    "wof:lastmodified":1582323573,
+    "wof:lastmodified":1603247934,
     "wof:name":"Tr\u00e9al",
     "wof:parent_id":404419061,
     "wof:placetype":"locality",

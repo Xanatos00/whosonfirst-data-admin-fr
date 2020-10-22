@@ -158,6 +158,11 @@
         404391617
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e34b04eed82bc6a445ff65f9e2859dd5",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360676935,
-    "wof:lastmodified":1564126210,
+    "wof:lastmodified":1603247214,
     "wof:name":"Belleville",
     "wof:parent_id":102064757,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404422973,
         404228049,
+        404422973,
+        85633147,
         1108826385,
         136253037,
         102066719
@@ -67,6 +67,11 @@
         404422973
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d132a1c3950f018f5e472e27766fc44e",
     "wof:hierarchy":[
         {
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":1360679891,
-    "wof:lastmodified":1539928929,
+    "wof:lastmodified":1603247315,
     "wof:name":"Sainte-Eulalie-D'Ans",
     "wof:parent_id":102066719,
     "wof:placetype":"locality",

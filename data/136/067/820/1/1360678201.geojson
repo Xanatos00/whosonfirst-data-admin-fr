@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683153,
         102191581,
-        85633147,
-        404405635,
         404227797,
+        404405635,
+        85633147,
         1108826389,
         136253037,
         102066073
@@ -83,6 +83,11 @@
         404405635
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"187778a66ae3dbe2c6661d6a17d0d28f",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360678201,
-    "wof:lastmodified":1539928900,
+    "wof:lastmodified":1603247185,
     "wof:name":"Romans",
     "wof:parent_id":102066073,
     "wof:placetype":"locality",

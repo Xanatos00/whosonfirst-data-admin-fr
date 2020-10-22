@@ -110,6 +110,11 @@
         404381425
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7b3bc9f24eab6d1a5461d0b65c7d8811",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360675941,
-    "wof:lastmodified":1564125847,
+    "wof:lastmodified":1603247164,
     "wof:name":"Baugy",
     "wof:parent_id":102070043,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404364749,
         404228275,
+        404364749,
+        85633147,
         1108826385,
         136253037,
         102070819
@@ -68,6 +68,11 @@
         404364749
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0f3ce3eef8a9394f5b6da66f09fddb1c",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360674259,
-    "wof:lastmodified":1539928831,
+    "wof:lastmodified":1603247190,
     "wof:name":"Civrac-Sur-Dordogne",
     "wof:parent_id":102070819,
     "wof:placetype":"locality",

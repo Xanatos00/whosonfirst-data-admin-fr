@@ -110,6 +110,11 @@
         404362987
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1ebefa333735292fb2d88338c2d2d5e9",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360674095,
-    "wof:lastmodified":1564126220,
+    "wof:lastmodified":1603247215,
     "wof:name":"Parisot",
     "wof:parent_id":102068049,
     "wof:placetype":"locality",

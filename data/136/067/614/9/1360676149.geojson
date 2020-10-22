@@ -146,6 +146,11 @@
         404383645
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"78ccccb7683bb0101d2a8a7cfc40fb4f",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360676149,
-    "wof:lastmodified":1564126602,
+    "wof:lastmodified":1603247268,
     "wof:name":"Les Nouillers",
     "wof:parent_id":102070351,
     "wof:placetype":"locality",

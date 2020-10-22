@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404373799,
         404227853,
+        404373799,
+        85633147,
         1108826393,
         136253037,
         102066491
@@ -63,6 +63,10 @@
         404373799
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3eb2522d9b3c695055a3ce68bb60940f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675145,
-    "wof:lastmodified":1539928847,
+    "wof:lastmodified":1603247312,
     "wof:name":"Saint-Simeon",
     "wof:parent_id":102066491,
     "wof:placetype":"locality",

@@ -293,6 +293,11 @@
         404412977
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8584c0263f4da5be64fcc97b152f6fc5",
     "wof:hierarchy":[
         {
@@ -308,7 +313,7 @@
         }
     ],
     "wof:id":1360678989,
-    "wof:lastmodified":1564126796,
+    "wof:lastmodified":1603247294,
     "wof:name":"Aube",
     "wof:parent_id":102068683,
     "wof:placetype":"locality",

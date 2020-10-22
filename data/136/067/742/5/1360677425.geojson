@@ -121,6 +121,11 @@
         404396909
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d15f397c274c6383087e431d648a4189",
     "wof:hierarchy":[
         {
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":1360677425,
-    "wof:lastmodified":1564126993,
+    "wof:lastmodified":1603247321,
     "wof:name":"Chavannes",
     "wof:parent_id":102066079,
     "wof:placetype":"locality",

@@ -105,6 +105,10 @@
         404372361
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"def4411c5a94ee3d9a0aae78d622bb7f",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360674993,
-    "wof:lastmodified":1564126194,
+    "wof:lastmodified":1603247212,
     "wof:name":"Saint-Sauvant",
     "wof:parent_id":102065187,
     "wof:placetype":"locality",

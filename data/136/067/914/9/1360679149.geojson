@@ -67,6 +67,11 @@
         404414699
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d0ff694a8c0e3d87abdb9741fb467e5e",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360679149,
-    "wof:lastmodified":1539928916,
+    "wof:lastmodified":1603247244,
     "wof:name":"Pie-D'Orezza",
     "wof:parent_id":102070777,
     "wof:placetype":"locality",

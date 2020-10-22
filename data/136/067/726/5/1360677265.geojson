@@ -155,6 +155,11 @@
         404394933
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dd605b441cac90bce2e7eebf63ad4c79",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360677265,
-    "wof:lastmodified":1564126933,
+    "wof:lastmodified":1603247312,
     "wof:name":"Deneuvre",
     "wof:parent_id":102064747,
     "wof:placetype":"locality",

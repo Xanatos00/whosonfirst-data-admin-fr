@@ -146,6 +146,11 @@
         404424599
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"996a3f9176f8ca924f38d6b2c102ab5b",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360680035,
-    "wof:lastmodified":1564125641,
+    "wof:lastmodified":1603247101,
     "wof:name":"Limont-Fontaine",
     "wof:parent_id":102071829,
     "wof:placetype":"locality",

@@ -128,6 +128,11 @@
         404396999
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fc7da63002236aca4f8c7d4e0897626e",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360677449,
-    "wof:lastmodified":1564126891,
+    "wof:lastmodified":1603247307,
     "wof:name":"Talcy",
     "wof:parent_id":102067665,
     "wof:placetype":"locality",

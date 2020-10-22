@@ -147,6 +147,10 @@
         404407843
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dfafb828cd5fa599816f89bc91190033",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360678405,
-    "wof:lastmodified":1564126694,
+    "wof:lastmodified":1603247281,
     "wof:name":"Vacognes-Neuilly",
     "wof:parent_id":102067239,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"6.619983,45.071352,6.619983,45.071352",
     "geom:latitude":45.071352,
     "geom:longitude":6.619983,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.071352,
     "lbl:longitude":6.619983,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686571,
-    "wof:lastmodified":1539986885,
+    "wof:lastmodified":1603247066,
     "wof:name":"Vall\u00e9e Etroite",
     "wof:parent_id":404363967,
     "wof:placetype":"neighbourhood",

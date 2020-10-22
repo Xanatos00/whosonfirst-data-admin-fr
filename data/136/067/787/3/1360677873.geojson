@@ -109,6 +109,11 @@
         404402387
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"82da45f7ea20502a16c059758f96fb8f",
     "wof:hierarchy":[
         {
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":1360677873,
-    "wof:lastmodified":1564126978,
+    "wof:lastmodified":1603247318,
     "wof:name":"Vigny",
     "wof:parent_id":102069409,
     "wof:placetype":"locality",

@@ -102,6 +102,10 @@
         404379013
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0274ea1f623a4e1a4847e24f4000592c",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360675693,
-    "wof:lastmodified":1564125838,
+    "wof:lastmodified":1603247162,
     "wof:name":"Tremont",
     "wof:parent_id":102065847,
     "wof:placetype":"locality",

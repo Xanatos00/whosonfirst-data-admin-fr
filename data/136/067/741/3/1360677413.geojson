@@ -124,6 +124,11 @@
         404396817
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c04d004a796cbbbe69ffa7c63b05441a",
     "wof:hierarchy":[
         {
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":1360677413,
-    "wof:lastmodified":1564126435,
+    "wof:lastmodified":1603247245,
     "wof:name":"Alaincourt",
     "wof:parent_id":102068053,
     "wof:placetype":"locality",

@@ -95,6 +95,11 @@
         404364941
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7925aa7cd1d7007832eb2e2c6a1f3d10",
     "wof:hierarchy":[
         {
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":1360674283,
-    "wof:lastmodified":1564126617,
+    "wof:lastmodified":1603247271,
     "wof:name":"Roberval",
     "wof:parent_id":102069913,
     "wof:placetype":"locality",

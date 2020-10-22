@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683539,
         102191581,
-        85633147,
-        404399141,
         404228137,
+        404399141,
+        85633147,
         1108826385,
         136253037,
         102065177
@@ -63,6 +63,10 @@
         404399141
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c584ff3d1134ff55c172915bfdae4b3e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677617,
-    "wof:lastmodified":1539928890,
+    "wof:lastmodified":1603247265,
     "wof:name":"Geus-D'Arzacq",
     "wof:parent_id":102065177,
     "wof:placetype":"locality",

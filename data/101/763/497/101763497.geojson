@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.002788,
     "geom:area_square_m":23235863.618854,
-    "geom:bbox":"-2.95108255506643,47.57214336072122,-2.85622616339539,47.64301189868381",
+    "geom:bbox":"-2.95108255507,47.5721433607,-2.8562261634,47.6430118987",
     "geom:latitude":47.615131,
     "geom:longitude":-2.903132,
     "gn:population":3611,
@@ -378,13 +378,13 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683507,
         102191581,
         85633147,
-        102070895,
         404369039,
         404228119,
         404227447,
-        85683507
+        102070895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -417,10 +417,7 @@
         }
     ],
     "wof:id":101763497,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1588802053,
+    "wof:lastmodified":1603247336,
     "wof:name":"Baden",
     "wof:parent_id":404369039,
     "wof:placetype":"locality",

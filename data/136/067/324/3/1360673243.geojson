@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683217,
         102191581,
-        85633147,
-        404354973,
         404227765,
+        404354973,
+        85633147,
         1108826387,
         136253037,
         102066061
@@ -63,6 +63,10 @@
         404354973
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"984a7c1d068af177c96be536246ead75",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673243,
-    "wof:lastmodified":1539928798,
+    "wof:lastmodified":1603247230,
     "wof:name":"Castera-Bouzet",
     "wof:parent_id":102066061,
     "wof:placetype":"locality",

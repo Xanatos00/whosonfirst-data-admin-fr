@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404412145,
         404227955,
+        404412145,
+        85633147,
         1108826395,
         136253037,
         102064939
@@ -63,6 +63,10 @@
         404412145
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"12c57802bff5f84e150a385f70c002ed",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678899,
-    "wof:lastmodified":1539928912,
+    "wof:lastmodified":1603247190,
     "wof:name":"Marcilly-Les-Buxy",
     "wof:parent_id":102064939,
     "wof:placetype":"locality",

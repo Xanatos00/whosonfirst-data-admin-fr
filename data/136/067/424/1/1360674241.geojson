@@ -126,6 +126,10 @@
         404364505
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e60634619d634bddc86875f1f307dc59",
     "wof:hierarchy":[
         {
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":1360674241,
-    "wof:lastmodified":1564126127,
+    "wof:lastmodified":1603247202,
     "wof:name":"Saint-Marc",
     "wof:parent_id":102067297,
     "wof:placetype":"locality",

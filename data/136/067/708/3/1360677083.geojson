@@ -128,6 +128,10 @@
         404393117
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6f9829d0e940867995cbb01c8e9fa46b",
     "wof:hierarchy":[
         {
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":1360677083,
-    "wof:lastmodified":1564125896,
+    "wof:lastmodified":1603247170,
     "wof:name":"Les Rairies",
     "wof:parent_id":102066805,
     "wof:placetype":"locality",

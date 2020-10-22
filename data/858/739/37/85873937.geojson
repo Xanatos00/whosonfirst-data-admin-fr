@@ -9,7 +9,6 @@
     "geom:bbox":"2.329379,48.815607,2.344564,48.833195",
     "geom:latitude":48.82345,
     "geom:longitude":2.337138,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.822708,
     "lbl:longitude":2.336235,
@@ -70,12 +69,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894259,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894259,
         85683497
     ],
     "wof:breaches":[],
@@ -102,10 +101,7 @@
         }
     ],
     "wof:id":85873937,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592441,
+    "wof:lastmodified":1603246970,
     "wof:name":"Parc de Montsouris",
     "wof:parent_id":1158894259,
     "wof:placetype":"neighbourhood",

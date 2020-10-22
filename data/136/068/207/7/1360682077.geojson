@@ -9,7 +9,7 @@
     "geom:bbox":"2.398878,47.059825,2.398878,47.059825",
     "geom:latitude":47.059825,
     "geom:longitude":2.398878,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.059825,
     "lbl:longitude":2.398878,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360682077,
-    "wof:lastmodified":1539986826,
+    "wof:lastmodified":1603247104,
     "wof:name":"Trouy-Nord",
     "wof:parent_id":404352985,
     "wof:placetype":"neighbourhood",

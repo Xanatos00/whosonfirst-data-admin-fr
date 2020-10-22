@@ -155,6 +155,11 @@
         404424721
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8798ff79ea1cf20cee595c71ccff3781",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360680041,
-    "wof:lastmodified":1564125647,
+    "wof:lastmodified":1603247102,
     "wof:name":"Elnes",
     "wof:parent_id":102070487,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"3.876113,47.16194,3.876113,47.16194",
     "geom:latitude":47.16194,
     "geom:longitude":3.876113,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.16194,
     "lbl:longitude":3.876113,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685935,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247034,
     "wof:name":"Pannesi\u00e8re-Chaumard",
     "wof:parent_id":404391425,
     "wof:placetype":"neighbourhood",

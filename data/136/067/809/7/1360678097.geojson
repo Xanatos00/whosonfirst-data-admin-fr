@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404404575,
         404228049,
+        404404575,
+        85633147,
         1108826385,
         136253037,
         102066719
@@ -68,6 +68,11 @@
         404404575
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0f2926aa0ff6207c8190eef726ca7181",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678097,
-    "wof:lastmodified":1539928898,
+    "wof:lastmodified":1603247290,
     "wof:name":"Granges-D'Ans",
     "wof:parent_id":102066719,
     "wof:placetype":"locality",

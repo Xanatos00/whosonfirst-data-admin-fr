@@ -117,12 +117,12 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":348,
     "wof:belongsto":[
-        1158894255,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894255,
         85683497
     ],
     "wof:breaches":[],
@@ -152,10 +152,7 @@
         }
     ],
     "wof:id":85873907,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592440,
+    "wof:lastmodified":1603246970,
     "wof:name":"Bercy",
     "wof:parent_id":1158894255,
     "wof:placetype":"neighbourhood",

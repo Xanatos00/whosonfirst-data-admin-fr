@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404382875,
         404228069,
+        404382875,
+        85633147,
         1108826387,
         136253037,
         102067121
@@ -68,6 +68,11 @@
         404382875
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dd69e628cc496a3969f31df009a458c6",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360676089,
-    "wof:lastmodified":1539928863,
+    "wof:lastmodified":1603247292,
     "wof:name":"Mont-D'Astarac",
     "wof:parent_id":102067121,
     "wof:placetype":"locality",

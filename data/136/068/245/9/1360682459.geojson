@@ -9,7 +9,7 @@
     "geom:bbox":"8.9285995,41.4987815,8.9285995,41.4987815",
     "geom:latitude":41.498781,
     "geom:longitude":8.9286,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":41.498781,
     "lbl:longitude":8.9286,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360682459,
-    "wof:lastmodified":1539986831,
+    "wof:lastmodified":1603247048,
     "wof:name":"Murtoli",
     "wof:parent_id":404356819,
     "wof:placetype":"neighbourhood",

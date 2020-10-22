@@ -9,7 +9,7 @@
     "geom:bbox":"5.679802,46.46293,5.679802,46.46293",
     "geom:latitude":46.46293,
     "geom:longitude":5.679802,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.46293,
     "lbl:longitude":5.679802,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685931,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247034,
     "wof:name":"Maisod du Cerf",
     "wof:parent_id":404351375,
     "wof:placetype":"neighbourhood",

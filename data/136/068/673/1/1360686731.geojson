@@ -9,7 +9,7 @@
     "geom:bbox":"6.146678,44.643376,6.146678,44.643376",
     "geom:latitude":44.643376,
     "geom:longitude":6.146678,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.643376,
     "lbl:longitude":6.146678,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686731,
-    "wof:lastmodified":1539986887,
+    "wof:lastmodified":1603247052,
     "wof:name":"Basse Plaine",
     "wof:parent_id":404428111,
     "wof:placetype":"neighbourhood",

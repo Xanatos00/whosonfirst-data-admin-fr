@@ -146,6 +146,11 @@
         404372485
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6bf0907136f228e6e7f7832ec0c33bda",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360675011,
-    "wof:lastmodified":1564126471,
+    "wof:lastmodified":1603247251,
     "wof:name":"Erches",
     "wof:parent_id":102069403,
     "wof:placetype":"locality",

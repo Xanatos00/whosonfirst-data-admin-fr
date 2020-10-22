@@ -112,6 +112,11 @@
         404415673
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"71ff0fe76424c5da117eabaa27b12338",
     "wof:hierarchy":[
         {
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":1360679249,
-    "wof:lastmodified":1564126340,
+    "wof:lastmodified":1603247232,
     "wof:name":"Feings",
     "wof:parent_id":102064843,
     "wof:placetype":"locality",

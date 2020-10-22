@@ -9,7 +9,6 @@
     "geom:bbox":"2.319051,48.848422,2.333181,48.861472",
     "geom:latitude":48.85527,
     "geom:longitude":2.325627,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.855274,
     "lbl:longitude":2.325633,
@@ -121,12 +120,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894245,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894245,
         85683497
     ],
     "wof:breaches":[],
@@ -154,10 +153,7 @@
         }
     ],
     "wof:id":85873845,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592440,
+    "wof:lastmodified":1603246970,
     "wof:name":"Saint-Thomas d'Aquin",
     "wof:parent_id":1158894245,
     "wof:placetype":"neighbourhood",

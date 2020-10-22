@@ -148,6 +148,11 @@
         404425491
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b03a615446db1042e4ce1badb68e2eda",
     "wof:hierarchy":[
         {
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1360680109,
-    "wof:lastmodified":1564125625,
+    "wof:lastmodified":1603247098,
     "wof:name":"Gohory",
     "wof:parent_id":102065281,
     "wof:placetype":"locality",

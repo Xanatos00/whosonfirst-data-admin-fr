@@ -146,6 +146,11 @@
         404365607
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"77efa9a081d18328f552559ba76b7fc1",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360674381,
-    "wof:lastmodified":1564126237,
+    "wof:lastmodified":1603247218,
     "wof:name":"Seich",
     "wof:parent_id":102067833,
     "wof:placetype":"locality",

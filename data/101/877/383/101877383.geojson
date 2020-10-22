@@ -9,7 +9,7 @@
     "geom:bbox":"-5.14133326107,48.435673611,-5.03227662822,48.4829296558",
     "geom:latitude":48.460573,
     "geom:longitude":-5.085754,
-    "geonames:id":"3007974,6620083",
+    "gn:id":"3007974,6620083",
     "iso:country":"FR",
     "lbl:latitude":48.457486,
     "lbl:longitude":-5.094259,
@@ -355,7 +355,7 @@
         }
     ],
     "wof:id":101877383,
-    "wof:lastmodified":1582323585,
+    "wof:lastmodified":1603247948,
     "wof:name":"Ouessant",
     "wof:parent_id":1159321863,
     "wof:placetype":"locality",

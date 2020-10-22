@@ -9,7 +9,7 @@
     "geom:bbox":"6.864051,45.22316,6.864051,45.22316",
     "geom:latitude":45.22316,
     "geom:longitude":6.864051,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.22316,
     "lbl:longitude":6.864051,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683541,
-    "wof:lastmodified":1539986845,
+    "wof:lastmodified":1603247036,
     "wof:name":"L'Erell",
     "wof:parent_id":404422211,
     "wof:placetype":"neighbourhood",

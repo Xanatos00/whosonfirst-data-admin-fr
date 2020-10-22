@@ -158,6 +158,11 @@
         404419615
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"11b4204bf1fe9928413aa9bf030aa691",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360679559,
-    "wof:lastmodified":1564125979,
+    "wof:lastmodified":1603247182,
     "wof:name":"Beussent",
     "wof:parent_id":102069749,
     "wof:placetype":"locality",

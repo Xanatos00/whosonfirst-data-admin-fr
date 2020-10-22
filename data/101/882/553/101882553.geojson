@@ -306,14 +306,14 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85683405,
         102191581,
-        85633147,
-        102068859,
-        136253037,
-        404427091,
         404228237,
+        404427091,
+        85633147,
         1108826391,
-        85683405
+        136253037,
+        102068859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -348,10 +348,7 @@
         }
     ],
     "wof:id":101882553,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163110,
+    "wof:lastmodified":1603247997,
     "wof:name":"Saint-Ch\u00e9ron",
     "wof:parent_id":404427091,
     "wof:placetype":"locality",

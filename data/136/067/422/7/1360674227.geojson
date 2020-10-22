@@ -110,6 +110,11 @@
         404364315
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"aa41587026a7b28f57c8734280b15982",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360674227,
-    "wof:lastmodified":1564126024,
+    "wof:lastmodified":1603247188,
     "wof:name":"Montagny",
     "wof:parent_id":102065651,
     "wof:placetype":"locality",

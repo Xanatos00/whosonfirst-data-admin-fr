@@ -161,6 +161,11 @@
         404400065
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bf840f4c408fae803172bca732e4c817",
     "wof:hierarchy":[
         {
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":1360677693,
-    "wof:lastmodified":1564126506,
+    "wof:lastmodified":1603247255,
     "wof:name":"Alzon",
     "wof:parent_id":102064971,
     "wof:placetype":"locality",

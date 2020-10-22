@@ -119,6 +119,11 @@
         404383927
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"888127b8812857b3e8da066d7473042e",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360676179,
-    "wof:lastmodified":1564126032,
+    "wof:lastmodified":1603247190,
     "wof:name":"Salles",
     "wof:parent_id":102068825,
     "wof:placetype":"locality",

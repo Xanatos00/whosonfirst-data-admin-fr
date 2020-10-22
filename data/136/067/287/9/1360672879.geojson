@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683413,
         102191581,
-        85633147,
-        404351095,
         404227891,
+        404351095,
+        85633147,
         1108826389,
         136253037,
         102068761
@@ -63,6 +63,10 @@
         404351095
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e9c961832285978b5d4b6dd9d3e4e3b5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672879,
-    "wof:lastmodified":1539928790,
+    "wof:lastmodified":1603247190,
     "wof:name":"Saint-Vincent",
     "wof:parent_id":102068761,
     "wof:placetype":"locality",

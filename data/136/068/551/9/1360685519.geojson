@@ -9,7 +9,7 @@
     "geom:bbox":"6.694364,45.513925,6.694364,45.513925",
     "geom:latitude":45.513925,
     "geom:longitude":6.694364,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.513925,
     "lbl:longitude":6.694364,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685519,
-    "wof:lastmodified":1539986871,
+    "wof:lastmodified":1603247032,
     "wof:name":"Plagne Bellec\u00f4te",
     "wof:parent_id":404352717,
     "wof:placetype":"neighbourhood",

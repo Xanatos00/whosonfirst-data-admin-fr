@@ -140,6 +140,11 @@
         404358089
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"61c8ecef5e34fc17244f5a1f52fd1064",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360673551,
-    "wof:lastmodified":1564125963,
+    "wof:lastmodified":1603247180,
     "wof:name":"Callengeville",
     "wof:parent_id":102070839,
     "wof:placetype":"locality",

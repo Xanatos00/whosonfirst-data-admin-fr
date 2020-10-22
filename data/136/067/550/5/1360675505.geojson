@@ -137,6 +137,11 @@
         404377167
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e3abcceec629e6c2a774903ce5011cd3",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360675505,
-    "wof:lastmodified":1564125939,
+    "wof:lastmodified":1603247176,
     "wof:name":"Cavagnac",
     "wof:parent_id":102069713,
     "wof:placetype":"locality",

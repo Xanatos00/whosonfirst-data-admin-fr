@@ -140,6 +140,11 @@
         404388915
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"df2796e848892600f7372b043a009de0",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360676603,
-    "wof:lastmodified":1564126200,
+    "wof:lastmodified":1603247213,
     "wof:name":"Malaville",
     "wof:parent_id":102066481,
     "wof:placetype":"locality",

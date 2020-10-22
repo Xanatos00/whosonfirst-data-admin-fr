@@ -110,6 +110,11 @@
         404359583
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7d2e0125fc26ecc5591330d533cb405f",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360673701,
-    "wof:lastmodified":1564126317,
+    "wof:lastmodified":1603247229,
     "wof:name":"Mayres",
     "wof:parent_id":102064867,
     "wof:placetype":"locality",

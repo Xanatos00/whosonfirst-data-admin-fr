@@ -9,7 +9,7 @@
     "geom:bbox":"6.0361605,45.8953,6.0361605,45.8953",
     "geom:latitude":45.8953,
     "geom:longitude":6.036161,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.8953,
     "lbl:longitude":6.036161,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684113,
-    "wof:lastmodified":1539986853,
+    "wof:lastmodified":1603247094,
     "wof:name":"Pontverre",
     "wof:parent_id":404380317,
     "wof:placetype":"neighbourhood",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683485,
         102191581,
-        85633147,
-        404350909,
         404227819,
+        404350909,
+        85633147,
         1108826387,
         136253037,
         102068003
@@ -68,6 +68,11 @@
         404350909
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1da0f42c0e2db84f0d729e08aa0de728",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672859,
-    "wof:lastmodified":1539928789,
+    "wof:lastmodified":1603247281,
     "wof:name":"Villelongue-D'Aude",
     "wof:parent_id":102068003,
     "wof:placetype":"locality",

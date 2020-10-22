@@ -113,6 +113,11 @@
         404424293
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c26afe8b588d029d10083bb06e37490d",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360680011,
-    "wof:lastmodified":1564125484,
+    "wof:lastmodified":1603247066,
     "wof:name":"Chambry",
     "wof:parent_id":102067599,
     "wof:placetype":"locality",

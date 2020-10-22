@@ -121,6 +121,11 @@
         404361385
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b3d640e4e0b6390b560224df0994d2d2",
     "wof:hierarchy":[
         {
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":1360673917,
-    "wof:lastmodified":1564125865,
+    "wof:lastmodified":1603247166,
     "wof:name":"Authon",
     "wof:parent_id":102069411,
     "wof:placetype":"locality",

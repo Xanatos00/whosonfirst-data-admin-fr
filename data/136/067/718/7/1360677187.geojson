@@ -158,6 +158,11 @@
         404394173
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"25b5c1ba3df1d49665a4df5e8ac5028d",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":1360677187,
-    "wof:lastmodified":1564127047,
+    "wof:lastmodified":1603247327,
     "wof:name":"Vieux-Bourg",
     "wof:parent_id":102069373,
     "wof:placetype":"locality",

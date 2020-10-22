@@ -131,6 +131,11 @@
         404354503
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"611282a3e47cdae9fe9f1a563588c91b",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360673187,
-    "wof:lastmodified":1564126896,
+    "wof:lastmodified":1603247307,
     "wof:name":"Nolay",
     "wof:parent_id":102069193,
     "wof:placetype":"locality",

@@ -122,6 +122,11 @@
         404381055
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2fdd2612dc9eca9b85442a2b423c4844",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360675905,
-    "wof:lastmodified":1564126499,
+    "wof:lastmodified":1603247254,
     "wof:name":"Faverolles",
     "wof:parent_id":102070689,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683377,
         102191581,
-        85633147,
-        404425561,
         404227677,
+        404425561,
+        85633147,
         1108826389,
         136253037,
         102064481
@@ -63,6 +63,10 @@
         404425561
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2d07a8b4c5a3d81728557ec805b2e7da",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680133,
-    "wof:lastmodified":1539928933,
+    "wof:lastmodified":1603247049,
     "wof:name":"L'Hopital-Sous-Rochefort",
     "wof:parent_id":102064481,
     "wof:placetype":"locality",

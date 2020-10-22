@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683179,
         102191581,
-        85633147,
-        404386117,
         404227633,
+        404386117,
+        85633147,
         1108826385,
         136253037,
         102064641
@@ -63,6 +63,10 @@
         404386117
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f4d7ff4239ceef9d70623e69c3cbff95",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676381,
-    "wof:lastmodified":1539928868,
+    "wof:lastmodified":1603247303,
     "wof:name":"Chatelard",
     "wof:parent_id":102064641,
     "wof:placetype":"locality",

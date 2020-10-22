@@ -9,7 +9,7 @@
     "geom:bbox":"3.582229,44.121914,3.582229,44.121914",
     "geom:latitude":44.121914,
     "geom:longitude":3.582229,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.121914,
     "lbl:longitude":3.582229,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686325,
-    "wof:lastmodified":1539986881,
+    "wof:lastmodified":1603247063,
     "wof:name":"Mas M\u00e9jan",
     "wof:parent_id":404356105,
     "wof:placetype":"neighbourhood",

@@ -149,6 +149,11 @@
         404367173
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5f0edc236d3619c389b4cad0d8cffe44",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360674521,
-    "wof:lastmodified":1564126198,
+    "wof:lastmodified":1603247212,
     "wof:name":"Aragnouet",
     "wof:parent_id":102069149,
     "wof:placetype":"locality",

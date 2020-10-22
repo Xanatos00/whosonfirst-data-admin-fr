@@ -9,7 +9,7 @@
     "geom:bbox":"6.182212,46.135359,6.182212,46.135359",
     "geom:latitude":46.135359,
     "geom:longitude":6.182212,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.135359,
     "lbl:longitude":6.182212,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685605,
-    "wof:lastmodified":1539986872,
+    "wof:lastmodified":1603247033,
     "wof:name":"Le Coin",
     "wof:parent_id":404352471,
     "wof:placetype":"neighbourhood",

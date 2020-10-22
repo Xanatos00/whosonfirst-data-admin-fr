@@ -9,7 +9,7 @@
     "geom:bbox":"4.192099,47.247251,4.192099,47.247251",
     "geom:latitude":47.247251,
     "geom:longitude":4.192099,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.247251,
     "lbl:longitude":4.192099,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685807,
-    "wof:lastmodified":1539986875,
+    "wof:lastmodified":1603247077,
     "wof:name":"La Serree",
     "wof:parent_id":404354737,
     "wof:placetype":"neighbourhood",

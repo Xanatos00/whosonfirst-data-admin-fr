@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683223,
         102191581,
-        85633147,
-        404353487,
         404227779,
+        404353487,
+        85633147,
         1108826391,
         136253037,
         102064695
@@ -68,6 +68,11 @@
         404353487
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5790d376e404e386732fac97b06bfada",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673095,
-    "wof:lastmodified":1539928794,
+    "wof:lastmodified":1603247164,
     "wof:name":"Prey",
     "wof:parent_id":102064695,
     "wof:placetype":"locality",

@@ -102,6 +102,10 @@
         404400129
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"376cd80843fb1b1bb11e68ddc7622d33",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360677691,
-    "wof:lastmodified":1564126505,
+    "wof:lastmodified":1603247255,
     "wof:name":"Saint-Ours",
     "wof:parent_id":102070065,
     "wof:placetype":"locality",

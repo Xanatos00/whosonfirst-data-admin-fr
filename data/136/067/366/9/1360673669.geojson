@@ -139,6 +139,11 @@
         404359273
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dae663b5b00a577bbc60254308a59645",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360673669,
-    "wof:lastmodified":1564126455,
+    "wof:lastmodified":1603247248,
     "wof:name":"Le Bourguet",
     "wof:parent_id":102065657,
     "wof:placetype":"locality",

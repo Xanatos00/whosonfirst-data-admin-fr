@@ -63,9 +63,9 @@
     "wof:belongsto":[
         85683559,
         102191581,
-        85633147,
-        404410719,
         404227739,
+        404410719,
+        85633147,
         1108826395,
         136253037,
         102065461
@@ -80,6 +80,11 @@
         404410719
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f0721d15645861c1984678c6925a24cc",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360678745,
-    "wof:lastmodified":1539928909,
+    "wof:lastmodified":1603247191,
     "wof:name":"Amont-Et-Effreney",
     "wof:parent_id":102065461,
     "wof:placetype":"locality",

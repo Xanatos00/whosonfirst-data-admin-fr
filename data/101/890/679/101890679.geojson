@@ -9,9 +9,8 @@
     "geom:bbox":"5.28425065479,47.1083676482,5.37185652239,47.176160702",
     "geom:latitude":47.14584,
     "geom:longitude":5.330091,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":813,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":813,
     "iso:country":"FR",
     "lbl:latitude":47.137029,
@@ -379,10 +378,7 @@
         }
     ],
     "wof:id":101890679,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323787,
+    "wof:lastmodified":1603248182,
     "wof:name":"Les Maillys",
     "wof:parent_id":404367281,
     "wof:placetype":"locality",

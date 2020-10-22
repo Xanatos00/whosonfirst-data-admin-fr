@@ -76,6 +76,11 @@
         404364719
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b67c8835866517903786d41932267663",
     "wof:hierarchy":[
         {
@@ -90,7 +95,7 @@
         }
     ],
     "wof:id":1360674255,
-    "wof:lastmodified":1539928831,
+    "wof:lastmodified":1603247190,
     "wof:name":"La Madeleine-Sur-Loing",
     "wof:parent_id":102065003,
     "wof:placetype":"locality",

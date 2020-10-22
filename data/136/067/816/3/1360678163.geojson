@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683389,
         102191581,
-        85633147,
-        404405323,
         404227687,
+        404405323,
+        85633147,
         1108826387,
         136253037,
         102065043
@@ -63,6 +63,10 @@
         404405323
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b81885c31fe55b9610c36dac1b360a4b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678163,
-    "wof:lastmodified":1539928899,
+    "wof:lastmodified":1603247186,
     "wof:name":"Saint-Paul-De-Loubressac",
     "wof:parent_id":102065043,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"-1.243257,49.47292,-1.243257,49.47292",
     "geom:latitude":49.47292,
     "geom:longitude":-1.243257,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.47292,
     "lbl:longitude":-1.243257,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687337,
-    "wof:lastmodified":1539986894,
+    "wof:lastmodified":1603247080,
     "wof:name":"Ravenoville Plage",
     "wof:parent_id":404401831,
     "wof:placetype":"neighbourhood",

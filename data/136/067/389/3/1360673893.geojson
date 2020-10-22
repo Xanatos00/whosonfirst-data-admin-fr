@@ -113,6 +113,11 @@
         404361211
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ce8cec076e41d7fd8301ea94b063fa36",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360673893,
-    "wof:lastmodified":1564126938,
+    "wof:lastmodified":1603247313,
     "wof:name":"Cuverville",
     "wof:parent_id":102066529,
     "wof:placetype":"locality",

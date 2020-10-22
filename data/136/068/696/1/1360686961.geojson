@@ -9,7 +9,7 @@
     "geom:bbox":"-4.462427,47.984981,-4.462427,47.984981",
     "geom:latitude":47.984981,
     "geom:longitude":-4.462427,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.984981,
     "lbl:longitude":-4.462427,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686961,
-    "wof:lastmodified":1539986889,
+    "wof:lastmodified":1603247107,
     "wof:name":"Pors-Poulhan",
     "wof:parent_id":404355525,
     "wof:placetype":"neighbourhood",

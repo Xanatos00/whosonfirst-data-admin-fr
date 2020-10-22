@@ -9,7 +9,7 @@
     "geom:bbox":"-1.75045751143,49.6702768192,-1.72830815832,49.6780487126",
     "geom:latitude":49.674736,
     "geom:longitude":-1.737543,
-    "geonames:id":"2971321,2991062",
+    "gn:id":"2971321,2991062",
     "gn:population":2307,
     "iso:country":"FR",
     "lbl:latitude":49.674658,
@@ -344,7 +344,7 @@
         }
     ],
     "wof:id":1360697167,
-    "wof:lastmodified":1563281024,
+    "wof:lastmodified":1603247159,
     "wof:name":"Urville-Nacqueville",
     "wof:parent_id":404371843,
     "wof:placetype":"neighbourhood",

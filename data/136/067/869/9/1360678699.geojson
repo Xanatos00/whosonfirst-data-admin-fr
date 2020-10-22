@@ -155,6 +155,11 @@
         404410389
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b80d327bc01868c7258925002d636425",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360678699,
-    "wof:lastmodified":1564126223,
+    "wof:lastmodified":1603247215,
     "wof:name":"Barry",
     "wof:parent_id":102067315,
     "wof:placetype":"locality",

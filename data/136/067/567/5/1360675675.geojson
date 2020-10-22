@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404379029,
         404227865,
+        404379029,
+        85633147,
         1108826387,
         136253037,
         102069987
@@ -63,6 +63,10 @@
         404379029
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2672cd3f499110706be14b29259d8510",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675675,
-    "wof:lastmodified":1539928856,
+    "wof:lastmodified":1603247165,
     "wof:name":"Laffite-Toupiere",
     "wof:parent_id":102069987,
     "wof:placetype":"locality",

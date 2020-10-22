@@ -62,6 +62,10 @@
         404390009
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"35ac21c0f8825df227ccc786ae07a02b",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360676725,
-    "wof:lastmodified":1539928874,
+    "wof:lastmodified":1603247183,
     "wof:name":"Peypin-D'Aigues",
     "wof:parent_id":102067779,
     "wof:placetype":"locality",

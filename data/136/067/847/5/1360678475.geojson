@@ -89,6 +89,11 @@
         404408649
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d6cf69e10d291ae62d9fbe076f883a0b",
     "wof:hierarchy":[
         {
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1360678475,
-    "wof:lastmodified":1564126680,
+    "wof:lastmodified":1603247279,
     "wof:name":"La Forge",
     "wof:parent_id":102068567,
     "wof:placetype":"locality",

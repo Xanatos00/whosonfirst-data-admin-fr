@@ -155,6 +155,11 @@
         404382209
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a510957e4e2b4149f4f307352f6168ab",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360676021,
-    "wof:lastmodified":1564126160,
+    "wof:lastmodified":1603247207,
     "wof:name":"Biencourt",
     "wof:parent_id":102068363,
     "wof:placetype":"locality",

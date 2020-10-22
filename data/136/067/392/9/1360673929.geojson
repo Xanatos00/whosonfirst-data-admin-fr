@@ -126,6 +126,10 @@
         404361487
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"475f0072132d888e65b027699f5dafd6",
     "wof:hierarchy":[
         {
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":1360673929,
-    "wof:lastmodified":1564126449,
+    "wof:lastmodified":1603247247,
     "wof:name":"Saint-Maurice",
     "wof:parent_id":102068655,
     "wof:placetype":"locality",

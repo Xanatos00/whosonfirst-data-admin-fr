@@ -254,7 +254,7 @@
     "src:geom":"mz",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"84,060",
     "statoids:area_mi":"32,456",
     "statoids:as_of_date":"2010-01-01",
@@ -295,7 +295,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565710116,
+    "wof:lastmodified":1603247008,
     "wof:name":"New Aquitaine",
     "wof:parent_id":85633147,
     "wof:placetype":"macroregion",

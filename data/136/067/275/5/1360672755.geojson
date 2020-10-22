@@ -143,6 +143,11 @@
         404349937
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"01063de3c54cc2d4c3cbde349b1502e5",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360672755,
-    "wof:lastmodified":1564126135,
+    "wof:lastmodified":1603247203,
     "wof:name":"Andouque",
     "wof:parent_id":102070115,
     "wof:placetype":"locality",

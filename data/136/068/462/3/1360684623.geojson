@@ -9,7 +9,7 @@
     "geom:bbox":"3.866178,45.587719,3.866178,45.587719",
     "geom:latitude":45.587719,
     "geom:longitude":3.866178,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.587719,
     "lbl:longitude":3.866178,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684623,
-    "wof:lastmodified":1539986859,
+    "wof:lastmodified":1603247067,
     "wof:name":"Jasseries du Grand Genevrier",
     "wof:parent_id":404364263,
     "wof:placetype":"neighbourhood",

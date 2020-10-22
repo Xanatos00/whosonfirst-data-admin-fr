@@ -9,7 +9,7 @@
     "geom:bbox":"0.575923,44.17908,0.575923,44.17908",
     "geom:latitude":44.17908,
     "geom:longitude":0.575923,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.17908,
     "lbl:longitude":0.575923,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685973,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247082,
     "wof:name":"Estillac du Bosc",
     "wof:parent_id":404371891,
     "wof:placetype":"neighbourhood",

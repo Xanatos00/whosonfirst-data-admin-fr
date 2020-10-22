@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683153,
         102191581,
-        85633147,
-        404361433,
         404227585,
+        404361433,
+        85633147,
         1108826389,
         136253037,
         102069427
@@ -63,6 +63,10 @@
         404361433
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1e5a3c67e2efc26b429a2254c7c5517c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673923,
-    "wof:lastmodified":1539928823,
+    "wof:lastmodified":1603247247,
     "wof:name":"Evosges",
     "wof:parent_id":102069427,
     "wof:placetype":"locality",

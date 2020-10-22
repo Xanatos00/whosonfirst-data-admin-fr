@@ -9,7 +9,7 @@
     "geom:bbox":"-1.85523,46.606688,-1.85523,46.606688",
     "geom:latitude":46.606688,
     "geom:longitude":-1.85523,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":46.606688,
     "lbl:longitude":-1.85523,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683431,
-    "wof:lastmodified":1539986844,
+    "wof:lastmodified":1603247122,
     "wof:name":"Les Dunes",
     "wof:parent_id":404427787,
     "wof:placetype":"neighbourhood",

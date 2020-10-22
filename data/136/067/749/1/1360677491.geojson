@@ -62,6 +62,10 @@
         404397743
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2c1848cc2282a0d6861ad4c8af5ec51f",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677491,
-    "wof:lastmodified":1539928887,
+    "wof:lastmodified":1603247233,
     "wof:name":"Livre-La-Touche",
     "wof:parent_id":102065843,
     "wof:placetype":"locality",

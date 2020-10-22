@@ -9,7 +9,7 @@
     "geom:bbox":"0.208188,47.9538885,0.208188,47.9538885",
     "geom:latitude":47.953888,
     "geom:longitude":0.208188,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.953888,
     "lbl:longitude":0.208188,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684721,
-    "wof:lastmodified":1539986861,
+    "wof:lastmodified":1603247093,
     "wof:name":"Les Hautes M\u00e9tairies",
     "wof:parent_id":1159321991,
     "wof:placetype":"neighbourhood",

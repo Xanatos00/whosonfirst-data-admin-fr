@@ -111,6 +111,10 @@
         404390967
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"db7752641d6656d4af81eb3da4bceed3",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360676833,
-    "wof:lastmodified":1564126724,
+    "wof:lastmodified":1603247285,
     "wof:name":"Saint-Brice",
     "wof:parent_id":102066047,
     "wof:placetype":"locality",

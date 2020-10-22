@@ -105,6 +105,10 @@
         404413339
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"86f9ff037af5e133801706edfcc7ea3e",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360679017,
-    "wof:lastmodified":1564125911,
+    "wof:lastmodified":1603247173,
     "wof:name":"Cros",
     "wof:parent_id":102068285,
     "wof:placetype":"locality",

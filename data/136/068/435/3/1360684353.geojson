@@ -9,7 +9,7 @@
     "geom:bbox":"-2.005798,46.7442455,-2.005798,46.7442455",
     "geom:latitude":46.744245,
     "geom:longitude":-2.005798,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":46.744245,
     "lbl:longitude":-2.005798,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684353,
-    "wof:lastmodified":1539986856,
+    "wof:lastmodified":1603247111,
     "wof:name":"La P\u00e8ge",
     "wof:parent_id":404383799,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404426995,
         404227621,
+        404426995,
+        85633147,
         1108826385,
         136253037,
         102067751
@@ -63,6 +63,10 @@
         404426995
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a834547d12ee016c4fc52d08920c1de9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680277,
-    "wof:lastmodified":1539928935,
+    "wof:lastmodified":1603247091,
     "wof:name":"Merignac",
     "wof:parent_id":102067751,
     "wof:placetype":"locality",

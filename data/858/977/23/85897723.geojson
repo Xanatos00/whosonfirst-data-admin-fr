@@ -9,7 +9,6 @@
     "geom:bbox":"7.757256,48.579952,7.757256,48.579952",
     "geom:latitude":48.579952,
     "geom:longitude":7.757256,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.579952,
     "lbl:longitude":7.757256,
@@ -99,10 +98,7 @@
         }
     ],
     "wof:id":85897723,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322803,
+    "wof:lastmodified":1603246972,
     "wof:name":"Krutenau",
     "wof:parent_id":101751113,
     "wof:placetype":"neighbourhood",

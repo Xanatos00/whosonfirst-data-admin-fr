@@ -119,6 +119,11 @@
         404394203
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7234b2680ca4f97282aed80c7355a2fc",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360677189,
-    "wof:lastmodified":1564127046,
+    "wof:lastmodified":1603247327,
     "wof:name":"Tailly",
     "wof:parent_id":102069159,
     "wof:placetype":"locality",

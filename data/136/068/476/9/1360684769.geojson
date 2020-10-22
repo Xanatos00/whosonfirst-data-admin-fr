@@ -9,7 +9,7 @@
     "geom:bbox":"4.614944,46.4669995,4.614944,46.4669995",
     "geom:latitude":46.467,
     "geom:longitude":4.614944,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.467,
     "lbl:longitude":4.614944,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684769,
-    "wof:lastmodified":1539986861,
+    "wof:lastmodified":1603247045,
     "wof:name":"B\u00eane",
     "wof:parent_id":404399587,
     "wof:placetype":"neighbourhood",

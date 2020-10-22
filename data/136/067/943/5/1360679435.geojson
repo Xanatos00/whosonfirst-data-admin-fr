@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404417927,
         404228165,
+        404417927,
+        85633147,
         1108826399,
         136253037,
         102069403
@@ -63,6 +63,10 @@
         404417927
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f2fe5dfcf4eca4ed3be5558b446aa48f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679435,
-    "wof:lastmodified":1539928921,
+    "wof:lastmodified":1603247325,
     "wof:name":"Lignieres",
     "wof:parent_id":102069403,
     "wof:placetype":"locality",

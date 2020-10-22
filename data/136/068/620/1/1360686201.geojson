@@ -9,7 +9,7 @@
     "geom:bbox":"-4.674682,48.354755,-4.674682,48.354755",
     "geom:latitude":48.354755,
     "geom:longitude":-4.674682,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":48.354755,
     "lbl:longitude":-4.674682,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686201,
-    "wof:lastmodified":1539986880,
+    "wof:lastmodified":1603247053,
     "wof:name":"Portez",
     "wof:parent_id":404351771,
     "wof:placetype":"neighbourhood",

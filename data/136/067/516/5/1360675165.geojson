@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683353,
         102191581,
-        85633147,
-        404373931,
         404227783,
+        404373931,
+        85633147,
         1108826395,
         136253037,
         102064879
@@ -63,6 +63,10 @@
         404373931
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"516a9c6f9c438fd44d93a445d07c790a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675165,
-    "wof:lastmodified":1539928847,
+    "wof:lastmodified":1603247238,
     "wof:name":"Evette-Salbert",
     "wof:parent_id":102064879,
     "wof:placetype":"locality",

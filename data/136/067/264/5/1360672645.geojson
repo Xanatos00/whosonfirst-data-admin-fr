@@ -167,6 +167,11 @@
         404348577
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9563ae445dd46dc4664d0fc31854a41e",
     "wof:hierarchy":[
         {
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":1360672645,
-    "wof:lastmodified":1564126847,
+    "wof:lastmodified":1603247301,
     "wof:name":"Ladoix-Serrigny",
     "wof:parent_id":102065217,
     "wof:placetype":"locality",

@@ -113,6 +113,11 @@
         404393725
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dd0d039f0364da19a8bf5a964228ee15",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360677139,
-    "wof:lastmodified":1564126309,
+    "wof:lastmodified":1603247227,
     "wof:name":"Quincerot",
     "wof:parent_id":102068259,
     "wof:placetype":"locality",

@@ -9,7 +9,6 @@
     "geom:bbox":"7.235354,43.684361,7.235354,43.684361",
     "geom:latitude":43.684361,
     "geom:longitude":7.235354,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":43.684361,
     "lbl:longitude":7.235354,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85794671,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322791,
+    "wof:lastmodified":1603246954,
     "wof:name":"Ste.-H\u00e9l\u00e8ne",
     "wof:parent_id":101749273,
     "wof:placetype":"neighbourhood",

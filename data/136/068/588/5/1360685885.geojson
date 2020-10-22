@@ -9,7 +9,7 @@
     "geom:bbox":"1.4937965,47.602618,1.4937965,47.602618",
     "geom:latitude":47.602618,
     "geom:longitude":1.493796,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.602618,
     "lbl:longitude":1.493796,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685885,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247071,
     "wof:name":"La Chauss\u00e9e-le-Comte",
     "wof:parent_id":404376703,
     "wof:placetype":"neighbourhood",

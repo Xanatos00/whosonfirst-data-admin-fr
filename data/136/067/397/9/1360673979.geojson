@@ -140,6 +140,11 @@
         404361769
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bbadf98af153c41ca3da763c146ec577",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360673979,
-    "wof:lastmodified":1564125969,
+    "wof:lastmodified":1603247180,
     "wof:name":"Amfreville",
     "wof:parent_id":102070751,
     "wof:placetype":"locality",

@@ -9,7 +9,6 @@
     "geom:bbox":"2.331487,48.840278,2.342635,48.853142",
     "geom:latitude":48.847797,
     "geom:longitude":2.336351,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.848283,
     "lbl:longitude":2.336245,
@@ -108,12 +107,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894241,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894241,
         85683497
     ],
     "wof:breaches":[],
@@ -141,10 +140,7 @@
         }
     ],
     "wof:id":85873829,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592442,
+    "wof:lastmodified":1603246970,
     "wof:name":"l'Odeon",
     "wof:parent_id":1158894241,
     "wof:placetype":"neighbourhood",

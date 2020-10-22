@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404394475,
         404228071,
+        404394475,
+        85633147,
         1108826385,
         136253037,
         102070437
@@ -63,6 +63,10 @@
         404394475
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5a25603a51a994f061c58f1a5a27bf8b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677199,
-    "wof:lastmodified":1539928882,
+    "wof:lastmodified":1603247313,
     "wof:name":"Listrac-De-Dureze",
     "wof:parent_id":102070437,
     "wof:placetype":"locality",

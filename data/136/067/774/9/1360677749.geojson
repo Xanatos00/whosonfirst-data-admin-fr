@@ -242,6 +242,11 @@
         404400761
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"241ba76cd1e3e5ea63146bff1d2ec01c",
     "wof:hierarchy":[
         {
@@ -257,7 +262,7 @@
         }
     ],
     "wof:id":1360677749,
-    "wof:lastmodified":1564126984,
+    "wof:lastmodified":1603247319,
     "wof:name":"Baron",
     "wof:parent_id":102069137,
     "wof:placetype":"locality",

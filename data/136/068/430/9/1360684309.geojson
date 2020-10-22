@@ -9,7 +9,7 @@
     "geom:bbox":"-3.540945,48.810565,-3.540945,48.810565",
     "geom:latitude":48.810565,
     "geom:longitude":-3.540945,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":48.810565,
     "lbl:longitude":-3.540945,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684309,
-    "wof:lastmodified":1539986855,
+    "wof:lastmodified":1603247056,
     "wof:name":"Landrellec",
     "wof:parent_id":404361067,
     "wof:placetype":"neighbourhood",

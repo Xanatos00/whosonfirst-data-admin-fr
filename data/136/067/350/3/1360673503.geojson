@@ -105,6 +105,10 @@
         404357563
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4fb6071ab975479e6285596b987d4f37",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360673503,
-    "wof:lastmodified":1564126462,
+    "wof:lastmodified":1603247249,
     "wof:name":"Saint-Pierremont",
     "wof:parent_id":102064807,
     "wof:placetype":"locality",

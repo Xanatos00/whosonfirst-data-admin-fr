@@ -137,6 +137,11 @@
         404425713
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0a28c91cf703651447ca99eb33b0da4f",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360680143,
-    "wof:lastmodified":1564125413,
+    "wof:lastmodified":1603247050,
     "wof:name":"Viella",
     "wof:parent_id":102066629,
     "wof:placetype":"locality",

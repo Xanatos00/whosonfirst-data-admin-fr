@@ -143,6 +143,11 @@
         404361089
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"966b167390a6bfb6c8c0e43beee78a79",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360673887,
-    "wof:lastmodified":1564127049,
+    "wof:lastmodified":1603247328,
     "wof:name":"Noalhac",
     "wof:parent_id":102065709,
     "wof:placetype":"locality",

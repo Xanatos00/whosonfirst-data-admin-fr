@@ -67,6 +67,11 @@
         404408921
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2408afeb303eff1d1378fae9c0d93409",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360678507,
-    "wof:lastmodified":1539928905,
+    "wof:lastmodified":1603247209,
     "wof:name":"Messy",
     "wof:parent_id":102070731,
     "wof:placetype":"locality",

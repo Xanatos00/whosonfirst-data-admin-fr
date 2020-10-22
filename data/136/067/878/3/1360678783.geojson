@@ -113,6 +113,11 @@
         404411033
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8dd58898659b5110607dc213fb71fa81",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360678783,
-    "wof:lastmodified":1564126689,
+    "wof:lastmodified":1603247280,
     "wof:name":"Germigny",
     "wof:parent_id":102070033,
     "wof:placetype":"locality",

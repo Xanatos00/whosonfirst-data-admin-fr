@@ -9,7 +9,7 @@
     "geom:bbox":"1.401915,48.142322,1.401915,48.142322",
     "geom:latitude":48.142322,
     "geom:longitude":1.401915,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.142322,
     "lbl:longitude":1.401915,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686701,
-    "wof:lastmodified":1539986886,
+    "wof:lastmodified":1603247099,
     "wof:name":"M\u00e9millon",
     "wof:parent_id":404380861,
     "wof:placetype":"neighbourhood",

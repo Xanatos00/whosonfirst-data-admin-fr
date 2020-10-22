@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404400547,
         404227761,
+        404400547,
+        85633147,
         1108826399,
         136253037,
         102067777
@@ -63,6 +63,10 @@
         404400547
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"19f226a60b203eadab71644d7363c7e8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677727,
-    "wof:lastmodified":1539928891,
+    "wof:lastmodified":1603247311,
     "wof:name":"Domleger-Longvillers",
     "wof:parent_id":102067777,
     "wof:placetype":"locality",

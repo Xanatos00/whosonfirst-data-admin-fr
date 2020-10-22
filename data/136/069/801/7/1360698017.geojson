@@ -138,13 +138,13 @@
     "wd:wordcount":103,
     "wof:belongsto":[
         102191581,
-        85633147,
-        102068647,
-        136253037,
-        404387303,
-        101878257,
         404228105,
+        404387303,
+        85633147,
         1108826393,
+        101878257,
+        136253037,
+        102068647,
         85683489
     ],
     "wof:breaches":[],
@@ -174,10 +174,7 @@
         }
     ],
     "wof:id":1360698017,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247154,
     "wof:name":"Orval",
     "wof:parent_id":404387303,
     "wof:placetype":"neighbourhood",

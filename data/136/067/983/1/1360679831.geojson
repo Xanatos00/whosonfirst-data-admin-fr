@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404422487,
         404227931,
+        404422487,
+        85633147,
         1108826393,
         136253037,
         102068773
@@ -63,6 +63,10 @@
         404422487
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"041bf702527f6ccde0dc17ed1b609d6e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679831,
-    "wof:lastmodified":1539928928,
+    "wof:lastmodified":1603247225,
     "wof:name":"La Belliere",
     "wof:parent_id":102068773,
     "wof:placetype":"locality",

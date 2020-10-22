@@ -62,6 +62,10 @@
         404413687
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2b590fb4f2f6a83c4de058e07fb2f69a",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360679053,
-    "wof:lastmodified":1539928915,
+    "wof:lastmodified":1603247263,
     "wof:name":"Arcay",
     "wof:parent_id":102067375,
     "wof:placetype":"locality",

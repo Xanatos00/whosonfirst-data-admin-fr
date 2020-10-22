@@ -9,9 +9,8 @@
     "geom:bbox":"-0.535250599577,45.030503347,-0.47654731356,45.0741532425",
     "geom:latitude":45.053136,
     "geom:longitude":-0.5056,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1406,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":1406,
     "iso:country":"FR",
     "lbl:latitude":45.049099,
@@ -368,10 +367,7 @@
         }
     ],
     "wof:id":101851253,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323338,
+    "wof:lastmodified":1603247673,
     "wof:name":"Tauriac",
     "wof:parent_id":404377977,
     "wof:placetype":"locality",

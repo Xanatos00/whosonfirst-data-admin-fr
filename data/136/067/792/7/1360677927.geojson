@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404402799,
         404228165,
+        404402799,
+        85633147,
         1108826399,
         136253037,
         102070903
@@ -63,6 +63,10 @@
         404402799
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0191a419796406a04e5eeeefb655395f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677927,
-    "wof:lastmodified":1539928895,
+    "wof:lastmodified":1603247266,
     "wof:name":"L'Echelle-Saint-Aurin",
     "wof:parent_id":102070903,
     "wof:placetype":"locality",

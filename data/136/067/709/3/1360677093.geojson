@@ -62,6 +62,10 @@
         404393287
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"64677e712af3292d93991877609bb14c",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677093,
-    "wof:lastmodified":1539928881,
+    "wof:lastmodified":1603247177,
     "wof:name":"Le Plessis-L'Echelle",
     "wof:parent_id":102065631,
     "wof:placetype":"locality",

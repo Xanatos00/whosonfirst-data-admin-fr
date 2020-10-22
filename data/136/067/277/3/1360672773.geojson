@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683293,
         102191581,
-        85633147,
-        404350077,
         404227801,
+        404350077,
+        85633147,
         1108826389,
         136253037,
         102067791
@@ -63,6 +63,10 @@
         404350077
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f6c3efca337ce5ffe759b99c461ef049",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672773,
-    "wof:lastmodified":1539928787,
+    "wof:lastmodified":1603247270,
     "wof:name":"Chatillon",
     "wof:parent_id":102067791,
     "wof:placetype":"locality",

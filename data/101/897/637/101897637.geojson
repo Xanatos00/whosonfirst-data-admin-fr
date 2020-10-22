@@ -9,7 +9,7 @@
     "geom:bbox":"9.04565931381,42.1823302892,9.24519121781,42.243615184",
     "geom:latitude":42.213902,
     "geom:longitude":9.137122,
-    "geonames:id":"2986567,2970160",
+    "gn:id":"2986567,2970160",
     "iso:country":"FR",
     "lbl:latitude":42.232951,
     "lbl:longitude":9.174833,
@@ -347,7 +347,7 @@
         }
     ],
     "wof:id":101897637,
-    "wof:lastmodified":1582323807,
+    "wof:lastmodified":1603248204,
     "wof:name":"Venaco",
     "wof:parent_id":404382453,
     "wof:placetype":"locality",

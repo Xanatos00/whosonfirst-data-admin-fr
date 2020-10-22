@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683471,
         102191581,
-        85633147,
-        404365351,
         404227725,
+        404365351,
+        85633147,
         1108826389,
         136253037,
         102064867
@@ -63,6 +63,10 @@
         404365351
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2ed80e88617123fe09debfc6a6954880",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674337,
-    "wof:lastmodified":1539928832,
+    "wof:lastmodified":1603247295,
     "wof:name":"Beurieres",
     "wof:parent_id":102064867,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404398551,
         404227627,
+        404398551,
+        85633147,
         1108826395,
         136253037,
         102064453
@@ -63,6 +63,10 @@
         404398551
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1b33b43ff5c9ce494fcafad82b96fb77",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677543,
-    "wof:lastmodified":1539928888,
+    "wof:lastmodified":1603247172,
     "wof:name":"Vievy",
     "wof:parent_id":102064453,
     "wof:placetype":"locality",

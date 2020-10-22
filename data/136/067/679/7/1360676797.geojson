@@ -137,6 +137,11 @@
         404390671
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"89f4a7c46e16fa565b7ad7694f971061",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360676797,
-    "wof:lastmodified":1564126714,
+    "wof:lastmodified":1603247284,
     "wof:name":"Montroty",
     "wof:parent_id":102068929,
     "wof:placetype":"locality",

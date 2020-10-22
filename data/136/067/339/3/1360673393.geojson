@@ -123,6 +123,10 @@
         404356529
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"afdd94b7eb6a462e2426678644e3717b",
     "wof:hierarchy":[
         {
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":1360673393,
-    "wof:lastmodified":1564125945,
+    "wof:lastmodified":1603247177,
     "wof:name":"Saint-Marcel",
     "wof:parent_id":102067975,
     "wof:placetype":"locality",

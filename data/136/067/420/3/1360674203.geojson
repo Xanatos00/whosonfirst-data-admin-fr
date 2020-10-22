@@ -151,6 +151,11 @@
         404364157
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0e1f04f1b3e3d0b6dcc310e9e50eff44",
     "wof:hierarchy":[
         {
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":1360674203,
-    "wof:lastmodified":1564126682,
+    "wof:lastmodified":1603247280,
     "wof:name":"Champcella",
     "wof:parent_id":102064431,
     "wof:placetype":"locality",

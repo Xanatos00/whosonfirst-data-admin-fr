@@ -139,6 +139,11 @@
         404353995
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0ba05568d7866fcac8dab3ac01655412",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360673137,
-    "wof:lastmodified":1564126405,
+    "wof:lastmodified":1603247241,
     "wof:name":"Maray",
     "wof:parent_id":102065971,
     "wof:placetype":"locality",

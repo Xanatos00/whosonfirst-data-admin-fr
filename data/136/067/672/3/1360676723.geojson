@@ -141,6 +141,10 @@
         404389985
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6ac5c4a89076b3ba836eaf801918c053",
     "wof:hierarchy":[
         {
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1360676723,
-    "wof:lastmodified":1564125991,
+    "wof:lastmodified":1603247183,
     "wof:name":"Les Rives",
     "wof:parent_id":102065693,
     "wof:placetype":"locality",

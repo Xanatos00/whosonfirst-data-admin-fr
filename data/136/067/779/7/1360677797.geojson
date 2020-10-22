@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683153,
         102191581,
-        85633147,
-        404401567,
         404228195,
+        404401567,
+        85633147,
         1108826389,
         136253037,
         102068489
@@ -63,6 +63,10 @@
         404401567
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"742ee27ef32fef8e7ae4976caaba9741",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677797,
-    "wof:lastmodified":1539928893,
+    "wof:lastmodified":1603247243,
     "wof:name":"Beard-Geovreissiat",
     "wof:parent_id":102068489,
     "wof:placetype":"locality",

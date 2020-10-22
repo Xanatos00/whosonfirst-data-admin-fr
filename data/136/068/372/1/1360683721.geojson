@@ -9,7 +9,7 @@
     "geom:bbox":"3.797857,46.006501,3.797857,46.006501",
     "geom:latitude":46.006501,
     "geom:longitude":3.797857,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.006501,
     "lbl:longitude":3.797857,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683721,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247121,
     "wof:name":"La Loge-des-Gardes",
     "wof:parent_id":404398319,
     "wof:placetype":"neighbourhood",

@@ -140,6 +140,11 @@
         404361797
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6935a139762c7704d5ce9245a5e5d157",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360673985,
-    "wof:lastmodified":1564125895,
+    "wof:lastmodified":1603247170,
     "wof:name":"Rouet",
     "wof:parent_id":102070135,
     "wof:placetype":"locality",

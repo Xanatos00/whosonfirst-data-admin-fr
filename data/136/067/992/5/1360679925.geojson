@@ -140,6 +140,11 @@
         404423339
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3aef0846dbb00cf084e056c7f608314c",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360679925,
-    "wof:lastmodified":1564126470,
+    "wof:lastmodified":1603247251,
     "wof:name":"Lagardelle",
     "wof:parent_id":102068543,
     "wof:placetype":"locality",

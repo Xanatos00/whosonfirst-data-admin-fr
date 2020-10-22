@@ -9,7 +9,7 @@
     "geom:bbox":"-2.721991,48.542409,-2.721991,48.542409",
     "geom:latitude":48.542409,
     "geom:longitude":-2.721991,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":48.542409,
     "lbl:longitude":-2.721991,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683091,
-    "wof:lastmodified":1539986839,
+    "wof:lastmodified":1603247033,
     "wof:name":"St.-Laurent-de-la-Mer",
     "wof:parent_id":404384279,
     "wof:placetype":"neighbourhood",

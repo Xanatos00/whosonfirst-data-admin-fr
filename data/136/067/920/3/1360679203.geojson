@@ -125,6 +125,11 @@
         404415295
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"75a326f404786b0c391e412e47f96916",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360679203,
-    "wof:lastmodified":1564126910,
+    "wof:lastmodified":1603247309,
     "wof:name":"La Villeneuve",
     "wof:parent_id":102066599,
     "wof:placetype":"locality",

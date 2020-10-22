@@ -62,6 +62,10 @@
         404367871
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"345432cb321650d8167ad14a4133e609",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674599,
-    "wof:lastmodified":1539928838,
+    "wof:lastmodified":1603247299,
     "wof:name":"Saint-Valerien",
     "wof:parent_id":102065865,
     "wof:placetype":"locality",

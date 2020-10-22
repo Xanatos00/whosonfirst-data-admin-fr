@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683413,
         102191581,
-        85633147,
-        404365571,
         404227891,
+        404365571,
+        85633147,
         1108826389,
         136253037,
         102065703
@@ -63,6 +63,10 @@
         404365571
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f0a8703339f58586af5498ca85cf09ad",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674373,
-    "wof:lastmodified":1539928833,
+    "wof:lastmodified":1603247208,
     "wof:name":"Saint-Julien-D'Ance",
     "wof:parent_id":102065703,
     "wof:placetype":"locality",

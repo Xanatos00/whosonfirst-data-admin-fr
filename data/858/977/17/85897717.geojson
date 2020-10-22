@@ -9,7 +9,6 @@
     "geom:bbox":"7.746545,48.581385,7.746545,48.581385",
     "geom:latitude":48.581385,
     "geom:longitude":7.746545,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.581385,
     "lbl:longitude":7.746545,
@@ -102,10 +101,7 @@
         }
     ],
     "wof:id":85897717,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322803,
+    "wof:lastmodified":1603246972,
     "wof:name":"Centre",
     "wof:parent_id":101751113,
     "wof:placetype":"neighbourhood",

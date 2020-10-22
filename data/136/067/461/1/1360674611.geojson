@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404367943,
         404227869,
+        404367943,
+        85633147,
         1108826385,
         136253037,
         102068589
@@ -68,6 +68,11 @@
         404367943
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6c6cb4bf2f05589eb29594d9ccf809bc",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360674611,
-    "wof:lastmodified":1539928838,
+    "wof:lastmodified":1603247299,
     "wof:name":"Camblanes-Et-Meynac",
     "wof:parent_id":102068589,
     "wof:placetype":"locality",

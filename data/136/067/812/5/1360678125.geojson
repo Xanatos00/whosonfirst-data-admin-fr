@@ -62,6 +62,10 @@
         404404961
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"672ce8bdef22f9e848d97a232a377de2",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360678125,
-    "wof:lastmodified":1539928898,
+    "wof:lastmodified":1603247276,
     "wof:name":"Saint-Ouen-En-Brie",
     "wof:parent_id":102068419,
     "wof:placetype":"locality",

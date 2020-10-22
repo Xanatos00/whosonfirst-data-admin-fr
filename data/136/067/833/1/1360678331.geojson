@@ -131,6 +131,10 @@
         404407145
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9a5e693ddbd6029b21f73e0d8b3cd75a",
     "wof:hierarchy":[
         {
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":1360678331,
-    "wof:lastmodified":1564126255,
+    "wof:lastmodified":1603247220,
     "wof:name":"Saint-Mars-Vieux-Maisons",
     "wof:parent_id":102066373,
     "wof:placetype":"locality",

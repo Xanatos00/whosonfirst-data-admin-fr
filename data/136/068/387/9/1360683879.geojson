@@ -9,7 +9,7 @@
     "geom:bbox":"1.061922,42.886047,1.061922,42.886047",
     "geom:latitude":42.886047,
     "geom:longitude":1.061922,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.886047,
     "lbl:longitude":1.061922,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683879,
-    "wof:lastmodified":1539986849,
+    "wof:lastmodified":1603247116,
     "wof:name":"Ayet",
     "wof:parent_id":404349437,
     "wof:placetype":"neighbourhood",

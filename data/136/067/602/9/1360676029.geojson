@@ -62,6 +62,10 @@
         404382263
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bf370e901814c90d25f43e1a02a16b77",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360676029,
-    "wof:lastmodified":1539928862,
+    "wof:lastmodified":1603247207,
     "wof:name":"Chateauneuf-Villevieille",
     "wof:parent_id":102065505,
     "wof:placetype":"locality",

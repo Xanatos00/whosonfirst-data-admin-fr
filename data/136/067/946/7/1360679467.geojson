@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683293,
         102191581,
-        85633147,
-        404418283,
         404227801,
+        404418283,
+        85633147,
         1108826389,
         136253037,
         102064703
@@ -63,6 +63,10 @@
         404418283
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b2dbcbed1b665d3fe66a71d099fec3b5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679467,
-    "wof:lastmodified":1539928922,
+    "wof:lastmodified":1603247228,
     "wof:name":"Saint-Germain-De-Salles",
     "wof:parent_id":102064703,
     "wof:placetype":"locality",

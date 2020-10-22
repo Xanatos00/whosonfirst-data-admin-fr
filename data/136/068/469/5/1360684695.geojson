@@ -9,7 +9,7 @@
     "geom:bbox":"-1.374997,43.9040395,-1.374997,43.9040395",
     "geom:latitude":43.90404,
     "geom:longitude":-1.374997,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.90404,
     "lbl:longitude":-1.374997,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684695,
-    "wof:lastmodified":1539986860,
+    "wof:lastmodified":1603247102,
     "wof:name":"Pichel\u00e8be",
     "wof:parent_id":404375093,
     "wof:placetype":"neighbourhood",

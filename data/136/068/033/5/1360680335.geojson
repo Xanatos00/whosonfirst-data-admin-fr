@@ -113,6 +113,11 @@
         404427443
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"db5155fa34056cb6bfd8609ff4253292",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360680335,
-    "wof:lastmodified":1564125675,
+    "wof:lastmodified":1603247108,
     "wof:name":"Narcy",
     "wof:parent_id":102065759,
     "wof:placetype":"locality",

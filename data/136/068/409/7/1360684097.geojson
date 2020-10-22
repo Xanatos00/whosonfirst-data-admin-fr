@@ -9,7 +9,7 @@
     "geom:bbox":"5.802497,44.701971,5.802497,44.701971",
     "geom:latitude":44.701971,
     "geom:longitude":5.802497,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.701971,
     "lbl:longitude":5.802497,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684097,
-    "wof:lastmodified":1539986852,
+    "wof:lastmodified":1603247062,
     "wof:name":"Les Granges des For\u00eats",
     "wof:parent_id":404400571,
     "wof:placetype":"neighbourhood",

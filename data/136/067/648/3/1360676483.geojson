@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683445,
         102191581,
-        85633147,
-        404387493,
         404227715,
+        404387493,
+        85633147,
         1108826399,
         136253037,
         102071803
@@ -63,6 +63,10 @@
         404387493
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b1f293f044cf948778f863092fad9f31",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676483,
-    "wof:lastmodified":1539928870,
+    "wof:lastmodified":1603247286,
     "wof:name":"Moustier-En-Fagne",
     "wof:parent_id":102071803,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404427197,
         404228129,
+        404427197,
+        85633147,
         1108826393,
         136253037,
         102067717
@@ -63,6 +63,10 @@
         404427197
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6ccaae0c959f2f822aa7b6da2156195e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680315,
-    "wof:lastmodified":1539928936,
+    "wof:lastmodified":1603247061,
     "wof:name":"Saint-Michel-Tuboeuf",
     "wof:parent_id":102067717,
     "wof:placetype":"locality",

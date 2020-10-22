@@ -307,13 +307,13 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633147,
-        102065249,
-        136253037,
-        404397739,
-        101769251,
         404227745,
+        404397739,
+        85633147,
         1108826389,
+        101769251,
+        136253037,
+        102065249,
         85683265
     ],
     "wof:breaches":[],
@@ -343,10 +343,7 @@
         }
     ],
     "wof:id":1360696877,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247132,
     "wof:name":"Beaufort",
     "wof:parent_id":404397739,
     "wof:placetype":"neighbourhood",

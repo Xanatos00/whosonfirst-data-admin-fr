@@ -93,6 +93,10 @@
         404427569
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d056c75f7d18af894a86895ae8c16a5e",
     "wof:hierarchy":[
         {
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1360680349,
-    "wof:lastmodified":1564125671,
+    "wof:lastmodified":1603247107,
     "wof:name":"Remy",
     "wof:parent_id":102071393,
     "wof:placetype":"locality",

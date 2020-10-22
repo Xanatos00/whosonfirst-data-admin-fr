@@ -9,7 +9,7 @@
     "geom:bbox":"0.3825,42.798833,0.3825,42.798833",
     "geom:latitude":42.798833,
     "geom:longitude":0.3825,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.798833,
     "lbl:longitude":0.3825,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686151,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247096,
     "wof:name":"Val Louron",
     "wof:parent_id":404362711,
     "wof:placetype":"neighbourhood",

@@ -155,6 +155,11 @@
         404363431
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2ece8a5289df209831ab71364398e5f3",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360674131,
-    "wof:lastmodified":1564126045,
+    "wof:lastmodified":1603247192,
     "wof:name":"Le Fournet",
     "wof:parent_id":102066141,
     "wof:placetype":"locality",

@@ -130,6 +130,11 @@
         404350581
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2322bc1fe651d5c2b0dee9b2cecd97fe",
     "wof:hierarchy":[
         {
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":1360672827,
-    "wof:lastmodified":1564126690,
+    "wof:lastmodified":1603247281,
     "wof:name":"Beaujeu",
     "wof:parent_id":102066335,
     "wof:placetype":"locality",

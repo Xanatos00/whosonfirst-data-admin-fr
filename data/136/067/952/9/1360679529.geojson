@@ -143,6 +143,11 @@
         404419233
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"14a3bce5312fe14cc79c2ff52b38321a",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360679529,
-    "wof:lastmodified":1564125967,
+    "wof:lastmodified":1603247180,
     "wof:name":"Athos-Aspis",
     "wof:parent_id":102070865,
     "wof:placetype":"locality",

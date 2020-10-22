@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683445,
         102191581,
-        85633147,
-        404401377,
         404227715,
+        404401377,
+        85633147,
         1108826399,
         136253037,
         102071309
@@ -63,6 +63,10 @@
         404401377
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"15d75b790110ba2e534716b98ed682e7",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677783,
-    "wof:lastmodified":1539928892,
+    "wof:lastmodified":1603247231,
     "wof:name":"Gognies-Chaussee",
     "wof:parent_id":102071309,
     "wof:placetype":"locality",

@@ -106,6 +106,11 @@
         404358841
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b0dee89c16f572e01529beb53bb35c6a",
     "wof:hierarchy":[
         {
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":1360673643,
-    "wof:lastmodified":1564125986,
+    "wof:lastmodified":1603247182,
     "wof:name":"Santenay",
     "wof:parent_id":102065235,
     "wof:placetype":"locality",

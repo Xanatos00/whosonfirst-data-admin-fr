@@ -136,6 +136,11 @@
         404422833
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f6650421dd6af5d8b3026ad6290fe1aa",
     "wof:hierarchy":[
         {
@@ -150,7 +155,7 @@
         }
     ],
     "wof:id":1360679867,
-    "wof:lastmodified":1564127051,
+    "wof:lastmodified":1603247328,
     "wof:name":"Coinces",
     "wof:parent_id":102069499,
     "wof:placetype":"locality",

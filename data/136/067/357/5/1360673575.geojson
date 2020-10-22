@@ -116,6 +116,11 @@
         404358169
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"67b6dafe17e521797a1afacf617a90ff",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360673575,
-    "wof:lastmodified":1564126475,
+    "wof:lastmodified":1603247251,
     "wof:name":"Escamps",
     "wof:parent_id":102066803,
     "wof:placetype":"locality",

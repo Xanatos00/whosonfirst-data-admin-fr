@@ -140,6 +140,11 @@
         404351965
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bb6daefa0e07175b1ddb37aea2d1398e",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360672959,
-    "wof:lastmodified":1564126174,
+    "wof:lastmodified":1603247209,
     "wof:name":"Petitmagny",
     "wof:parent_id":102064879,
     "wof:placetype":"locality",

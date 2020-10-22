@@ -119,6 +119,11 @@
         404350053
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0c5efafd77ecc02fe3a83363b6cf1d4f",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360672761,
-    "wof:lastmodified":1564126686,
+    "wof:lastmodified":1603247280,
     "wof:name":"Beaucaire",
     "wof:parent_id":102069487,
     "wof:placetype":"locality",

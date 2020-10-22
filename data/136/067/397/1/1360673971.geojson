@@ -152,6 +152,11 @@
         404361739
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ce7ec871753e2466bc158578e22b2ab1",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360673971,
-    "wof:lastmodified":1564125970,
+    "wof:lastmodified":1603247181,
     "wof:name":"Hellimer",
     "wof:parent_id":102066941,
     "wof:placetype":"locality",

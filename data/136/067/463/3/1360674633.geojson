@@ -114,6 +114,11 @@
         404368237
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e60466c480e016e33a7fc0b33cb4b413",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360674633,
-    "wof:lastmodified":1564126184,
+    "wof:lastmodified":1603247210,
     "wof:name":"Sainte-Anne",
     "wof:parent_id":102069493,
     "wof:placetype":"locality",

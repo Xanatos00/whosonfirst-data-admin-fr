@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683203,
         102191581,
-        85633147,
-        404358063,
         404227729,
+        404358063,
+        85633147,
         1108826387,
         136253037,
         102066445
@@ -68,6 +68,11 @@
         404358063
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3c52a2feac33e4ef154ae28249efb74d",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673561,
-    "wof:lastmodified":1539928814,
+    "wof:lastmodified":1603247258,
     "wof:name":"Germs-Sur-L'Oussouet",
     "wof:parent_id":102066445,
     "wof:placetype":"locality",

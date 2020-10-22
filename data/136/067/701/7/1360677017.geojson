@@ -142,6 +142,11 @@
         404392389
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b17c27609e8692c0289076970ed945b3",
     "wof:hierarchy":[
         {
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":1360677017,
-    "wof:lastmodified":1564125869,
+    "wof:lastmodified":1603247167,
     "wof:name":"Carcheto-Brustico",
     "wof:parent_id":102070777,
     "wof:placetype":"locality",

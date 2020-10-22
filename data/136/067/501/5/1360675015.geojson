@@ -134,6 +134,11 @@
         404372391
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"99d26ef74b839aac47f689bbd471a910",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360675015,
-    "wof:lastmodified":1564126472,
+    "wof:lastmodified":1603247251,
     "wof:name":"Auterive",
     "wof:parent_id":102064649,
     "wof:placetype":"locality",

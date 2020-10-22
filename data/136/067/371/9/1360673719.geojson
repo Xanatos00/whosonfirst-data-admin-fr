@@ -134,6 +134,11 @@
         404359739
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d383accc798eb2828143daf002066709",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360673719,
-    "wof:lastmodified":1564126366,
+    "wof:lastmodified":1603247235,
     "wof:name":"Revel",
     "wof:parent_id":102069015,
     "wof:placetype":"locality",

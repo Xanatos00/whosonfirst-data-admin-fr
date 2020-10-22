@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404407717,
         404227963,
+        404407717,
+        85633147,
         1108826393,
         136253037,
         102065331
@@ -63,6 +63,10 @@
         404407717
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"45d907ef6c14c9f455bb6559ab6bac8a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678381,
-    "wof:lastmodified":1539928903,
+    "wof:lastmodified":1603247288,
     "wof:name":"Bernieres",
     "wof:parent_id":102065331,
     "wof:placetype":"locality",

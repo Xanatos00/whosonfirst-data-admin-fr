@@ -112,6 +112,11 @@
         404381201
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d19f342b88795c3f5e7c8ff220e3afee",
     "wof:hierarchy":[
         {
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":1360675929,
-    "wof:lastmodified":1564125909,
+    "wof:lastmodified":1603247172,
     "wof:name":"Lisle",
     "wof:parent_id":102066877,
     "wof:placetype":"locality",

@@ -144,6 +144,10 @@
         404405763
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1a3a8fb075170ee109184719b5ab09a4",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360678223,
-    "wof:lastmodified":1564126734,
+    "wof:lastmodified":1603247286,
     "wof:name":"Saint-Pardoux-Morterolles",
     "wof:parent_id":102068335,
     "wof:placetype":"locality",

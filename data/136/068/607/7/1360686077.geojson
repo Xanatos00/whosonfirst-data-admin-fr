@@ -9,7 +9,7 @@
     "geom:bbox":"-0.248039,49.279508,-0.248039,49.279508",
     "geom:latitude":49.279508,
     "geom:longitude":-0.248039,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.279508,
     "lbl:longitude":-0.248039,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686077,
-    "wof:lastmodified":1539986878,
+    "wof:lastmodified":1603247111,
     "wof:name":"Pointe du Si\u00e8ge",
     "wof:parent_id":404379107,
     "wof:placetype":"neighbourhood",

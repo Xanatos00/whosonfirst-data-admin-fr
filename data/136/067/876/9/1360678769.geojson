@@ -122,6 +122,11 @@
         404410879
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8ef62eb6dfb3cac3ed4ce2a4f2a75ce0",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360678769,
-    "wof:lastmodified":1564126666,
+    "wof:lastmodified":1603247277,
     "wof:name":"Vauville",
     "wof:parent_id":102069373,
     "wof:placetype":"locality",

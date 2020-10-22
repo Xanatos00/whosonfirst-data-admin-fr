@@ -108,6 +108,10 @@
         404417895
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"aa6aae825aa736f30cb4e8936ecb75e4",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360679433,
-    "wof:lastmodified":1564127028,
+    "wof:lastmodified":1603247325,
     "wof:name":"Saint-Amand",
     "wof:parent_id":102064457,
     "wof:placetype":"locality",

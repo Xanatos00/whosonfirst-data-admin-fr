@@ -388,7 +388,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"8575",
     "statoids:as_of_date":"2010-01-01",
     "statoids:capital":"M\u00e2con",
@@ -435,7 +435,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1588976241,
+    "wof:lastmodified":1603246956,
     "wof:name":"Sa\u00f4ne-et-Loire",
     "wof:parent_id":1108826395,
     "wof:placetype":"region",

@@ -62,6 +62,10 @@
         404371175
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"70791d98547344ed8a6b0f90ce33f359",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360674867,
-    "wof:lastmodified":1539928842,
+    "wof:lastmodified":1603247277,
     "wof:name":"Sainte-Croix-A-Lauze",
     "wof:parent_id":102068115,
     "wof:placetype":"locality",

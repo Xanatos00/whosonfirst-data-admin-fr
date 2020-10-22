@@ -9,7 +9,7 @@
     "geom:bbox":"5.440105,49.1864845,5.440105,49.1864845",
     "geom:latitude":49.186484,
     "geom:longitude":5.440105,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.186484,
     "lbl:longitude":5.440105,
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1360686509,
-    "wof:lastmodified":1539986884,
+    "wof:lastmodified":1603247067,
     "wof:name":"Fort de Tavannes",
     "wof:parent_id":-4,
     "wof:placetype":"neighbourhood",

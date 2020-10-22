@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404371313,
         404228071,
+        404371313,
+        85633147,
         1108826385,
         136253037,
         102070437
@@ -63,6 +63,10 @@
         404371313
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"92b95bb2ed8a956d75e87aa6cd726ef8",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674877,
-    "wof:lastmodified":1539928842,
+    "wof:lastmodified":1603247282,
     "wof:name":"Saint-Antoine-Du-Queyret",
     "wof:parent_id":102070437,
     "wof:placetype":"locality",

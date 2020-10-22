@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683381,
         102191581,
-        85633147,
-        404419193,
         404227733,
+        404419193,
+        85633147,
         1108826391,
         136253037,
         102066053
@@ -77,6 +77,11 @@
         404419193
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6fbb2edd9607729dfed7cfcaefc505f2",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360679527,
-    "wof:lastmodified":1539928923,
+    "wof:lastmodified":1603247180,
     "wof:name":"Seppois-Le-Haut",
     "wof:parent_id":102066053,
     "wof:placetype":"locality",

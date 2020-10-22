@@ -149,6 +149,10 @@
         404347467
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"de7a803b4d09f7d87b2061660c8b2ee2",
     "wof:hierarchy":[
         {
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":1360672557,
-    "wof:lastmodified":1564126865,
+    "wof:lastmodified":1603247303,
     "wof:name":"Le Chaffaut-Saint-Jurson",
     "wof:parent_id":102070011,
     "wof:placetype":"locality",

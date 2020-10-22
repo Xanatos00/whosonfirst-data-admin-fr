@@ -9,7 +9,7 @@
     "geom:bbox":"-1.618723,43.262442,-1.618723,43.262442",
     "geom:latitude":43.262442,
     "geom:longitude":-1.618723,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.262442,
     "lbl:longitude":-1.618723,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684945,
-    "wof:lastmodified":1539986864,
+    "wof:lastmodified":1603247102,
     "wof:name":"Dornaku",
     "wof:parent_id":404356241,
     "wof:placetype":"neighbourhood",

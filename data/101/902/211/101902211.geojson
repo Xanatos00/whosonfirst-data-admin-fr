@@ -9,7 +9,7 @@
     "geom:bbox":"2.18321899977,49.7214411918,2.24004497264,49.7532198692",
     "geom:latitude":49.737038,
     "geom:longitude":2.212582,
-    "geonames:id":"3005180,6620183",
+    "gn:id":"3005180,6620183",
     "gn:population":290,
     "iso:country":"FR",
     "lbl:latitude":49.738788,
@@ -354,7 +354,7 @@
         }
     ],
     "wof:id":101902211,
-    "wof:lastmodified":1582323482,
+    "wof:lastmodified":1603247832,
     "wof:name":"Bosquel",
     "wof:parent_id":404421135,
     "wof:placetype":"locality",

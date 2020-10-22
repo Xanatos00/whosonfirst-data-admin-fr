@@ -128,6 +128,11 @@
         404364757
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7e99501a0b28ff7ad37bf3ea40cc90c9",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360674263,
-    "wof:lastmodified":1564126601,
+    "wof:lastmodified":1603247268,
     "wof:name":"Bellegarde",
     "wof:parent_id":102070635,
     "wof:placetype":"locality",

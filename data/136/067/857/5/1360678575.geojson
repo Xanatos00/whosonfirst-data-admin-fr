@@ -116,6 +116,11 @@
         404409541
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"080490f45cb03fe968f9272685da8422",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360678575,
-    "wof:lastmodified":1564126167,
+    "wof:lastmodified":1603247208,
     "wof:name":"Serans",
     "wof:parent_id":102065451,
     "wof:placetype":"locality",

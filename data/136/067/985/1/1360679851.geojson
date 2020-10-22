@@ -155,6 +155,11 @@
         404422685
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6ad8bcb367e4383ad7106495b505b19a",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360679851,
-    "wof:lastmodified":1564126388,
+    "wof:lastmodified":1603247239,
     "wof:name":"Tortefontaine",
     "wof:parent_id":102069233,
     "wof:placetype":"locality",

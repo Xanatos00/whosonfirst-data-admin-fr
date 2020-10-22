@@ -146,6 +146,11 @@
         404415039
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c92df6fa88f04c0d300bd1cb7cf5a280",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360679181,
-    "wof:lastmodified":1564126927,
+    "wof:lastmodified":1603247312,
     "wof:name":"Boulleville",
     "wof:parent_id":102065279,
     "wof:placetype":"locality",

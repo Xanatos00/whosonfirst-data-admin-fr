@@ -113,6 +113,11 @@
         404391651
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6f66c480c4381a1f73f12be65b264fba",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360676941,
-    "wof:lastmodified":1564126197,
+    "wof:lastmodified":1603247212,
     "wof:name":"Montjean",
     "wof:parent_id":102069697,
     "wof:placetype":"locality",

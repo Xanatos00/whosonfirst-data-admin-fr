@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683559,
         102191581,
-        85633147,
-        404352301,
         404227951,
+        404352301,
+        85633147,
         1108826395,
         136253037,
         102065717
@@ -63,6 +63,10 @@
         404352301
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9d11aa7f6a9122081d70dce61ad3da3e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672991,
-    "wof:lastmodified":1539928792,
+    "wof:lastmodified":1603247305,
     "wof:name":"Les Baties",
     "wof:parent_id":102065717,
     "wof:placetype":"locality",

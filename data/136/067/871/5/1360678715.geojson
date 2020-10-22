@@ -140,6 +140,11 @@
         404410517
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"761c7cc3114ba4f16eae7de6d75c9d73",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360678715,
-    "wof:lastmodified":1564126674,
+    "wof:lastmodified":1603247279,
     "wof:name":"Culmont",
     "wof:parent_id":102067271,
     "wof:placetype":"locality",

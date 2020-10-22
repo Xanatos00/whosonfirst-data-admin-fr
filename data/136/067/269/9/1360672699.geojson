@@ -67,6 +67,11 @@
         404349391
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bb3d3bcac768ce4869d1d1a178b3e2f8",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360672699,
-    "wof:lastmodified":1539928786,
+    "wof:lastmodified":1603247219,
     "wof:name":"Bonny-Sur-Loire",
     "wof:parent_id":102065041,
     "wof:placetype":"locality",

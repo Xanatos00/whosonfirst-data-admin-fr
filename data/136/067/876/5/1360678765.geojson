@@ -130,6 +130,11 @@
         404410865
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"37603b2bcb6e1e9767873567f058d8aa",
     "wof:hierarchy":[
         {
@@ -145,7 +150,7 @@
         }
     ],
     "wof:id":1360678765,
-    "wof:lastmodified":1564126667,
+    "wof:lastmodified":1603247278,
     "wof:name":"Lieoux",
     "wof:parent_id":102069659,
     "wof:placetype":"locality",

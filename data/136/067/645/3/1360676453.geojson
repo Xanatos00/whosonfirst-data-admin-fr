@@ -110,6 +110,11 @@
         404387259
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1322aaf34db5c8a58bb814a15a746049",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360676453,
-    "wof:lastmodified":1564126060,
+    "wof:lastmodified":1603247193,
     "wof:name":"Quincey",
     "wof:parent_id":102069155,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404409575,
         404228267,
+        404409575,
+        85633147,
         1108826399,
         136253037,
         102070349
@@ -63,6 +63,10 @@
         404409575
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"38542d94533d820610891c07e105868b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678579,
-    "wof:lastmodified":1539928906,
+    "wof:lastmodified":1603247208,
     "wof:name":"Eterpigny",
     "wof:parent_id":102070349,
     "wof:placetype":"locality",

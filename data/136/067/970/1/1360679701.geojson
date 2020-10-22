@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404421029,
         404228031,
+        404421029,
+        85633147,
         1108826393,
         136253037,
         102068629
@@ -82,6 +82,11 @@
         404421029
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"78246e037236d426834d166363ca648a",
     "wof:hierarchy":[
         {
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":1360679701,
-    "wof:lastmodified":1539928926,
+    "wof:lastmodified":1603247226,
     "wof:name":"Sainte-Foy-De-Montgommery",
     "wof:parent_id":102068629,
     "wof:placetype":"locality",

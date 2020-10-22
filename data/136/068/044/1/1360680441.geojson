@@ -118,6 +118,11 @@
         404428583
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c3cc3357fd75ef95f4695cf76efe4086",
     "wof:hierarchy":[
         {
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":1360680441,
-    "wof:lastmodified":1564125610,
+    "wof:lastmodified":1603247095,
     "wof:name":"Allainville",
     "wof:parent_id":102069381,
     "wof:placetype":"locality",

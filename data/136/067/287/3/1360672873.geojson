@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683523,
         102191581,
-        85633147,
-        404351007,
         404227639,
+        404351007,
+        85633147,
         1108826389,
         136253037,
         102068339
@@ -63,6 +63,10 @@
         404351007
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6b87a90588a589346c5565cace1f98d2",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672873,
-    "wof:lastmodified":1539928789,
+    "wof:lastmodified":1603247191,
     "wof:name":"Veronne",
     "wof:parent_id":102068339,
     "wof:placetype":"locality",

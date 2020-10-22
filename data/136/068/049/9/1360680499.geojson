@@ -136,6 +136,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526510347,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"7650253a9d4d7eb3688ef0a5272eb8d0",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":1360680499,
-    "wof:lastmodified":1564125428,
+    "wof:lastmodified":1603247053,
     "wof:name":"L'\u00cele-Saint-Denis",
     "wof:parent_id":102069739,
     "wof:placetype":"locality",

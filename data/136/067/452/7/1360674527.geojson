@@ -57,9 +57,9 @@
     "wof:belongsto":[
         85683169,
         102191581,
-        85633147,
-        404367239,
         404227731,
+        404367239,
+        85633147,
         1108826387,
         136253037,
         102067771
@@ -74,6 +74,11 @@
         404367239
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0d9d81646af2f5e02f75f77802368c2e",
     "wof:hierarchy":[
         {
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":1360674527,
-    "wof:lastmodified":1558547718,
+    "wof:lastmodified":1603247212,
     "wof:name":"Banyuls-Sur-Mer",
     "wof:parent_id":404367239,
     "wof:placetype":"locality",

@@ -122,6 +122,11 @@
         404388995
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"49f1c5e6603dc421dc7f8710134fefc0",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360676611,
-    "wof:lastmodified":1564126264,
+    "wof:lastmodified":1603247221,
     "wof:name":"Fourques",
     "wof:parent_id":102065911,
     "wof:placetype":"locality",

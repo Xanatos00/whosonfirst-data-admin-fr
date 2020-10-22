@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683453,
         102191581,
-        85633147,
-        404350665,
         404227903,
+        404350665,
+        85633147,
         1108826387,
         136253037,
         102068765
@@ -83,6 +83,11 @@
         404350665
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c6a0e57ee3fd25e6f66d40a29a3d4898",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360672847,
-    "wof:lastmodified":1539928789,
+    "wof:lastmodified":1603247269,
     "wof:name":"Pied-De-Borne",
     "wof:parent_id":102068765,
     "wof:placetype":"locality",

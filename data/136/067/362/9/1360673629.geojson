@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404358755,
         404227635,
+        404358755,
+        85633147,
         1108826385,
         136253037,
         102066421
@@ -68,6 +68,11 @@
         404358755
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1e9a071d8181b280206ce31951b74c6d",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673629,
-    "wof:lastmodified":1539928817,
+    "wof:lastmodified":1603247168,
     "wof:name":"Razac-D'Eymet",
     "wof:parent_id":102066421,
     "wof:placetype":"locality",

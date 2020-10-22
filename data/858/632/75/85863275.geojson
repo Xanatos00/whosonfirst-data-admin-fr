@@ -9,7 +9,6 @@
     "geom:bbox":"-0.589813,44.769045,-0.589813,44.769045",
     "geom:latitude":44.769045,
     "geom:longitude":-0.589813,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":44.769045,
     "lbl:longitude":-0.589813,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85863275,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322802,
+    "wof:lastmodified":1603246971,
     "wof:name":"Chambery",
     "wof:parent_id":101749353,
     "wof:placetype":"neighbourhood",

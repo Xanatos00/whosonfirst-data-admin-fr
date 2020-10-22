@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683363,
         102191581,
-        85633147,
-        404377131,
         404227973,
+        404377131,
+        85633147,
         1108826399,
         136253037,
         102071131
@@ -77,6 +77,11 @@
         404377131
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1e077275c1dcaeff1a6ef77170138d88",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360675513,
-    "wof:lastmodified":1539928853,
+    "wof:lastmodified":1603247160,
     "wof:name":"Molliens-Au-Bois",
     "wof:parent_id":102071131,
     "wof:placetype":"locality",

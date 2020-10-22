@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404351299,
         404228015,
+        404351299,
+        85633147,
         1108826389,
         136253037,
         102066135
@@ -63,6 +63,10 @@
         404351299
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c36b1c77b41636effe998dacb36fd42e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672901,
-    "wof:lastmodified":1539928790,
+    "wof:lastmodified":1603247301,
     "wof:name":"Nozieres",
     "wof:parent_id":102066135,
     "wof:placetype":"locality",

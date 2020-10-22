@@ -9,7 +9,7 @@
     "geom:bbox":"-1.00662,43.74431,-1.00662,43.74431",
     "geom:latitude":43.74431,
     "geom:longitude":-1.00662,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.74431,
     "lbl:longitude":-1.00662,
@@ -40,7 +40,6 @@
     "woe:name_adm1":"Aquitaine",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85683183,
         102191581,
         404227673,
         404421589,
@@ -48,7 +47,8 @@
         1108826385,
         101830391,
         136253037,
-        102069627
+        102069627,
+        85683183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1126088747,
-    "wof:lastmodified":1509411534,
+    "wof:lastmodified":1603249052,
     "wof:name":"St.-Vincent-de-Paul",
     "wof:parent_id":101830391,
     "wof:placetype":"neighbourhood",

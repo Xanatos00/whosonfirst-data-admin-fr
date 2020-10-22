@@ -167,6 +167,11 @@
         404388199
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2e6f90a313e4f12f73c7f9cbd48eace0",
     "wof:hierarchy":[
         {
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":1360676543,
-    "wof:lastmodified":1564126844,
+    "wof:lastmodified":1603247300,
     "wof:name":"Westhouse-Marmoutier",
     "wof:parent_id":102066773,
     "wof:placetype":"locality",

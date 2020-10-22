@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683221,
         102191581,
-        85633147,
-        404403373,
         404228315,
+        404403373,
+        85633147,
         1108826391,
         136253037,
         102069065
@@ -63,6 +63,10 @@
         404403373
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9e5389c8b9768cee8f2cb78a100ccdc5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677991,
-    "wof:lastmodified":1539928896,
+    "wof:lastmodified":1603247164,
     "wof:name":"Schaffhouse-Pres-Seltz",
     "wof:parent_id":102069065,
     "wof:placetype":"locality",

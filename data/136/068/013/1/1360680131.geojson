@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683255,
         102191581,
-        85633147,
-        404425549,
         404228285,
+        404425549,
+        85633147,
         1108826399,
         136253037,
         102068695
@@ -63,6 +63,10 @@
         404425549
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"18b34dddf5ad26eecb21cd93aacd4031",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680131,
-    "wof:lastmodified":1539928933,
+    "wof:lastmodified":1603247049,
     "wof:name":"Saint-Martin-D'Hardinghem",
     "wof:parent_id":102068695,
     "wof:placetype":"locality",

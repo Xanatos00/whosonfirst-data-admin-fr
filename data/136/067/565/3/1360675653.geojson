@@ -108,6 +108,10 @@
         404378751
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e258ffa2964a8d7c2f2204d4656e4b64",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360675653,
-    "wof:lastmodified":1564126568,
+    "wof:lastmodified":1603247264,
     "wof:name":"Saint-Maur",
     "wof:parent_id":102066305,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404365715,
         404227695,
+        404365715,
+        85633147,
         1108826393,
         136253037,
         102068719
@@ -63,6 +63,10 @@
         404365715
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0a55e48a7838648491435f9e09e7dd93",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674399,
-    "wof:lastmodified":1539928833,
+    "wof:lastmodified":1603247206,
     "wof:name":"Saint-Clement-Rancoudray",
     "wof:parent_id":102068719,
     "wof:placetype":"locality",

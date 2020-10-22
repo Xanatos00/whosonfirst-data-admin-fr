@@ -149,6 +149,11 @@
         404369969
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"93814f3f3d5680507baa5842c780154f",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360674769,
-    "wof:lastmodified":1564126015,
+    "wof:lastmodified":1603247187,
     "wof:name":"Jaure",
     "wof:parent_id":102069863,
     "wof:placetype":"locality",

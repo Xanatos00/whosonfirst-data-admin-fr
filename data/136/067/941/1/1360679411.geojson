@@ -128,6 +128,11 @@
         404417669
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dbe43027f9b373ac6eb1378e057c7deb",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360679411,
-    "wof:lastmodified":1564126321,
+    "wof:lastmodified":1603247229,
     "wof:name":"Rocquigny",
     "wof:parent_id":102066259,
     "wof:placetype":"locality",

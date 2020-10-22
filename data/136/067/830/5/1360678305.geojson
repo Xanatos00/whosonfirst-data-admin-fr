@@ -131,6 +131,11 @@
         404406709
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6416b3fe229230c9a423df79c742917b",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360678305,
-    "wof:lastmodified":1564126821,
+    "wof:lastmodified":1603247297,
     "wof:name":"Castillon",
     "wof:parent_id":102066323,
     "wof:placetype":"locality",

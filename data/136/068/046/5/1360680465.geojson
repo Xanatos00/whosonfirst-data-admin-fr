@@ -138,6 +138,10 @@
         404428747
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"12a96e6b3c8bc1615e5a58603e14ec81",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360680465,
-    "wof:lastmodified":1564125394,
+    "wof:lastmodified":1603247046,
     "wof:name":"Saint-Martin-Lys",
     "wof:parent_id":102069121,
     "wof:placetype":"locality",

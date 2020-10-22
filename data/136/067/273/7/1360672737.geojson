@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404349781,
         404227669,
+        404349781,
+        85633147,
         1108826389,
         136253037,
         102069625
@@ -63,6 +63,10 @@
         404349781
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"26320dd3a78ccc530144a6f7b02ae6ba",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672737,
-    "wof:lastmodified":1539928786,
+    "wof:lastmodified":1603247189,
     "wof:name":"Saint-Laurent-Du-Pont",
     "wof:parent_id":102069625,
     "wof:placetype":"locality",

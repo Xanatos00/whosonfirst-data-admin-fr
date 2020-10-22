@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404386185,
         404227867,
+        404386185,
+        85633147,
         1108826387,
         136253037,
         102068395
@@ -68,6 +68,11 @@
         404386185
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"877fa8100dd5136e5e0eafceb8eb897c",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360676377,
-    "wof:lastmodified":1539928868,
+    "wof:lastmodified":1603247291,
     "wof:name":"Salles-D'Armagnac",
     "wof:parent_id":102068395,
     "wof:placetype":"locality",

@@ -144,6 +144,10 @@
         404390785
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b11fd692268b94328179f201ed77b794",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1360676813,
-    "wof:lastmodified":1564126000,
+    "wof:lastmodified":1603247185,
     "wof:name":"Saint-Geoirs",
     "wof:parent_id":102069083,
     "wof:placetype":"locality",

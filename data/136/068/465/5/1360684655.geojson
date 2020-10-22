@@ -9,7 +9,7 @@
     "geom:bbox":"1.8165205,48.7303645,1.8165205,48.7303645",
     "geom:latitude":48.730365,
     "geom:longitude":1.81652,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.730365,
     "lbl:longitude":1.81652,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684655,
-    "wof:lastmodified":1539986860,
+    "wof:lastmodified":1603247066,
     "wof:name":"Les Petites Yvelines",
     "wof:parent_id":404351999,
     "wof:placetype":"neighbourhood",

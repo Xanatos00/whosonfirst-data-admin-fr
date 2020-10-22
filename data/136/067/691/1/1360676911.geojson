@@ -146,6 +146,11 @@
         404391507
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c8b938a4ccfcc02f2e7c162c3460e4df",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360676911,
-    "wof:lastmodified":1564126822,
+    "wof:lastmodified":1603247297,
     "wof:name":"Chastreix",
     "wof:parent_id":102068285,
     "wof:placetype":"locality",

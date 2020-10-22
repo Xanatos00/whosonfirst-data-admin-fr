@@ -140,6 +140,11 @@
         404386463
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3636484632c171c83c20400dfa44a8f2",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360676395,
-    "wof:lastmodified":1564126801,
+    "wof:lastmodified":1603247295,
     "wof:name":"Chancia",
     "wof:parent_id":102067309,
     "wof:placetype":"locality",

@@ -124,6 +124,11 @@
         404425761
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"41cfdc023e885942317b9152ca3e192a",
     "wof:hierarchy":[
         {
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":1360680153,
-    "wof:lastmodified":1564125381,
+    "wof:lastmodified":1603247044,
     "wof:name":"Villiers",
     "wof:parent_id":102066997,
     "wof:placetype":"locality",

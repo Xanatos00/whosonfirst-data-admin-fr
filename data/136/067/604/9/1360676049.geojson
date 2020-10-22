@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404382337,
         404227831,
+        404382337,
+        85633147,
         1108826385,
         136253037,
         102068581
@@ -63,6 +63,10 @@
         404382337
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9a2568742e954deff96a795e95fa4fb9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676049,
-    "wof:lastmodified":1539928862,
+    "wof:lastmodified":1603247214,
     "wof:name":"Montigne",
     "wof:parent_id":102068581,
     "wof:placetype":"locality",

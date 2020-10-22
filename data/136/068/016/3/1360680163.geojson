@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683309,
         102191581,
-        85633147,
-        404425871,
         404227813,
+        404425871,
+        85633147,
         1108826391,
         136253037,
         102064307
@@ -63,6 +63,10 @@
         404425871
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f9b19e0c7dc2670e25d1129a535026d7",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680163,
-    "wof:lastmodified":1539928934,
+    "wof:lastmodified":1603247093,
     "wof:name":"L'Ecaille",
     "wof:parent_id":102064307,
     "wof:placetype":"locality",

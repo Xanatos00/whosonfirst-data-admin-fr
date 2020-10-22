@@ -9,7 +9,7 @@
     "geom:bbox":"1.4365855,42.899924,1.4365855,42.899924",
     "geom:latitude":42.899924,
     "geom:longitude":1.436586,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.899924,
     "lbl:longitude":1.436586,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683663,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247079,
     "wof:name":"Rieupr\u00e9gon",
     "wof:parent_id":404390143,
     "wof:placetype":"neighbourhood",

@@ -152,6 +152,11 @@
         404396525
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5196f1e10d73584dbdad8bce570dbb7a",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360677389,
-    "wof:lastmodified":1564125964,
+    "wof:lastmodified":1603247180,
     "wof:name":"Burgaronne",
     "wof:parent_id":102070865,
     "wof:placetype":"locality",

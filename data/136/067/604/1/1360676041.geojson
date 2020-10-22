@@ -104,6 +104,11 @@
         404382297
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e3392c2d9336115d539271087ca98477",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360676041,
-    "wof:lastmodified":1564126212,
+    "wof:lastmodified":1603247214,
     "wof:name":"Lagarrigue",
     "wof:parent_id":102069273,
     "wof:placetype":"locality",

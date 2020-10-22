@@ -147,6 +147,10 @@
         404383951
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a99579e0a2567c67559a3fd63823a3ef",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360676181,
-    "wof:lastmodified":1564126098,
+    "wof:lastmodified":1603247198,
     "wof:name":"Saint-Cibard",
     "wof:parent_id":102070073,
     "wof:placetype":"locality",

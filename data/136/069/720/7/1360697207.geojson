@@ -304,13 +304,13 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633147,
-        102067681,
-        136253037,
-        404417723,
-        101815013,
         404228017,
+        404417723,
+        85633147,
         1108826391,
+        101815013,
+        136253037,
+        102067681,
         85683309
     ],
     "wof:breaches":[],
@@ -339,10 +339,7 @@
         }
     ],
     "wof:id":1360697207,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247159,
     "wof:name":"Mouzon",
     "wof:parent_id":404417723,
     "wof:placetype":"neighbourhood",

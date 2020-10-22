@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404364511,
         404227619,
+        404364511,
+        85633147,
         1108826385,
         136253037,
         102069763
@@ -63,6 +63,10 @@
         404364511
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b80e2e989aa2c0d5362a00b47d7151fc",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674245,
-    "wof:lastmodified":1539928830,
+    "wof:lastmodified":1603247202,
     "wof:name":"Roullet-Saint-Estephe",
     "wof:parent_id":102069763,
     "wof:placetype":"locality",

@@ -106,6 +106,11 @@
         404352643
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a25037198c2b5b6ec157f4885e50d6a6",
     "wof:hierarchy":[
         {
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":1360673013,
-    "wof:lastmodified":1564125930,
+    "wof:lastmodified":1603247175,
     "wof:name":"Sermaise",
     "wof:parent_id":102069943,
     "wof:placetype":"locality",

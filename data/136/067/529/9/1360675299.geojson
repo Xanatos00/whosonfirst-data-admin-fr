@@ -143,6 +143,11 @@
         404375285
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d08a277a42a1b8000abef594e9e61585",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360675299,
-    "wof:lastmodified":1564126386,
+    "wof:lastmodified":1603247238,
     "wof:name":"Ballore",
     "wof:parent_id":102068293,
     "wof:placetype":"locality",

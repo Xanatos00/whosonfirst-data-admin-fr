@@ -135,6 +135,10 @@
         404385505
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"45d03563325ecdd7f0cd7beb5668e934",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360676327,
-    "wof:lastmodified":1564126244,
+    "wof:lastmodified":1603247218,
     "wof:name":"Lassicourt",
     "wof:parent_id":102065213,
     "wof:placetype":"locality",

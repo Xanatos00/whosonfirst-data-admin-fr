@@ -9,7 +9,7 @@
     "geom:bbox":"-4.791712,48.416555,-4.791712,48.416555",
     "geom:latitude":48.416555,
     "geom:longitude":-4.791712,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":48.416555,
     "lbl:longitude":-4.791712,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683461,
-    "wof:lastmodified":1539986844,
+    "wof:lastmodified":1603247067,
     "wof:name":"Ruscumunoc",
     "wof:parent_id":404349105,
     "wof:placetype":"neighbourhood",

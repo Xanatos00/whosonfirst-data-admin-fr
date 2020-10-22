@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683209,
         102191581,
-        85633147,
-        404351725,
         404227625,
+        404351725,
+        85633147,
         1108826385,
         136253037,
         102069609
@@ -63,6 +63,10 @@
         404351725
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ec449aa9ca210739b44be3d89e86422d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672933,
-    "wof:lastmodified":1539928791,
+    "wof:lastmodified":1603247216,
     "wof:name":"Saint-Bonnet-L'Enfantier",
     "wof:parent_id":102069609,
     "wof:placetype":"locality",

@@ -313,13 +313,13 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633147,
-        102070693,
-        136253037,
-        404391383,
-        101761679,
         404228207,
+        404391383,
+        85633147,
         1108826393,
+        101761679,
+        136253037,
+        102070693,
         85683579
     ],
     "wof:breaches":[],
@@ -348,10 +348,7 @@
         }
     ],
     "wof:id":1360696139,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247144,
     "wof:name":"Vassy",
     "wof:parent_id":404391383,
     "wof:placetype":"neighbourhood",

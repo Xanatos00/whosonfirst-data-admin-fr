@@ -143,6 +143,11 @@
         404419999
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"143236120e28fed7282b250856f53af1",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360679619,
-    "wof:lastmodified":1564126460,
+    "wof:lastmodified":1603247249,
     "wof:name":"Aubigny",
     "wof:parent_id":102068737,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"5.3570705,43.5175,5.3570705,43.5175",
     "geom:latitude":43.5175,
     "geom:longitude":5.35707,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.5175,
     "lbl:longitude":5.35707,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683771,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247069,
     "wof:name":"Les Tuili\u00e8res",
     "wof:parent_id":1159322055,
     "wof:placetype":"neighbourhood",

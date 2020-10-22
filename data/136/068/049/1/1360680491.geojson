@@ -125,6 +125,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526508825,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"d5004f0b1a335d98904cd07f16257afc",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":1360680491,
-    "wof:lastmodified":1564125429,
+    "wof:lastmodified":1603247053,
     "wof:name":"Mign\u00e9-Auxances",
     "wof:parent_id":102068303,
     "wof:placetype":"locality",

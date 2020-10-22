@@ -115,6 +115,11 @@
         404394751
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4e0f7a53d9d77639d662f3f4eff74f3b",
     "wof:hierarchy":[
         {
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":1360677237,
-    "wof:lastmodified":1564126392,
+    "wof:lastmodified":1603247239,
     "wof:name":"Le Mesnil-Simon",
     "wof:parent_id":102064381,
     "wof:placetype":"locality",

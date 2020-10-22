@@ -81,6 +81,10 @@
         404374895
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"95a023a697c64ec41139d36cc43dd3af",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1360675261,
-    "wof:lastmodified":1564126314,
+    "wof:lastmodified":1603247228,
     "wof:name":"Noe",
     "wof:parent_id":102071099,
     "wof:placetype":"locality",

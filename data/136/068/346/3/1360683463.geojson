@@ -9,7 +9,7 @@
     "geom:bbox":"5.468444,45.085642,5.468444,45.085642",
     "geom:latitude":45.085642,
     "geom:longitude":5.468444,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.085642,
     "lbl:longitude":5.468444,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683463,
-    "wof:lastmodified":1539986844,
+    "wof:lastmodified":1603247067,
     "wof:name":"La Balme-de-Rencurel",
     "wof:parent_id":404358781,
     "wof:placetype":"neighbourhood",

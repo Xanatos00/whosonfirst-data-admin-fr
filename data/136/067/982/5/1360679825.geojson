@@ -140,6 +140,11 @@
         404422237
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ae2c2a3f1bfdddb67455acdbeb18fafb",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360679825,
-    "wof:lastmodified":1564126396,
+    "wof:lastmodified":1603247240,
     "wof:name":"Bezins-Garraux",
     "wof:parent_id":102069485,
     "wof:placetype":"locality",

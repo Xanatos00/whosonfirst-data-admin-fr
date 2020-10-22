@@ -117,6 +117,10 @@
         404355913
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ca0703ce9be59bc219d29df54f510ad2",
     "wof:hierarchy":[
         {
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1360673341,
-    "wof:lastmodified":1564126560,
+    "wof:lastmodified":1603247263,
     "wof:name":"Saint-Hilaire",
     "wof:parent_id":102064483,
     "wof:placetype":"locality",

@@ -62,6 +62,10 @@
         404360807
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"553ce6e29693afef8384fd187effa58f",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673841,
-    "wof:lastmodified":1539928822,
+    "wof:lastmodified":1603247229,
     "wof:name":"Saint-Martin",
     "wof:parent_id":102064593,
     "wof:placetype":"locality",

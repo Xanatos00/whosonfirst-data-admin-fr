@@ -128,6 +128,11 @@
         404388809
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dd83fa94f609437a0012d423e704ba34",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360676593,
-    "wof:lastmodified":1564126253,
+    "wof:lastmodified":1603247220,
     "wof:name":"Cuzieu",
     "wof:parent_id":102070613,
     "wof:placetype":"locality",

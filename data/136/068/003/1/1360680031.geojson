@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404424609,
         404227635,
+        404424609,
+        85633147,
         1108826385,
         136253037,
         102066421
@@ -63,6 +63,10 @@
         404424609
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5d361b10960d32ab6d1bfe5abdafa8ba",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680031,
-    "wof:lastmodified":1539928931,
+    "wof:lastmodified":1603247101,
     "wof:name":"Saint-Capraise-D'Eymet",
     "wof:parent_id":102066421,
     "wof:placetype":"locality",

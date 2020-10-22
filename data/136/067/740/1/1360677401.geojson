@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683341,
         102191581,
-        85633147,
-        404396763,
         404227689,
+        404396763,
+        85633147,
         1108826385,
         136253037,
         102067205
@@ -63,6 +63,10 @@
         404396763
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0f97f267d6a3a81097ffa85852c3d1c9",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677401,
-    "wof:lastmodified":1539928886,
+    "wof:lastmodified":1603247230,
     "wof:name":"Saint-Robert",
     "wof:parent_id":102067205,
     "wof:placetype":"locality",

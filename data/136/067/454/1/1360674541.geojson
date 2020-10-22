@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404367427,
         404227865,
+        404367427,
+        85633147,
         1108826387,
         136253037,
         102064903
@@ -63,6 +63,10 @@
         404367427
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"700aaaac2d62bc5f7126fe256e06ce25",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674541,
-    "wof:lastmodified":1539928836,
+    "wof:lastmodified":1603247220,
     "wof:name":"Trebons-De-Luchon",
     "wof:parent_id":102064903,
     "wof:placetype":"locality",

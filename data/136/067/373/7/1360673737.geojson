@@ -129,6 +129,10 @@
         404359949
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ad58973a1e426a4656a30ef20a3f8352",
     "wof:hierarchy":[
         {
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1360673737,
-    "wof:lastmodified":1564126953,
+    "wof:lastmodified":1603247315,
     "wof:name":"Saint-Cirgue",
     "wof:parent_id":102070253,
     "wof:placetype":"locality",

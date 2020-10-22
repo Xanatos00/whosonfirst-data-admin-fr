@@ -143,6 +143,10 @@
         404387987
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5436db77ce246c0f14037e0032225f0f",
     "wof:hierarchy":[
         {
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":1360676525,
-    "wof:lastmodified":1564126756,
+    "wof:lastmodified":1603247288,
     "wof:name":"Saint-Bomer",
     "wof:parent_id":102064809,
     "wof:placetype":"locality",

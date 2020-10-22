@@ -101,6 +101,11 @@
         404354419
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"840b3cab18fb0203540f56068dc46c63",
     "wof:hierarchy":[
         {
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":1360673183,
-    "wof:lastmodified":1564126897,
+    "wof:lastmodified":1603247308,
     "wof:name":"Eth",
     "wof:parent_id":102071555,
     "wof:placetype":"locality",

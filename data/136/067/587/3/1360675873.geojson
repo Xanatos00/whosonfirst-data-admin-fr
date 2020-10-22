@@ -138,6 +138,10 @@
         404380695
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ed50e804785770284256779fad6df17d",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360675873,
-    "wof:lastmodified":1564126431,
+    "wof:lastmodified":1603247245,
     "wof:name":"Fontaines-Saint-Clair",
     "wof:parent_id":102065583,
     "wof:placetype":"locality",

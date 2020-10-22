@@ -9,7 +9,6 @@
     "geom:bbox":"2.32359,48.863943,2.333678,48.869966",
     "geom:latitude":48.867005,
     "geom:longitude":2.328598,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.867497,
     "lbl:longitude":2.327687,
@@ -73,12 +72,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894231,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894231,
         85683497
     ],
     "wof:breaches":[],
@@ -105,10 +104,7 @@
         }
     ],
     "wof:id":85873791,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592441,
+    "wof:lastmodified":1603246970,
     "wof:name":"Place Vendome",
     "wof:parent_id":1158894231,
     "wof:placetype":"neighbourhood",

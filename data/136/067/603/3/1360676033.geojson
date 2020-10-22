@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683255,
         102191581,
-        85633147,
-        404382251,
         404227723,
+        404382251,
+        85633147,
         1108826399,
         136253037,
         102071243
@@ -63,6 +63,10 @@
         404382251
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5cb22bf252ecc4060459eef912c140a6",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676033,
-    "wof:lastmodified":1539928862,
+    "wof:lastmodified":1603247216,
     "wof:name":"Ecoivres",
     "wof:parent_id":102071243,
     "wof:placetype":"locality",

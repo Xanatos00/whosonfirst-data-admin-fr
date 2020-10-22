@@ -149,6 +149,11 @@
         404357795
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cee64819f432de0eac2432e6ff670aa5",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360673527,
-    "wof:lastmodified":1564125953,
+    "wof:lastmodified":1603247178,
     "wof:name":"La Feuillade",
     "wof:parent_id":102070999,
     "wof:placetype":"locality",

@@ -9,7 +9,7 @@
     "geom:bbox":"5.4087065,43.557586,5.4087065,43.557586",
     "geom:latitude":43.557586,
     "geom:longitude":5.408707,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.557586,
     "lbl:longitude":5.408707,
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1360686887,
-    "wof:lastmodified":1561833911,
+    "wof:lastmodified":1603247044,
     "wof:name":"C\u00e8lony",
     "wof:parent_id":1159322055,
     "wof:placetype":"neighbourhood",

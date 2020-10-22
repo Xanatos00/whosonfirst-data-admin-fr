@@ -9,7 +9,7 @@
     "geom:bbox":"9.0495,42.199514,9.0495,42.199514",
     "geom:latitude":42.199514,
     "geom:longitude":9.0495,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.199514,
     "lbl:longitude":9.0495,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683427,
-    "wof:lastmodified":1539986844,
+    "wof:lastmodified":1603247115,
     "wof:name":"Bergeries de Bassitone",
     "wof:parent_id":404382453,
     "wof:placetype":"neighbourhood",

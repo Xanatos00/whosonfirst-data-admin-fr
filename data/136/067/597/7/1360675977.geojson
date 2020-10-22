@@ -113,6 +113,11 @@
         404381775
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ca500840c2c36b0a67ec9fb50d57505d",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360675977,
-    "wof:lastmodified":1564126511,
+    "wof:lastmodified":1603247256,
     "wof:name":"Chazelles",
     "wof:parent_id":102067395,
     "wof:placetype":"locality",

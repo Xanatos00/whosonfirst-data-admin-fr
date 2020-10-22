@@ -9,7 +9,7 @@
     "geom:bbox":"-1.3848865,47.204817,-1.3848865,47.204817",
     "geom:latitude":47.204817,
     "geom:longitude":-1.384886,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.204817,
     "lbl:longitude":-1.384886,
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1360685857,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247114,
     "wof:name":"La Verdonni\u00e8re",
     "wof:parent_id":-4,
     "wof:placetype":"neighbourhood",

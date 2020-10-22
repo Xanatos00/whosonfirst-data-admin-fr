@@ -9,9 +9,8 @@
     "geom:bbox":"4.13093555506,49.7277486488,4.19409991653,49.7602869538",
     "geom:latitude":49.74454,
     "geom:longitude":4.16097,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":157,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":157,
     "iso:country":"FR",
     "lbl:latitude":49.740615,
@@ -375,10 +374,7 @@
         }
     ],
     "wof:id":101901437,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323039,
+    "wof:lastmodified":1603247383,
     "wof:name":"Parfondeval",
     "wof:parent_id":404353177,
     "wof:placetype":"locality",

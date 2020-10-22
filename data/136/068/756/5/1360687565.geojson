@@ -9,7 +9,7 @@
     "geom:bbox":"4.651765,43.6628725,4.651765,43.6628725",
     "geom:latitude":43.662872,
     "geom:longitude":4.651765,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.662872,
     "lbl:longitude":4.651765,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687565,
-    "wof:lastmodified":1539986897,
+    "wof:lastmodified":1603247082,
     "wof:name":"Pont-de-crau",
     "wof:parent_id":1159321919,
     "wof:placetype":"neighbourhood",

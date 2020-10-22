@@ -62,6 +62,10 @@
         404350203
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d93e818d67f9346b33d9a25c444e94ed",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360672779,
-    "wof:lastmodified":1539928787,
+    "wof:lastmodified":1603247270,
     "wof:name":"Saint-Martin-Lars-En-Sainte-Hermine",
     "wof:parent_id":102069305,
     "wof:placetype":"locality",

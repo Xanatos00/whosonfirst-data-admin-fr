@@ -113,6 +113,11 @@
         404349823
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8fe296ebce2ec1185b1101cbecc95cb5",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360672743,
-    "wof:lastmodified":1564126027,
+    "wof:lastmodified":1603247189,
     "wof:name":"Charron",
     "wof:parent_id":102064641,
     "wof:placetype":"locality",

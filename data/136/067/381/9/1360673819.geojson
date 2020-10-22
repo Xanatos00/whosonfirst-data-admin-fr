@@ -102,6 +102,10 @@
         404360561
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0bd5dc854b404a384f6f4ae31af96003",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1360673819,
-    "wof:lastmodified":1564127013,
+    "wof:lastmodified":1603247323,
     "wof:name":"Pressigny",
     "wof:parent_id":102069887,
     "wof:placetype":"locality",

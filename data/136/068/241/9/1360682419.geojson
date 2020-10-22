@@ -9,7 +9,7 @@
     "geom:bbox":"4.735198,49.857415,4.735198,49.857415",
     "geom:latitude":49.857415,
     "geom:longitude":4.735198,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.857415,
     "lbl:longitude":4.735198,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682419,
-    "wof:lastmodified":1539986830,
+    "wof:lastmodified":1603247089,
     "wof:name":"Ch\u00e2teau-Regnault-Bogny",
     "wof:parent_id":404348649,
     "wof:placetype":"neighbourhood",

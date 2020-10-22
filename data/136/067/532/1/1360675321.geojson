@@ -137,6 +137,11 @@
         404375537
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"edf1ae1d6ce4ebf9312a1b83796d51ad",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360675321,
-    "wof:lastmodified":1564125984,
+    "wof:lastmodified":1603247182,
     "wof:name":"Figarol",
     "wof:parent_id":102070133,
     "wof:placetype":"locality",

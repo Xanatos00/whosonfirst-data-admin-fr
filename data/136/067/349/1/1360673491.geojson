@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683221,
         102191581,
-        85633147,
-        404357261,
         404228143,
+        404357261,
+        85633147,
         1108826391,
         136253037,
         102067725
@@ -63,6 +63,10 @@
         404357261
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d6ae6326c1b87d02d7a0b2d3649e7e39",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673491,
-    "wof:lastmodified":1539928811,
+    "wof:lastmodified":1603247237,
     "wof:name":"Boersch",
     "wof:parent_id":102067725,
     "wof:placetype":"locality",

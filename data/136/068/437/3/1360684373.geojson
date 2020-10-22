@@ -9,7 +9,7 @@
     "geom:bbox":"-0.879834,49.370385,-0.879834,49.370385",
     "geom:latitude":49.370385,
     "geom:longitude":-0.879834,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.370385,
     "lbl:longitude":-0.879834,
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1360684373,
-    "wof:lastmodified":1564125446,
+    "wof:lastmodified":1603247057,
     "wof:name":"Les Moulins",
     "wof:parent_id":404411677,
     "wof:placetype":"neighbourhood",

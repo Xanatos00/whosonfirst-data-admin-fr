@@ -9,7 +9,7 @@
     "geom:bbox":"5.87146435883,45.5479720088,5.94150002115,45.6162986224",
     "geom:latitude":45.583536,
     "geom:longitude":5.90892,
-    "geonames:id":"3027420,3027422",
+    "gn:id":"3027420,3027422",
     "gn:population":61640,
     "iso:country":"FR",
     "lbl:latitude":45.584386,
@@ -411,7 +411,7 @@
         }
     ],
     "wof:id":101749323,
-    "wof:lastmodified":1582323393,
+    "wof:lastmodified":1603247733,
     "wof:name":"Chamb\u00e9ry",
     "wof:parent_id":1159321787,
     "wof:placetype":"locality",

@@ -62,6 +62,10 @@
         404387229
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cc73e69b5c73724493b9691ff5635062",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360676467,
-    "wof:lastmodified":1539928870,
+    "wof:lastmodified":1603247283,
     "wof:name":"Saint-Cloud-En-Dunois",
     "wof:parent_id":102065905,
     "wof:placetype":"locality",

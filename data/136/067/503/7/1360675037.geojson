@@ -118,6 +118,11 @@
         404372773
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0559707a27a0c22ed6a44627d77966f4",
     "wof:hierarchy":[
         {
@@ -133,7 +138,7 @@
         }
     ],
     "wof:id":1360675037,
-    "wof:lastmodified":1564125961,
+    "wof:lastmodified":1603247179,
     "wof:name":"Savignac",
     "wof:parent_id":102064773,
     "wof:placetype":"locality",

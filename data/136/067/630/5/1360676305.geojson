@@ -67,6 +67,11 @@
         404385245
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"acb84f941b49374b0c3e1cb20ea31aa0",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360676305,
-    "wof:lastmodified":1539928867,
+    "wof:lastmodified":1603247292,
     "wof:name":"Kermoroc'H",
     "wof:parent_id":102064317,
     "wof:placetype":"locality",

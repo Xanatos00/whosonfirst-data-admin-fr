@@ -155,6 +155,11 @@
         404405827
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e4499b75bf4880618fb48b3dbe4102fa",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360678225,
-    "wof:lastmodified":1564126735,
+    "wof:lastmodified":1603247286,
     "wof:name":"Vieillevie",
     "wof:parent_id":102066221,
     "wof:placetype":"locality",

@@ -153,6 +153,10 @@
         404351011
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"72b65ef9ddd11473780a03b97aa39f8e",
     "wof:hierarchy":[
         {
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":1360672881,
-    "wof:lastmodified":1564126102,
+    "wof:lastmodified":1603247199,
     "wof:name":"Saint-Pierre-Laval",
     "wof:parent_id":102067097,
     "wof:placetype":"locality",

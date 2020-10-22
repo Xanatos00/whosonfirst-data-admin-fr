@@ -9,7 +9,7 @@
     "geom:bbox":"-4.52023,48.5873385,-4.52023,48.5873385",
     "geom:latitude":48.587339,
     "geom:longitude":-4.52023,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.587339,
     "lbl:longitude":-4.52023,
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1360685769,
-    "wof:lastmodified":1539986874,
+    "wof:lastmodified":1603247113,
     "wof:name":"Paluden",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404356817,
         404227621,
+        404356817,
+        85633147,
         1108826385,
         136253037,
         102066223
@@ -68,6 +68,11 @@
         404356817
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4a85e7f791bb97e28e5b73c61b70e87d",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673429,
-    "wof:lastmodified":1539928808,
+    "wof:lastmodified":1603247312,
     "wof:name":"Fontaines-D'Ozillac",
     "wof:parent_id":102066223,
     "wof:placetype":"locality",

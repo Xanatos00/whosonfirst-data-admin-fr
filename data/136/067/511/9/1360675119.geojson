@@ -67,6 +67,11 @@
         404373507
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9ad4853389fb9bd8f2905d8eed7dbc6f",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360675119,
-    "wof:lastmodified":1539928846,
+    "wof:lastmodified":1603247240,
     "wof:name":"Monacia-D'Orezza",
     "wof:parent_id":102070777,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404408593,
         404227865,
+        404408593,
+        85633147,
         1108826387,
         136253037,
         102070133
@@ -63,6 +63,10 @@
         404408593
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cc4fc2dcb7b7064634dade3e4c723689",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678469,
-    "wof:lastmodified":1539928904,
+    "wof:lastmodified":1603247269,
     "wof:name":"Mazeres-Sur-Salat",
     "wof:parent_id":102070133,
     "wof:placetype":"locality",

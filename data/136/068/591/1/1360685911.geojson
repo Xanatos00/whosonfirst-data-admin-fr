@@ -9,7 +9,7 @@
     "geom:bbox":"5.529556,45.445695,5.529556,45.445695",
     "geom:latitude":45.445695,
     "geom:longitude":5.529556,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.445695,
     "lbl:longitude":5.529556,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685911,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247086,
     "wof:name":"Vers-Ars",
     "wof:parent_id":404384115,
     "wof:placetype":"neighbourhood",

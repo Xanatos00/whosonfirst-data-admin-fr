@@ -67,6 +67,11 @@
         404370509
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"11a144def2017bf6c53caad62f23aca7",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360674815,
-    "wof:lastmodified":1539928841,
+    "wof:lastmodified":1603247275,
     "wof:name":"Mas-Blanc-Des-Alpilles",
     "wof:parent_id":102070263,
     "wof:placetype":"locality",

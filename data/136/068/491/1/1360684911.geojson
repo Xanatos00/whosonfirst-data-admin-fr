@@ -9,7 +9,7 @@
     "geom:bbox":"-2.631998,47.505924,-2.631998,47.505924",
     "geom:latitude":47.505924,
     "geom:longitude":-2.631998,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.505924,
     "lbl:longitude":-2.631998,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684911,
-    "wof:lastmodified":1539986863,
+    "wof:lastmodified":1603247066,
     "wof:name":"Rouvran",
     "wof:parent_id":404360581,
     "wof:placetype":"neighbourhood",

@@ -138,6 +138,10 @@
         404366489
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"660a82454cf4ed8a521333e4978f4b50",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1360674469,
-    "wof:lastmodified":1564126083,
+    "wof:lastmodified":1603247196,
     "wof:name":"Saint-Seine",
     "wof:parent_id":102066257,
     "wof:placetype":"locality",

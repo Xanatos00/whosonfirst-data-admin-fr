@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404395457,
         404227669,
+        404395457,
+        85633147,
         1108826389,
         136253037,
         102071351
@@ -63,6 +63,10 @@
         404395457
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dfc5249d4a1c683400552dceed087105",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677309,
-    "wof:lastmodified":1539928884,
+    "wof:lastmodified":1603247169,
     "wof:name":"Saint-Julien-De-Raz",
     "wof:parent_id":102071351,
     "wof:placetype":"locality",

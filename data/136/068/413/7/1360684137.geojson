@@ -9,7 +9,7 @@
     "geom:bbox":"6.209678,45.847934,6.209678,45.847934",
     "geom:latitude":45.847934,
     "geom:longitude":6.209678,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.847934,
     "lbl:longitude":6.209678,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684137,
-    "wof:lastmodified":1539986853,
+    "wof:lastmodified":1603247048,
     "wof:name":"Perroix",
     "wof:parent_id":404385583,
     "wof:placetype":"neighbourhood",

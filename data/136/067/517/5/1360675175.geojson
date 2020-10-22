@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404374183,
         404228209,
+        404374183,
+        85633147,
         1108826385,
         136253037,
         102065187
@@ -63,6 +63,10 @@
         404374183
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"46b00c529c8ad155a23df6f9b4b838a0",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675175,
-    "wof:lastmodified":1539928847,
+    "wof:lastmodified":1603247225,
     "wof:name":"Saint-Bris-Des-Bois",
     "wof:parent_id":102065187,
     "wof:placetype":"locality",

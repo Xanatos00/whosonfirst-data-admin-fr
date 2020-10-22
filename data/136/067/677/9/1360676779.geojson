@@ -146,6 +146,11 @@
         404390599
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5261dfd7daa625f5841abfe21cec4c7b",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360676779,
-    "wof:lastmodified":1564126728,
+    "wof:lastmodified":1603247285,
     "wof:name":"Rety",
     "wof:parent_id":102070677,
     "wof:placetype":"locality",

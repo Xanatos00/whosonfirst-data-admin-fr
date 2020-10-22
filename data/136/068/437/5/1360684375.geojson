@@ -9,7 +9,7 @@
     "geom:bbox":"1.847569,45.802372,1.847569,45.802372",
     "geom:latitude":45.802372,
     "geom:longitude":1.847569,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.802372,
     "lbl:longitude":1.847569,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684375,
-    "wof:lastmodified":1539986856,
+    "wof:lastmodified":1603247057,
     "wof:name":"Auphelle",
     "wof:parent_id":404365129,
     "wof:placetype":"neighbourhood",

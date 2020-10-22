@@ -140,6 +140,11 @@
         404377163
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6eead178959c396c7b97abc017c146fb",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360675509,
-    "wof:lastmodified":1564125938,
+    "wof:lastmodified":1603247176,
     "wof:name":"Grun-Bordas",
     "wof:parent_id":102071273,
     "wof:placetype":"locality",

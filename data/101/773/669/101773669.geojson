@@ -9,7 +9,7 @@
     "geom:bbox":"-0.0739724944553,43.1410194633,-0.00054278846666,43.2243905983",
     "geom:latitude":43.178466,
     "geom:longitude":-0.042649,
-    "geonames:id":"2989106,2989108",
+    "gn:id":"2989106,2989108",
     "gn:population":2267,
     "iso:country":"FR",
     "lbl:latitude":43.183632,
@@ -347,7 +347,7 @@
         }
     ],
     "wof:id":101773669,
-    "wof:lastmodified":1582323835,
+    "wof:lastmodified":1603248235,
     "wof:name":"Ossun",
     "wof:parent_id":404368365,
     "wof:placetype":"locality",

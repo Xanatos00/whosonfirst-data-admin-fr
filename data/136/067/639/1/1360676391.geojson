@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404386417,
         404227619,
+        404386417,
+        85633147,
         1108826385,
         136253037,
         102068155
@@ -67,6 +67,11 @@
         404386417
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"90e81471bfc4d3a06b585b0045f9a8b7",
     "wof:hierarchy":[
         {
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":1360676391,
-    "wof:lastmodified":1539928868,
+    "wof:lastmodified":1603247294,
     "wof:name":"Bors (Canton De Montmoreau-Saint-Cybard)",
     "wof:parent_id":102068155,
     "wof:placetype":"locality",

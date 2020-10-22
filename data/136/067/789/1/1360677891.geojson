@@ -149,6 +149,11 @@
         404402441
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5abcb90617a674e7ce7f68dce24be043",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360677891,
-    "wof:lastmodified":1564126988,
+    "wof:lastmodified":1603247320,
     "wof:name":"Les Aires",
     "wof:parent_id":102069935,
     "wof:placetype":"locality",

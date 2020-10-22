@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404352573,
         404227839,
+        404352573,
+        85633147,
         1108826395,
         136253037,
         102069817
@@ -63,6 +63,10 @@
         404352573
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"219d58a4ed3721b80f70fdafb7be758b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673007,
-    "wof:lastmodified":1539928792,
+    "wof:lastmodified":1603247162,
     "wof:name":"Saint-Seine-L'Abbaye",
     "wof:parent_id":102069817,
     "wof:placetype":"locality",

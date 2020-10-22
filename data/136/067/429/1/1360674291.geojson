@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683209,
         102191581,
-        85633147,
-        404364967,
         404227837,
+        404364967,
+        85633147,
         1108826385,
         136253037,
         102065681
@@ -63,6 +63,10 @@
         404364967
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"63903d45f42d4b021d98eeda93bc4768",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674291,
-    "wof:lastmodified":1539928831,
+    "wof:lastmodified":1603247278,
     "wof:name":"Meyrignac-L'Eglise",
     "wof:parent_id":102065681,
     "wof:placetype":"locality",

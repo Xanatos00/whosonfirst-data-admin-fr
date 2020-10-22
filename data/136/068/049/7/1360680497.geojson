@@ -131,6 +131,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526509785,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"978c9fd3b5ce4b7c8720fd307df717a5",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1360680497,
-    "wof:lastmodified":1564125428,
+    "wof:lastmodified":1603247053,
     "wof:name":"Coulanges-l\u00e8s-Nevers",
     "wof:parent_id":102069563,
     "wof:placetype":"locality",

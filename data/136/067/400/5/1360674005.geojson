@@ -149,6 +149,11 @@
         404361969
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ab17a0d6282dd7e575ba6c91e501b7ec",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360674005,
-    "wof:lastmodified":1564126247,
+    "wof:lastmodified":1603247219,
     "wof:name":"Sembadel",
     "wof:parent_id":102065435,
     "wof:placetype":"locality",

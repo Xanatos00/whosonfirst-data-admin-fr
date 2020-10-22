@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404372679,
         404228275,
+        404372679,
+        85633147,
         1108826385,
         136253037,
         102070073
@@ -63,6 +63,10 @@
         404372679
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c918629a8134b3f38d864deefe4f3905",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675025,
-    "wof:lastmodified":1539928845,
+    "wof:lastmodified":1603247170,
     "wof:name":"Francs",
     "wof:parent_id":102070073,
     "wof:placetype":"locality",

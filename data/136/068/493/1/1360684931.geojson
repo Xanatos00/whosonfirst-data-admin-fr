@@ -9,7 +9,7 @@
     "geom:bbox":"-2.822113,47.578146,-2.822113,47.578146",
     "geom:latitude":47.578146,
     "geom:longitude":-2.822113,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":47.578146,
     "lbl:longitude":-2.822113,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1360684931,
-    "wof:lastmodified":1539986863,
+    "wof:lastmodified":1603247101,
     "wof:name":"Gr\u00e9avo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

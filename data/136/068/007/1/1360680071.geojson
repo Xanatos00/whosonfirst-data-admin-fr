@@ -109,6 +109,11 @@
         404424961
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"df41b5c1f212f42d23d6103342ea6732",
     "wof:hierarchy":[
         {
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":1360680071,
-    "wof:lastmodified":1564125451,
+    "wof:lastmodified":1603247058,
     "wof:name":"Roinville",
     "wof:parent_id":102065489,
     "wof:placetype":"locality",

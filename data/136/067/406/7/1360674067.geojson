@@ -67,6 +67,11 @@
         404362583
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c09188166255419646a5c35aecc66b0b",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360674067,
-    "wof:lastmodified":1539928827,
+    "wof:lastmodified":1603247205,
     "wof:name":"Plourac'H",
     "wof:parent_id":102065081,
     "wof:placetype":"locality",

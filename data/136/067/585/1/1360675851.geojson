@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683377,
         102191581,
-        85633147,
-        404380469,
         404227677,
+        404380469,
+        85633147,
         1108826389,
         136253037,
         102065433
@@ -68,6 +68,11 @@
         404380469
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dfc51a3f250b8dace46b30a22e159025",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360675851,
-    "wof:lastmodified":1539928859,
+    "wof:lastmodified":1603247309,
     "wof:name":"Jas",
     "wof:parent_id":102065433,
     "wof:placetype":"locality",

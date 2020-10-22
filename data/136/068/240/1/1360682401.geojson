@@ -9,7 +9,7 @@
     "geom:bbox":"-61.494083,16.380097,-61.494083,16.380097",
     "geom:latitude":16.380097,
     "geom:longitude":-61.494083,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":16.380097,
     "lbl:longitude":-61.494083,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1360682401,
-    "wof:lastmodified":1539986830,
+    "wof:lastmodified":1603247094,
     "wof:name":"Monroc",
     "wof:parent_id":85671209,
     "wof:placetype":"neighbourhood",

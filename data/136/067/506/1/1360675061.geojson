@@ -128,6 +128,11 @@
         404373047
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7ed20b5fa052e2c3cceb0199fea48fe0",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360675061,
-    "wof:lastmodified":1564126466,
+    "wof:lastmodified":1603247250,
     "wof:name":"Marignac-Laspeyres",
     "wof:parent_id":102066231,
     "wof:placetype":"locality",

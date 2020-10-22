@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683297,
         102191581,
-        85633147,
-        404384413,
         404227919,
+        404384413,
+        85633147,
         1108826391,
         136253037,
         102068767
@@ -63,6 +63,10 @@
         404384413
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"66b800688242a69017a124636b94a19b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676221,
-    "wof:lastmodified":1539928866,
+    "wof:lastmodified":1603247272,
     "wof:name":"Montigny-Les-Vaucouleurs",
     "wof:parent_id":102068767,
     "wof:placetype":"locality",

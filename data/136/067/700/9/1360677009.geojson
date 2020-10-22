@@ -145,6 +145,11 @@
         404392231
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b5f29e32ae04e6de81d208467ef1f747",
     "wof:hierarchy":[
         {
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1360677009,
-    "wof:lastmodified":1564125981,
+    "wof:lastmodified":1603247182,
     "wof:name":"Charentonnay",
     "wof:parent_id":102068701,
     "wof:placetype":"locality",

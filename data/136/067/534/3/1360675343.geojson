@@ -119,6 +119,11 @@
         404375747
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"76d3f1467f8143b7a3874e905c6cc88a",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360675343,
-    "wof:lastmodified":1564125880,
+    "wof:lastmodified":1603247168,
     "wof:name":"Thury",
     "wof:parent_id":102069311,
     "wof:placetype":"locality",

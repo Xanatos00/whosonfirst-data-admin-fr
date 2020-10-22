@@ -9,7 +9,7 @@
     "geom:bbox":"7.157292,43.960263,7.157292,43.960263",
     "geom:latitude":43.960263,
     "geom:longitude":7.157292,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.960263,
     "lbl:longitude":7.157292,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683455,
-    "wof:lastmodified":1539986844,
+    "wof:lastmodified":1603247116,
     "wof:name":"Roussillon la Condamine",
     "wof:parent_id":404366847,
     "wof:placetype":"neighbourhood",

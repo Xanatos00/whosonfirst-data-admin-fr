@@ -145,6 +145,11 @@
         404381093
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ecdd343bbff46acb62309249fb85f036",
     "wof:hierarchy":[
         {
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1360675913,
-    "wof:lastmodified":1564126571,
+    "wof:lastmodified":1603247264,
     "wof:name":"Jaudrais",
     "wof:parent_id":102068439,
     "wof:placetype":"locality",

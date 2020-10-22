@@ -140,6 +140,11 @@
         404412899
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7868950bc2771239a8875ae1c0aa57f1",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360678981,
-    "wof:lastmodified":1564126796,
+    "wof:lastmodified":1603247294,
     "wof:name":"Luzech",
     "wof:parent_id":102067765,
     "wof:placetype":"locality",

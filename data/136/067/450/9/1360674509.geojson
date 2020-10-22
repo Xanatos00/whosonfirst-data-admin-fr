@@ -107,6 +107,11 @@
         404367043
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0ef6b7bd30ced1615de188581124f0da",
     "wof:hierarchy":[
         {
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":1360674509,
-    "wof:lastmodified":1564126810,
+    "wof:lastmodified":1603247296,
     "wof:name":"Monclar",
     "wof:parent_id":102064907,
     "wof:placetype":"locality",

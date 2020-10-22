@@ -306,13 +306,13 @@
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
-        85633147,
-        102064919,
-        136253037,
-        404371843,
-        101898773,
         404227907,
+        404371843,
+        85633147,
         1108826393,
+        101898773,
+        136253037,
+        102064919,
         85683489
     ],
     "wof:breaches":[],
@@ -342,10 +342,7 @@
         }
     ],
     "wof:id":1360696827,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247145,
     "wof:name":"Vauville",
     "wof:parent_id":404371843,
     "wof:placetype":"neighbourhood",

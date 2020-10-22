@@ -9,7 +9,6 @@
     "geom:bbox":"7.239139,43.696473,7.239139,43.696473",
     "geom:latitude":43.696473,
     "geom:longitude":7.239139,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":43.696473,
     "lbl:longitude":7.239139,
@@ -125,10 +124,7 @@
         }
     ],
     "wof:id":85794589,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582322792,
+    "wof:lastmodified":1603246954,
     "wof:name":"Magnan",
     "wof:parent_id":101749273,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683523,
         102191581,
-        85633147,
-        404390617,
         404227639,
+        404390617,
+        85633147,
         1108826389,
         136253037,
         102065623
@@ -63,6 +63,10 @@
         404390617
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"105508edcf90fa391c1080392566d201",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676787,
-    "wof:lastmodified":1539928875,
+    "wof:lastmodified":1603247276,
     "wof:name":"La Repara-Auriples",
     "wof:parent_id":102065623,
     "wof:placetype":"locality",

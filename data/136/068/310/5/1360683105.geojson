@@ -9,7 +9,7 @@
     "geom:bbox":"1.59642,46.513179,1.59642,46.513179",
     "geom:latitude":46.513179,
     "geom:longitude":1.59642,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.513179,
     "lbl:longitude":1.59642,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1360683105,
-    "wof:lastmodified":1564125719,
+    "wof:lastmodified":1603247118,
     "wof:name":"Gargilesse",
     "wof:parent_id":404349709,
     "wof:placetype":"neighbourhood",

@@ -402,7 +402,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"6733",
     "statoids:as_of_date":"2010-01-01",
     "statoids:capital":"Quimper",
@@ -447,7 +447,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1588976241,
+    "wof:lastmodified":1603246956,
     "wof:name":"Finist\u00e8re",
     "wof:parent_id":404227447,
     "wof:placetype":"region",

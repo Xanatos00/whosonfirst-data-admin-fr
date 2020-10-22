@@ -147,6 +147,10 @@
         404418541
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"76fc5fb975286a671bc9469702f4fb6b",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360679485,
-    "wof:lastmodified":1564126286,
+    "wof:lastmodified":1603247224,
     "wof:name":"Fossemanant",
     "wof:parent_id":102067471,
     "wof:placetype":"locality",

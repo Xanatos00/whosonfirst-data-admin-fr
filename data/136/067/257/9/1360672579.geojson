@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404347939,
         404227721,
+        404347939,
+        85633147,
         1108826393,
         136253037,
         102065645
@@ -63,6 +63,10 @@
         404347939
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2b48d49fc1eaf1ef5e2cc968f9eae5fc",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672579,
-    "wof:lastmodified":1539928783,
+    "wof:lastmodified":1603247203,
     "wof:name":"Saint-Martin-L'Aiguillon",
     "wof:parent_id":102065645,
     "wof:placetype":"locality",

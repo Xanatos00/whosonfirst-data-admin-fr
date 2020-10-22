@@ -62,6 +62,10 @@
         404355981
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8c3a77701b5bf130142119826949bd9d",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673353,
-    "wof:lastmodified":1539928804,
+    "wof:lastmodified":1603247255,
     "wof:name":"Mausoleo",
     "wof:parent_id":102065201,
     "wof:placetype":"locality",

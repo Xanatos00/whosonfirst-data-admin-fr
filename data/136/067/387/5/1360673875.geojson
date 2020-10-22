@@ -99,6 +99,10 @@
         404361073
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"61e6dab72eb8b1e4fcb48cbfb9b1fc31",
     "wof:hierarchy":[
         {
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1360673875,
-    "wof:lastmodified":1564126957,
+    "wof:lastmodified":1603247315,
     "wof:name":"Saint-Sylvain",
     "wof:parent_id":102071561,
     "wof:placetype":"locality",

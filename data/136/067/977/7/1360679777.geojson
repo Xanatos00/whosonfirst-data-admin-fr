@@ -147,6 +147,10 @@
         404421847
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6f08a95bc027c6a87e18962278be1dfa",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360679777,
-    "wof:lastmodified":1564126291,
+    "wof:lastmodified":1603247224,
     "wof:name":"Saint-Cosme",
     "wof:parent_id":102065055,
     "wof:placetype":"locality",

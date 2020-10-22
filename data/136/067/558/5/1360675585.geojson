@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683559,
         102191581,
-        85633147,
-        404378079,
         404227739,
+        404378079,
+        85633147,
         1108826395,
         136253037,
         102065461
@@ -63,6 +63,10 @@
         404378079
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6395a771ac015aa9a3be2d89d600d758",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675585,
-    "wof:lastmodified":1539928855,
+    "wof:lastmodified":1603247166,
     "wof:name":"La Bruyere",
     "wof:parent_id":102065461,
     "wof:placetype":"locality",

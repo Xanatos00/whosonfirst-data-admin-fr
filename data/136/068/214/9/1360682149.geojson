@@ -9,7 +9,7 @@
     "geom:bbox":"6.142902,45.388806,6.142902,45.388806",
     "geom:latitude":45.388806,
     "geom:longitude":6.142902,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.388806,
     "lbl:longitude":6.142902,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682149,
-    "wof:lastmodified":1539986827,
+    "wof:lastmodified":1603247098,
     "wof:name":"Pr\u00e9 Nouveau",
     "wof:parent_id":404351571,
     "wof:placetype":"neighbourhood",

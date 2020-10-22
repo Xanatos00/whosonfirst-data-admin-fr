@@ -155,6 +155,11 @@
         404395217
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"39e2039dfdae882c15e22951dba93c2a",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360677279,
-    "wof:lastmodified":1564127040,
+    "wof:lastmodified":1603247326,
     "wof:name":"Argilliers",
     "wof:parent_id":102068391,
     "wof:placetype":"locality",

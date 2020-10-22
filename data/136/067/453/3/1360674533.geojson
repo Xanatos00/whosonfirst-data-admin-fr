@@ -67,6 +67,11 @@
         404367337
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"090ce01640ff243f93511e4def46359a",
     "wof:hierarchy":[
         {
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1360674533,
-    "wof:lastmodified":1539928836,
+    "wof:lastmodified":1603247221,
     "wof:name":"Laval-En-Brie",
     "wof:parent_id":102068097,
     "wof:placetype":"locality",

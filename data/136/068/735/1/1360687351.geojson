@@ -9,7 +9,7 @@
     "geom:bbox":"6.391983,43.00926,6.391983,43.00926",
     "geom:latitude":43.00926,
     "geom:longitude":6.391983,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.00926,
     "lbl:longitude":6.391983,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1360687351,
-    "wof:lastmodified":1539986895,
+    "wof:lastmodified":1603247083,
     "wof:name":"H\u00e9liopolis",
     "wof:parent_id":404350543,
     "wof:placetype":"neighbourhood",

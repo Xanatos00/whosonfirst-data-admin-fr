@@ -147,6 +147,10 @@
         404381549
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ff2c8d7af268b063dce094f2f05a64ec",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360675947,
-    "wof:lastmodified":1564125846,
+    "wof:lastmodified":1603247163,
     "wof:name":"Metzing",
     "wof:parent_id":102071463,
     "wof:placetype":"locality",

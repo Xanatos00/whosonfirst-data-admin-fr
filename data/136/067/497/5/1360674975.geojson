@@ -137,6 +137,11 @@
         404372217
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0fc5e118a4d6d4f54d43507fe289a052",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360674975,
-    "wof:lastmodified":1564126186,
+    "wof:lastmodified":1603247210,
     "wof:name":"Meures",
     "wof:parent_id":102066807,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683203,
         102191581,
-        85633147,
-        404371967,
         404227729,
+        404371967,
+        85633147,
         1108826387,
         136253037,
         102066445
@@ -63,6 +63,10 @@
         404371967
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3fd755084c9bd9b895896df423bbf773",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674951,
-    "wof:lastmodified":1539928844,
+    "wof:lastmodified":1603247299,
     "wof:name":"Lezignan",
     "wof:parent_id":102066445,
     "wof:placetype":"locality",

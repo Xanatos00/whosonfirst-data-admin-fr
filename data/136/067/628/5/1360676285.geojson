@@ -71,6 +71,11 @@
         404385029
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8857fcee55d4f60c777649d3a0f9cbb3",
     "wof:hierarchy":[
         {
@@ -86,7 +91,7 @@
         }
     ],
     "wof:id":1360676285,
-    "wof:lastmodified":1564126029,
+    "wof:lastmodified":1603247189,
     "wof:name":"Uz",
     "wof:parent_id":102064277,
     "wof:placetype":"locality",

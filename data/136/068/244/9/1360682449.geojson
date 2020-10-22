@@ -9,7 +9,7 @@
     "geom:bbox":"-2.722892,47.568738,-2.722892,47.568738",
     "geom:latitude":47.568738,
     "geom:longitude":-2.722892,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.568738,
     "lbl:longitude":-2.722892,
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1360682449,
-    "wof:lastmodified":1539986831,
+    "wof:lastmodified":1603247053,
     "wof:name":"Lasn\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

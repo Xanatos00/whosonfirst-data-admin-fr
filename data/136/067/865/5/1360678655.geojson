@@ -119,6 +119,11 @@
         404410033
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0619087bf04995b73ad750d77a952cd4",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360678655,
-    "wof:lastmodified":1564126788,
+    "wof:lastmodified":1603247293,
     "wof:name":"Coutures",
     "wof:parent_id":102070175,
     "wof:placetype":"locality",

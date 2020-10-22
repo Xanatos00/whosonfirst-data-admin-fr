@@ -62,6 +62,10 @@
         404394685
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"42ca1ce15bc569cd3316d33cb896fd9e",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677229,
-    "wof:lastmodified":1539928883,
+    "wof:lastmodified":1603247224,
     "wof:name":"Saint-Gilles-Croix-De-Vie",
     "wof:parent_id":102069209,
     "wof:placetype":"locality",

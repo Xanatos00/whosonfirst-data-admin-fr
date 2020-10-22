@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404354065,
         404227635,
+        404354065,
+        85633147,
         1108826385,
         136253037,
         102070823
@@ -82,6 +82,11 @@
         404354065
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8afda7e52f960292abfea76820d72d79",
     "wof:hierarchy":[
         {
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":1360673147,
-    "wof:lastmodified":1539928795,
+    "wof:lastmodified":1603247243,
     "wof:name":"Gageac-Et-Rouillac",
     "wof:parent_id":102070823,
     "wof:placetype":"locality",

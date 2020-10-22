@@ -173,6 +173,11 @@
         404378421
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"35aaab00782e7b98ae9621fb528e80bf",
     "wof:hierarchy":[
         {
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":1360675623,
-    "wof:lastmodified":1564126562,
+    "wof:lastmodified":1603247263,
     "wof:name":"Hochstett",
     "wof:parent_id":102065935,
     "wof:placetype":"locality",

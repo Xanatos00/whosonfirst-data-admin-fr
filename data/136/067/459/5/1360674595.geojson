@@ -108,6 +108,10 @@
         404367823
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"04771e948d8abb92d5bb756d5a5fe59e",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360674595,
-    "wof:lastmodified":1564126839,
+    "wof:lastmodified":1603247300,
     "wof:name":"Saint-Didier",
     "wof:parent_id":102070019,
     "wof:placetype":"locality",

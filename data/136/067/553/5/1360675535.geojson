@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683359,
         102191581,
-        85633147,
-        404377471,
         404228243,
+        404377471,
+        85633147,
         1108826395,
         136253037,
         102065601
@@ -63,6 +63,10 @@
         404377471
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a6389cde9d066d02433a976dded18b9c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675535,
-    "wof:lastmodified":1539928854,
+    "wof:lastmodified":1603247265,
     "wof:name":"Saint-Pere",
     "wof:parent_id":102065601,
     "wof:placetype":"locality",

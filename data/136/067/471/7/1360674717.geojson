@@ -63,9 +63,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404369317,
         404227879,
+        404369317,
+        85633147,
         1108826389,
         136253037,
         102070747
@@ -80,6 +80,11 @@
         404369317
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bca292412e9a0f58291d46727ba21006",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360674717,
-    "wof:lastmodified":1539928840,
+    "wof:lastmodified":1603247186,
     "wof:name":"Four",
     "wof:parent_id":102070747,
     "wof:placetype":"locality",

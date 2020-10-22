@@ -116,6 +116,11 @@
         404352083
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"634e8d0db3ca175123e54969c24141a8",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360672969,
-    "wof:lastmodified":1564126797,
+    "wof:lastmodified":1603247294,
     "wof:name":"Chemilly",
     "wof:parent_id":102068781,
     "wof:placetype":"locality",

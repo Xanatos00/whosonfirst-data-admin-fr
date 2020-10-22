@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683209,
         102191581,
-        85633147,
-        404417185,
         404227837,
+        404417185,
+        85633147,
         1108826385,
         136253037,
         102067241
@@ -63,6 +63,10 @@
         404417185
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"71bac4f3a9b7216ba845472d922cda98",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679359,
-    "wof:lastmodified":1539928920,
+    "wof:lastmodified":1603247254,
     "wof:name":"Camps-Saint-Mathurin-Leobazel",
     "wof:parent_id":102067241,
     "wof:placetype":"locality",

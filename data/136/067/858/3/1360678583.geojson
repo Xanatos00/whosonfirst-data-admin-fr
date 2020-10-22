@@ -113,6 +113,11 @@
         404409653
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5765fa7c9653d01f71a991eaf484a5ef",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360678583,
-    "wof:lastmodified":1564126242,
+    "wof:lastmodified":1603247218,
     "wof:name":"Tauriac",
     "wof:parent_id":102064343,
     "wof:placetype":"locality",

@@ -9,9 +9,8 @@
     "geom:bbox":"2.848785,43.561131,2.942191,43.604379",
     "geom:latitude":43.585011,
     "geom:longitude":2.90223,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":216,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":216,
     "iso:country":"FR",
     "lbl:latitude":43.56667,
@@ -310,14 +309,14 @@
     "woe:name_adm1":"Midi-Pyr\u00e9n\u00e9es",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85683419,
         102191581,
-        85633147,
-        102069079,
-        136253037,
-        404364577,
         404227659,
+        404364577,
+        85633147,
         1108826387,
-        85683419
+        136253037,
+        102069079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -349,7 +348,7 @@
         }
     ],
     "wof:id":1125884317,
-    "wof:lastmodified":1587163114,
+    "wof:lastmodified":1603248849,
     "wof:name":"St.-Julien",
     "wof:parent_id":404364577,
     "wof:placetype":"locality",

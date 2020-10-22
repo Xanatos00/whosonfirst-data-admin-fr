@@ -126,6 +126,10 @@
         404394963
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1fa9051f69d85b356b3887cf5316dcf2",
     "wof:hierarchy":[
         {
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":1360677263,
-    "wof:lastmodified":1564126932,
+    "wof:lastmodified":1603247312,
     "wof:name":"Laubach",
     "wof:parent_id":102070609,
     "wof:placetype":"locality",

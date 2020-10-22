@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404359797,
         404227695,
+        404359797,
+        85633147,
         1108826393,
         136253037,
         102070241
@@ -63,6 +63,10 @@
         404359797
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eb1f5206a4b722462b95e97509f354ca",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673727,
-    "wof:lastmodified":1539928819,
+    "wof:lastmodified":1603247325,
     "wof:name":"Saint-Senier-De-Beuvron",
     "wof:parent_id":102070241,
     "wof:placetype":"locality",

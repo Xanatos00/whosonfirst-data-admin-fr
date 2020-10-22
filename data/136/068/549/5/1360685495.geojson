@@ -9,7 +9,7 @@
     "geom:bbox":"-1.25184,44.674427,-1.25184,44.674427",
     "geom:latitude":44.674427,
     "geom:longitude":-1.25184,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.674427,
     "lbl:longitude":-1.25184,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685495,
-    "wof:lastmodified":1539986871,
+    "wof:lastmodified":1603247112,
     "wof:name":"La Vigne",
     "wof:parent_id":404348765,
     "wof:placetype":"neighbourhood",

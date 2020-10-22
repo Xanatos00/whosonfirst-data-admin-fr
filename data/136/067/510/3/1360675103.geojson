@@ -161,6 +161,11 @@
         404373309
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c455a593731a461447138d5180159c99",
     "wof:hierarchy":[
         {
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":1360675103,
-    "wof:lastmodified":1564126287,
+    "wof:lastmodified":1603247224,
     "wof:name":"Muscourt",
     "wof:parent_id":102068189,
     "wof:placetype":"locality",

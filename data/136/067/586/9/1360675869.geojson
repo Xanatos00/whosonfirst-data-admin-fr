@@ -60,9 +60,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404380661,
         404227751,
+        404380661,
+        85633147,
         1108826393,
         136253037,
         102064285
@@ -77,6 +77,11 @@
         404380661
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c3b6b68a6e54028542740d18b36096b0",
     "wof:hierarchy":[
         {
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1360675869,
-    "wof:lastmodified":1539928859,
+    "wof:lastmodified":1603247230,
     "wof:name":"Croisy-Sur-Andelle",
     "wof:parent_id":102064285,
     "wof:placetype":"locality",

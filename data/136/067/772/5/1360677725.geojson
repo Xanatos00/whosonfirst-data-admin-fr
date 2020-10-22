@@ -176,6 +176,11 @@
         404400453
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4eebf9a3d75542cfbd5abaaeb3763cf7",
     "wof:hierarchy":[
         {
@@ -191,7 +196,7 @@
         }
     ],
     "wof:id":1360677725,
-    "wof:lastmodified":1564126924,
+    "wof:lastmodified":1603247311,
     "wof:name":"Aizelles",
     "wof:parent_id":102066469,
     "wof:placetype":"locality",

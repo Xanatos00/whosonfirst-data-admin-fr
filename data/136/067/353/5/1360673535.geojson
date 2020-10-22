@@ -62,6 +62,10 @@
         404357903
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a86f6ba5492fb25b2bdc31d3cdb9ca85",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360673535,
-    "wof:lastmodified":1539928813,
+    "wof:lastmodified":1603247171,
     "wof:name":"Evry-Gregy-Sur-Yerre",
     "wof:parent_id":102064573,
     "wof:placetype":"locality",

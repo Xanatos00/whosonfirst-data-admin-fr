@@ -145,6 +145,11 @@
         404376225
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a8c14cc7d5f3259154261b35baeea455",
     "wof:hierarchy":[
         {
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1360675393,
-    "wof:lastmodified":1564126460,
+    "wof:lastmodified":1603247249,
     "wof:name":"Crucey-Villages",
     "wof:parent_id":102065163,
     "wof:placetype":"locality",

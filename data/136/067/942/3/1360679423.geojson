@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404417879,
         404227599,
+        404417879,
+        85633147,
         1108826389,
         136253037,
         102068513
@@ -63,6 +63,10 @@
         404417879
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fddee4adfd6077c7c86f252f9085fd98",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679423,
-    "wof:lastmodified":1539928921,
+    "wof:lastmodified":1603247316,
     "wof:name":"Lalevade-D'Ardeche",
     "wof:parent_id":102068513,
     "wof:placetype":"locality",

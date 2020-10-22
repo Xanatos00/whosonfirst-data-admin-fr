@@ -104,6 +104,11 @@
         404389183
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"17b9aa8ef0b67c6f9540605904b9e1b2",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360676627,
-    "wof:lastmodified":1564126813,
+    "wof:lastmodified":1603247296,
     "wof:name":"Remigny",
     "wof:parent_id":102065125,
     "wof:placetype":"locality",

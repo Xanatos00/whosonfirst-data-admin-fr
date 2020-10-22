@@ -142,6 +142,11 @@
         404357179
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"191c0eb9983ae8179b6f87f7c7143fc1",
     "wof:hierarchy":[
         {
@@ -157,7 +162,7 @@
         }
     ],
     "wof:id":1360673471,
-    "wof:lastmodified":1564126391,
+    "wof:lastmodified":1603247239,
     "wof:name":"L'Abergement-Sainte-Colombe",
     "wof:parent_id":102071269,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683445,
         102191581,
-        85633147,
-        404378741,
         404227715,
+        404378741,
+        85633147,
         1108826399,
         136253037,
         102066043
@@ -63,6 +63,10 @@
         404378741
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"da2dee4898b31d3af31cc5f6786b159a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675649,
-    "wof:lastmodified":1539928856,
+    "wof:lastmodified":1603247254,
     "wof:name":"Ecuelin",
     "wof:parent_id":102066043,
     "wof:placetype":"locality",

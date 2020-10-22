@@ -155,6 +155,11 @@
         404404071
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eae64bb43481e743627ae3cc25c30074",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360678053,
-    "wof:lastmodified":1564126277,
+    "wof:lastmodified":1603247223,
     "wof:name":"Elbach",
     "wof:parent_id":102065055,
     "wof:placetype":"locality",

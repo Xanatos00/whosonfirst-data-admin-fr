@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683271,
         102191581,
-        85633147,
-        404374425,
         404227923,
+        404374425,
+        85633147,
         1108826391,
         136253037,
         102065711
@@ -63,6 +63,10 @@
         404374425
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"676678b334de4eddf2d43c432e79ff5f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675203,
-    "wof:lastmodified":1539928848,
+    "wof:lastmodified":1603247237,
     "wof:name":"Saint-Medard",
     "wof:parent_id":102065711,
     "wof:placetype":"locality",

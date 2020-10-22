@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404389589,
         404228049,
+        404389589,
+        85633147,
         1108826385,
         136253037,
         102064967
@@ -63,6 +63,10 @@
         404389589
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"89611449fee1f775dc9e15053ba999f1",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676679,
-    "wof:lastmodified":1539928873,
+    "wof:lastmodified":1603247213,
     "wof:name":"Saint-Front-D'Alemps",
     "wof:parent_id":102064967,
     "wof:placetype":"locality",

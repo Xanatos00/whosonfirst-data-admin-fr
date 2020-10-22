@@ -9,7 +9,7 @@
     "geom:bbox":"7.204638,43.7626795,7.204638,43.7626795",
     "geom:latitude":43.762679,
     "geom:longitude":7.204638,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.762679,
     "lbl:longitude":7.204638,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686113,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247054,
     "wof:name":"La Manda",
     "wof:parent_id":404381487,
     "wof:placetype":"neighbourhood",

@@ -146,6 +146,11 @@
         404374357
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d359d96ce08655db17eafec73440c122",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360675191,
-    "wof:lastmodified":1564126322,
+    "wof:lastmodified":1603247229,
     "wof:name":"Le Vivier",
     "wof:parent_id":102067319,
     "wof:placetype":"locality",

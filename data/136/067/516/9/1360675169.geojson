@@ -65,6 +65,10 @@
         404374145
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4575ae5be50d6f5d20318e00e5bfde98",
     "wof:hierarchy":[
         {
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1360675169,
-    "wof:lastmodified":1564126380,
+    "wof:lastmodified":1603247238,
     "wof:name":"Tasse",
     "wof:parent_id":102065057,
     "wof:placetype":"locality",

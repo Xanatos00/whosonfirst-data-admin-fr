@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404389723,
         404228071,
+        404389723,
+        85633147,
         1108826385,
         136253037,
         102070175
@@ -63,6 +63,10 @@
         404389723
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f436ddda930bd671f8ab4e57f0248b76",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676697,
-    "wof:lastmodified":1539928874,
+    "wof:lastmodified":1603247210,
     "wof:name":"Saint-Vivien-De-Monsegur",
     "wof:parent_id":102070175,
     "wof:placetype":"locality",

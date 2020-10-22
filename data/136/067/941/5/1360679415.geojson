@@ -62,6 +62,10 @@
         404417749
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"89309cf6b0726663ab26f8191b2a9057",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360679415,
-    "wof:lastmodified":1539928921,
+    "wof:lastmodified":1603247229,
     "wof:name":"Le Housseau-Bretignolles",
     "wof:parent_id":102067313,
     "wof:placetype":"locality",

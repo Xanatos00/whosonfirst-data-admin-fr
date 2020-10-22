@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683243,
         102191581,
-        85633147,
-        404417467,
         404227657,
+        404417467,
+        85633147,
         1108826385,
         136253037,
         102065429
@@ -63,6 +63,10 @@
         404417467
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d66115945416ae757f4929154ccacc41",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679389,
-    "wof:lastmodified":1539928920,
+    "wof:lastmodified":1603247163,
     "wof:name":"Saint-Paul",
     "wof:parent_id":102065429,
     "wof:placetype":"locality",

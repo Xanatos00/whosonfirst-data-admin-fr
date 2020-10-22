@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683251,
         102191581,
-        85633147,
-        404379849,
         404227751,
+        404379849,
+        85633147,
         1108826393,
         136253037,
         102064519
@@ -68,6 +68,11 @@
         404379849
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3edcf8b98c9bf9b7b1e3595f3c48d4fb",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360675775,
-    "wof:lastmodified":1539928858,
+    "wof:lastmodified":1603247322,
     "wof:name":"Illois",
     "wof:parent_id":102064519,
     "wof:placetype":"locality",

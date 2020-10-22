@@ -147,6 +147,10 @@
         404417517
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8cdce1aaa40b08c4c14389d81b5b37a1",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360679403,
-    "wof:lastmodified":1564126368,
+    "wof:lastmodified":1603247236,
     "wof:name":"Saint-Pair",
     "wof:parent_id":102070397,
     "wof:placetype":"locality",

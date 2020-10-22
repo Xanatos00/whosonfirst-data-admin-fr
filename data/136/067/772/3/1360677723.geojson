@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683271,
         102191581,
-        85633147,
-        404400341,
         404227711,
+        404400341,
+        85633147,
         1108826391,
         136253037,
         102064857
@@ -63,6 +63,10 @@
         404400341
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"963281fc3f2e1f117ea03cd75aa1e307",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677723,
-    "wof:lastmodified":1539928891,
+    "wof:lastmodified":1603247311,
     "wof:name":"Voelfling-Les-Bouzonville",
     "wof:parent_id":102064857,
     "wof:placetype":"locality",

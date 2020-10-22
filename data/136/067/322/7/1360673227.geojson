@@ -140,6 +140,11 @@
         404354803
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f54ca6d0dc8589481f9030fc4089652c",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360673227,
-    "wof:lastmodified":1564126422,
+    "wof:lastmodified":1603247244,
     "wof:name":"Gaillac",
     "wof:parent_id":102066451,
     "wof:placetype":"locality",

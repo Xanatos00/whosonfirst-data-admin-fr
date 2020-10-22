@@ -143,6 +143,11 @@
         404410087
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ca0fe5871f000468aa83eccbe1fb5a43",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360678661,
-    "wof:lastmodified":1564126144,
+    "wof:lastmodified":1603247204,
     "wof:name":"Seigneulles",
     "wof:parent_id":102068917,
     "wof:placetype":"locality",

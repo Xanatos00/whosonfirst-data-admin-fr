@@ -157,6 +157,11 @@
         404385283
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"68fe9333be87b2717900dbb8158fe43c",
     "wof:hierarchy":[
         {
@@ -171,7 +176,7 @@
         }
     ],
     "wof:id":1360676301,
-    "wof:lastmodified":1564126785,
+    "wof:lastmodified":1603247292,
     "wof:name":"Montsalier",
     "wof:parent_id":102064805,
     "wof:placetype":"locality",

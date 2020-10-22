@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683265,
         102191581,
-        85633147,
-        404402177,
         404227959,
+        404402177,
+        85633147,
         1108826389,
         136253037,
         102068413
@@ -63,6 +63,10 @@
         404402177
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8f46bc7134ad6eac5e1cdf0cd209ca90",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677863,
-    "wof:lastmodified":1539928894,
+    "wof:lastmodified":1603247311,
     "wof:name":"La Croix-De-La-Rochette",
     "wof:parent_id":102068413,
     "wof:placetype":"locality",

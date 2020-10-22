@@ -164,6 +164,11 @@
         404359441
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e6f3a7403cecd2d218fe9d04de5ff1aa",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360673695,
-    "wof:lastmodified":1564126517,
+    "wof:lastmodified":1603247257,
     "wof:name":"Auvillars",
     "wof:parent_id":102066141,
     "wof:placetype":"locality",

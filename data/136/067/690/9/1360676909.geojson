@@ -105,6 +105,10 @@
         404391459
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1cc45558a9cb53d0bbb84b05a7ae50b3",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360676909,
-    "wof:lastmodified":1564126765,
+    "wof:lastmodified":1603247289,
     "wof:name":"Saint-Pancrace",
     "wof:parent_id":102069031,
     "wof:placetype":"locality",

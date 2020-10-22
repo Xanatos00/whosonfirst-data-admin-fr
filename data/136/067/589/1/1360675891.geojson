@@ -62,6 +62,10 @@
         404380861
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3ef864fe7f33999ce3f8c6cdf1424ca2",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360675891,
-    "wof:lastmodified":1539928860,
+    "wof:lastmodified":1603247242,
     "wof:name":"Saint-Maur-Sur-Le-Loir",
     "wof:parent_id":102064901,
     "wof:placetype":"locality",

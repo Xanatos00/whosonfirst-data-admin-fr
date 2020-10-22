@@ -406,7 +406,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"7340",
     "statoids:as_of_date":"2010-01-01",
     "statoids:capital":"Moulins",
@@ -453,7 +453,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1588976237,
+    "wof:lastmodified":1603246958,
     "wof:name":"Allier",
     "wof:parent_id":1108826389,
     "wof:placetype":"region",

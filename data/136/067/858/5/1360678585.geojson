@@ -105,6 +105,10 @@
         404409621
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d4c3fb80bf6643e103fd51870e04f57a",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360678585,
-    "wof:lastmodified":1564126242,
+    "wof:lastmodified":1603247218,
     "wof:name":"Sery",
     "wof:parent_id":102070387,
     "wof:placetype":"locality",

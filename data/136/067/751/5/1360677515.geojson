@@ -104,6 +104,11 @@
         404398153
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1a5c2e60e86010d43cb81ff0846f4a18",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360677515,
-    "wof:lastmodified":1564126508,
+    "wof:lastmodified":1603247256,
     "wof:name":"Grignon",
     "wof:parent_id":102070659,
     "wof:placetype":"locality",

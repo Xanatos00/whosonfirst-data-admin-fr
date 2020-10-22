@@ -9,7 +9,7 @@
     "geom:bbox":"6.466655,45.019549,6.466655,45.019549",
     "geom:latitude":45.019549,
     "geom:longitude":6.466655,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.019549,
     "lbl:longitude":6.466655,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360685315,
-    "wof:lastmodified":1539986869,
+    "wof:lastmodified":1603247084,
     "wof:name":"Le Lauzet",
     "wof:parent_id":404363215,
     "wof:placetype":"neighbourhood",

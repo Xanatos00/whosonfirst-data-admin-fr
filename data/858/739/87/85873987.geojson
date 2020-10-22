@@ -9,7 +9,6 @@
     "geom:bbox":"2.309517,48.886903,2.330225,48.901163",
     "geom:latitude":48.894931,
     "geom:longitude":2.321146,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.894674,
     "lbl:longitude":2.321852,
@@ -98,12 +97,12 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":401,
     "wof:belongsto":[
-        1158894267,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894267,
         85683497
     ],
     "wof:breaches":[],
@@ -131,10 +130,7 @@
         }
     ],
     "wof:id":85873987,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592440,
+    "wof:lastmodified":1603246970,
     "wof:name":"Epinettes",
     "wof:parent_id":1158894267,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683223,
         102191581,
-        85633147,
-        404370573,
         404227779,
+        404370573,
+        85633147,
         1108826391,
         136253037,
         102066279
@@ -63,6 +63,10 @@
         404370573
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"3a2fb30dfda95e60e7bb1306d9c2f3d5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674821,
-    "wof:lastmodified":1539928841,
+    "wof:lastmodified":1603247187,
     "wof:name":"Bouxieres-Aux-Bois",
     "wof:parent_id":102066279,
     "wof:placetype":"locality",

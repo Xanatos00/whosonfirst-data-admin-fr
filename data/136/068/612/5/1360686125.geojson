@@ -9,7 +9,7 @@
     "geom:bbox":"-0.3011365,47.854408,-0.3011365,47.854408",
     "geom:latitude":47.854408,
     "geom:longitude":-0.301136,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.854408,
     "lbl:longitude":-0.301136,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686125,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247095,
     "wof:name":"Le Port de Juign\u00e9",
     "wof:parent_id":404360587,
     "wof:placetype":"neighbourhood",

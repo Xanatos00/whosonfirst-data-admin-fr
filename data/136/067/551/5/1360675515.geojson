@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683239,
         102191581,
-        85633147,
-        404377063,
         404227637,
+        404377063,
+        85633147,
         1108826395,
         136253037,
         102065421
@@ -63,6 +63,10 @@
         404377063
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"26b0d18b503b2240ec7cab2324a2f110",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675515,
-    "wof:lastmodified":1539928853,
+    "wof:lastmodified":1603247160,
     "wof:name":"Boussieres",
     "wof:parent_id":102065421,
     "wof:placetype":"locality",

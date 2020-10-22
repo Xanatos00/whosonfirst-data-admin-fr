@@ -9,7 +9,7 @@
     "geom:bbox":"2.983452,45.6668395,2.983452,45.6668395",
     "geom:latitude":45.66684,
     "geom:longitude":2.983452,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.66684,
     "lbl:longitude":2.983452,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684625,
-    "wof:lastmodified":1539986859,
+    "wof:lastmodified":1603247067,
     "wof:name":"Sauteyras",
     "wof:parent_id":404368207,
     "wof:placetype":"neighbourhood",

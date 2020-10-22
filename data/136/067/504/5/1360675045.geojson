@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404372861,
         404227669,
+        404372861,
+        85633147,
         1108826389,
         136253037,
         102070509
@@ -63,6 +63,10 @@
         404372861
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a42fe4766d29a138b068dbf023408707",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675045,
-    "wof:lastmodified":1539928845,
+    "wof:lastmodified":1603247179,
     "wof:name":"La Riviere",
     "wof:parent_id":102070509,
     "wof:placetype":"locality",

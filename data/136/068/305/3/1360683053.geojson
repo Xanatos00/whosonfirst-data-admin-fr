@@ -9,7 +9,7 @@
     "geom:bbox":"5.695758,44.966336,5.695758,44.966336",
     "geom:latitude":44.966336,
     "geom:longitude":5.695758,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.966336,
     "lbl:longitude":5.695758,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683053,
-    "wof:lastmodified":1539986839,
+    "wof:lastmodified":1603247086,
     "wof:name":"Bge de Monteynard",
     "wof:parent_id":404362507,
     "wof:placetype":"neighbourhood",

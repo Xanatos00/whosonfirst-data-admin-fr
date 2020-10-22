@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404368095,
         404228049,
+        404368095,
+        85633147,
         1108826385,
         136253037,
         102070021
@@ -63,6 +63,10 @@
         404368095
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"69b70d7052c5ac932a77e0a558514dd2",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674625,
-    "wof:lastmodified":1539928838,
+    "wof:lastmodified":1603247223,
     "wof:name":"Saint-Privat-Des-Pres",
     "wof:parent_id":102070021,
     "wof:placetype":"locality",

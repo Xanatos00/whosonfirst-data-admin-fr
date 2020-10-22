@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404418307,
         404227853,
+        404418307,
+        85633147,
         1108826393,
         136253037,
         102071125
@@ -63,6 +63,10 @@
         404418307
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"43b257f5aeb97cd828e3e3b76258ce72",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679469,
-    "wof:lastmodified":1539928922,
+    "wof:lastmodified":1603247228,
     "wof:name":"Saint-Clair-D'Arcey",
     "wof:parent_id":102071125,
     "wof:placetype":"locality",

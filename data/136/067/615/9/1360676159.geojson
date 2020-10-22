@@ -72,9 +72,9 @@
     "wof:belongsto":[
         85683517,
         102191581,
-        85633147,
-        404383571,
         404227617,
+        404383571,
+        85633147,
         1108826389,
         136253037,
         102066221
@@ -89,6 +89,11 @@
         404383571
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6946590d5502e9eaeb4878b9103979db",
     "wof:hierarchy":[
         {
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1360676159,
-    "wof:lastmodified":1539928865,
+    "wof:lastmodified":1603247282,
     "wof:name":"Lacapelle-Del-Fraisse",
     "wof:parent_id":102066221,
     "wof:placetype":"locality",

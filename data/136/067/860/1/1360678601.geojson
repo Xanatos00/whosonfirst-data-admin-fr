@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404409705,
         404227669,
+        404409705,
+        85633147,
         1108826389,
         136253037,
         102065233
@@ -63,6 +63,10 @@
         404409705
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"31a7819ae6cdbfd17fa8c0c9b7a3bdc3",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678601,
-    "wof:lastmodified":1539928907,
+    "wof:lastmodified":1603247217,
     "wof:name":"Les Cotes-De-Corps",
     "wof:parent_id":102065233,
     "wof:placetype":"locality",

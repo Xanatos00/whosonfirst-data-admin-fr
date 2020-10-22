@@ -9,7 +9,7 @@
     "geom:bbox":"1.99785267073,45.3927406868,2.07429967638,45.4556973522",
     "geom:latitude":45.421384,
     "geom:longitude":2.036648,
-    "geonames:id":"3020358,6544981",
+    "gn:id":"3020358,6544981",
     "gn:population":5316,
     "iso:country":"FR",
     "lbl:latitude":45.40172,
@@ -353,7 +353,7 @@
         }
     ],
     "wof:id":101769315,
-    "wof:lastmodified":1582323452,
+    "wof:lastmodified":1603247799,
     "wof:name":"\u00c9gletons",
     "wof:parent_id":404424613,
     "wof:placetype":"locality",

@@ -104,6 +104,11 @@
         404413523
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"23176bea9ff90a956b6b1f006b500638",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360679035,
-    "wof:lastmodified":1564126504,
+    "wof:lastmodified":1603247255,
     "wof:name":"Fargues",
     "wof:parent_id":102068403,
     "wof:placetype":"locality",

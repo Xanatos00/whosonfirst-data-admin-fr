@@ -9,7 +9,7 @@
     "geom:bbox":"4.47498,43.568078,4.47498,43.568078",
     "geom:latitude":43.568078,
     "geom:longitude":4.47498,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.568078,
     "lbl:longitude":4.47498,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683717,
-    "wof:lastmodified":1539986847,
+    "wof:lastmodified":1603247073,
     "wof:name":"Le Paty de la Trinit\u00e9",
     "wof:parent_id":1159321919,
     "wof:placetype":"neighbourhood",

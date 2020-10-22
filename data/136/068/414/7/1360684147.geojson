@@ -9,7 +9,7 @@
     "geom:bbox":"6.990694,43.754915,6.990694,43.754915",
     "geom:latitude":43.754915,
     "geom:longitude":6.990694,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.754915,
     "lbl:longitude":6.990694,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684147,
-    "wof:lastmodified":1539986853,
+    "wof:lastmodified":1603247048,
     "wof:name":"Bramafan",
     "wof:parent_id":404374825,
     "wof:placetype":"neighbourhood",

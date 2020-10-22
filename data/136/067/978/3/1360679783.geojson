@@ -62,6 +62,10 @@
         404421953
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d19ad61a81d4e36b1e07b2f66f6d8995",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360679783,
-    "wof:lastmodified":1539928927,
+    "wof:lastmodified":1603247236,
     "wof:name":"Chateaufort",
     "wof:parent_id":102069753,
     "wof:placetype":"locality",

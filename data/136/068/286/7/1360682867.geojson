@@ -9,7 +9,7 @@
     "geom:bbox":"7.016036,48.041485,7.016036,48.041485",
     "geom:latitude":48.041485,
     "geom:longitude":7.016036,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.041485,
     "lbl:longitude":7.016036,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682867,
-    "wof:lastmodified":1539986836,
+    "wof:lastmodified":1603247054,
     "wof:name":"La Schlucht",
     "wof:parent_id":404415491,
     "wof:placetype":"neighbourhood",

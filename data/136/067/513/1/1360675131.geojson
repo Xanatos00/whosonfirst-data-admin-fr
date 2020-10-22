@@ -125,6 +125,11 @@
         404373695
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2228144314464e2706f1a8da4af51abb",
     "wof:hierarchy":[
         {
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":1360675131,
-    "wof:lastmodified":1564126945,
+    "wof:lastmodified":1603247314,
     "wof:name":"Caubous",
     "wof:parent_id":102064903,
     "wof:placetype":"locality",

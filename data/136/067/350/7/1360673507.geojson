@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683389,
         102191581,
-        85633147,
-        404357497,
         404228099,
+        404357497,
+        85633147,
         1108826387,
         136253037,
         102066155
@@ -63,6 +63,10 @@
         404357497
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9633c8389249a38b8a02186ecc9209d3",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673507,
-    "wof:lastmodified":1539928812,
+    "wof:lastmodified":1603247249,
     "wof:name":"Saint-Clair",
     "wof:parent_id":102066155,
     "wof:placetype":"locality",

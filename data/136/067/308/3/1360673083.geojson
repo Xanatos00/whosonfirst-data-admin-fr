@@ -134,6 +134,11 @@
         404353423
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cd3997a918a6b63823bcbdbae078d72a",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360673083,
-    "wof:lastmodified":1564125923,
+    "wof:lastmodified":1603247174,
     "wof:name":"Cazaux-Layrisse",
     "wof:parent_id":102069485,
     "wof:placetype":"locality",

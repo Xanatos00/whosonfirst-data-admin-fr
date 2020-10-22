@@ -147,6 +147,10 @@
         404415797
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c952958911277248cd2b9ef2cea5d66c",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360679257,
-    "wof:lastmodified":1564126410,
+    "wof:lastmodified":1603247242,
     "wof:name":"Saint-Jammes",
     "wof:parent_id":102068661,
     "wof:placetype":"locality",

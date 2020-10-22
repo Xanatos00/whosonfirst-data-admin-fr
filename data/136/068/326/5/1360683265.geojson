@@ -9,7 +9,7 @@
     "geom:bbox":"1.38153,42.806925,1.38153,42.806925",
     "geom:latitude":42.806925,
     "geom:longitude":1.38153,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.806925,
     "lbl:longitude":1.38153,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683265,
-    "wof:lastmodified":1539986841,
+    "wof:lastmodified":1603247119,
     "wof:name":"Peyre-Ausel\u00e8re",
     "wof:parent_id":404413231,
     "wof:placetype":"neighbourhood",

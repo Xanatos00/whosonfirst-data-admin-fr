@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404347701,
         404228213,
+        404347701,
+        85633147,
         1108826385,
         136253037,
         102071469
@@ -63,6 +63,10 @@
         404347701
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8c5b17c0ec49aced92b8c6cf2d3f0a7b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672565,
-    "wof:lastmodified":1539928783,
+    "wof:lastmodified":1603247218,
     "wof:name":"Saint-Cernin-De-L'Herm",
     "wof:parent_id":102071469,
     "wof:placetype":"locality",

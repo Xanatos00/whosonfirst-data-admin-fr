@@ -137,6 +137,11 @@
         404369809
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"266bffe742547a442d76b2b5bb2b3754",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360674753,
-    "wof:lastmodified":1564126652,
+    "wof:lastmodified":1603247275,
     "wof:name":"Estal",
     "wof:parent_id":102064343,
     "wof:placetype":"locality",

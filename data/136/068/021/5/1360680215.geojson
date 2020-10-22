@@ -134,6 +134,11 @@
         404426447
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8040b8b987096e9e4ff791e8e0a4e9ba",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360680215,
-    "wof:lastmodified":1564125638,
+    "wof:lastmodified":1603247100,
     "wof:name":"Boussac",
     "wof:parent_id":102070957,
     "wof:placetype":"locality",

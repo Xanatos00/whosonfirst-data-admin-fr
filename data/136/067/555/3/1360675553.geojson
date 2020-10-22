@@ -143,6 +143,11 @@
         404377707
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bdf77cca15e783118a0e5a650367c184",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360675553,
-    "wof:lastmodified":1564126482,
+    "wof:lastmodified":1603247252,
     "wof:name":"Gremilly",
     "wof:parent_id":102065371,
     "wof:placetype":"locality",

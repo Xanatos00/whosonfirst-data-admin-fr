@@ -164,6 +164,11 @@
         404383049
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"50f05a9b054913dcf43ac6339fdcf32c",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360676095,
-    "wof:lastmodified":1564126880,
+    "wof:lastmodified":1603247305,
     "wof:name":"La Broque",
     "wof:parent_id":102068665,
     "wof:placetype":"locality",

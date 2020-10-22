@@ -9,7 +9,7 @@
     "geom:bbox":"7.064723,43.611315,7.064723,43.611315",
     "geom:latitude":43.611315,
     "geom:longitude":7.064723,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.611315,
     "lbl:longitude":7.064723,
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1360686469,
-    "wof:lastmodified":1563280047,
+    "wof:lastmodified":1603247097,
     "wof:name":"Sophia Antipolis",
     "wof:parent_id":404368657,
     "wof:placetype":"neighbourhood",

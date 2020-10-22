@@ -152,6 +152,11 @@
         404353805
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a0da5eec5479b21c009baf89c3c26be3",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360673117,
-    "wof:lastmodified":1564126911,
+    "wof:lastmodified":1603247309,
     "wof:name":"Bergouey",
     "wof:parent_id":102066799,
     "wof:placetype":"locality",

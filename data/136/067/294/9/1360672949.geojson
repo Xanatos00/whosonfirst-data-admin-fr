@@ -104,6 +104,11 @@
         404351785
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6ba12704610f3e9924043496a59bb170",
     "wof:hierarchy":[
         {
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":1360672949,
-    "wof:lastmodified":1564126210,
+    "wof:lastmodified":1603247214,
     "wof:name":"Viry",
     "wof:parent_id":102065981,
     "wof:placetype":"locality",

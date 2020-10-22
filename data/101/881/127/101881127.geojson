@@ -9,7 +9,7 @@
     "geom:bbox":"1.63832132788,48.6236242025,1.73749018415,48.6859307807",
     "geom:latitude":48.653718,
     "geom:longitude":1.688305,
-    "geonames:id":"3013426,3013427",
+    "gn:id":"3013426,3013427",
     "iso:country":"FR",
     "lbl:latitude":48.647787,
     "lbl:longitude":1.68958,
@@ -331,7 +331,7 @@
         }
     ],
     "wof:id":101881127,
-    "wof:lastmodified":1582323258,
+    "wof:lastmodified":1603247582,
     "wof:name":"Hermeray",
     "wof:parent_id":404348855,
     "wof:placetype":"locality",

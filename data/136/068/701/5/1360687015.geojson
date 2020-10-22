@@ -9,7 +9,7 @@
     "geom:bbox":"4.058899,47.196011,4.058899,47.196011",
     "geom:latitude":47.196011,
     "geom:longitude":4.058899,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.196011,
     "lbl:longitude":4.058899,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687015,
-    "wof:lastmodified":1539986890,
+    "wof:lastmodified":1603247035,
     "wof:name":"Les Settons",
     "wof:parent_id":404364001,
     "wof:placetype":"neighbourhood",

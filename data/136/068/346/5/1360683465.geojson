@@ -9,7 +9,7 @@
     "geom:bbox":"5.608284,45.113632,5.608284,45.113632",
     "geom:latitude":45.113632,
     "geom:longitude":5.608284,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.113632,
     "lbl:longitude":5.608284,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683465,
-    "wof:lastmodified":1539986844,
+    "wof:lastmodified":1603247067,
     "wof:name":"Stade des Neiges",
     "wof:parent_id":404375573,
     "wof:placetype":"neighbourhood",

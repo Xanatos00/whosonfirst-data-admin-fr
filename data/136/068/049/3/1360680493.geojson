@@ -74,6 +74,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526509201,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"bb40c785a6f4a7b017ef50fb65793767",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1360680493,
-    "wof:lastmodified":1564125429,
+    "wof:lastmodified":1603247053,
     "wof:name":"Lavilleneuve-au-Roi",
     "wof:parent_id":102066807,
     "wof:placetype":"locality",

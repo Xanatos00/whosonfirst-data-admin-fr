@@ -72,9 +72,9 @@
     "wof:belongsto":[
         85683431,
         102191581,
-        85633147,
-        404423783,
         404227651,
+        404423783,
+        85633147,
         1108826387,
         136253037,
         102065027
@@ -89,6 +89,11 @@
         404423783
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"29912a6137afd4e623d8c884deb8be23",
     "wof:hierarchy":[
         {
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":1360679973,
-    "wof:lastmodified":1539928930,
+    "wof:lastmodified":1603247178,
     "wof:name":"Boisset-Et-Gaujac",
     "wof:parent_id":102065027,
     "wof:placetype":"locality",

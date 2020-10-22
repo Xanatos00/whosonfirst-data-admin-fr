@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683471,
         102191581,
-        85633147,
-        404374917,
         404227725,
+        404374917,
+        85633147,
         1108826389,
         136253037,
         102071117
@@ -63,6 +63,10 @@
         404374917
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d7e84ea2f4f32f5c835f305da3b7e54b",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675265,
-    "wof:lastmodified":1539928849,
+    "wof:lastmodified":1603247228,
     "wof:name":"Condat-Les-Montboissier",
     "wof:parent_id":102071117,
     "wof:placetype":"locality",

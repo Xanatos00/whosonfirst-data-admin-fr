@@ -120,6 +120,10 @@
         404387105
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"115fe53c317967da1cf35fb458d8cde1",
     "wof:hierarchy":[
         {
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":1360676447,
-    "wof:lastmodified":1564126013,
+    "wof:lastmodified":1603247187,
     "wof:name":"Mont-Saint-Martin",
     "wof:parent_id":102071595,
     "wof:placetype":"locality",

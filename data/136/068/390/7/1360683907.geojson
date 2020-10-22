@@ -9,7 +9,7 @@
     "geom:bbox":"6.698334,46.05392,6.698334,46.05392",
     "geom:latitude":46.05392,
     "geom:longitude":6.698334,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.05392,
     "lbl:longitude":6.698334,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683907,
-    "wof:lastmodified":1539986850,
+    "wof:lastmodified":1603247041,
     "wof:name":"Les Esserts",
     "wof:parent_id":404360765,
     "wof:placetype":"neighbourhood",

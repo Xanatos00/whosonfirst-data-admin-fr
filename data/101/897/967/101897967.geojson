@@ -9,7 +9,7 @@
     "geom:bbox":"0.0466468415539,42.8277266802,0.174307581507,42.9084340846",
     "geom:latitude":42.877571,
     "geom:longitude":0.113873,
-    "geonames:id":"3034961,6544325",
+    "gn:id":"3034961,6544325",
     "iso:country":"FR",
     "lbl:latitude":42.896329,
     "lbl:longitude":0.062393,
@@ -350,7 +350,7 @@
         }
     ],
     "wof:id":101897967,
-    "wof:lastmodified":1582323803,
+    "wof:lastmodified":1603248200,
     "wof:name":"Bar\u00e8ges",
     "wof:parent_id":404383305,
     "wof:placetype":"locality",

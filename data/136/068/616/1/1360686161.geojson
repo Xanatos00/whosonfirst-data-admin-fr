@@ -9,7 +9,7 @@
     "geom:bbox":"3.374025,44.342296,3.374025,44.342296",
     "geom:latitude":44.342296,
     "geom:longitude":3.374025,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.342296,
     "lbl:longitude":3.374025,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686161,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247054,
     "wof:name":"Pougnadoires",
     "wof:parent_id":404349583,
     "wof:placetype":"neighbourhood",

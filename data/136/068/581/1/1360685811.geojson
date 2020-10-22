@@ -9,7 +9,7 @@
     "geom:bbox":"-3.844871,48.628342,-3.844871,48.628342",
     "geom:latitude":48.628342,
     "geom:longitude":-3.844871,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.628342,
     "lbl:longitude":-3.844871,
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1360685811,
-    "wof:lastmodified":1539986875,
+    "wof:lastmodified":1603247071,
     "wof:name":"Le Dourduff-en-mer",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

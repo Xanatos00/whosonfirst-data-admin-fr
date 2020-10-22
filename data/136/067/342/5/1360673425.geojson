@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683179,
         102191581,
-        85633147,
-        404356801,
         404227633,
+        404356801,
+        85633147,
         1108826385,
         136253037,
         102066599
@@ -63,6 +63,10 @@
         404356801
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"46018bb33a01f08bcc1d0d9b0bc94019",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673425,
-    "wof:lastmodified":1539928808,
+    "wof:lastmodified":1603247312,
     "wof:name":"Saint-Pardoux-D'Arnet",
     "wof:parent_id":102066599,
     "wof:placetype":"locality",

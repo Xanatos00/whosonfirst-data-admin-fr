@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683431,
         102191581,
-        85633147,
-        404422261,
         404227861,
+        404422261,
+        85633147,
         1108826387,
         136253037,
         102067041
@@ -68,6 +68,11 @@
         404422261
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dbbd81bb9c0957520276a27ed6445a45",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679811,
-    "wof:lastmodified":1539928927,
+    "wof:lastmodified":1603247326,
     "wof:name":"La Bastide-D'Engras",
     "wof:parent_id":102067041,
     "wof:placetype":"locality",

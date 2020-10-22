@@ -116,6 +116,11 @@
         404399765
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"800175c32ec95f60911040f3364e2aab",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360677661,
-    "wof:lastmodified":1564126588,
+    "wof:lastmodified":1603247267,
     "wof:name":"Loupiac",
     "wof:parent_id":102068453,
     "wof:placetype":"locality",

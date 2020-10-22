@@ -110,6 +110,11 @@
         404373927
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6d36822a5e81e32e8762365c778ccdf0",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360675163,
-    "wof:lastmodified":1564126381,
+    "wof:lastmodified":1603247238,
     "wof:name":"Buthiers",
     "wof:parent_id":102068229,
     "wof:placetype":"locality",

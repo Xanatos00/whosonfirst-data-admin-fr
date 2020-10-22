@@ -134,6 +134,11 @@
         404400419
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7fb034480abab7275de8385e5bafe9cf",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360677715,
-    "wof:lastmodified":1564126347,
+    "wof:lastmodified":1603247233,
     "wof:name":"Bermont",
     "wof:parent_id":102066069,
     "wof:placetype":"locality",

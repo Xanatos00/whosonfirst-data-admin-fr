@@ -139,6 +139,11 @@
         404349907
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"36a4781b68f270e316a2be88da66d3fd",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360672751,
-    "wof:lastmodified":1564126135,
+    "wof:lastmodified":1603247203,
     "wof:name":"Perdreauville",
     "wof:parent_id":102064521,
     "wof:placetype":"locality",

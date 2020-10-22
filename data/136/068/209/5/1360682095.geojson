@@ -9,7 +9,7 @@
     "geom:bbox":"7.221021,44.070967,7.221021,44.070967",
     "geom:latitude":44.070967,
     "geom:longitude":7.221021,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.070967,
     "lbl:longitude":7.221021,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360682095,
-    "wof:lastmodified":1539986826,
+    "wof:lastmodified":1603247101,
     "wof:name":"La Colmiane",
     "wof:parent_id":404366599,
     "wof:placetype":"neighbourhood",

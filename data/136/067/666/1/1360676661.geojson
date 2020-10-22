@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683445,
         102191581,
-        85633147,
-        404389389,
         404227715,
+        404389389,
+        85633147,
         1108826399,
         136253037,
         102071803
@@ -68,6 +68,11 @@
         404389389
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1610225c4360a2a9a77e36b89bb9d9d5",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360676661,
-    "wof:lastmodified":1539928873,
+    "wof:lastmodified":1603247220,
     "wof:name":"Wallers-En-Fagne",
     "wof:parent_id":102071803,
     "wof:placetype":"locality",

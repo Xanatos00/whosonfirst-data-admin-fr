@@ -119,6 +119,11 @@
         404414093
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"baa217b97671fb7b802af8008a308e59",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360679089,
-    "wof:lastmodified":1564125937,
+    "wof:lastmodified":1603247176,
     "wof:name":"Rouvres",
     "wof:parent_id":102065515,
     "wof:placetype":"locality",

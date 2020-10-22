@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683579,
         102191581,
-        85633147,
-        404374301,
         404228207,
+        404374301,
+        85633147,
         1108826393,
         136253037,
         102069903
@@ -67,6 +67,11 @@
         404374301
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5ff5650e3d507bb9034c3b0aa0069c44",
     "wof:hierarchy":[
         {
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":1360675199,
-    "wof:lastmodified":1539928848,
+    "wof:lastmodified":1603247229,
     "wof:name":"Sainte-Marie-Outre-L'Eau",
     "wof:parent_id":102069903,
     "wof:placetype":"locality",

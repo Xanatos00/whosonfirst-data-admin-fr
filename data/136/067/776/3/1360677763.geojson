@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404400949,
         404227655,
+        404400949,
+        85633147,
         1108826387,
         136253037,
         102066233
@@ -63,6 +63,10 @@
         404400949
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"16f48c0c7ef1e92b0aa6af553a7cc74f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677763,
-    "wof:lastmodified":1539928892,
+    "wof:lastmodified":1603247234,
     "wof:name":"Merens",
     "wof:parent_id":102066233,
     "wof:placetype":"locality",

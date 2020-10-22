@@ -143,6 +143,11 @@
         404402827
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9300288e3f53096ac48db05deeadb994",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360677929,
-    "wof:lastmodified":1564126584,
+    "wof:lastmodified":1603247266,
     "wof:name":"Cizely",
     "wof:parent_id":102068281,
     "wof:placetype":"locality",

@@ -113,6 +113,11 @@
         404378987
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fe751fadca7f733a924f3a0a09430efe",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360675673,
-    "wof:lastmodified":1564125856,
+    "wof:lastmodified":1603247165,
     "wof:name":"Servon",
     "wof:parent_id":102069633,
     "wof:placetype":"locality",

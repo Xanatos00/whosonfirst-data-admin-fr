@@ -9,7 +9,7 @@
     "geom:bbox":"6.765904,45.549219,6.765904,45.549219",
     "geom:latitude":45.549219,
     "geom:longitude":6.765904,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":45.549219,
     "lbl:longitude":6.765904,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686093,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247112,
     "wof:name":"Plan-Peisey",
     "wof:parent_id":404390503,
     "wof:placetype":"neighbourhood",

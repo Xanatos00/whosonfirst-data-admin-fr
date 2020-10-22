@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404427973,
         404228239,
+        404427973,
+        85633147,
         1108826391,
         136253037,
         102066205
@@ -63,6 +63,10 @@
         404427973
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"db895253df3bdb42282a54055551f702",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680387,
-    "wof:lastmodified":1539928937,
+    "wof:lastmodified":1603247057,
     "wof:name":"Tramont-Saint-Andre",
     "wof:parent_id":102066205,
     "wof:placetype":"locality",

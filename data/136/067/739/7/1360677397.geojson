@@ -113,6 +113,11 @@
         404396653
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c7cf566c8d4a4a4f7d5203653b811ce7",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360677397,
-    "wof:lastmodified":1564125872,
+    "wof:lastmodified":1603247167,
     "wof:name":"Aumont",
     "wof:parent_id":102068993,
     "wof:placetype":"locality",

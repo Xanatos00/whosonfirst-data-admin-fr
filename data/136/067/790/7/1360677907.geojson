@@ -149,6 +149,11 @@
         404402591
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fb55812fe1c1ca46e08a1a4b4942e77d",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360677907,
-    "wof:lastmodified":1564125834,
+    "wof:lastmodified":1603247162,
     "wof:name":"Sury",
     "wof:parent_id":102066979,
     "wof:placetype":"locality",

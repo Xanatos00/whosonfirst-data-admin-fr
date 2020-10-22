@@ -127,6 +127,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526510440,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"3966097e53d1ffe5320ec41a2e4b84f8",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1360680505,
-    "wof:lastmodified":1564125665,
+    "wof:lastmodified":1603247106,
     "wof:name":"Port-de-Bouc",
     "wof:parent_id":102071577,
     "wof:placetype":"locality",

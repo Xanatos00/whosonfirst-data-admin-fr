@@ -9,7 +9,6 @@
     "geom:bbox":"2.34086,48.844431,2.349889,48.854152",
     "geom:latitude":48.849076,
     "geom:longitude":2.345824,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.849188,
     "lbl:longitude":2.345459,
@@ -99,13 +98,13 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894239,
         102191581,
-        85633147,
-        1159322569,
-        101751119,
         1158894275,
+        1159322569,
+        85633147,
         404227465,
+        101751119,
+        1158894239,
         85683497
     ],
     "wof:breaches":[],
@@ -134,10 +133,7 @@
         }
     ],
     "wof:id":85873821,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592440,
+    "wof:lastmodified":1603246971,
     "wof:name":"Sorbonne",
     "wof:parent_id":1158894275,
     "wof:placetype":"neighbourhood",

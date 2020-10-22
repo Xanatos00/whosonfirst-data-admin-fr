@@ -147,6 +147,10 @@
         404394557
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9132e47dabd83ba329485457c9f6e827",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360677215,
-    "wof:lastmodified":1564126944,
+    "wof:lastmodified":1603247314,
     "wof:name":"Jaunac",
     "wof:parent_id":102065359,
     "wof:placetype":"locality",

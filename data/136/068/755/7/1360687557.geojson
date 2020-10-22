@@ -9,7 +9,7 @@
     "geom:bbox":"-1.828966,46.548649,-1.828966,46.548649",
     "geom:latitude":46.548649,
     "geom:longitude":-1.828966,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":46.548649,
     "lbl:longitude":-1.828966,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687557,
-    "wof:lastmodified":1539986897,
+    "wof:lastmodified":1603247034,
     "wof:name":"Champclou",
     "wof:parent_id":404382727,
     "wof:placetype":"neighbourhood",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683359,
         102191581,
-        85633147,
-        404361489,
         404227925,
+        404361489,
+        85633147,
         1108826395,
         136253037,
         102068769
@@ -63,6 +63,10 @@
         404361489
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c7cfccba19c4627ec1e9d5147fb2ee44",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673931,
-    "wof:lastmodified":1539928824,
+    "wof:lastmodified":1603247261,
     "wof:name":"Saint-Germain-Des-Bois",
     "wof:parent_id":102068769,
     "wof:placetype":"locality",

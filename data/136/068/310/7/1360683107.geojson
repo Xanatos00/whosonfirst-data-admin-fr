@@ -9,7 +9,7 @@
     "geom:bbox":"7.684206,48.519482,7.684206,48.519482",
     "geom:latitude":48.519482,
     "geom:longitude":7.684206,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.519482,
     "lbl:longitude":7.684206,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683107,
-    "wof:lastmodified":1539986839,
+    "wof:lastmodified":1603247118,
     "wof:name":"Geispolsheim-Gare",
     "wof:parent_id":404398443,
     "wof:placetype":"neighbourhood",

@@ -139,6 +139,11 @@
         404397673
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"de9d12c73e6f692cde2e72f829a8f98f",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360677481,
-    "wof:lastmodified":1564126400,
+    "wof:lastmodified":1603247241,
     "wof:name":"Reigny",
     "wof:parent_id":102065893,
     "wof:placetype":"locality",

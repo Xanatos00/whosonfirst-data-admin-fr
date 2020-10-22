@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683603,
         102191581,
-        85633147,
-        404359349,
         404227975,
+        404359349,
+        85633147,
         1108826387,
         136253037,
         102067853
@@ -68,6 +68,11 @@
         404359349
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ed30b470e85b09e1dc3ad0d211d017dc",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673679,
-    "wof:lastmodified":1539928818,
+    "wof:lastmodified":1603247260,
     "wof:name":"Pont-De-Larn",
     "wof:parent_id":102067853,
     "wof:placetype":"locality",

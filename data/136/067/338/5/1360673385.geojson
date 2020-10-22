@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683471,
         102191581,
-        85633147,
-        404356331,
         404227937,
+        404356331,
+        85633147,
         1108826389,
         136253037,
         102067637
@@ -63,6 +63,10 @@
         404356331
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a5e9c461841418050574bc4ebd090a28",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673385,
-    "wof:lastmodified":1539928805,
+    "wof:lastmodified":1603247161,
     "wof:name":"Saint-Germain-Pres-Herment",
     "wof:parent_id":102067637,
     "wof:placetype":"locality",

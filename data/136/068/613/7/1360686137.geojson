@@ -9,7 +9,7 @@
     "geom:bbox":"4.139442,44.272246,4.139442,44.272246",
     "geom:latitude":44.272246,
     "geom:longitude":4.139442,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.272246,
     "lbl:longitude":4.139442,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686137,
-    "wof:lastmodified":1539986879,
+    "wof:lastmodified":1603247088,
     "wof:name":"Gammal",
     "wof:parent_id":404400463,
     "wof:placetype":"neighbourhood",

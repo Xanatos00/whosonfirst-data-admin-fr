@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683217,
         102191581,
-        85633147,
-        404349555,
         404227977,
+        404349555,
+        85633147,
         1108826387,
         136253037,
         102067655
@@ -68,6 +68,11 @@
         404349555
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2a3f98c7c2835d31fe5aef084549d1e9",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672707,
-    "wof:lastmodified":1539928786,
+    "wof:lastmodified":1603247268,
     "wof:name":"Labastide-De-Penne",
     "wof:parent_id":102067655,
     "wof:placetype":"locality",

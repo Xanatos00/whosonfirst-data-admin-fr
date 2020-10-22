@@ -62,6 +62,10 @@
         404351767
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"41d2198fd8e6d9c6434d15c00e22ddb6",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360672935,
-    "wof:lastmodified":1539928791,
+    "wof:lastmodified":1603247216,
     "wof:name":"Sace",
     "wof:parent_id":102068085,
     "wof:placetype":"locality",

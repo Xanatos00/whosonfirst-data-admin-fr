@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404353401,
         404228213,
+        404353401,
+        85633147,
         1108826385,
         136253037,
         102070697
@@ -63,6 +63,10 @@
         404353401
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"dfd2399ffe5c19e6c5525da9ef01f7e4",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673077,
-    "wof:lastmodified":1539928794,
+    "wof:lastmodified":1603247160,
     "wof:name":"Vezac",
     "wof:parent_id":102070697,
     "wof:placetype":"locality",

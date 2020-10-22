@@ -95,6 +95,10 @@
         404399895
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1bd7abade7492ee1f5ca6cd47f6b6160",
     "wof:hierarchy":[
         {
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1360677677,
-    "wof:lastmodified":1564126480,
+    "wof:lastmodified":1603247251,
     "wof:name":"Saint-Armel",
     "wof:parent_id":102070581,
     "wof:placetype":"locality",

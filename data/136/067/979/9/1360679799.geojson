@@ -66,9 +66,9 @@
     "wof:belongsto":[
         85683413,
         102191581,
-        85633147,
-        404422111,
         404227891,
+        404422111,
+        85633147,
         1108826389,
         136253037,
         102067619
@@ -83,6 +83,11 @@
         404422111
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"901b8816701a659b8c392e9f613791de",
     "wof:hierarchy":[
         {
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1360679799,
-    "wof:lastmodified":1539928927,
+    "wof:lastmodified":1603247227,
     "wof:name":"Barges",
     "wof:parent_id":102067619,
     "wof:placetype":"locality",

@@ -140,6 +140,11 @@
         404426301
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5aa6a7aa42cb0c18927763efd5288f2a",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360680199,
-    "wof:lastmodified":1564125632,
+    "wof:lastmodified":1603247099,
     "wof:name":"Quint-Fonsegrives",
     "wof:parent_id":102071279,
     "wof:placetype":"locality",

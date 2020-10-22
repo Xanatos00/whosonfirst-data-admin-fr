@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683563,
         102191581,
-        85633147,
-        404375871,
         404227839,
+        404375871,
+        85633147,
         1108826395,
         136253037,
         102069817
@@ -63,6 +63,10 @@
         404375871
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"78ccc0338dd112adfac681e3ea4ccab4",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675355,
-    "wof:lastmodified":1539928851,
+    "wof:lastmodified":1603247181,
     "wof:name":"Saint-Martin-Du-Mont",
     "wof:parent_id":102069817,
     "wof:placetype":"locality",

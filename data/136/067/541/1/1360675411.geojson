@@ -119,6 +119,11 @@
         404376335
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"01289d9c1105d4275b72e52b60b8d02b",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360675411,
-    "wof:lastmodified":1564126972,
+    "wof:lastmodified":1603247318,
     "wof:name":"Marsac",
     "wof:parent_id":102066061,
     "wof:placetype":"locality",

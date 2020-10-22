@@ -140,6 +140,11 @@
         404395301
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e2bf6a7713df4ca1b01604c3f5d9419e",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360677307,
-    "wof:lastmodified":1564125887,
+    "wof:lastmodified":1603247169,
     "wof:name":"Lachaise",
     "wof:parent_id":102065271,
     "wof:placetype":"locality",

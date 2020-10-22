@@ -9,7 +9,7 @@
     "geom:bbox":"6.595916,43.2927,6.595916,43.2927",
     "geom:latitude":43.2927,
     "geom:longitude":6.595916,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":43.2927,
     "lbl:longitude":6.595916,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360687561,
-    "wof:lastmodified":1539986897,
+    "wof:lastmodified":1603247082,
     "wof:name":"Maleribes",
     "wof:parent_id":404390321,
     "wof:placetype":"neighbourhood",

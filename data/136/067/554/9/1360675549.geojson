@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683221,
         102191581,
-        85633147,
-        404377627,
         404228289,
+        404377627,
+        85633147,
         1108826391,
         136253037,
         102070217
@@ -63,6 +63,10 @@
         404377627
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c6293465779ea8c09571fc606c8b9a6e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675549,
-    "wof:lastmodified":1539928854,
+    "wof:lastmodified":1603247266,
     "wof:name":"Neuve-Eglise",
     "wof:parent_id":102070217,
     "wof:placetype":"locality",

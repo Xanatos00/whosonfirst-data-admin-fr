@@ -110,6 +110,11 @@
         404419775
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b21795fc99c0ff99804c8f35b1bae232",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360679581,
-    "wof:lastmodified":1564126523,
+    "wof:lastmodified":1603247258,
     "wof:name":"Rosnay",
     "wof:parent_id":102070033,
     "wof:placetype":"locality",

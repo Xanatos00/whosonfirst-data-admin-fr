@@ -127,6 +127,11 @@
         404358267
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1f5f1f2a83971317a74e881d655cd38d",
     "wof:hierarchy":[
         {
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":1360673583,
-    "wof:lastmodified":1564126539,
+    "wof:lastmodified":1603247260,
     "wof:name":"Sainte-Gemme",
     "wof:parent_id":102067257,
     "wof:placetype":"locality",

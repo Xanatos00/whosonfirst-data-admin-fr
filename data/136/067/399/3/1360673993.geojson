@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683471,
         102191581,
-        85633147,
-        404361805,
         404227725,
+        404361805,
+        85633147,
         1108826389,
         136253037,
         102070835
@@ -63,6 +63,10 @@
         404361805
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"13ae024dd20dbc4ae9a16e7584dbec9f",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673993,
-    "wof:lastmodified":1539928825,
+    "wof:lastmodified":1603247178,
     "wof:name":"Saint-Clement-De-Valorgue",
     "wof:parent_id":102070835,
     "wof:placetype":"locality",

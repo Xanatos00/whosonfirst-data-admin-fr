@@ -137,6 +137,11 @@
         404425005
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1c2d26b9d1f942354c2db04609e1cb2f",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360680079,
-    "wof:lastmodified":1564125451,
+    "wof:lastmodified":1603247058,
     "wof:name":"Wangen",
     "wof:parent_id":102070327,
     "wof:placetype":"locality",

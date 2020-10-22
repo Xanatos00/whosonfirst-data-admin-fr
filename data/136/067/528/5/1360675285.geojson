@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683163,
         102191581,
-        85633147,
-        404375045,
         404228163,
+        404375045,
+        85633147,
         1108826385,
         136253037,
         102067727
@@ -63,6 +63,10 @@
         404375045
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bdf184782f6ebafd212e9f834d2d7a57",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675285,
-    "wof:lastmodified":1539928849,
+    "wof:lastmodified":1603247226,
     "wof:name":"Clesse",
     "wof:parent_id":102067727,
     "wof:placetype":"locality",

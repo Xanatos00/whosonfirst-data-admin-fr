@@ -110,6 +110,11 @@
         404419745
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"010afdcd46fab6acba02239ebb1f2455",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360679579,
-    "wof:lastmodified":1564126447,
+    "wof:lastmodified":1603247247,
     "wof:name":"Gilley",
     "wof:parent_id":102066509,
     "wof:placetype":"locality",

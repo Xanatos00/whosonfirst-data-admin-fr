@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404349079,
         404227847,
+        404349079,
+        85633147,
         1108826385,
         136253037,
         102065899
@@ -68,6 +68,11 @@
         404349079
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"eb0ce49ca2b2a3a9f6195f017722aa47",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360672681,
-    "wof:lastmodified":1539928785,
+    "wof:lastmodified":1603247205,
     "wof:name":"Condat-Sur-Trincou",
     "wof:parent_id":102065899,
     "wof:placetype":"locality",

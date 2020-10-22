@@ -139,6 +139,11 @@
         404404457
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ef3b3ed705972fd039d9e687d106f031",
     "wof:hierarchy":[
         {
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1360678087,
-    "wof:lastmodified":1564126814,
+    "wof:lastmodified":1603247296,
     "wof:name":"Le Subdray",
     "wof:parent_id":102065621,
     "wof:placetype":"locality",

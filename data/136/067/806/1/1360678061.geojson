@@ -159,6 +159,10 @@
         404404085
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cf50bf8db0dcb338a7a7ff8b2b42d482",
     "wof:hierarchy":[
         {
@@ -174,7 +178,7 @@
         }
     ],
     "wof:id":1360678061,
-    "wof:lastmodified":1564126829,
+    "wof:lastmodified":1603247298,
     "wof:name":"Foreste",
     "wof:parent_id":102070303,
     "wof:placetype":"locality",

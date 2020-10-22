@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404422273,
         404227955,
+        404422273,
+        85633147,
         1108826395,
         136253037,
         102064939
@@ -63,6 +63,10 @@
         404422273
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"ab981ef039275e2893a975dc48638568",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679815,
-    "wof:lastmodified":1539928927,
+    "wof:lastmodified":1603247326,
     "wof:name":"Saint-Prive",
     "wof:parent_id":102064939,
     "wof:placetype":"locality",

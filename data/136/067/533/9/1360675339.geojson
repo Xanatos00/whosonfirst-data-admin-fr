@@ -101,6 +101,11 @@
         404375703
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"711d6a26d92e9421a9f37c7cdfe0bf6e",
     "wof:hierarchy":[
         {
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":1360675339,
-    "wof:lastmodified":1564125867,
+    "wof:lastmodified":1603247166,
     "wof:name":"Broye",
     "wof:parent_id":102069791,
     "wof:placetype":"locality",

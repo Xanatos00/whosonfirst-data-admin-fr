@@ -142,6 +142,11 @@
         404427125
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6fd2e6b39190627eb191898bbc25f49b",
     "wof:hierarchy":[
         {
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":1360680293,
-    "wof:lastmodified":1564125602,
+    "wof:lastmodified":1603247093,
     "wof:name":"Heugnes",
     "wof:parent_id":102066097,
     "wof:placetype":"locality",

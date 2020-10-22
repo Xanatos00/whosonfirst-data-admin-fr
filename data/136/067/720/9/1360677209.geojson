@@ -111,6 +111,10 @@
         404394379
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4257a46ffc06cb9554dd005e19d01947",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360677209,
-    "wof:lastmodified":1564127034,
+    "wof:lastmodified":1603247326,
     "wof:name":"Luc",
     "wof:parent_id":102068663,
     "wof:placetype":"locality",

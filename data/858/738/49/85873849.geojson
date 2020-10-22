@@ -9,7 +9,6 @@
     "geom:bbox":"2.30333,48.873061,2.327246,48.883436",
     "geom:latitude":48.878145,
     "geom:longitude":2.317224,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.877802,
     "lbl:longitude":2.317224,
@@ -97,12 +96,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894247,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894247,
         85683497
     ],
     "wof:breaches":[],
@@ -130,10 +129,7 @@
         }
     ],
     "wof:id":85873849,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592441,
+    "wof:lastmodified":1603246971,
     "wof:name":"l'Europe",
     "wof:parent_id":1158894247,
     "wof:placetype":"neighbourhood",

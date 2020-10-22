@@ -155,6 +155,11 @@
         404417537
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4a4fd733ef583f3a722b5685a6fde224",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360679393,
-    "wof:lastmodified":1564125915,
+    "wof:lastmodified":1603247173,
     "wof:name":"Clermont",
     "wof:parent_id":102067105,
     "wof:placetype":"locality",

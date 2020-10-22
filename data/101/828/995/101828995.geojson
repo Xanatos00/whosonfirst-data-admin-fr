@@ -9,9 +9,8 @@
     "geom:bbox":"6.64596260099,45.897570745,6.85533441552,46.0184107337",
     "geom:latitude":45.954196,
     "geom:longitude":6.739948,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11613,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":11613,
     "iso:country":"FR",
     "lbl:latitude":45.918341,
@@ -372,10 +371,7 @@
         }
     ],
     "wof:id":101828995,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323226,
+    "wof:lastmodified":1603247547,
     "wof:name":"Passy",
     "wof:parent_id":404413471,
     "wof:placetype":"locality",

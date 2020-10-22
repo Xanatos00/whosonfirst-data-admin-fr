@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404379007,
         404227931,
+        404379007,
+        85633147,
         1108826393,
         136253037,
         102069665
@@ -63,6 +63,10 @@
         404379007
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"365be6060c6ad64f2eb690b90a08b1a6",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360675697,
-    "wof:lastmodified":1539928857,
+    "wof:lastmodified":1603247162,
     "wof:name":"Saint-Aubert-Sur-Orne",
     "wof:parent_id":102069665,
     "wof:placetype":"locality",

@@ -103,6 +103,11 @@
         404426843
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"498e6dee945cc514f1eda8f0c3e4897f",
     "wof:hierarchy":[
         {
@@ -117,7 +122,7 @@
         }
     ],
     "wof:id":1360680251,
-    "wof:lastmodified":1564125422,
+    "wof:lastmodified":1603247052,
     "wof:name":"L'Hospitalet",
     "wof:parent_id":102064805,
     "wof:placetype":"locality",

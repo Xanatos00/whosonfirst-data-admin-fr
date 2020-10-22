@@ -110,6 +110,11 @@
         404427171
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"39349361f3e6964e7cc9e6e69aa2b8ac",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360680289,
-    "wof:lastmodified":1564125621,
+    "wof:lastmodified":1603247097,
     "wof:name":"Bois",
     "wof:parent_id":102069255,
     "wof:placetype":"locality",

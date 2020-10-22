@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683209,
         102191581,
-        85633147,
-        404365099,
         404227837,
+        404365099,
+        85633147,
         1108826385,
         136253037,
         102068005
@@ -63,6 +63,10 @@
         404365099
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4fd31f32adc7f9411c7bf5d02b266124",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674317,
-    "wof:lastmodified":1539928832,
+    "wof:lastmodified":1603247216,
     "wof:name":"Saint-Bazile-De-La-Roche",
     "wof:parent_id":102068005,
     "wof:placetype":"locality",

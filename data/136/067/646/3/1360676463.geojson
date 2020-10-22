@@ -115,6 +115,11 @@
         404387161
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d492f3c886c01763b11e603b422e8f83",
     "wof:hierarchy":[
         {
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":1360676463,
-    "wof:lastmodified":1564126707,
+    "wof:lastmodified":1603247283,
     "wof:name":"Pommiers",
     "wof:parent_id":102066355,
     "wof:placetype":"locality",

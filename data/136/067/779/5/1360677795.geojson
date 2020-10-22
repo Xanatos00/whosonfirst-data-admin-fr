@@ -113,6 +113,11 @@
         404401487
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a36615ac5b696d332d9903551dc62baf",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360677795,
-    "wof:lastmodified":1564126420,
+    "wof:lastmodified":1603247243,
     "wof:name":"Briaucourt",
     "wof:parent_id":102064271,
     "wof:placetype":"locality",

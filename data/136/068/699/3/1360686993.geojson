@@ -9,7 +9,7 @@
     "geom:bbox":"6.788949,44.651802,6.788949,44.651802",
     "geom:latitude":44.651802,
     "geom:longitude":6.788949,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.651802,
     "lbl:longitude":6.788949,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686993,
-    "wof:lastmodified":1539986890,
+    "wof:lastmodified":1603247101,
     "wof:name":"Pied-du-M\u00e9lezet",
     "wof:parent_id":404362941,
     "wof:placetype":"neighbourhood",

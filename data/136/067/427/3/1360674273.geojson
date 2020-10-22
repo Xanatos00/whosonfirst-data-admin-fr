@@ -155,6 +155,11 @@
         404364829
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"44bb7272923f55a22b9c454d85413658",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360674273,
-    "wof:lastmodified":1564126700,
+    "wof:lastmodified":1603247282,
     "wof:name":"Penne",
     "wof:parent_id":102070385,
     "wof:placetype":"locality",

@@ -221,6 +221,11 @@
         404427729
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d12f3d3be9347b734442039c1f29fbbf",
     "wof:hierarchy":[
         {
@@ -236,7 +241,7 @@
         }
     ],
     "wof:id":1360680361,
-    "wof:lastmodified":1564125461,
+    "wof:lastmodified":1603247060,
     "wof:name":"Orion",
     "wof:parent_id":102070865,
     "wof:placetype":"locality",

@@ -233,6 +233,11 @@
         404404811
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"bcc00228ea864d6610e2628829471feb",
     "wof:hierarchy":[
         {
@@ -248,7 +253,7 @@
         }
     ],
     "wof:id":1360678117,
-    "wof:lastmodified":1564126018,
+    "wof:lastmodified":1603247187,
     "wof:name":"Bey",
     "wof:parent_id":102069317,
     "wof:placetype":"locality",

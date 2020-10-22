@@ -62,6 +62,10 @@
         404380735
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a9254181b49027751c09610ccd0961fd",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360675875,
-    "wof:lastmodified":1539928859,
+    "wof:lastmodified":1603247245,
     "wof:name":"Saint-Pierre-D'Argencon",
     "wof:parent_id":102064705,
     "wof:placetype":"locality",

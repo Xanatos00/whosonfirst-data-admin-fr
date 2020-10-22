@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404408971,
         404227955,
+        404408971,
+        85633147,
         1108826395,
         136253037,
         102065551
@@ -63,6 +63,10 @@
         404408971
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"72532aa1b7aad1f988c5fe0dd85b5e6a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678519,
-    "wof:lastmodified":1539928905,
+    "wof:lastmodified":1603247215,
     "wof:name":"Saint-Loup-De-Varennes",
     "wof:parent_id":102065551,
     "wof:placetype":"locality",

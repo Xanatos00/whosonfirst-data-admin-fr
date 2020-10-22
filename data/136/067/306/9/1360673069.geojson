@@ -152,6 +152,11 @@
         404353331
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e3c0fe516d06e4c1dee700e21d058bde",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360673069,
-    "wof:lastmodified":1564125934,
+    "wof:lastmodified":1603247176,
     "wof:name":"Serrigny",
     "wof:parent_id":102070163,
     "wof:placetype":"locality",

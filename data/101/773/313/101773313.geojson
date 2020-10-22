@@ -9,9 +9,8 @@
     "geom:bbox":"2.25156167256,43.1780093826,2.29167041868,43.208122169",
     "geom:latitude":43.192182,
     "geom:longitude":2.270036,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1153,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":1153,
     "iso:country":"FR",
     "lbl:latitude":43.183877,
@@ -382,10 +381,7 @@
         }
     ],
     "wof:id":101773313,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323837,
+    "wof:lastmodified":1603248238,
     "wof:name":"Lavalette",
     "wof:parent_id":404426233,
     "wof:placetype":"locality",

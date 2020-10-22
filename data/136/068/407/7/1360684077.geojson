@@ -9,7 +9,7 @@
     "geom:bbox":"6.037588,46.2922175,6.037588,46.2922175",
     "geom:latitude":46.292217,
     "geom:longitude":6.037588,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.292217,
     "lbl:longitude":6.037588,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684077,
-    "wof:lastmodified":1539986852,
+    "wof:lastmodified":1603247063,
     "wof:name":"Creux de Naz",
     "wof:parent_id":404380495,
     "wof:placetype":"neighbourhood",

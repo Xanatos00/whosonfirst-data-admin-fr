@@ -148,6 +148,11 @@
         404419127
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"126b67ecc70ef9deba41342f0a9a1053",
     "wof:hierarchy":[
         {
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1360679531,
-    "wof:lastmodified":1564125875,
+    "wof:lastmodified":1603247167,
     "wof:name":"Les Hayes",
     "wof:parent_id":102066495,
     "wof:placetype":"locality",

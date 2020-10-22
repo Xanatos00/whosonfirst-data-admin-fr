@@ -9,7 +9,7 @@
     "geom:bbox":"-1.5467545,47.55614,-1.5467545,47.55614",
     "geom:latitude":47.55614,
     "geom:longitude":-1.546755,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.55614,
     "lbl:longitude":-1.546755,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683847,
-    "wof:lastmodified":1539986849,
+    "wof:lastmodified":1603247070,
     "wof:name":"La Placi\u00e8re",
     "wof:parent_id":404362533,
     "wof:placetype":"neighbourhood",

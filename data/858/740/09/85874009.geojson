@@ -9,7 +9,6 @@
     "geom:bbox":"2.358888,48.884403,2.371919,48.901689",
     "geom:latitude":48.894078,
     "geom:longitude":2.364534,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":48.894141,
     "lbl:longitude":2.364658,
@@ -129,12 +128,12 @@
     "src:lbl:centroid":"mz",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        1158894269,
         102191581,
-        85633147,
         1159322569,
-        101751119,
+        85633147,
         404227465,
+        101751119,
+        1158894269,
         85683497
     ],
     "wof:breaches":[],
@@ -162,10 +161,7 @@
         }
     ],
     "wof:id":85874009,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1589592442,
+    "wof:lastmodified":1603246972,
     "wof:name":"La Chapelle",
     "wof:parent_id":1158894269,
     "wof:placetype":"neighbourhood",

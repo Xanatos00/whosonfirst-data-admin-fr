@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683293,
         102191581,
-        85633147,
-        404410595,
         404228011,
+        404410595,
+        85633147,
         1108826389,
         136253037,
         102067097
@@ -63,6 +63,10 @@
         404410595
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e8d0f616bef5a8954d2bfc2914b1b6b7",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678729,
-    "wof:lastmodified":1539928909,
+    "wof:lastmodified":1603247198,
     "wof:name":"Chatelus",
     "wof:parent_id":102067097,
     "wof:placetype":"locality",

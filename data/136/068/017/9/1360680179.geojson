@@ -149,6 +149,11 @@
         404426069
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"fa0c6a918e5ce41e674e1855cb87d71c",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360680179,
-    "wof:lastmodified":1564125617,
+    "wof:lastmodified":1603247097,
     "wof:name":"Landigou",
     "wof:parent_id":102071055,
     "wof:placetype":"locality",

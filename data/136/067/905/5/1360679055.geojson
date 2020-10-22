@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683489,
         102191581,
-        85633147,
-        404413743,
         404227695,
+        404413743,
+        85633147,
         1108826393,
         136253037,
         102070937
@@ -63,6 +63,10 @@
         404413743
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"604478d6ff5a8c8f207ed452156a6d60",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679055,
-    "wof:lastmodified":1539928915,
+    "wof:lastmodified":1603247263,
     "wof:name":"Saint-Maur-Des-Bois",
     "wof:parent_id":102070937,
     "wof:placetype":"locality",

@@ -143,6 +143,11 @@
         404385035
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b1e2bf56889c022c7d8ff48a40b0f45c",
     "wof:hierarchy":[
         {
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":1360676287,
-    "wof:lastmodified":1564126028,
+    "wof:lastmodified":1603247189,
     "wof:name":"Pis",
     "wof:parent_id":102065691,
     "wof:placetype":"locality",

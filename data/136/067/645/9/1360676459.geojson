@@ -142,6 +142,11 @@
         404387115
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b030043ec5739d016d96150987d0546d",
     "wof:hierarchy":[
         {
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":1360676459,
-    "wof:lastmodified":1564126059,
+    "wof:lastmodified":1603247193,
     "wof:name":"Revercourt",
     "wof:parent_id":102065163,
     "wof:placetype":"locality",

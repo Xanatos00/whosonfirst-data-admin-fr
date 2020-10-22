@@ -9,7 +9,7 @@
     "geom:bbox":"9.136982,42.045978,9.136982,42.045978",
     "geom:latitude":42.045978,
     "geom:longitude":9.136982,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.045978,
     "lbl:longitude":9.136982,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683429,
-    "wof:lastmodified":1539986844,
+    "wof:lastmodified":1603247115,
     "wof:name":"Bergeries des Pozzi",
     "wof:parent_id":404348223,
     "wof:placetype":"neighbourhood",

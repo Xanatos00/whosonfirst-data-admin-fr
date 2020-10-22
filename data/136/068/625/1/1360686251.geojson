@@ -9,7 +9,7 @@
     "geom:bbox":"-1.204649,44.71052,-1.204649,44.71052",
     "geom:latitude":44.71052,
     "geom:longitude":-1.204649,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":44.71052,
     "lbl:longitude":-1.204649,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686251,
-    "wof:lastmodified":1561833932,
+    "wof:lastmodified":1603247089,
     "wof:name":"Grand-Piquey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

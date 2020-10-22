@@ -152,6 +152,11 @@
         404394143
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2e93c6d330a8e0202df251e8da6ddbb9",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360677173,
-    "wof:lastmodified":1564126951,
+    "wof:lastmodified":1603247315,
     "wof:name":"Amenoncourt",
     "wof:parent_id":102065313,
     "wof:placetype":"locality",

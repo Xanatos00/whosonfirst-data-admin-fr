@@ -62,6 +62,10 @@
         404393835
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9c5e94dd17090aa5d8ddb6fa28a4f43e",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360677145,
-    "wof:lastmodified":1539928881,
+    "wof:lastmodified":1603247228,
     "wof:name":"Aulnay-La-Riviere",
     "wof:parent_id":102069869,
     "wof:placetype":"locality",

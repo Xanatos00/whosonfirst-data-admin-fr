@@ -9,7 +9,6 @@
     "geom:bbox":"7.54035400391,47.5672604421,7.59804499748,47.618014787",
     "geom:latitude":47.589647,
     "geom:longitude":7.562961,
-    "gn:id":"",
     "iso:country":"FR",
     "lbl:latitude":47.586182,
     "lbl:longitude":7.5904,
@@ -96,10 +95,7 @@
         }
     ],
     "wof:id":85800031,
-    "wof:lang":[
-        "ger"
-    ],
-    "wof:lastmodified":1582322802,
+    "wof:lastmodified":1603246971,
     "wof:name":"Hafen",
     "wof:parent_id":101748459,
     "wof:placetype":"neighbourhood",

@@ -157,6 +157,11 @@
         404361295
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4a1d03b47f496a70b196ccb3bda30f27",
     "wof:hierarchy":[
         {
@@ -171,7 +176,7 @@
         }
     ],
     "wof:id":1360673903,
-    "wof:lastmodified":1564125987,
+    "wof:lastmodified":1603247183,
     "wof:name":"Risoul",
     "wof:parent_id":102066211,
     "wof:placetype":"locality",

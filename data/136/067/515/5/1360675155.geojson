@@ -149,6 +149,11 @@
         404373895
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"07a995d9c75d4d8b78c04cd5ef7f5fcd",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360675155,
-    "wof:lastmodified":1564127043,
+    "wof:lastmodified":1603247327,
     "wof:name":"Colomby",
     "wof:parent_id":102071127,
     "wof:placetype":"locality",

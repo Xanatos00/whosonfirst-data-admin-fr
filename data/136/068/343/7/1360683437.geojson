@@ -9,7 +9,7 @@
     "geom:bbox":"5.979866,46.304341,5.979866,46.304341",
     "geom:latitude":46.304341,
     "geom:longitude":5.979866,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.304341,
     "lbl:longitude":5.979866,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683437,
-    "wof:lastmodified":1539986844,
+    "wof:lastmodified":1603247122,
     "wof:name":"La Mar\u00e9chaude",
     "wof:parent_id":404347453,
     "wof:placetype":"neighbourhood",

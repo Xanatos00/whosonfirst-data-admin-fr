@@ -92,6 +92,11 @@
         404388865
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6676c4c43564ad64625403315edfcb77",
     "wof:hierarchy":[
         {
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":1360676597,
-    "wof:lastmodified":1564126253,
+    "wof:lastmodified":1603247220,
     "wof:name":"Gans",
     "wof:parent_id":102064973,
     "wof:placetype":"locality",

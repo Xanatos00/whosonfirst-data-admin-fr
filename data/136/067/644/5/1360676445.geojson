@@ -96,6 +96,10 @@
         404387245
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"36de8ef6c6017060a3f910082c0cb297",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1360676445,
-    "wof:lastmodified":1564126014,
+    "wof:lastmodified":1603247187,
     "wof:name":"Saint-Luc",
     "wof:parent_id":102067499,
     "wof:placetype":"locality",

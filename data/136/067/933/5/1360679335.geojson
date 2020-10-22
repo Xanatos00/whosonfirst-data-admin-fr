@@ -101,6 +101,11 @@
         404416991
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7bd1abf591efdea159fdd8dbfdcd17d2",
     "wof:hierarchy":[
         {
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":1360679335,
-    "wof:lastmodified":1564126593,
+    "wof:lastmodified":1603247267,
     "wof:name":"Le Mont",
     "wof:parent_id":102069211,
     "wof:placetype":"locality",

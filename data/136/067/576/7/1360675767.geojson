@@ -133,6 +133,11 @@
         404379797
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"2e6b3e96c8642ce96ab4e150e28b52df",
     "wof:hierarchy":[
         {
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":1360675767,
-    "wof:lastmodified":1564126893,
+    "wof:lastmodified":1603247307,
     "wof:name":"Sept-Sorts",
     "wof:parent_id":102066447,
     "wof:placetype":"locality",

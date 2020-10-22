@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683293,
         102191581,
-        85633147,
-        404397949,
         404227801,
+        404397949,
+        85633147,
         1108826389,
         136253037,
         102064885
@@ -63,6 +63,10 @@
         404397949
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"001504bea47deed02635f62d0eb1e484",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677503,
-    "wof:lastmodified":1539928887,
+    "wof:lastmodified":1603247263,
     "wof:name":"Chezy",
     "wof:parent_id":102064885,
     "wof:placetype":"locality",

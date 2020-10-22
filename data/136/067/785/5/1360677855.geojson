@@ -116,6 +116,11 @@
         404402093
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f857f7f87027d81573fd88a9294ff721",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360677855,
-    "wof:lastmodified":1564126343,
+    "wof:lastmodified":1603247232,
     "wof:name":"Moussey",
     "wof:parent_id":102065151,
     "wof:placetype":"locality",

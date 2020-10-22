@@ -146,6 +146,11 @@
         404355959
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1be1567c7f702acc38abf152492ed975",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360673349,
-    "wof:lastmodified":1564126559,
+    "wof:lastmodified":1603247263,
     "wof:name":"Warneton",
     "wof:parent_id":102071617,
     "wof:placetype":"locality",

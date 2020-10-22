@@ -9,7 +9,7 @@
     "geom:bbox":"-3.09001,48.838126,-3.09001,48.838126",
     "geom:latitude":48.838126,
     "geom:longitude":-3.09001,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":48.838126,
     "lbl:longitude":-3.09001,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1360682657,
-    "wof:lastmodified":1539986834,
+    "wof:lastmodified":1603247106,
     "wof:name":"Pors-Guyon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

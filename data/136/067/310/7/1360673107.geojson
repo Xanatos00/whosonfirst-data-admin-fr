@@ -140,6 +140,11 @@
         404353749
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"76d9200c3b8e39d2b4dc8d82e55ca381",
     "wof:hierarchy":[
         {
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":1360673107,
-    "wof:lastmodified":1564126982,
+    "wof:lastmodified":1603247319,
     "wof:name":"Bouhans",
     "wof:parent_id":102071227,
     "wof:placetype":"locality",

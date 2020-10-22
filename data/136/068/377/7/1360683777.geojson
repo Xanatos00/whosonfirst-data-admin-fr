@@ -9,7 +9,7 @@
     "geom:bbox":"6.094708,46.314435,6.094708,46.314435",
     "geom:latitude":46.314435,
     "geom:longitude":6.094708,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.314435,
     "lbl:longitude":6.094708,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683777,
-    "wof:lastmodified":1539986848,
+    "wof:lastmodified":1603247069,
     "wof:name":"Tut\u00e9gny",
     "wof:parent_id":404399329,
     "wof:placetype":"neighbourhood",

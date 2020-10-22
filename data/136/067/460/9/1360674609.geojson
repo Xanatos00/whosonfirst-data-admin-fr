@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683543,
         102191581,
-        85633147,
-        404367951,
         404228293,
+        404367951,
+        85633147,
         1108826395,
         136253037,
         102065799
@@ -63,6 +63,10 @@
         404367951
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"57c6603208b13d460f5a5ae6e652ec7a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674609,
-    "wof:lastmodified":1539928838,
+    "wof:lastmodified":1603247288,
     "wof:name":"Saint-Verand",
     "wof:parent_id":102065799,
     "wof:placetype":"locality",

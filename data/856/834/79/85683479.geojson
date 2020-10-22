@@ -412,7 +412,7 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"6775",
     "statoids:as_of_date":"2010-01-01",
     "statoids:capital":"Orl\u00e9ans",
@@ -457,7 +457,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1588976240,
+    "wof:lastmodified":1603246965,
     "wof:name":"Loiret",
     "wof:parent_id":404227461,
     "wof:placetype":"region",

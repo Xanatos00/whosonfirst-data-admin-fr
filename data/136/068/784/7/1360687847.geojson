@@ -9,7 +9,7 @@
     "geom:bbox":"7.00741,49.139045,7.00741,49.139045",
     "geom:latitude":49.139045,
     "geom:longitude":7.00741,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.139045,
     "lbl:longitude":7.00741,
@@ -306,7 +306,7 @@
         }
     ],
     "wof:id":1360687847,
-    "wof:lastmodified":1563279835,
+    "wof:lastmodified":1603247076,
     "wof:name":"Kleinblittersdorf",
     "wof:parent_id":404361291,
     "wof:placetype":"neighbourhood",

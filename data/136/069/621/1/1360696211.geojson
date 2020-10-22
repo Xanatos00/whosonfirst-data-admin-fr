@@ -9,7 +9,7 @@
     "geom:bbox":"6.4441055508,46.8932966225,6.45839293996,46.9009523824",
     "geom:latitude":46.896789,
     "geom:longitude":6.45066,
-    "geonames:id":"2659912,2999352",
+    "gn:id":"2659912,2999352",
     "iso:country":"FR",
     "lbl:latitude":46.895248,
     "lbl:longitude":6.448766,
@@ -141,7 +141,7 @@
         }
     ],
     "wof:id":1360696211,
-    "wof:lastmodified":1563280441,
+    "wof:lastmodified":1603247130,
     "wof:name":"Les Verri\u00e8res",
     "wof:parent_id":404381791,
     "wof:placetype":"neighbourhood",

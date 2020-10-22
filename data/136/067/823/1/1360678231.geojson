@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404405837,
         404228213,
+        404405837,
+        85633147,
         1108826385,
         136253037,
         102070697
@@ -63,6 +63,10 @@
         404405837
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"255964c52fe3e4348a4a55476f74e2c2",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678231,
-    "wof:lastmodified":1539928900,
+    "wof:lastmodified":1603247274,
     "wof:name":"Saint-Andre-D'Allas",
     "wof:parent_id":102070697,
     "wof:placetype":"locality",

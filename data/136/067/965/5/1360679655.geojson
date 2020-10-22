@@ -62,6 +62,10 @@
         404420609
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"beea7d897417d7aee96cf3a4cbdca832",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1360679655,
-    "wof:lastmodified":1539928925,
+    "wof:lastmodified":1603247169,
     "wof:name":"Saint-Michel-L'Observatoire",
     "wof:parent_id":102066189,
     "wof:placetype":"locality",

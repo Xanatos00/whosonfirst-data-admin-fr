@@ -145,6 +145,11 @@
         404375025
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"89344bd874774d86d8e4f461f4339bb5",
     "wof:hierarchy":[
         {
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1360675277,
-    "wof:lastmodified":1564126364,
+    "wof:lastmodified":1603247235,
     "wof:name":"Montegrosso",
     "wof:parent_id":102066393,
     "wof:placetype":"locality",

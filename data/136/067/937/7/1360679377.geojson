@@ -129,6 +129,10 @@
         404417383
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b4e243ede421d91e5371ba82100aa2bd",
     "wof:hierarchy":[
         {
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1360679377,
-    "wof:lastmodified":1564125943,
+    "wof:lastmodified":1603247177,
     "wof:name":"Puy-Saint-Gulmier",
     "wof:parent_id":102069751,
     "wof:placetype":"locality",

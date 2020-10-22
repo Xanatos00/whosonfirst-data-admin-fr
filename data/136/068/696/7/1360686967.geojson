@@ -9,7 +9,7 @@
     "geom:bbox":"-0.102353,47.267581,-0.102353,47.267581",
     "geom:latitude":47.267581,
     "geom:longitude":-0.102353,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":47.267581,
     "lbl:longitude":-0.102353,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360686967,
-    "wof:lastmodified":1539986890,
+    "wof:lastmodified":1603247107,
     "wof:name":"St.-Hilaire-Saint-Florent",
     "wof:parent_id":1159321791,
     "wof:placetype":"neighbourhood",

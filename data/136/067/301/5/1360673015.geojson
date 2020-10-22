@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683437,
         102191581,
-        85633147,
-        404352593,
         404227831,
+        404352593,
+        85633147,
         1108826385,
         136253037,
         102065079
@@ -63,6 +63,10 @@
         404352593
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8b9ba2d30891f3ba1a633e1e846d802e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673015,
-    "wof:lastmodified":1539928792,
+    "wof:lastmodified":1603247175,
     "wof:name":"Bors (Canton De Baignes-Sainte-Radegonde)",
     "wof:parent_id":102065079,
     "wof:placetype":"locality",

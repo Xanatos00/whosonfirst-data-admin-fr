@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683523,
         102191581,
-        85633147,
-        404420443,
         404227639,
+        404420443,
+        85633147,
         1108826389,
         136253037,
         102066789
@@ -63,6 +63,10 @@
         404420443
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6bf16f95c579d93f972287cdb4e14e1a",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679645,
-    "wof:lastmodified":1539928924,
+    "wof:lastmodified":1603247179,
     "wof:name":"Joncheres",
     "wof:parent_id":102066789,
     "wof:placetype":"locality",

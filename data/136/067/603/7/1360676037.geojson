@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683343,
         102191581,
-        85633147,
-        404382175,
         404227915,
+        404382175,
+        85633147,
         1108826391,
         136253037,
         102065313
@@ -63,6 +63,10 @@
         404382175
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"90c252f9336b9b63d87129d169688563",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676037,
-    "wof:lastmodified":1539928862,
+    "wof:lastmodified":1603247216,
     "wof:name":"Saint-Martin",
     "wof:parent_id":102065313,
     "wof:placetype":"locality",

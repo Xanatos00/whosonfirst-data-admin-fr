@@ -9,7 +9,7 @@
     "geom:bbox":"-2.162246,48.056512,-2.162246,48.056512",
     "geom:latitude":48.056512,
     "geom:longitude":-2.162246,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":48.056512,
     "lbl:longitude":-2.162246,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360683273,
-    "wof:lastmodified":1539986842,
+    "wof:lastmodified":1603247113,
     "wof:name":"Telhou\u00ebt",
     "wof:parent_id":404355395,
     "wof:placetype":"neighbourhood",

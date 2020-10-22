@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404365015,
         404227867,
+        404365015,
+        85633147,
         1108826387,
         136253037,
         102064907
@@ -68,6 +68,11 @@
         404365015
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"494fef8b29d5f05e0a1f70cb6f73b1bb",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360674305,
-    "wof:lastmodified":1539928832,
+    "wof:lastmodified":1603247207,
     "wof:name":"Castex-D'Armagnac",
     "wof:parent_id":102064907,
     "wof:placetype":"locality",

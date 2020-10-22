@@ -9,7 +9,7 @@
     "geom:bbox":"3.476743,44.336833,3.476743,44.336833",
     "geom:latitude":44.336833,
     "geom:longitude":3.476743,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.336833,
     "lbl:longitude":3.476743,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683329,
-    "wof:lastmodified":1539986842,
+    "wof:lastmodified":1603247082,
     "wof:name":"La Chaden\u00e8de",
     "wof:parent_id":404349583,
     "wof:placetype":"neighbourhood",

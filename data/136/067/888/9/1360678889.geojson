@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404412137,
         404227853,
+        404412137,
+        85633147,
         1108826393,
         136253037,
         102065903
@@ -63,6 +63,10 @@
         404412137
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8428c8ff130967ae755ea51761522dfa",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678889,
-    "wof:lastmodified":1539928912,
+    "wof:lastmodified":1603247201,
     "wof:name":"Saint-Victor-D'Epine",
     "wof:parent_id":102065903,
     "wof:placetype":"locality",

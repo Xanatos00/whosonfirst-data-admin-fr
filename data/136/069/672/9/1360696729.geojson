@@ -319,13 +319,13 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633147,
-        102067567,
-        136253037,
-        404398743,
-        101766885,
         404227637,
+        404398743,
+        85633147,
         1108826395,
+        101766885,
+        136253037,
+        102067567,
         85683239
     ],
     "wof:breaches":[],
@@ -355,10 +355,7 @@
         }
     ],
     "wof:id":1360696729,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247127,
     "wof:name":"Ornans",
     "wof:parent_id":404398743,
     "wof:placetype":"neighbourhood",

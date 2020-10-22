@@ -135,6 +135,10 @@
         404406471
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7057597d63da5eefb96737939c5fedc9",
     "wof:hierarchy":[
         {
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1360678271,
-    "wof:lastmodified":1564125994,
+    "wof:lastmodified":1603247184,
     "wof:name":"Saint-Sulpice",
     "wof:parent_id":102070759,
     "wof:placetype":"locality",

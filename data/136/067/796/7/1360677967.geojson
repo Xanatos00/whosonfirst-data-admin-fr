@@ -63,9 +63,9 @@
     "wof:belongsto":[
         85683381,
         102191581,
-        85633147,
-        404403223,
         404227947,
+        404403223,
+        85633147,
         1108826391,
         136253037,
         102067639
@@ -80,6 +80,11 @@
         404403223
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0a486885cba75b9c1308f9b66807f2f0",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360677967,
-    "wof:lastmodified":1539928895,
+    "wof:lastmodified":1603247177,
     "wof:name":"Muhlbach-Sur-Munster",
     "wof:parent_id":102067639,
     "wof:placetype":"locality",

@@ -82,6 +82,11 @@
         404390521
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"6deefd7f42621dcac5567435db788b79",
     "wof:hierarchy":[
         {
@@ -96,7 +101,7 @@
         }
     ],
     "wof:id":1360676771,
-    "wof:lastmodified":1564126729,
+    "wof:lastmodified":1603247286,
     "wof:name":"Cuffy",
     "wof:parent_id":102066857,
     "wof:placetype":"locality",

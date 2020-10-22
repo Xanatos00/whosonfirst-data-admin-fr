@@ -131,6 +131,11 @@
         404424573
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"12400f6b1b551f249e6eadcbc0d33b64",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360680037,
-    "wof:lastmodified":1564125640,
+    "wof:lastmodified":1603247101,
     "wof:name":"Noailles",
     "wof:parent_id":102070227,
     "wof:placetype":"locality",

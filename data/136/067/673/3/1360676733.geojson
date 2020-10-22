@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683153,
         102191581,
-        85633147,
-        404390073,
         404228005,
+        404390073,
+        85633147,
         1108826389,
         136253037,
         102066711
@@ -63,6 +63,10 @@
         404390073
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9234bf53d2e91bf770c62f6470d8111d",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360676733,
-    "wof:lastmodified":1539928874,
+    "wof:lastmodified":1603247198,
     "wof:name":"Prevessin-Moens",
     "wof:parent_id":102066711,
     "wof:placetype":"locality",

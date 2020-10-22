@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683421,
         102191581,
-        85633147,
-        404400075,
         404228015,
+        404400075,
+        85633147,
         1108826389,
         136253037,
         102066135
@@ -63,6 +63,10 @@
         404400075
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e518801b28250f79dd875afe6e59c0a5",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677703,
-    "wof:lastmodified":1539928891,
+    "wof:lastmodified":1603247242,
     "wof:name":"Saint-Barthelemy-Grozon",
     "wof:parent_id":102066135,
     "wof:placetype":"locality",

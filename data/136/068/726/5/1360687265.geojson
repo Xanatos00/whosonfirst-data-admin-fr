@@ -9,7 +9,7 @@
     "geom:bbox":"3.7425,44.173832,3.7425,44.173832",
     "geom:latitude":44.173832,
     "geom:longitude":3.7425,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.173832,
     "lbl:longitude":3.7425,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687265,
-    "wof:lastmodified":1539986894,
+    "wof:lastmodified":1603247115,
     "wof:name":"Ste.-Croix-Vall\u00e9e-Fran\u00e7aise",
     "wof:parent_id":404355251,
     "wof:placetype":"neighbourhood",

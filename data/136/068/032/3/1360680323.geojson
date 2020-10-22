@@ -145,6 +145,11 @@
         404427279
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7a31c2195a389b9382635d6f3b03ca73",
     "wof:hierarchy":[
         {
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1360680323,
-    "wof:lastmodified":1564125651,
+    "wof:lastmodified":1603247103,
     "wof:name":"Montlevicq",
     "wof:parent_id":102065965,
     "wof:placetype":"locality",

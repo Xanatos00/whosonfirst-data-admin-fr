@@ -69,9 +69,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404361921,
         404227865,
+        404361921,
+        85633147,
         1108826387,
         136253037,
         102065089
@@ -86,6 +86,11 @@
         404361921
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9259b3f16608cf9084353687afa967a2",
     "wof:hierarchy":[
         {
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":1360674001,
-    "wof:lastmodified":1539928825,
+    "wof:lastmodified":1603247219,
     "wof:name":"Sauveterre-De-Comminges",
     "wof:parent_id":102065089,
     "wof:placetype":"locality",

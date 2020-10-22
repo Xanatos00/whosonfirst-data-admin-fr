@@ -113,6 +113,11 @@
         404393477
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"96fb3a3b9d72c30e61042b18c7936fbe",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360677109,
-    "wof:lastmodified":1564126966,
+    "wof:lastmodified":1603247317,
     "wof:name":"Morcourt",
     "wof:parent_id":102070975,
     "wof:placetype":"locality",

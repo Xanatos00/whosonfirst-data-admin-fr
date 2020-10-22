@@ -146,6 +146,11 @@
         404377147
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"76ed399561800589a619651442aca6cc",
     "wof:hierarchy":[
         {
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":1360675497,
-    "wof:lastmodified":1564126884,
+    "wof:lastmodified":1603247306,
     "wof:name":"Loupes",
     "wof:parent_id":102068589,
     "wof:placetype":"locality",

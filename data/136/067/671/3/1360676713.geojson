@@ -131,6 +131,11 @@
         404389849
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f6b31f472491c28e5964f7e0f2d9dcb9",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360676713,
-    "wof:lastmodified":1564126645,
+    "wof:lastmodified":1603247275,
     "wof:name":"Allemant",
     "wof:parent_id":102070195,
     "wof:placetype":"locality",

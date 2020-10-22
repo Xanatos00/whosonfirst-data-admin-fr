@@ -9,7 +9,7 @@
     "geom:bbox":"2.713987,50.311022,2.713987,50.311022",
     "geom:latitude":50.311022,
     "geom:longitude":2.713987,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":50.311022,
     "lbl:longitude":2.713987,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684829,
-    "wof:lastmodified":1539986862,
+    "wof:lastmodified":1603247045,
     "wof:name":"Louez",
     "wof:parent_id":404384509,
     "wof:placetype":"neighbourhood",

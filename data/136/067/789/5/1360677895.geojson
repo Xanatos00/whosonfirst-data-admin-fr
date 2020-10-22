@@ -170,6 +170,11 @@
         404402521
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"8e1e070982c51cdd8f574dae125c5085",
     "wof:hierarchy":[
         {
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":1360677895,
-    "wof:lastmodified":1564126989,
+    "wof:lastmodified":1603247320,
     "wof:name":"Drachenbronn-Birlenbach",
     "wof:parent_id":102069247,
     "wof:placetype":"locality",

@@ -134,6 +134,11 @@
         404369841
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a7d16cc7e6cf51a2a4f61d9d32e88d8f",
     "wof:hierarchy":[
         {
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1360674759,
-    "wof:lastmodified":1564126651,
+    "wof:lastmodified":1603247275,
     "wof:name":"Meroux",
     "wof:parent_id":102066281,
     "wof:placetype":"locality",

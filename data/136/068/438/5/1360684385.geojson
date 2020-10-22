@@ -9,7 +9,7 @@
     "geom:bbox":"6.371555,43.738918,6.371555,43.738918",
     "geom:latitude":43.738918,
     "geom:longitude":6.371555,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.738918,
     "lbl:longitude":6.371555,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1360684385,
-    "wof:lastmodified":1539986856,
+    "wof:lastmodified":1603247063,
     "wof:name":"Le Petit-St.-Maymes",
     "wof:parent_id":404353885,
     "wof:placetype":"neighbourhood",

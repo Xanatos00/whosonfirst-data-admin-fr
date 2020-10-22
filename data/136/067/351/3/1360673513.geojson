@@ -152,6 +152,11 @@
         404357695
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"0c78acf7a3500f65a0694a20f414d38e",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":1360673513,
-    "wof:lastmodified":1564126532,
+    "wof:lastmodified":1603247259,
     "wof:name":"Ballons",
     "wof:parent_id":102069337,
     "wof:placetype":"locality",

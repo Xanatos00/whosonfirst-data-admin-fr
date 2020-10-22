@@ -113,6 +113,11 @@
         404373643
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"653306e18f03ff42cdea8f2910ed0b1e",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360675127,
-    "wof:lastmodified":1564127033,
+    "wof:lastmodified":1603247326,
     "wof:name":"Villard",
     "wof:parent_id":102065603,
     "wof:placetype":"locality",

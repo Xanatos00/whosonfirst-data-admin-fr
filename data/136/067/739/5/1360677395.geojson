@@ -164,6 +164,11 @@
         404396621
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1206c3effeded7e90a140cd08362e478",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360677395,
-    "wof:lastmodified":1564125874,
+    "wof:lastmodified":1603247167,
     "wof:name":"Steinseltz",
     "wof:parent_id":102070489,
     "wof:placetype":"locality",

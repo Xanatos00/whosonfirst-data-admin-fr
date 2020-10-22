@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683397,
         102191581,
-        85633147,
-        404420313,
         404227865,
+        404420313,
+        85633147,
         1108826387,
         136253037,
         102064903
@@ -68,6 +68,11 @@
         404420313
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"4560992ebece4f5d19fd015bf16526bd",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360679635,
-    "wof:lastmodified":1539928924,
+    "wof:lastmodified":1603247178,
     "wof:name":"Cier-De-Luchon",
     "wof:parent_id":102064903,
     "wof:placetype":"locality",

@@ -133,6 +133,11 @@
         404406355
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9ef6ad2effdac4d6590497ceac569e46",
     "wof:hierarchy":[
         {
@@ -148,7 +153,7 @@
         }
     ],
     "wof:id":1360678265,
-    "wof:lastmodified":1564126097,
+    "wof:lastmodified":1603247198,
     "wof:name":"Sainte-Croix",
     "wof:parent_id":102064251,
     "wof:placetype":"locality",

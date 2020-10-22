@@ -161,6 +161,11 @@
         404350397
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"340c8a2a59987af61451996217f32f6a",
     "wof:hierarchy":[
         {
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":1360672815,
-    "wof:lastmodified":1564126137,
+    "wof:lastmodified":1603247203,
     "wof:name":"Coulonges-Cohan",
     "wof:parent_id":102066977,
     "wof:placetype":"locality",

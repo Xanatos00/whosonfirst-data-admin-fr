@@ -9,7 +9,7 @@
     "geom:bbox":"3.469319,44.120699,3.469319,44.120699",
     "geom:latitude":44.120699,
     "geom:longitude":3.469319,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.120699,
     "lbl:longitude":3.469319,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685895,
-    "wof:lastmodified":1539986876,
+    "wof:lastmodified":1603247076,
     "wof:name":"Abime de Bramabiau",
     "wof:parent_id":404421529,
     "wof:placetype":"neighbourhood",

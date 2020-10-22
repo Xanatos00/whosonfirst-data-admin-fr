@@ -131,6 +131,9 @@
     ],
     "wof:country":"FR",
     "wof:created":1526508725,
+    "wof:geom_alt":[
+        "frgov"
+    ],
     "wof:geomhash":"cdf92181911d080098ce2f39a2f851ed",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1360680501,
-    "wof:lastmodified":1564125664,
+    "wof:lastmodified":1603247105,
     "wof:name":"Saint-Memmie",
     "wof:parent_id":102071239,
     "wof:placetype":"locality",

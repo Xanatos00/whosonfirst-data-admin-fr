@@ -113,6 +113,11 @@
         404409485
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"7f91d86062dfccc84c0eb40bf84d2a3d",
     "wof:hierarchy":[
         {
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":1360678567,
-    "wof:lastmodified":1564126229,
+    "wof:lastmodified":1603247216,
     "wof:name":"Orgeval",
     "wof:parent_id":102070849,
     "wof:placetype":"locality",

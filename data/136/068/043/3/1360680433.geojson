@@ -122,6 +122,11 @@
         404428469
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cf725517433186466e40d9f66a947758",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360680433,
-    "wof:lastmodified":1564125614,
+    "wof:lastmodified":1603247096,
     "wof:name":"Montaigu",
     "wof:parent_id":102066305,
     "wof:placetype":"locality",

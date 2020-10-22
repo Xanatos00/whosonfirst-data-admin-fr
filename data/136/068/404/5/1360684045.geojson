@@ -9,7 +9,7 @@
     "geom:bbox":"4.350333,43.547381,4.350333,43.547381",
     "geom:latitude":43.547381,
     "geom:longitude":4.350333,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.547381,
     "lbl:longitude":4.350333,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360684045,
-    "wof:lastmodified":1539986852,
+    "wof:lastmodified":1603247112,
     "wof:name":"Mas S\u00e9n\u00e9bier",
     "wof:parent_id":404420665,
     "wof:placetype":"neighbourhood",

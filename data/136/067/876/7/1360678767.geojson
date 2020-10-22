@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683467,
         102191581,
-        85633147,
-        404410889,
         404227867,
+        404410889,
+        85633147,
         1108826387,
         136253037,
         102066493
@@ -68,6 +68,11 @@
         404410889
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"13c38bc7a0af77d1c022c51de2436605",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678767,
-    "wof:lastmodified":1539928909,
+    "wof:lastmodified":1603247277,
     "wof:name":"Mas-D'Auvignon",
     "wof:parent_id":102066493,
     "wof:placetype":"locality",

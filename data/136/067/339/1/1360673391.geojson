@@ -155,6 +155,11 @@
         404356411
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"724800d2b6d8402ec9b1242e004fe041",
     "wof:hierarchy":[
         {
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":1360673391,
-    "wof:lastmodified":1564125945,
+    "wof:lastmodified":1603247177,
     "wof:name":"Ladinhac",
     "wof:parent_id":102066221,
     "wof:placetype":"locality",

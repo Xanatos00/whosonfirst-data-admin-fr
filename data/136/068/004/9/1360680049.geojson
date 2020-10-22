@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683179,
         102191581,
-        85633147,
-        404424763,
         404227843,
+        404424763,
+        85633147,
         1108826385,
         136253037,
         102068201
@@ -63,6 +63,10 @@
         404424763
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5e60fdd658bebc085e1da0417612abfa",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360680049,
-    "wof:lastmodified":1539928932,
+    "wof:lastmodified":1603247102,
     "wof:name":"Saint-Eloi",
     "wof:parent_id":102068201,
     "wof:placetype":"locality",

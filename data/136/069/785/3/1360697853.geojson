@@ -139,13 +139,13 @@
     "wd:wordcount":49,
     "wof:belongsto":[
         102191581,
-        85633147,
-        102070929,
-        136253037,
-        404412135,
-        1360678909,
         404227657,
+        404412135,
+        85633147,
         1108826385,
+        1360678909,
+        136253037,
+        102070929,
         85683243
     ],
     "wof:breaches":[],
@@ -175,10 +175,7 @@
         }
     ],
     "wof:id":1360697853,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1587163123,
+    "wof:lastmodified":1603247139,
     "wof:name":"Salignac",
     "wof:parent_id":1360678909,
     "wof:placetype":"neighbourhood",

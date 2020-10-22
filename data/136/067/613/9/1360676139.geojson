@@ -147,6 +147,10 @@
         404383399
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"54d7f0dbbe32f848509f6aa6f1ef5350",
     "wof:hierarchy":[
         {
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1360676139,
-    "wof:lastmodified":1564126609,
+    "wof:lastmodified":1603247269,
     "wof:name":"Mazeirat",
     "wof:parent_id":102064319,
     "wof:placetype":"locality",

@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683331,
         102191581,
-        85633147,
-        404412823,
         404227847,
+        404412823,
+        85633147,
         1108826385,
         136253037,
         102067613
@@ -63,6 +63,10 @@
         404412823
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"29ef002bb09bb214f74c63e745c15e3e",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360678979,
-    "wof:lastmodified":1539928913,
+    "wof:lastmodified":1603247306,
     "wof:name":"Saint-Sulpice-D'Excideuil",
     "wof:parent_id":102067613,
     "wof:placetype":"locality",

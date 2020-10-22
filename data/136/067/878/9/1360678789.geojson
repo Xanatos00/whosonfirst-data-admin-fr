@@ -137,6 +137,11 @@
         404411039
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"42b1b1de414e55fc281f2bb42b7665ef",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360678789,
-    "wof:lastmodified":1564126687,
+    "wof:lastmodified":1603247280,
     "wof:name":"Vaudesincourt",
     "wof:parent_id":102064983,
     "wof:placetype":"locality",

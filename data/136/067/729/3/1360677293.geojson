@@ -108,6 +108,10 @@
         404395453
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e53ce81b276a49cf8ccb916c41f74469",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1360677293,
-    "wof:lastmodified":1564127030,
+    "wof:lastmodified":1603247325,
     "wof:name":"Saint-Maximin",
     "wof:parent_id":102066033,
     "wof:placetype":"locality",

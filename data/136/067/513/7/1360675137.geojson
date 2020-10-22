@@ -137,6 +137,11 @@
         404373715
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"715c72b989bfd97e36c0bb8e5d116585",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360675137,
-    "wof:lastmodified":1564126945,
+    "wof:lastmodified":1603247314,
     "wof:name":"Escoulis",
     "wof:parent_id":102070133,
     "wof:placetype":"locality",

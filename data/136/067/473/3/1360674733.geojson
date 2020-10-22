@@ -122,6 +122,11 @@
         404369563
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"59cd7065ba067018db696ddb40600858",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360674733,
-    "wof:lastmodified":1564126703,
+    "wof:lastmodified":1603247282,
     "wof:name":"Villefranque",
     "wof:parent_id":102065979,
     "wof:placetype":"locality",

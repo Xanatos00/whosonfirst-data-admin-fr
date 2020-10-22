@@ -119,6 +119,11 @@
         404423327
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"40372f46cd12325e8ad98547e243c927",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360679927,
-    "wof:lastmodified":1564126469,
+    "wof:lastmodified":1603247250,
     "wof:name":"Montjoi",
     "wof:parent_id":102068515,
     "wof:placetype":"locality",

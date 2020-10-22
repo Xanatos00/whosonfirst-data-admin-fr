@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683283,
         102191581,
-        85633147,
-        404409919,
         404228055,
+        404409919,
+        85633147,
         1108826393,
         136253037,
         102069181
@@ -68,6 +68,11 @@
         404409919
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"97b5a59c9778b9135287f1e4ca4f076b",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360678629,
-    "wof:lastmodified":1539928907,
+    "wof:lastmodified":1603247291,
     "wof:name":"Neuilly",
     "wof:parent_id":102069181,
     "wof:placetype":"locality",

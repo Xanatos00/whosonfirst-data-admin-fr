@@ -110,6 +110,11 @@
         404371991
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"13f7135c309928dc606a4bd1315c4ae2",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360674955,
-    "wof:lastmodified":1564126832,
+    "wof:lastmodified":1603247299,
     "wof:name":"Hamel",
     "wof:parent_id":102064393,
     "wof:placetype":"locality",

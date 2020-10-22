@@ -179,6 +179,11 @@
         404418495
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"9ad1577e7294ccc69983eba6747460ba",
     "wof:hierarchy":[
         {
@@ -194,7 +199,7 @@
         }
     ],
     "wof:id":1360679483,
-    "wof:lastmodified":1564126285,
+    "wof:lastmodified":1603247224,
     "wof:name":"Hunspach",
     "wof:parent_id":102069247,
     "wof:placetype":"locality",

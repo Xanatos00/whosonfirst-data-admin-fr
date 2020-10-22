@@ -9,7 +9,7 @@
     "geom:bbox":"6.845233,46.078887,6.845233,46.078887",
     "geom:latitude":46.078887,
     "geom:longitude":6.845233,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.078887,
     "lbl:longitude":6.845233,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360683047,
-    "wof:lastmodified":1539986839,
+    "wof:lastmodified":1603247081,
     "wof:name":"Le Fr\u00e9nalay",
     "wof:parent_id":404383089,
     "wof:placetype":"neighbourhood",

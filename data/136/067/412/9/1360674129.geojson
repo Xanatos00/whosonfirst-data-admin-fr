@@ -119,6 +119,11 @@
         404363387
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5fa33c55d8b6f6fc381ddc9ad2f60d86",
     "wof:hierarchy":[
         {
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1360674129,
-    "wof:lastmodified":1564126111,
+    "wof:lastmodified":1603247200,
     "wof:name":"Montmorin",
     "wof:parent_id":102065323,
     "wof:placetype":"locality",

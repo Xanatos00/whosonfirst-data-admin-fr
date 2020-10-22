@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683255,
         102191581,
-        85633147,
-        404370401,
         404227723,
+        404370401,
+        85633147,
         1108826399,
         136253037,
         102066259
@@ -63,6 +63,10 @@
         404370401
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1ac9301294eab2f004f231e5c95d4fad",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360674797,
-    "wof:lastmodified":1539928841,
+    "wof:lastmodified":1603247197,
     "wof:name":"Lechelle",
     "wof:parent_id":102066259,
     "wof:placetype":"locality",

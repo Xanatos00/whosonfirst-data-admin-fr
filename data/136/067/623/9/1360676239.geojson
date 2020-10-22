@@ -164,6 +164,11 @@
         404384705
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5c1f354b413eb618632e15578a8e625a",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360676239,
-    "wof:lastmodified":1564126668,
+    "wof:lastmodified":1603247278,
     "wof:name":"Ailhon",
     "wof:parent_id":102064627,
     "wof:placetype":"locality",

@@ -110,6 +110,11 @@
         404373171
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e98b93565bc2e1d6d39b85227c3c5a3b",
     "wof:hierarchy":[
         {
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1360675085,
-    "wof:lastmodified":1564126438,
+    "wof:lastmodified":1603247246,
     "wof:name":"Haucourt",
     "wof:parent_id":102070513,
     "wof:placetype":"locality",

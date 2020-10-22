@@ -57,9 +57,9 @@
     "wof:belongsto":[
         85683559,
         102191581,
-        85633147,
-        404393573,
         404227951,
+        404393573,
+        85633147,
         1108826395,
         136253037,
         102068781
@@ -74,6 +74,11 @@
         404393573
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"a520d41405e82cc432dac894e51d89ae",
     "wof:hierarchy":[
         {
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":1360677121,
-    "wof:lastmodified":1539928881,
+    "wof:lastmodified":1603247237,
     "wof:name":"Grandvelle-Et-Le-Perrenot",
     "wof:parent_id":102068781,
     "wof:placetype":"locality",

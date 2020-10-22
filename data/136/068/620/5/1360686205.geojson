@@ -9,7 +9,7 @@
     "geom:bbox":"-0.061798,42.885922,-0.061798,42.885922",
     "geom:latitude":42.885922,
     "geom:longitude":-0.061798,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.885922,
     "lbl:longitude":-0.061798,
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1360686205,
-    "wof:lastmodified":1564125430,
+    "wof:lastmodified":1603247053,
     "wof:name":"Luz Ardiden",
     "wof:parent_id":404406253,
     "wof:placetype":"neighbourhood",

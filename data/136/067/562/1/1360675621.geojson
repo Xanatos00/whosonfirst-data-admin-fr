@@ -105,6 +105,10 @@
         404378391
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"23d8e461133401030cdfdae135af0e19",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360675621,
-    "wof:lastmodified":1564126561,
+    "wof:lastmodified":1603247263,
     "wof:name":"Saint-Genest",
     "wof:parent_id":102068185,
     "wof:placetype":"locality",

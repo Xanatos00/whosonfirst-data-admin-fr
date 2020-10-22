@@ -153,6 +153,10 @@
         404359989
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c3f4b0633aa5cdf3232a7e54ce754886",
     "wof:hierarchy":[
         {
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":1360673743,
-    "wof:lastmodified":1564126964,
+    "wof:lastmodified":1603247316,
     "wof:name":"Villers-Saint-Christophe",
     "wof:parent_id":102069685,
     "wof:placetype":"locality",

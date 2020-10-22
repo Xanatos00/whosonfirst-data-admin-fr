@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683275,
         102191581,
-        85633147,
-        404350361,
         404228209,
+        404350361,
+        85633147,
         1108826385,
         136253037,
         102070201
@@ -63,6 +63,10 @@
         404350361
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5dd6efdebcf5136fcb08718dcb756897",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360672811,
-    "wof:lastmodified":1539928788,
+    "wof:lastmodified":1603247203,
     "wof:name":"Saint-Sulpice-D'Arnoult",
     "wof:parent_id":102070201,
     "wof:placetype":"locality",

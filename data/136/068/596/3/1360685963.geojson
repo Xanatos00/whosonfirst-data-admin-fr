@@ -9,7 +9,7 @@
     "geom:bbox":"1.248363,49.309455,1.248363,49.309455",
     "geom:latitude":49.309455,
     "geom:longitude":1.248363,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":49.309455,
     "lbl:longitude":1.248363,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360685963,
-    "wof:lastmodified":1539986877,
+    "wof:lastmodified":1603247085,
     "wof:name":"Le Val Pitant",
     "wof:parent_id":404395861,
     "wof:placetype":"neighbourhood",

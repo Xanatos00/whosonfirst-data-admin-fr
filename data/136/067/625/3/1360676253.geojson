@@ -116,6 +116,11 @@
         404384747
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1072456c807ba4a3e8e62a5f4a917371",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":1360676253,
-    "wof:lastmodified":1564126620,
+    "wof:lastmodified":1603247271,
     "wof:name":"Hargnies",
     "wof:parent_id":102066043,
     "wof:placetype":"locality",

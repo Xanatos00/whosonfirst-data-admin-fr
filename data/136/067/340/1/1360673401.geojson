@@ -128,6 +128,11 @@
         404356561
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"c7adfd75f79bbc795cd8cf2f1bb1fe56",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":1360673401,
-    "wof:lastmodified":1564126383,
+    "wof:lastmodified":1603247238,
     "wof:name":"Sauveterre",
     "wof:parent_id":102066605,
     "wof:placetype":"locality",

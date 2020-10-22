@@ -9,9 +9,8 @@
     "geom:bbox":"2.94905549769,49.6440868973,2.9956948624,49.6783071009",
     "geom:latitude":49.661925,
     "geom:longitude":2.972426,
-    "gn:gn_country":"FR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":202,
+    "gn:country":"FR",
+    "gn:fcode":"PPL",
     "gn:population":202,
     "iso:country":"FR",
     "lbl:latitude":49.660542,
@@ -370,10 +369,7 @@
         }
     ],
     "wof:id":101898713,
-    "wof:lang":[
-        "fre"
-    ],
-    "wof:lastmodified":1582323735,
+    "wof:lastmodified":1603248122,
     "wof:name":"Fr\u00e9toy-le-Ch\u00e2teau",
     "wof:parent_id":404416803,
     "wof:placetype":"locality",

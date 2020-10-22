@@ -105,6 +105,10 @@
         404392607
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"41294e9fa87224f8dbdc515481b61800",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1360677047,
-    "wof:lastmodified":1564126554,
+    "wof:lastmodified":1603247262,
     "wof:name":"Saint-Sernin",
     "wof:parent_id":102065019,
     "wof:placetype":"locality",

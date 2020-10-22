@@ -137,6 +137,11 @@
         404372053
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"f22d107df5615b6adeac300913cbf141",
     "wof:hierarchy":[
         {
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":1360674959,
-    "wof:lastmodified":1564126830,
+    "wof:lastmodified":1603247298,
     "wof:name":"Fley",
     "wof:parent_id":102064939,
     "wof:placetype":"locality",

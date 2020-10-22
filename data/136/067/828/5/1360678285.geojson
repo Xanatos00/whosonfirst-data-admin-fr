@@ -164,6 +164,11 @@
         404406667
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"d07d83e86c9cb8983619353024d374b2",
     "wof:hierarchy":[
         {
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":1360678285,
-    "wof:lastmodified":1564126071,
+    "wof:lastmodified":1603247195,
     "wof:name":"Bergholtzzell",
     "wof:parent_id":102065775,
     "wof:placetype":"locality",

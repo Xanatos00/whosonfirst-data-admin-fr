@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683427,
         102191581,
-        85633147,
-        404399127,
         404227669,
+        404399127,
+        85633147,
         1108826389,
         136253037,
         102065831
@@ -63,6 +63,10 @@
         404399127
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"99736b290a7e0d463465b03d5a849b29",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677623,
-    "wof:lastmodified":1539928890,
+    "wof:lastmodified":1603247177,
     "wof:name":"Saint-Jean-Le-Vieux",
     "wof:parent_id":102065831,
     "wof:placetype":"locality",

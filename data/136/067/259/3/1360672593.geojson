@@ -122,6 +122,11 @@
         404348063
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1791cd734c281a798f8f430619951025",
     "wof:hierarchy":[
         {
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":1360672593,
-    "wof:lastmodified":1564126164,
+    "wof:lastmodified":1603247208,
     "wof:name":"Courcy",
     "wof:parent_id":102066551,
     "wof:placetype":"locality",

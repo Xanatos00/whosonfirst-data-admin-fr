@@ -131,6 +131,11 @@
         404372977
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"52e1ca3371987ae53da15eea1bc1f1c6",
     "wof:hierarchy":[
         {
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":1360675057,
-    "wof:lastmodified":1564125901,
+    "wof:lastmodified":1603247171,
     "wof:name":"Argelos",
     "wof:parent_id":102064477,
     "wof:placetype":"locality",

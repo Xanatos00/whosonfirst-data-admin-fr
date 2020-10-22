@@ -9,7 +9,7 @@
     "geom:bbox":"5.697,46.220553,5.697,46.220553",
     "geom:latitude":46.220553,
     "geom:longitude":5.697,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":46.220553,
     "lbl:longitude":5.697,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687423,
-    "wof:lastmodified":1539986896,
+    "wof:lastmodified":1603247119,
     "wof:name":"Le Bugnon",
     "wof:parent_id":1159321927,
     "wof:placetype":"neighbourhood",

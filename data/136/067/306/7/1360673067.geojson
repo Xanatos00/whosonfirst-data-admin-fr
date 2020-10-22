@@ -149,6 +149,11 @@
         404353383
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"e131c797189992ec1251c321421a0213",
     "wof:hierarchy":[
         {
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":1360673067,
-    "wof:lastmodified":1564125935,
+    "wof:lastmodified":1603247176,
     "wof:name":"Vendine",
     "wof:parent_id":102065753,
     "wof:placetype":"locality",

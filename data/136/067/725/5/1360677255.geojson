@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683527,
         102191581,
-        85633147,
-        404394841,
         404227931,
+        404394841,
+        85633147,
         1108826393,
         136253037,
         102066321
@@ -63,6 +63,10 @@
         404394841
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"afbbd9d9c67da959c35efae631b5a5bc",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360677255,
-    "wof:lastmodified":1539928883,
+    "wof:lastmodified":1603247225,
     "wof:name":"Fleure",
     "wof:parent_id":102066321,
     "wof:placetype":"locality",

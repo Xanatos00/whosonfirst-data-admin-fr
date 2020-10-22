@@ -9,7 +9,7 @@
     "geom:bbox":"-1.134145,45.814054,-1.134145,45.814054",
     "geom:latitude":45.814054,
     "geom:longitude":-1.134145,
-    "gn:gn_country":"FR",
+    "gn:country":"FR",
     "iso:country":"FR",
     "lbl:latitude":45.814054,
     "lbl:longitude":-1.134145,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360686577,
-    "wof:lastmodified":1539986885,
+    "wof:lastmodified":1603247066,
     "wof:name":"Marennes Plage",
     "wof:parent_id":404390571,
     "wof:placetype":"neighbourhood",

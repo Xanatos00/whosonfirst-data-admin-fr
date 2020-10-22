@@ -80,6 +80,11 @@
         404357811
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"1b7cfc76b91ae4005b51c18955abd3ec",
     "wof:hierarchy":[
         {
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360673529,
-    "wof:lastmodified":1564125952,
+    "wof:lastmodified":1603247178,
     "wof:name":"Cressy",
     "wof:parent_id":102064871,
     "wof:placetype":"locality",

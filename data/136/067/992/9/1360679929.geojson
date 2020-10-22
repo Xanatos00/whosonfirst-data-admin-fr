@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683255,
         102191581,
-        85633147,
-        404423471,
         404227723,
+        404423471,
+        85633147,
         1108826399,
         136253037,
         102071393
@@ -63,6 +63,10 @@
         404423471
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"edc14fea69b699e8bbb423699fbfd76c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360679929,
-    "wof:lastmodified":1539928929,
+    "wof:lastmodified":1603247250,
     "wof:name":"Villers-Les-Cagnicourt",
     "wof:parent_id":102071393,
     "wof:placetype":"locality",

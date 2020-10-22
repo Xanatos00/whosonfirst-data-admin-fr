@@ -9,7 +9,7 @@
     "geom:bbox":"7.555761,44.156044,7.555761,44.156044",
     "geom:latitude":44.156044,
     "geom:longitude":7.555761,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":44.156044,
     "lbl:longitude":7.555761,
@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":1360683653,
-    "wof:lastmodified":1563279429,
+    "wof:lastmodified":1603247035,
     "wof:name":"Limonetto",
     "wof:parent_id":404455595,
     "wof:placetype":"neighbourhood",

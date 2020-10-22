@@ -111,6 +111,10 @@
         404421373
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"cb57c1f5deceab931c43b36863c6e957",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360679735,
-    "wof:lastmodified":1564126939,
+    "wof:lastmodified":1603247313,
     "wof:name":"Pierrefitte",
     "wof:parent_id":102068009,
     "wof:placetype":"locality",

@@ -51,9 +51,9 @@
     "wof:belongsto":[
         85683223,
         102191581,
-        85633147,
-        404353085,
         404228179,
+        404353085,
+        85633147,
         1108826391,
         136253037,
         102066757
@@ -68,6 +68,11 @@
         404353085
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"5aa49013501bd43b525b3af4bf6296bf",
     "wof:hierarchy":[
         {
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1360673051,
-    "wof:lastmodified":1539928793,
+    "wof:lastmodified":1603247265,
     "wof:name":"Ban-Sur-Meurthe-Clefcy",
     "wof:parent_id":102066757,
     "wof:placetype":"locality",

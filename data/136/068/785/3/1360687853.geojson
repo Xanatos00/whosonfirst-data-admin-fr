@@ -9,7 +9,7 @@
     "geom:bbox":"2.062597,42.510134,2.062597,42.510134",
     "geom:latitude":42.510134,
     "geom:longitude":2.062597,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":42.510134,
     "lbl:longitude":2.062597,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360687853,
-    "wof:lastmodified":1539986901,
+    "wof:lastmodified":1603247071,
     "wof:name":"Super-Bolqu\u00e8re",
     "wof:parent_id":404367589,
     "wof:placetype":"neighbourhood",

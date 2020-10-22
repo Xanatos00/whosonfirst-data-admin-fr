@@ -9,7 +9,7 @@
     "geom:bbox":"3.32508,43.260831,3.32508,43.260831",
     "geom:latitude":43.260831,
     "geom:longitude":3.32508,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"FR",
     "lbl:latitude":43.260831,
     "lbl:longitude":3.32508,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1360682123,
-    "wof:lastmodified":1539986826,
+    "wof:lastmodified":1603247090,
     "wof:name":"S\u00e9rignan-Plage",
     "wof:parent_id":404366701,
     "wof:placetype":"neighbourhood",

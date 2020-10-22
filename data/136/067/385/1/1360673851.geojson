@@ -50,9 +50,9 @@
     "wof:belongsto":[
         85683419,
         102191581,
-        85633147,
-        404360795,
         404228073,
+        404360795,
+        85633147,
         1108826387,
         136253037,
         102067699
@@ -63,6 +63,10 @@
         404360795
     ],
     "wof:country":"FR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "frgov"
+    ],
     "wof:geomhash":"b5c244e2b9380c86f26237b7b3aa027c",
     "wof:hierarchy":[
         {
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1360673851,
-    "wof:lastmodified":1539928822,
+    "wof:lastmodified":1603247235,
     "wof:name":"Saint-Mathieu-De-Treviers",
     "wof:parent_id":102067699,
     "wof:placetype":"locality",
